@@ -12,7 +12,7 @@ As part of the program established under section 1531 of this title, the Directo
 
 #### (2) Requirement for basic grant
 
-&emsp;A coalition may not be awarded a grant under this section for a fiscal year unless thecoalition was awarded a grant or renewal grant under section 1532(b) of this title for that fiscal year.
+&emsp;A coalition may not be awarded a grant under this section for a fiscal year unless the coalition was awarded a grant or renewal grant under section 1532(b) of this title for that fiscal year.
 
 #### (c) Application
 
@@ -26,7 +26,7 @@ A coalition meets the criteria specified in this subsection if the coalition—
 
 &emsp;(2) has achieved, by or through its own efforts, measurable results in the prevention and treatment of substance abuse among youth;
 
-&emsp;(3) has staff or members willing to serve as mentors for persons seeking to start or expand the activities of other coalitions in the prevention and treatment of substance abuse;
+&emsp;(3) has staff or members willing to serve as mentors for persons seeking to start or expandthe activities of other coalitions in the prevention and treatment of substance abuse;
 
 &emsp;(4) has demonstrable support from some members of the community in which the coalition mentoring activities to be supported by the grant under this section are to be carried out; and
 

@@ -90,7 +90,7 @@ Notification of congress and ceq.— If the Secretary determines that a Federal 
 
 &emsp;(2)
 
-Agency report.—Not later than 30 days after date of receipt of a notice under paragraph (1), the agency or sponsor involved shall submit a report to the Secretary, the Committee on Transportation and Infrastructure of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Council on Environmental Quality explaining why the agency or sponsor did not meet the deadline and what actions it intends to take to complete or issue the required review, analysis, opinion, permit, license, or approval.
+Agency report.—Not later than 30 days after date of receipt of a notice under paragraph (1), the agency or sponsor involved shall submit a report to the Secretary, the Committee on Transportation and Infrastructure of the House of Representatives, the Committeeon Commerce, Science, and Transportation of the Senate, and the Council on Environmental Quality explaining why the agency or sponsor did not meet the deadline and what actions it intends to take to complete or issue the required review, analysis, opinion, permit, license, or approval.
 
 (j)
 
@@ -112,7 +112,7 @@ Monitoring by Task Force.—The Transportation Infrastructure Streamlining Task 
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsecs. (a)(1), (b)(2)(B)(ii), and (<i>l</i>), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which isclassified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (a)(1), (b)(2)(B)(ii), and (<i>l</i>), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 Executive Order No. 13274, referred to in subsec. (m), is set out as a note under section 301 of this title.
 

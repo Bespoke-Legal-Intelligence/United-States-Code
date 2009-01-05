@@ -6,7 +6,7 @@
 
 (2) Not later than six months after August 7, 1977, the Secretary of the Interior in consultation with other Federal land managers shall review all mandatory class I Federal areas and identify those where visibility is an important value of the area. From time to time the Secretary of the Interior may revise such identifications. Not later than one year after August 7, 1977, the Administrator shall, after consultation with the Secretary of the Interior, promulgate a list of mandatory class I Federal areas in which he determines visibility is an important value.
 
-(3) Not later than eighteen months after August 7, 1977, the Administrator shall complete astudy and report to Congress on available methods for implementing the national goal set forth in paragraph (1). Such report shall include recommendations for—
+(3) Not later than eighteen months after August 7, 1977, the Administrator shall complete a study and report to Congress on available methods for implementing the national goal set forth in paragraph (1). Such report shall include recommendations for—
 
 &emsp;(A) methods for identifying, characterizing, determining, quantifying, and measuring visibility impairment in Federal areas referred to in paragraph (1), and
 

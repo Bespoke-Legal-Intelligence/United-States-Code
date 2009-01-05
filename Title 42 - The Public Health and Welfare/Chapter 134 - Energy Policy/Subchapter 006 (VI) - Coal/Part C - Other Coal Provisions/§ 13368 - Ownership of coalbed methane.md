@@ -8,7 +8,7 @@ In the case of any deposit of coalbed methane where the United States is the own
 
 Not later than 180 days after October 24, 1992, the Secretary of the Interior, with the participation of the Secretary of Energy, shall publish in the Federal Register a list of Affected States which shall be comprised of States—
 
-&emsp;(1) in which the Secretary of the Interior, with the participation of the Secretary of Energy, determines that disputes, uncertainty, or litigation exist, regarding the ownership of coalbed methane gas;
+&emsp;(1) in which the Secretary of the Interior, with the participation of the Secretary of Energy, determines that disputes, uncertainty,or litigation exist, regarding the ownership of coalbed methane gas;
 
 &emsp;(2) in which the Secretary of the Interior, with the participation of the Secretary of Energy, determines that development of significant deposits of coalbed methane gas is being impeded by such existing disputes, uncertainty, or litigation regarding ownership of such coalbed methane;
 
@@ -20,7 +20,7 @@ Not later than 180 days after October 24, 1992, the Secretary of the Interior, w
 
 #### (c) Failure to adopt statutory or regulatory procedure
 
-If an Affected State has not placed in effect, by statute or by regulation, a substantial program promoting the permitting, drilling and production of coalbed methane wells (including pooling arrangements) within that State within3 years after becoming an Affected State, the Secretary of the Interior, with the participation of the Secretary of Energy, shall administer this section and shall promulgate such regulations as are necessary to carry out this section in that State.
+If an Affected State has not placed in effect, by statute or by regulation, a substantial program promoting the permitting, drilling and production of coalbed methane wells (including pooling arrangements) within that State within 3 years after becoming an Affected State, the Secretary of the Interior, with the participation of the Secretary of Energy, shall administer this section and shall promulgate such regulations as are necessary to carry out this section in that State.
 
 #### (d) Implementation by Secretary of the Interior
 
@@ -50,7 +50,7 @@ Following issuance of an order establishing a spacing unit under subsection (f) 
 
 &emsp;(3) An election to share in the operation of the well as a nonparticipating working interest owner by relinquishing its working interest to participating working interest owners until the proceeds allocable to its share equal 300 percent of the share of such costs allocable to its interest. Thereafter, the nonparticipating working interest owner shall become a participating working interest owner.
 
-> The pooling order shall designate a unit operator who shall be authorized to drill and operate the spacing unit. The pooling order shall provide that any entity claiming an ownership interest in the coalbed methane within such spacing unit which does not make an election under the pooling order shall be deemed to have leased its coalbed methane interest to the unit operator under such terms and conditions as the pooling order may provide. No pooling order may be issued under this paragraph for any spacing unit if all entities claiming an ownership interest in the coalbed methane in the spacing unit have entered into a voluntary agreement providing for the drilling and operation of the coalbed methane gas well for the spacing unit.
+> The pooling order shall designate a unit operator who shall be authorized to drill and operatethe spacing unit. The pooling order shall provide that any entity claiming an ownership interest in the coalbed methane within such spacing unit which does not make an election under the pooling order shall be deemed to have leased its coalbed methane interest to the unit operator under such terms and conditions as the pooling order may provide. No pooling order may be issued under this paragraph for any spacing unit if all entities claiming an ownership interest in the coalbed methane in the spacing unit have entered into a voluntary agreement providing for the drilling and operation of the coalbed methane gas well for the spacing unit.
 
 #### (h) Escrow account
 
@@ -64,7 +64,7 @@ Following issuance of an order establishing a spacing unit under subsection (f) 
 
 &emsp;(A) each legally entitled participating working interest owner shall receive a proportionate share of the proceeds attributable to the conflicting ownership interest;
 
-&emsp;(B) each legally entitled nonparticipating working interest owner shall receive a proportionate share of the proceeds attributable to the conflicting ownership interest, less the cost of being carried as a nonparticipatingworking interest owner (as determined by the election of the entity under the applicable pooling order);
+&emsp;(B) each legally entitled nonparticipating working interest owner shall receive a proportionate share of the proceeds attributable to the conflicting ownership interest, less the cost of being carried as a nonparticipating working interest owner (as determined by the election of the entity under the applicable pooling order);
 
 &emsp;(C) each entity leasing (or deemed to have leased) its coalbed methane ownership interest to the unit operator shall receive a share of the royalty proceeds (as set out in the applicable pooling order) attributable to the conflicting interests of lessees; and
 
@@ -102,7 +102,7 @@ No entity may drill any well for the production of coalbed methane gas from a co
 
 (1) The Secretary of the Interior shall not approve the drilling of any coalbed methane well unless the unit operator has notified each entity which is operating, or has the ability, by virtue of his property rights in the coal, to operate, a coal mine in any portion of the coalbed that would be affected by such well within the distances established pursuant to the rules promulgated under subsection (j)(3) of this section. Any notified entity may object to the drilling of such well within 30 days after receipt of a notice. Upon receipt of a timely objection to the drilling of any coalbed methane gas well submitted by a notified entity, the Secretary of the Interior may refuse to approve the drilling of the well based on any of the following:
 
-&emsp;(A) The proposed activity, due to its proximity to any coal mine opening, shaft, underground workings, or to any proposed extensionof the coal mine, would adversely affect any operating, inactive or abandoned coal mine, including any coal mine already surveyed and platted but not yet being operated.
+&emsp;(A) The proposed activity, due to its proximity to any coal mine opening, shaft, underground workings, or to any proposed extension of the coal mine, would adversely affect any operating, inactive or abandoned coal mine, including any coal mine already surveyed and platted but not yet being operated.
 
 &emsp;(B) The proposed activity would not conform with a coal operator's development plan for an existing or proposed operation.
 

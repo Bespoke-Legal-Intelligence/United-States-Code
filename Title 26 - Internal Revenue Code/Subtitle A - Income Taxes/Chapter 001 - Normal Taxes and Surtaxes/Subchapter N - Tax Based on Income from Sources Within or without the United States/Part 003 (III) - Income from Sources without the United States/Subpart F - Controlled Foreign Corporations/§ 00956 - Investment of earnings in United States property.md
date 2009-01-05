@@ -140,7 +140,7 @@ Section 953(a)(1), referred to in subsec. (c)(2)(E), was subsequently amended, a
 
 #### Amendments
 
-2007—Subsec. (c)(2). Pub. L. 110–172, §11(g)(15)(A)(ii), substituted “subparagraphs (I), (J), and (K)” for “subparagraphs (J), (K), and (L)” in concluding provisons.
+2007—Subsec. (c)(2). Pub. L. 110–172, §11(g)(15)(A)(ii), substituted “subparagraphs (I), (J), and (K)” for “subparagraphs (J), (K), and (L)” in concluding provisions.
 
 Subsec. (c)(2)(I) to (M). Pub. L. 110–172, §11(g)(15)(A)(i), redesignated subpars. (J) to (M) as (I) to (L), respectively, and struck out former subpar. (I) which read as follows: “to the extent provided in regulations prescribed by the Secretary, property which is otherwise United States property which is held by a FSC and which is related to the export activities of such FSC;”.
 

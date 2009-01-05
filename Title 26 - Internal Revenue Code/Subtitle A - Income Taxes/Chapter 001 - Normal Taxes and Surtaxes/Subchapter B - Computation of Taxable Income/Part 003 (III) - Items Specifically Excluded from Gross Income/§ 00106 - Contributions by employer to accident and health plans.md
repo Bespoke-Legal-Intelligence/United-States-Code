@@ -126,7 +126,7 @@ Except as otherwise provided in this section, gross income of an employee does n
 
 #### (ii) Failure to offer to all employees
 
-&emsp;&emsp;&emsp;In the case of a qualified HSA distribution to any employee, the failure to offer such distribution to any eligible individual covered under a high deductible health plan of the employer shall (notwithstanding section 4980G(d)) be treated for purposes of section 4980G as a failure to meet the requirements of section 4980G(b).
+&emsp;&emsp;&emsp;In the case of a qualified HSA distribution to any employee, the failure to offersuch distribution to any eligible individual covered under a high deductible health plan of the employer shall (notwithstanding section 4980G(d)) be treated for purposes of section 4980G as a failure to meet the requirements of section 4980G(b).
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 32; Pub. L. 99–272, title X, §10001(b), Apr. 7, 1986, 100 Stat. 223; Pub. L. 99–514, title XI, §§1114(b)(1), 1151(j)(2), Oct. 22, 1986, 100 Stat. 2450, 2508; Pub. L. 100–647, title I, §1018(t)(7)(A), title III, §3011(b)(1), Nov. 10, 1988, 102 Stat. 3589, 3624; Pub. L. 101–239, title VII, §7862(c)(1)(A), Dec. 19, 1989, 103 Stat. 2432; Pub. L. 104–191, title III, §§301(c)(1), 321(c)(2), Aug. 21, 1996, 110 Stat. 2048, 2058; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(2), (b)(2)(A), (6), (10)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629; Pub. L. 108–173, title XII, §1201(d)(1), Dec. 8, 2003, 117 Stat. 2476; Pub. L. 109–432, div. A, title III, §302(a), Dec. 20, 2006, 120 Stat. 2948.)
 
@@ -200,7 +200,7 @@ Amendment by section 3011(b)(1) of Pub. L. 100–647 applicable to taxable years
 
 Amendment by section 1114(b)(1) of Pub. L. 99–514 applicable to years beginning after Dec. 31, 1986, see section 1114(c)(1) of Pub. L. 99–514, set out as a note under section 414 of this title.
 
-Amendment by section 1151(j)(2) of Pub. L. 99–514 applicable, with certain qualifications and exceptions, to years beginning after Dec. 31, 1988, see section 1151(k) of Pub. L. 99–514, as amended, set out as a note under section 79 of this title.
+Amendment by section 1151(j)(2) of Pub. L. 99–514 applicable, with certain qualifications and exceptions, toyears beginning after Dec. 31, 1988, see section 1151(k) of Pub. L. 99–514, as amended, set out as a note under section 79 of this title.
 
 Section 10001(e) of Pub. L. 99–272 provided that:
 

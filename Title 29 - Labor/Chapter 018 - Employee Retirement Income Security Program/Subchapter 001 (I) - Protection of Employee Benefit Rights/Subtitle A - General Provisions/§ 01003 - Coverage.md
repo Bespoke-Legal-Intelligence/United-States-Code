@@ -48,7 +48,7 @@ Subsec. (c). Pub. L. 107–16, §602(b)(1), added subsec. (c).
 
 Pub. L. 104–191 inserted at end “The provisions of part 7 of subtitle B of this subchapter shall not apply to a health insurance issuer (as defined in section 1191b(b)(2) of this title) solely by reason of health insurance coverage (as defined in section 1191b(b)(1) of this title) provided by such issuer in connection with a group health plan (as defined in section 1191b(a)(1) of this title) if the provisions of this subchapter do not apply to such group health plan.”
 
-1989—Subsec. (b)(2). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal RevenueCode of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+1989—Subsec. (b)(2). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 #### Effective Date of 2002 Amendment
 

@@ -8,7 +8,7 @@
 
 &emsp;(A) if the first beneficiary otherwise entitled to payment of the insurance does not make a claim for such payment within two years after the death of the insured, payment may be made to another beneficiary designated by the insured, in the order of precedence as designated by the insured, as if the first beneficiary had predeceased the insured; and
 
-&emsp;(B) if, within four years after the death of the insured, no claim has been filed by a person designated by the insured as a beneficiary and the Secretary has not received any notice in writing that any such claim will be made, payment may (notwithstanding any other provision of law) be made to such person as may in the judgment of the Secretary be equitably entitled thereto.
+&emsp;(B) if, within four years after the death of the insured, no claim has been filed by a person designated by the insured as a beneficiary and the Secretary has not received any notice in writing that any such claim will be made,payment may (notwithstanding any other provision of law) be made to such person as may in the judgment of the Secretary be equitably entitled thereto.
 
 (2) Payment of insurance under paragraph (1) shall be a bar to recovery by any other person.
 

@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [590a.](%C2%A7%2000590a%20-%20Prevention%20of%20soil%20erosion%3B%20surveys%20and%20investigations%3B%20preventive%20measures%3B%20cooperation%20with%20agencies%20and%20persons%3B%20acquisition%20of%20land.md) | Prevention of soil erosion; surveys and investigations; preventive measures; cooperation with agencies and persons; acquisition of land. |
+| [590a.](%C2%A7%2000590a%20-%20Purpose.md) | Purpose. |
 | [590b.](%C2%A7%2000590b%20-%20Lands%20on%20which%20preventive%20measures%20may%20be%20taken.md) | Lands on which preventive measures may be taken. |
 | [590c.](%C2%A7%2000590c%20-%20Conditions%20under%20which%20benefits%20of%20law%20extended%20to%20nongovernment%20controlled%20lands.md) | Conditions under which benefits of law extended to nongovernment controlled lands. |
 | [590d.](%C2%A7%2000590d%20-%20Cooperation%20of%20governmental%20agencies%3B%20officers%20and%20employees%2C%20appointment%20and%20compensation%3B%20expenditures%20for%20personal%20services%20and%E2%80%A6.md) | Cooperation of governmental agencies; officers and employees, appointment and compensation; expenditures for personal services and supplies. |
@@ -14,7 +14,7 @@
 | 590h–1 to 590h–4. Omitted or Repealed. |  |
 | [590i.](%C2%A7%2000590i%20-%20Surveys%20and%20investigations%3B%20publication%20of%20information.md) | Surveys and investigations; publication of information. |
 | 590i–1, 590i–2. Omitted. |  |
-| [590j.](%C2%A7%2000590j%20-%20%E2%80%9CAgricultural%20commodity%E2%80%9D%20defined.md) | “Agricultural commodity” defined. |
+| [590j.](%C2%A7%2000590j%20-%20Definitions.md) | Definitions. |
 | [590k.](%C2%A7%2000590k%20-%20Availability%20of%20funds.md) | Availability of funds. |
 | 590<i>l.</i> | Expansion of domestic and foreign markets for agricultural commodities; advances for crop insurance; transfer of funds to corporation. |
 | [590m.](%C2%A7%2000590m%20-%20Execution%20of%20powers%20of%20Secretary%20by%20Production%20and%20Marketing%20Administration.md) | Execution of powers of Secretary by Production and Marketing Administration. |
@@ -34,7 +34,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00590a - Prevention of soil erosion; surveys and investigations; preventive measures; cooperation with agencies and persons; acquisition of land](%C2%A7%2000590a%20-%20Prevention%20of%20soil%20erosion%3B%20surveys%20and%20investigations%3B%20preventive%20measures%3B%20cooperation%20with%20agencies%20and%20persons%3B%20acquisition%20of%20land.md)
+- [&sect; 00590a - Purpose](%C2%A7%2000590a%20-%20Purpose.md)
 - [&sect; 00590b - Lands on which preventive measures may be taken](%C2%A7%2000590b%20-%20Lands%20on%20which%20preventive%20measures%20may%20be%20taken.md)
 - [&sect; 00590c - Conditions under which benefits of law extended to nongovernment controlled lands](%C2%A7%2000590c%20-%20Conditions%20under%20which%20benefits%20of%20law%20extended%20to%20nongovernment%20controlled%20lands.md)
 - [&sect; 00590d - Cooperation of governmental agencies; officers and employees, appointment and compensation; expenditures for personal services and&#8230;](%C2%A7%2000590d%20-%20Cooperation%20of%20governmental%20agencies%3B%20officers%20and%20employees%2C%20appointment%20and%20compensation%3B%20expenditures%20for%20personal%20services%20and%E2%80%A6.md)
@@ -50,7 +50,7 @@
 - [&sect; 00590i - Surveys and investigations; publication of information](%C2%A7%2000590i%20-%20Surveys%20and%20investigations%3B%20publication%20of%20information.md)
 - [&sect; 00590i&#8211;1 - Omitted](%C2%A7%2000590i%E2%80%931%20-%20Omitted.md)
 - [&sect; 00590i&#8211;2 - Omitted](%C2%A7%2000590i%E2%80%932%20-%20Omitted.md)
-- [&sect; 00590j - &#8220;Agricultural commodity&#8221; defined](%C2%A7%2000590j%20-%20%E2%80%9CAgricultural%20commodity%E2%80%9D%20defined.md)
+- [&sect; 00590j - Definitions](%C2%A7%2000590j%20-%20Definitions.md)
 - [&sect; 00590k - Availability of funds](%C2%A7%2000590k%20-%20Availability%20of%20funds.md)
 - [&sect; 00590l - Expansion of domestic and foreign markets for agricultural commodities; advances for crop insurance; transfer of funds to corporation](%C2%A7%2000590l%20-%20Expansion%20of%20domestic%20and%20foreign%20markets%20for%20agricultural%20commodities%3B%20advances%20for%20crop%20insurance%3B%20transfer%20of%20funds%20to%20corporation.md)
 - [&sect; 00590m - Execution of powers of Secretary by Production and Marketing Administration](%C2%A7%2000590m%20-%20Execution%20of%20powers%20of%20Secretary%20by%20Production%20and%20Marketing%20Administration.md)

@@ -76,7 +76,7 @@
 
 &emsp;(23) The term “treated” means given an application of a substance or subjected to a process designed to reduce, control, or repel disease organisms, insects or other pests which attack seeds or seedlings growing therefrom.
 
-&emsp;(24) The term “seed certifying agency” means (A) an agency authorized under the laws of a State, Territory, or possession, to officially certify seed and which has standardsand procedures approved by the Secretary (after due notice, hearings, and full consideration of the views of farmer users of certified seed and other interested parties) to assure the genetic purity and identity of the seed certified, or (B) an agency of a foreign country determined by the Secretary of Agriculture to adhere to procedures and standards for seed certification comparable to those adhered to generally by seed certifying agencies under (A).
+&emsp;(24) The term “seed certifying agency” means (A) an agency authorized under the laws of a State, Territory, or possession, to officially certify seed and which has standards and procedures approved by the Secretary (after due notice, hearings, and full consideration of the views of farmer users of certified seed and other interested parties) to assure the genetic purity and identity of the seed certified, or (B) an agency of a foreign country determined by the Secretary of Agriculture to adhere to procedures and standards for seed certification comparable to those adhered to generally by seed certifying agencies under (A).
 
 (Aug. 9, 1939, ch. 615, title I, §101, 53 Stat. 1275; June 25, 1948, ch. 646, §1, 62 Stat. 870; Aug. 1, 1956, ch. 852, §1, 70 Stat. 908; Pub. L. 85–581, §§1–3, Aug. 1, 1958, 72 Stat. 476; Pub. L. 89–686, §§1–3, 19, Oct. 15, 1966, 80 Stat. 975, 979; Pub. L. 91–89, §1, Oct. 17, 1969, 83 Stat. 134; Pub. L. 97–439, §5(a), Jan. 8, 1983, 96 Stat. 2288.)
 
@@ -84,7 +84,7 @@
 
 Section was enacted without a subsec. (b).
 
-Former subsec. (a)(6)(b), which extended the former term “circuit court of appeals,” in case the principal place of business or residence of the person against whom a cease and desist order was issued was in the District of Columbia, to the United States Court of Appeals for the District of Columbia, for purposes of this chapter, has been omitted from the Code as obsolete due to the enactment of act June 25, 1948. The District of Columbia is now a judicial circuit under sections 41 and 43 of Title 28, Judiciary and Judicial Procedure. See, also, Change of Name notes under sections 1599, 1600, and 1601 of this title.
+Former subsec. (a)(6)(b), which extended the former term “circuit court of appeals,” in case the principal place of business or residence of the person against whom a cease and desist order was issued was in the District of Columbia, to the United States Court of Appeals for the District of Columbia, for purposes of this chapter, has been omitted from the Code as obsolete due to the enactment of act June 25, 1948. The Districtof Columbia is now a judicial circuit under sections 41 and 43 of Title 28, Judiciary and Judicial Procedure. See, also, Change of Name notes under sections 1599, 1600, and 1601 of this title.
 
 #### Amendments
 

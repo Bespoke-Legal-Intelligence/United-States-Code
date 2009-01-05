@@ -10,7 +10,7 @@ Section 1720 of this title, referred to in text, was repealed by Pub. L. 98–18
 
 #### Prior Provisions
 
-A prior section 307 of act June 27, 1934, ch. 847, title III, 48 Stat. 1255; amended Feb. 3, 1938, ch. 13, §8, 52 Stat. 24, related to exemption from taxation, prior to the general amendment of this subchapter by act July 1, 1948, ch. 784, §1, 62 Stat. 1206, and was subsequently covered by section 1719 of this title until the general amendment of this subchapter by act Aug. 2, 1954. See section 1723a(c) of this title.
+A prior section 307 of act June 27, 1934, ch. 847, title III, 48 Stat. 1255; amended Feb. 3, 1938, ch. 13, §8, 52 Stat. 24, related to exemption from taxation, prior to the general amendment of this subchapter by act July 1, 1948, ch. 784, §1, 62 Stat. 1206, and was subsequently covered by section 1719 of this title until the generalamendment of this subchapter by act Aug. 2, 1954. See section 1723a(c) of this title.
 
 #### Amendments
 

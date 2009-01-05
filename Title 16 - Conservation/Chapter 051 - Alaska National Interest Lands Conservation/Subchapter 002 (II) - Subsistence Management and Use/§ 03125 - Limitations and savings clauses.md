@@ -2,7 +2,7 @@
 
 Nothing in this subchapter shall be construed as—
 
-&emsp;(1) granting any property right in any fish or wildlife or other resource of the public lands or as permitting the level of subsistence uses of fish and wildlife within a conservation system unit to be inconsistent with the conservation of healthy populations, and within a national park or monument to be inconsistent with the conservation of natural and healthypopulations, of fish and wildlife. No privilege which may be granted by the State to any individual with respect to subsistence uses may be assigned to any other individual;
+&emsp;(1) granting any property right in any fish or wildlife or other resource of the public lands or as permitting the level of subsistence uses of fish and wildlife within a conservation system unit to be inconsistent with the conservation of healthy populations, and within a national park or monument to be inconsistent with the conservation of natural and healthy populations, of fish and wildlife. No privilege which may be granted by the State to any individual with respect to subsistence uses may be assigned to any other individual;
 
 &emsp;(2) permitting any subsistence use of fish and wildlife on any portion of the public lands (whether or not within any conservation system unit) which was permanently closed to such uses on January 1, 1978, or enlarging or diminishing the Secretary's authority to manipulate habitat on any portion of the public lands;
 
@@ -20,7 +20,7 @@ The National Park Service Organic Act, referred to in par. (4), is act Aug. 25, 
 
 The Fur Seal Act of 1966, referred to in par. (4), is Pub. L. 89–702, Nov. 2 1966, 80 Stat. 1091, as amended, which is classified principally to chapter 24 (§1151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1151 of this title and Tables.
 
-The Endangered Species Act of 1973, referred to in par. (4), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in par. (4), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35\(§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 The Marine Mammal Protection Act of 1972, referred to in par. (4), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, as amended, which is classified generally to chapter 31 (§1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1361 of this title and Tables.
 

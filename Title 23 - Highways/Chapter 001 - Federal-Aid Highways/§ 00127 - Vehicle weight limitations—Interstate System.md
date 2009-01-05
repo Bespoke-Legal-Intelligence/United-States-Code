@@ -6,7 +6,7 @@ In General.—
 
 &emsp;(1) No funds shall be apportioned in any fiscal year under section 104(b)(1) of this title to any State which does not permit the use of The Dwight D. Eisenhower System of Interstate and Defense Highways within its boundaries by vehicles with a weight of twenty thousand pounds carried on any one axle, including enforcement tolerances, or with a tandem axle weight of thirty-four thousand pounds, including enforcement tolerances, or a gross weight of at least eighty thousand pounds for vehicle combinations of five axles or more.
 
-&emsp;(2) However, the maximum gross weight to be allowed by any State for vehicles using The Dwight D. Eisenhower System of Interstate and Defense Highways shall be twenty thousand pounds carried on one axle, including enforcement tolerances, and a tandem axle weight of thirty-four thousand pounds, including enforcement tolerances and with an overall maximum gross weight, including enforcement tolerances, on a group of two or more consecutive axles produced by application of the following formula:
+&emsp;(2) However, the maximum gross weight to be allowed by any State for vehicles using The Dwight D. Eisenhower System of Interstate and Defense Highways shall be twenty thousand pounds carried on one axle, including enforcement tolerances, and a tandem axle weight of thirty-four thousand pounds, including enforcement tolerances and with an overall maximum gross weight, including enforcement tolerances, on a group of two or moreconsecutive axles produced by application of the following formula:
 
 ### LN
 
@@ -100,7 +100,7 @@ Additional state restrictions.—
 
 &emsp;&emsp;(A)
 
-In general.—Nothing in this subsection shall prevent any State from furtherrestricting in any manner or prohibiting the operation of longer combination vehicles otherwise authorized under this subsection; except that such restrictions or prohibitions shall be consistent with the requirements of sections 31111–31114 of title 49.
+In general.—Nothing in this subsection shall prevent any State from further restricting in any manner or prohibiting the operation of longer combination vehicles otherwise authorized under this subsection; except that such restrictions or prohibitions shall be consistent with the requirements of sections 31111–31114 of title 49.
 
 &emsp;&emsp;(B)
 
@@ -128,7 +128,7 @@ Final list.—Except as modified pursuant to paragraph (1)(C) of this subsection
 
 &emsp;&emsp;(E)
 
-Review and correction procedure.—The Secretary, on his or her own motion or upon a request by any person (including a State), shall review the list issued by the Secretary pursuant to subparagraph (D). If the Secretary determines there is cause to believe that a mistake was made in the accuracy of the final list, the Secretary shall commence a proceeding to determine whether the list published pursuant to subparagraph (D) should be corrected. If the Secretary determines that there is a mistake in the accuracy of the list the Secretary shall correct the publication under subparagraph (D) to reflect the determination of the Secretary.
+Review and correction procedure.—The Secretary, on his or her own motion or upon a request by any person (including a State), shall review the list issued by the Secretary pursuant to subparagraph (D). If the Secretary determines there is cause to believe that a mistake was made in the accuracy of the final list, the Secretary shallcommence a proceeding to determine whether the list published pursuant to subparagraph (D) should be corrected. If the Secretary determines that there is a mistake in the accuracy of the list the Secretary shall correct the publication under subparagraph (D) to reflect the determination of the Secretary.
 
 &emsp;(4)
 
@@ -188,7 +188,7 @@ Subsec. (a)(3). Pub. L. 109–59 substituted “118(b)(2)” for “118(b)(1)”
 
 2001—Subsec. (h). Pub. L. 107–107 added subsec. (h).
 
-1998—Subsec. (a). Pub. L. 105–178, §1212(d)(1), inserted before penultimate sentence “With respect to the State of Colorado, vehicles designed to carry 2 or more precast concrete panels shall be considered a nondivisible load.” and inserted at end “The State of Louisiana may allow, by special permit, the operation of vehicles with a gross vehicle weight of up to 100,000 pounds for the hauling of sugarcane during the harvest season, not to exceed 100 days annually. With respect to Interstate Route 95 in the State of New Hampshire, State laws (including regulations) concerning vehicle weight limitations that were in effect on January 1, 1987, and are applicable to State highways other than the Interstate System, shall be applicable in lieu of the requirements of this subsection. With respect to that portion of the Maine Turnpike designated Interstate Route 95 and 495, and that portion of Interstate Route 95 from the southern terminus of the Maine Turnpike to the New Hampshire State line, laws (including regulations) of the State of Maine concerning vehicle weight limitations that were in effect on October 1, 1995, and are applicable to State highways other than the Interstate System, shall be applicable in lieu of the requirements of this subsection.”
+1998—Subsec. (a). Pub. L. 105–178, §1212(d)(1), inserted before penultimate sentence “With respect to the State of Colorado, vehicles designed to carry 2 or more precast concrete panels shall be considered a nondivisible load.” and inserted at end “The State of Louisiana may allow, by special permit, the operation of vehicles with a gross vehicle weight of up to 100,000 pounds for thehauling of sugarcane during the harvest season, not to exceed 100 days annually. With respect to Interstate Route 95 in the State of New Hampshire, State laws (including regulations) concerning vehicle weight limitations that were in effect on January 1, 1987, and are applicable to State highways other than the Interstate System, shall be applicable in lieu of the requirements of this subsection. With respect to that portion of the Maine Turnpike designated Interstate Route 95 and 495, and that portion of Interstate Route 95 from the southern terminus of the Maine Turnpike to the New Hampshire State line, laws (including regulations) of the State of Maine concerning vehicle weight limitations that were in effect on October 1, 1995, and are applicable to State highways other than the Interstate System, shall be applicable in lieu of the requirements of this subsection.”
 
 Subsec. (f). Pub. L. 105–178, §1106(c)(2)(B), substituted “section 103(c)(4)(A)” for “section 139(a)”.
 
@@ -262,7 +262,7 @@ Pub. L. 105–178, title I, §1213(h), June 9, 1998, 112 Stat. 202, provided tha
 
 “(1)
 
-Study.—The Secretary shall conduct a study of State laws (including regulations) relating to penalties for violation of State commercial motor vehicle weight laws.
+Study.—The Secretary shall conduct a study of State laws (including regulations) relating to penaltiesfor violation of State commercial motor vehicle weight laws.
 
 “(2)
 
@@ -354,7 +354,7 @@ Report.—Not later than 18 months after the date of the enactment of this Act \
 
 #### Study Pertaining to Transporters of Water Well Drilling Rigs
 
-Section 1023(g) of Pub. L. 102–240 directed Secretary to conduct a study of State and Federal regulations pertaining to transporters of water well drilling rigs on public highways for the purpose of identifying requirements which place a burden on such transporters without enhancing safety or preservation of public highways, and, not later than 2 years after Dec. 18, 1991, report to Congress on the results of the study, together with any legislative and administrative recommendations.
+Section 1023(g) of Pub. L. 102–240 directed Secretary to conduct a study of State and Federal regulations pertaining to transporters of water well drilling rigs on public highways for the purpose of identifying requirements which place a burden on such transporters without enhancing safety or preservation of public highways, and, not later than 2 years after Dec. 18, 1991, report to Congress on the results of the study, togetherwith any legislative and administrative recommendations.
 
 #### Motor Vehicle Study by Transportation Research Board; Report
 

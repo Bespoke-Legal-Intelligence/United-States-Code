@@ -26,7 +26,7 @@ A definition of “carrier” is added based on language appearing in various pr
 
 Act Apr. 16, 1936, ch. 229, 49 Stat. 1207, as amended by Pub. L. 97–31, §12(146), Aug. 6, 1981, 95 Stat. 166, provided:
 
-“That every bill of lading or similar document of title which is evidence of a contract for the carriage of goods by sea to or from ports of the United States, in foreign trade, shall have effect subject to the provisions of this Act.
+“That every bill of lading or similar document of title which is evidence of a contract for the carriage ofgoods by sea to or from ports of the United States, in foreign trade, shall have effect subject to the provisions of this Act.
 
 ### “TITLE I
 
@@ -70,7 +70,7 @@ Act Apr. 16, 1936, ch. 229, 49 Stat. 1207, as amended by Pub. L. 97–31, §12(1
 
 “(5) The shipper shall be deemed to have guaranteed to the carrier the accuracy at the time of shipment of the marks, number, quantity, and weight, as furnished by him; and the shipper shall indemnify the carrier against all loss, damages, and expenses arising or resulting from inaccuracies in such particulars. The right of the carrier to such indemnity shall in no way limit his responsibility and liability under the contract of carriage to any person other than the shipper.
 
-“(6) Unless notice of loss or damage and the general nature of such loss or damage be given in writing to the carrier or his agent at the port of discharge before or at the time of the removal of the goods into the custody of the person entitled to delivery thereof under the contract of carriage, such removal shall be prima facie evidence of the delivery by the carrier of the goods as described in the bill of lading. If the loss ordamage is not apparent, the notice must be given within three days of the delivery.
+“(6) Unless notice of loss or damage and the general nature of such loss or damage be given in writing to the carrier or his agent at the port of discharge before or at the time of the removal of the goods into the custody of the person entitled to delivery thereof under the contract of carriage, such removal shall be prima facie evidence of the delivery by the carrier of the goods as described in the bill of lading. If the loss or damage is not apparent, the notice must be given within three days of the delivery.
 
 “Said notice of loss or damage may be endorsed upon the receipt for the goods given by the person taking delivery thereof.
 
@@ -86,7 +86,7 @@ Act Apr. 16, 1936, ch. 229, 49 Stat. 1207, as amended by Pub. L. 97–31, §12(1
 
 #### “RIGHTS AND IMMUNITIES
 
-“Sec. 4. (1) Neither the carrier nor the ship shall be liable for loss or damage arising or resulting from unseaworthiness unless caused by want of due diligence on the part of the carrier to make the ship seaworthy, and to secure that the ship is properly manned, equipped, and supplied, and to make the holds, refrigerating and cool chambers, and all other parts of the ship in which goods are carried fit and safe for their reception, carriage, and preservation in accordance with the provisions of paragraph (1) of section 3. Whenever loss or damage has resulted from unseaworthiness, the burden of proving the exercise of due diligence shall be on the carrier or other persons claiming exemption under this section.
+“Sec. 4. (1) Neither the carrier nor the ship shall be liable for loss or damage arising or resulting from unseaworthiness unless caused by want of due diligence on the part of the carrier to make the ship seaworthy, and to secure that the ship is properly manned, equipped, and supplied, and to make the holds, refrigerating and cool chambers, and all other parts of the ship in which goods are carried fit and safe for their reception, carriage, and preservation in accordance with the provisions of paragraph (1) of section 3. Whenever loss or damage has resulted from unseaworthiness, the burden of proving the exercise of due diligence shall beon the carrier or other persons claiming exemption under this section.
 
 “(2) Neither the carrier nor the ship shall be responsible for loss or damage arising or resulting from—
 
@@ -138,7 +138,7 @@ Act Apr. 16, 1936, ch. 229, 49 Stat. 1207, as amended by Pub. L. 97–31, §12(1
 
 #### “SURRENDER OF RIGHTS AND IMMUNITIES AND INCREASE OF RESPONSIBILITIES AND LIABILITIES
 
-“Sec. 5. A carrier shall be at liberty to surrender in whole or in part all or any of his rights and immunities or to increase any of his responsibilities and liabilities under this Act, provided such surrender or increaseshall be embodied in the bill of lading issued to the shipper.
+“Sec. 5. A carrier shall be at liberty to surrender in whole or in part all or any of his rights and immunities or to increase any of his responsibilities and liabilities under this Act, provided such surrender or increase shall be embodied in the bill of lading issued to the shipper.
 
 “The provisions of this Act shall not be applicable to charter parties; but if bills of lading are issued in the case of a ship under a charter party, they shall comply with the terms of this Act. Nothing in this Act shall be held to prevent the insertion in a bill of lading of any lawful provision regarding general average.
 
@@ -182,7 +182,7 @@ Act Apr. 16, 1936, ch. 229, 49 Stat. 1207, as amended by Pub. L. 97–31, §12(1
 
 #### “\[SUSPENSION OF PROVISIONS BY PRESIDENT\]
 
-“Sec. 14. Upon the certification of the Secretary of Transportation that the foreign commerce of the United States in its competition with that of foreign nations is prejudiced by the provisions, or any of them, of title I of this Act, or by the laws of any foreign country or countries relating to the carriage of goods by sea, the President of the United States may, from time to time, by proclamation, suspend any or all provisions of said sections for such periods of time or indefinitely as may be designated in the proclamation. The President may at any time rescind such suspension of said sections, and any provisions thereof which may have been suspended shall thereby be reinstated and again apply to contracts thereafter made for the carriage ofgoods by sea. Any proclamation of suspension or rescission of any such suspension shall take effect on a date named therein, which date shall be not less than ten days from the issue of the proclamation.
+“Sec. 14. Upon the certification of the Secretary of Transportation that the foreign commerce of the United States in its competition with that of foreign nations is prejudiced by the provisions, or any of them, of title I of this Act, or by the laws of any foreign country or countries relating to the carriage of goods by sea, the President of the United States may, from time to time, by proclamation, suspend any or all provisions of said sections for such periods of time or indefinitely as may be designated in the proclamation. The President may at any time rescind such suspension of said sections, and any provisions thereof which may have been suspended shall thereby be reinstated and again apply to contracts thereafter made for the carriage of goods by sea. Any proclamation of suspension or rescission of any such suspension shall take effect on a date named therein, which date shall be not less than ten days from the issue of the proclamation.
 
 “Any contract for the carriage of goods by sea, subject to the provisions of this Act, effective during any period when title I hereof, or any part thereof, are suspended, shall be subject to all provisions of law now or hereafter applicable to that part of title I which may have thus been suspended. \[As amended Pub. L. 97–31, §12(146), Aug. 6, 1981, 95 Stat. 166.\]
 

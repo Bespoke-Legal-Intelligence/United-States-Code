@@ -2,7 +2,7 @@
 
 #### Codification
 
-Section, which was from the Department of Defense Appropriation Act, 1983, Pub. L. 97–377, title I, §101(c) \[title VII, §712\], Dec. 21, 1982, 96 Stat. 1833, 1851, prohibited use of funds available to Department of Defense agencies for acquisition, construction, or operation of certain scrap-processing facilities, and was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriation acts:
+Section, which was from the Department of Defense Appropriation Act, 1983, Pub. L. 97–377, title I, §101(c)\[title VII, §712\], Dec. 21, 1982, 96 Stat. 1833, 1851, prohibited use of funds available to Department of Defense agencies for acquisition, construction, or operation of certain scrap-processing facilities, and was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriation acts:
 
 Dec. 29, 1981, Pub. L. 97–114, title VII, §712, 95 Stat. 1580.
 

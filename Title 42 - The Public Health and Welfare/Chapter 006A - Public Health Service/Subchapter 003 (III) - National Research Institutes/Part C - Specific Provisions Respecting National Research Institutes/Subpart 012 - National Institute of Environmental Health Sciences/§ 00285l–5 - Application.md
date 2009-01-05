@@ -6,7 +6,7 @@ Sections 285<i>l</i>–2 to 285<i>l</i>–5 of this title shall not apply to res
 
 #### (b) Use of test methods
 
-Nothing in sections 285<i>l</i>–2 to 285<i>l</i>–5 of this title shall prevent a Federal agency from retaining final authority for incorporating the test methods recommended by the ICCVAM in the manner determined to be appropriate by such Federal agency or regulatory body.
+Nothing in sections 285<i>l</i>–2 to 285<i>l</i>–5 of this title shall prevent a Federal agency from retainingfinal authority for incorporating the test methods recommended by the ICCVAM in the manner determined to be appropriate by such Federal agency or regulatory body.
 
 #### (c) Limitation
 

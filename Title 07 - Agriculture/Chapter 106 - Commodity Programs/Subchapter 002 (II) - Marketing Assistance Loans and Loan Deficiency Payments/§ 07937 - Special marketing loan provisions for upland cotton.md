@@ -16,7 +16,7 @@
 
 #### (C) Tight domestic supply
 
-&emsp;&emsp;During any month for which the Secretary estimates the season-ending United Statesupland cotton stocks-to-use ratio, as determined under subparagraph (D), to be below 16 percent, the Secretary, in making the determination under subparagraph (B), shall not adjust the Friday through Thursday average price quotation for the lowest-priced United States growth, as quoted for Middling (M) 13/32-inch cotton, delivered C.I.F. Northern Europe.
+&emsp;&emsp;During any month for which the Secretary estimates the season-ending United States upland cotton stocks-to-use ratio, as determined under subparagraph (D), to be below 16 percent, the Secretary, in making the determination under subparagraph (B), shall not adjust the Friday through Thursday average price quotation for the lowest-priced United States growth, as quoted for Middling (M) 13/32-inch cotton, delivered C.I.F. Northern Europe.
 
 #### (D) Season-ending United States stocks-to-use ratio
 

@@ -6,7 +6,7 @@
 
 &emsp;(1) shall be imprisoned not more than 5 years, or fined in the amount set forth in this title, or both, if the offense consists of the reproduction or distribution, including by electronic means, during any 180-day period, of at least 10 copies or phonorecords, of 1 or more copyrighted works, which have a total retail value of more than $2,500;
 
-&emsp;(2) shall be imprisoned not more than 10 years, or fined in the amount set forth in thistitle, or both, if the offense is a second or subsequent offense under paragraph (1); and
+&emsp;(2) shall be imprisoned not more than 10 years, or fined in the amount set forth in this title, or both, if the offense is a felony and is a second or subsequent offense under subsection (a); and
 
 &emsp;(3) shall be imprisoned not more than 1 year, or fined in the amount set forth in this title, or both, in any other case.
 
@@ -14,7 +14,7 @@
 
 &emsp;(1) shall be imprisoned not more than 3 years, or fined in the amount set forth in this title, or both, if the offense consists of the reproduction or distribution of 10 or more copies or phonorecords of 1 or more copyrighted works, which have a total retail value of $2,500 or more;
 
-&emsp;(2) shall be imprisoned not more than 6 years, or fined in the amount set forth in this title, or both, if the offense is a second or subsequent offense under paragraph (1); and
+&emsp;(2) shall be imprisoned not more than 6 years, or fined in the amount set forth in this title, or both, if the offense is a felony and is a second or subsequent offense under subsection (a); and
 
 &emsp;(3) shall be imprisoned not more than 1 year, or fined in the amount set forth in this title, or both, if the offense consists of the reproduction or distribution of 1 or more copies or phonorecords of 1 or more copyrighted works, which have a total retail value of more than $1,000.
 
@@ -24,9 +24,9 @@
 
 &emsp;(2) shall be imprisoned not more than 5 years, fined under this title, or both, if the offense was committed for purposes of commercial advantage or private financial gain;
 
-&emsp;(3) shall be imprisoned not more than 6 years, fined under this title, or both, if the offense is a second or subsequent offense; and
+&emsp;(3) shall be imprisoned not more than 6 years, fined under this title, or both, if the offense is a felony and is a second or subsequent offense under subsection (a); and
 
-&emsp;(4) shall be imprisoned not more than 10 years, fined under this title, or both, if the offense is a second or subsequent offense under paragraph (2).
+&emsp;(4) shall be imprisoned not more than 10 years, fined under this title, or both, if the offense is a felony and is a second or subsequent offense under paragraph (2).
 
 (e)(1) During preparation of the presentence report pursuant to Rule 32(c) of the Federal Rules of Criminal Procedure, victims of the offense shall be permitted to submit, and the probation officer shall receive, a victim impact statement that identifies the victim of the offense and the extent and scope of the injury and loss suffered by the victim, including the estimated economic impact of the offense on that victim.
 
@@ -48,13 +48,19 @@
 
 &emsp;(4) the term “work being prepared for commercial distribution” has the meaning given the term in section 506(a) of title 17.
 
-(Added Pub. L. 97–180, §3, May 24, 1982, 96 Stat. 92; amended Pub. L. 102–561, Oct. 28, 1992, 106 Stat. 4233; Pub. L. 105–80, §12(b)(2), Nov. 13, 1997, 111 Stat. 1536; Pub. L. 105–147, §2(d), Dec. 16, 1997, 111 Stat. 2678; Pub. L. 107–273, div. C, title III, §13211(a), Nov. 2, 2002, 116 Stat. 1910; Pub. L. 109–9, title I, §103(b), Apr. 27, 2005, 119 Stat. 220.)
+(Added Pub. L. 97–180, §3, May 24, 1982, 96 Stat. 92; amended Pub. L. 102–561, Oct. 28, 1992, 106 Stat. 4233; Pub. L. 105–80, §12(b)(2), Nov. 13, 1997, 111 Stat. 1536; Pub. L. 105–147, §2(d), Dec. 16, 1997, 111 Stat. 2678; Pub. L. 107–273, div. C, title III, §13211(a), Nov. 2, 2002, 116 Stat. 1910; Pub. L. 109–9, title I, §103(b), Apr. 27, 2005, 119 Stat. 220; Pub. L. 110–403, title II, §208, Oct. 13, 2008, 122 Stat. 4263.)
 
 #### References in Text
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (e)(1), are set out in the Appendix to this title.
 
 #### Amendments
+
+2008—Subsecs. (b)(2), (c)(2). Pub. L. 110–403, §208(1), (2), inserted “is a felony and” after “the offense” and substituted “subsection (a)” for “paragraph (1)”.
+
+Subsec. (d)(3). Pub. L. 110–403, §208(3), inserted “is a felony and” after “the offense” and “under subsection (a)” before the semicolon.
+
+Subsec. (d)(4). Pub. L. 110–403, §208(4), inserted “is a felony and” after “the offense”.
 
 2005—Subsec. (a). Pub. L. 109–9, §103(b)(1), substituted “Any person who” for “Whoever” and “, (c), and (d)” for “and (c) of this section”.
 
@@ -92,7 +98,7 @@ Subsecs. (c) to (e). Pub. L. 105–147, §2(d)(3), added subsecs. (c) and (d) an
 
 &emsp;&emsp;“(A) involves the reproduction or distribution, during any one-hundred-and-eighty-day period, of more than one hundred but less than one thousand phonorecords or copies infringing the copyright in one or more sound recordings; or
 
-&emsp;&emsp;“(B) involves the reproduction or distribution, during any one-hundred-and-eighty-day period, ofmore than seven but less than sixty-five copies infringing the copyright in one or more motion pictures or other audiovisual works; and
+&emsp;&emsp;“(B) involves the reproduction or distribution, during any one-hundred-and-eighty-day period, of more than seven but less than sixty-five copies infringing the copyright in one or more motion pictures or other audiovisual works; and
 
 &emsp;“(3) shall be fined not more than $25,000 or imprisoned for not more than one year, or both, in any other case.”
 

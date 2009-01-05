@@ -18,7 +18,7 @@ In carrying out the Congressional Award Program, the Board shall—
 
 &emsp;(5) take such other actions as may be appropriate for the administration of the Congressional Award Program.
 
-> No salary established by the Board under paragraph (3) shall exceed $75,000 per annum, except that for calendar years after 1986, such limitshall be increased in proportion to increases in the Consumer Price Index.
+> No salary established by the Board under paragraph (3) shall exceed $75,000 per annum, except that for calendar years after 1986, such limit shall be increased in proportion to increases in the Consumer Price Index.
 
 #### (c) Presentation of awards
 
@@ -52,7 +52,7 @@ Subsection (e), which required the Board to submit an annual report to Congress 
 
 #### Amendments
 
-2000—Subsec. (e)(3). Pub. L. 106–533, §1(b)(4)(A), which directed technical amendment to reference in original act which would have appeared in text as reference to section 804(g)(1) of this title could not be executed because that reference did not appear in the original. See Codification note above.
+2000—Subsec. (e)(3). Pub. L. 106–533, §1(b)(4)(A), which directed technical amendment to reference in original act which would have appeared in text as reference tosection 804(g)(1) of this title could not be executed because that reference did not appear in the original. See Codification note above.
 
 Subsec. (e)(4). Pub. L. 106–533, §1(b)(4)(B), made technical amendment to reference in original act which appears in text as reference to section 806 of this title. See Codification note above.
 

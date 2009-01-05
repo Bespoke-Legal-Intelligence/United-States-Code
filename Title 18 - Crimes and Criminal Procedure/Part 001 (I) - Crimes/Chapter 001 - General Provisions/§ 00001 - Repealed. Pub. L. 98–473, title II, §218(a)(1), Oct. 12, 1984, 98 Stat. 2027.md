@@ -8,6 +8,18 @@ Repeal of section effective Nov. 1, 1987, and applicable only to offenses commit
 
 #### Short Title of 2008 Amendment
 
+Pub. L. 110–407, §1, Oct. 13, 2008, 122 Stat. 4296, provided that: “This Act \[enacting section 2285 of this title and section 70508 of Title 46, Shipping, amending sections 70501, 70502, 70504, and 70505 of Title 46, and enacting provisions set out as a note under section 2285 of this title and provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Drug Trafficking Vessel Interdiction Act of 2008’.”
+
+Pub. L. 110–358, title I, §101, Oct. 8, 2008, 122 Stat. 4001, provided that: “This title \[amending sections 2251, 2251A, 2252 and 2252A of this title and enacting provisions set out as a note under section 2251 of this title\] may be cited as the ‘Effective Child Pornography Prosecution Act of 2007’.”
+
+Pub. L. 110–358, title II, §201, Oct. 8, 2008, 122 Stat. 4003, provided that: “This title \[amending sections 1956, 2252 and 2252A of this title\] may be cited as the ‘Enhancing the Effective Prosecution of Child Pornography Act of 2007’.”
+
+Pub. L. 110–340, §1, Oct. 3, 2008, 122 Stat. 3735, provided that: “This Act \[enacting sections 2442 and 3300 of this title, amending sections 1182 and 1227 of Title 8, Aliens and Nationality, and enacting provisions set out as a note under section 1158 of Title 8\] may be cited as the ‘Child Soldiers Accountability Act of 2008’.”
+
+Pub. L. 110–326, title I, §101, Sept. 26, 2008, 122 Stat. 3560, provided that: “This title \[amending section 3056 of this title and enacting provisions set out as a note under section 3056 of this title\] may be cited as the ‘Former Vice President Protection Act of 2008’.”
+
+Pub. L. 110–326, title II, §201, Sept. 26, 2008, 122 Stat. 3560, provided that: “This title \[amending sections 1030, 2332b, and 3663 of this title and amending provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Identity Theft Enforcement and Restitution Act of 2008’.”
+
 Pub. L. 110–179, §1, Jan. 7, 2008, 121 Stat. 2556, provided that: “This Act \[enacting section 1040 of this title, amending sections 1341 and 1343 of this title, and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Emergency and Disaster Assistance Fraud Penalty Enhancement Act of 2007’.”
 
 #### Short Title of 2007 Amendment
@@ -22,7 +34,7 @@ Pub. L. 109–476, §1, Jan. 12, 2007, 120 Stat. 3568, provided that: “This Ac
 
 #### Short Title of 2006 Amendment
 
-Pub. L. 109–437, §1, Dec. 20, 2006, 120 Stat. 3266, provided that: “This Act \[amending section 704 of this title and enacting provisions set out as a note under section 704 of this title\] may be cited as the ‘Stolen Valor Act of 2005’.”
+Pub. L. 109–437, §1, Dec. 20, 2006, 120 Stat. 3266, provided that: “This Act \[amending section 704 of this titleand enacting provisions set out as a note under section 704 of this title\] may be cited as the ‘Stolen Valor Act of 2005’.”
 
 Pub. L. 109–374, §1, Nov. 27, 2006, 120 Stat. 2652, provided that: “This Act \[amending section 43 of this title\] may be cited as the ‘Animal Enterprise Terrorism Act’.”
 
@@ -92,7 +104,7 @@ Pub. L. 100–185, §1, Dec. 11, 1987, 101 Stat. 1279, provided that: “This Ac
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–646, §1, Nov. 10, 1986, 100 Stat. 3592, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Criminal Law and Procedure Technical Amendments Act of 1986’.”
+Pub. L. 99–646, §1, Nov. 10, 1986, 100 Stat. 3592, provided that: “This Act \[see Tables for classification\]may be cited as the ‘Criminal Law and Procedure Technical Amendments Act of 1986’.”
 
 #### Short Title of 1984 Amendment
 

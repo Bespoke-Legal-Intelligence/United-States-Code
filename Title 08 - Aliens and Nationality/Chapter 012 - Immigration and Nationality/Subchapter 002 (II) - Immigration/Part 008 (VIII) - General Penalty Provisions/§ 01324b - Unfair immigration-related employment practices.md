@@ -44,11 +44,11 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), any person alleging that the person is adversely affected directly by an unfair immigration-related employment practice (or a person on that person's behalf) or an officer of the Service alleging that an unfair immigration-related employment practice has occurred or is occurring may file a charge respecting such practice or violation with the Special Counsel (appointed under subsection (c) of this section). Charges shall be in writing under oath or affirmation and shall contain such information as the Attorney General requires. The Special Counsel by certified mail shall serve a notice of the charge (including the date, place, and circumstances of the alleged unfair immigration-related employment practice) on the person or entity involved within 10 days.
+&emsp;Except as provided in paragraph (2), any person alleging that the person is adversely affected directly by an unfair immigration-related employment practice (or a person on that person's behalf) or an officer of the Service alleging that an unfair immigration-related employment practice has occurred or is occurring may file a charge respecting such practice or violation with the Special Counsel (appointed under subsection (c) of this section). Charges shall be in writing under oath or affirmation and shall contain such information as the Attorney General requires. TheSpecial Counsel by certified mail shall serve a notice of the charge (including the date, place, and circumstances of the alleged unfair immigration-related employment practice) on the person or entity involved within 10 days.
 
 #### (2) No overlap with EEOC complaints
 
-&emsp;No charge may be filed respecting an unfair immigration-related employment practice described in subsection (a)(1)(A) of this section ifa charge with respect to that practice based on the same set of facts has been filed with the Equal Employment Opportunity Commission under title VII of the Civil Rights Act of 1964 \[42 U.S.C. 2000e et seq.\], unless the charge is dismissed as being outside the scope of such title. No charge respecting an employment practice may be filed with the Equal Employment Opportunity Commission under such title if a charge with respect to such practice based on the same set of facts has been filed under this subsection, unless the charge is dismissed under this section as being outside the scope of this section.
+&emsp;No charge may be filed respecting an unfair immigration-related employment practice described in subsection (a)(1)(A) of this section if a charge with respect to that practice based on the same set of facts has been filed with the Equal Employment Opportunity Commission under title VII of the Civil Rights Act of 1964 \[42 U.S.C. 2000e et seq.\], unless the charge is dismissed as being outside the scope of such title. No charge respecting an employment practice may be filed with the Equal Employment Opportunity Commission under such title if a charge with respect to such practice based on the same set of facts has been filed under this subsection, unless the charge is dismissed under this section as being outside the scope of this section.
 
 #### (c) Special Counsel
 
@@ -150,7 +150,7 @@
 
 #### (D) Treatment of distinct entities
 
-&emsp;&emsp;In applying this subsection in the case of a person or entity composed of distinct, physically separate subdivisions each of which provides separately for the hiring, recruiting, or referring for employment, without reference to the practices of, and not under the control of or common control with, another subdivision, each such subdivision shall be considered a separate person or entity.
+&emsp;&emsp;In applying this subsection in the case of a person or entity composed of distinct, physically separate subdivisions each of which provides separately for the hiring, recruiting, or referring for employment, without reference to the practices of, and not under the control of or common control with, another subdivision, each such subdivisionshall be considered a separate person or entity.
 
 #### (3) Orders not finding violations
 
@@ -216,7 +216,7 @@ In any complaint respecting an unfair immigration-related employment practice, a
 
 (3) There are authorized to be appropriated to carry out this subsection $10,000,000 for each fiscal year (beginning with fiscal year 1991).
 
-(June 27, 1952, ch. 477, title II, ch. 8, §274B, as added Pub. L. 99–603, title I, §102(a), Nov. 6, 1986, 100 Stat. 3374; amended Pub. L. 100–525, §2(b), Oct. 24, 1988, 102 Stat. 2610; Pub. L. 101–649, title V, §§531, 532(a), 533(a), 534(a), 535(a), 536(a), 537(a), 539(a), Nov. 29, 1990, 104 Stat. 5054–5056; Pub. L.102–232, title III, §306(b)(1), (3), (c)(1), Dec. 12, 1991, 105 Stat. 1752; Pub. L. 103–416, title II, §219(q), Oct. 25, 1994, 108 Stat. 4317; Pub. L. 104–208, div. C, title IV, §421(a), title VI, §671(d)(1)(B), Sept. 30, 1996, 110 Stat. 3009–670, 3009–723.)
+(June 27, 1952, ch. 477, title II, ch. 8, §274B, as added Pub. L. 99–603, title I, §102(a), Nov. 6, 1986, 100 Stat. 3374; amended Pub. L. 100–525, §2(b), Oct. 24, 1988, 102 Stat. 2610; Pub. L. 101–649, title V, §§531, 532(a), 533(a), 534(a), 535(a), 536(a), 537(a), 539(a), Nov. 29, 1990, 104 Stat. 5054–5056; Pub. L. 102–232, title III, §306(b)(1), (3), (c)(1), Dec. 12, 1991, 105 Stat. 1752; Pub. L. 103–416, title II, §219(q), Oct. 25, 1994, 108 Stat. 4317; Pub. L. 104–208, div. C, title IV, §421(a), title VI, §671(d)(1)(B), Sept. 30, 1996, 110 Stat. 3009–670, 3009–723.)
 
 #### References in Text
 

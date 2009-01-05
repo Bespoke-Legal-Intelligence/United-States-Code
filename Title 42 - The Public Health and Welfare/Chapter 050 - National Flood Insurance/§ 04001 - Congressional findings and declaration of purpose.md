@@ -6,7 +6,7 @@ The Congress finds that (1) from time to time flood disasters have created perso
 
 #### (b) Participation of Federal Government in flood insurance program carried out by private insurance industry
 
-The Congress also finds that (1) many factors have made it uneconomic for the private insurance industry alone to make flood insurance available to those in need of such protection on reasonable terms and conditions; but (2) a program of flood insurance with large-scale participation of the Federal Government and carried out to the maximum extent practicable by the private insurance industry is feasible and can be initiated.
+The Congress also finds that (1) many factors have made it uneconomic for the private insurance industry alone to make flood insurance available to those in need of such protection on reasonable terms and conditions; but (2) a program of flood insurance with large-scale participation of the Federal Government and carriedout to the maximum extent practicable by the private insurance industry is feasible and can be initiated.
 
 #### (c) Unified national program for flood plain management
 
@@ -46,7 +46,7 @@ Section 1377 of title XIII of Pub. L. 90–448 provided that: “This title \[en
 
 #### Short Title of 2006 Amendment
 
-Pub. L. 109–208, §1, Mar. 23, 2006, 120 Stat. 317, provided that: “This Act \[amending section 4016 of this title\] may be cited as the ‘National Flood Insurance Program Enhanced Borrowing Authority Act of 2006’.”
+Pub. L. 109–208, §1, Mar. 23, 2006, 120 Stat. 317, provided that: “This Act \[amending section 4016 of thistitle\] may be cited as the ‘National Flood Insurance Program Enhanced Borrowing Authority Act of 2006’.”
 
 #### Short Title of 2005 Amendments
 

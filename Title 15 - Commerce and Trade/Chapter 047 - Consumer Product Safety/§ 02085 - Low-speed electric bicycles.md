@@ -2,7 +2,7 @@
 
 #### (a) Construction
 
-Notwithstanding any other provision of law, low-speed electric bicycles are consumer products within the meaning of section 2052(a)(1) of this title and shall be subject to the Commission regulations published at section 1500.18(a)(12) and part 1512 of title 16, Code of Federal Regulations.
+Notwithstanding any other provision of law, low-speed electric bicycles are consumer products within the meaning of section 2052(a)(1) <sup>1</sup> of this title and shall be subject to the Commission regulations published at section 1500.18(a)(12) and part 1512 of title 16, Code of Federal Regulations.
 
 #### (b) Definition
 
@@ -17,4 +17,10 @@ To further protect the safety of consumers who ride low-speed electric bicycles,
 This section shall supersede any State law or requirement with respect to low-speed electric bicycles to the extent that such State law or requirement is more stringent than the Federal law or requirements referred to in subsection (a) of this section.
 
 (Pub. L. 92–573, §38, as added Pub. L. 107–319, §1, Dec. 4, 2002, 116 Stat. 2776.)
+
+#### References in Text
+
+Section 2052(a)(1) of this title, referred to in subsec. (a), was redesignated section 2052(a)(5) of this title by Pub. L. 110–314, title II, §235(b)(4), Aug. 14, 2008, 122 Stat. 3074.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

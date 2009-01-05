@@ -2,7 +2,7 @@
 
 #### (a) Financial assistance
 
-As a demonstration of the commitment of the United States to the worldwide protection of endangered species and threatened species, the President may, subject to the provisions of section 1306 of title 31, use foreign currencies accruing to the United States Government under the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1691 et seq.\] or any other law to provide to any foreign country (with its consent) assistance in the development and management of programs in that country which the Secretary determines to be necessary or useful for the conservation of any endangered species or threatened species listed by the Secretary pursuant to section 1533 of this title. The President shall provide assistance (which includes, but is not limited to, the acquisition, by lease or otherwise, of lands, waters, or interests therein) to foreign countries under this section under such terms and conditions as he deems appropriate. Whenever foreign currencies are available for the provision of assistance under this section, such currencies shall be used in preference to funds appropriated under the authority of section 1542 of this title.
+As a demonstration of the commitment of the United States to the worldwide protection of endangered species and threatened species, the President may, subject to the provisions of section 1306 of title 31, use foreign currencies accruing to the United States Government under the Food for Peace Act \[7 U.S.C. 1691 et seq.\] or any other law to provide to any foreign country (with its consent) assistance in the development and management of programs in that country which the Secretary determines to be necessary or useful for the conservation of any endangered species or threatened species listed by the Secretary pursuant to section 1533 of this title. The President shall provide assistance (which includes, but is not limited to, the acquisition, by lease or otherwise, of lands, waters, or interests therein) to foreign countries under this section under such terms and conditions as he deems appropriate. Whenever foreign currencies are available for the provision of assistance under this section, such currencies shall be used in preference to funds appropriated under the authority of section 1542 of this title.
 
 #### (b) Encouragement of foreign programs
 
@@ -26,17 +26,19 @@ After consultation with the Secretary of State, the Secretary may—
 
 After consultation with the Secretary of State and the Secretary of the Treasury, as appropriate, the Secretary may conduct or cause to be conducted such law enforcement investigations and research abroad as he deems necessary to carry out the purposes of this chapter.
 
-(Pub. L. 93–205, §8, Dec. 28, 1973, 87 Stat. 892; Pub. L. 96–159, §5, Dec. 28, 1979, 93 Stat. 1228.)
+(Pub. L. 93–205, §8, Dec. 28, 1973, 87 Stat. 892; Pub. L. 96–159, §5, Dec. 28, 1979, 93 Stat. 1228; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(N), June 18, 2008, 122 Stat. 1820.)
 
 #### References in Text
 
-The Agricultural Trade Development and Assistance Act of 1954, referred to in subsec. (a), is act July 10, 1954, ch. 469, 68 Stat. 454, as amended, which is classified generally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
+The Food for Peace Act, referred to in subsec. (a), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
 #### Codification
 
 In subsec. (a), “section 1306 of title 31” substituted for “section 1415 of the Supplemental Appropriation Act, 1953 (31 U.S.C. 724)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
 
 1979—Subsec. (b)(1). Pub. L. 96–159, §5(1), encouraged conservation of plants.
 
@@ -45,6 +47,10 @@ Subsec. (b)(3). Pub. L. 96–159, §5(2), encouraged conservation practices for 
 Subsec. (c)(1). Pub. L. 96–159, §5(3), made personnel available for plant conservation.
 
 Subsec. (e). Pub. L. 96–159, §5(4), struck out subsec. (e) relating to Convention implementation.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 #### Conservation of Sea Turtles; Importation of Shrimp
 
@@ -56,7 +62,7 @@ Pub. L. 101–162, title VI, §609, Nov. 21, 1989, 103 Stat. 1037, provided that
 
 &emsp;“(2) initiate negotiations as soon as possible with all foreign governments which are engaged in, or which have persons or companies engaged in, commercial fishing operations which, as determined by the Secretary of Commerce, may affect adversely such species of sea turtles, for the purpose of entering into bilateral and multilateral treaties with such countries to protect such species of sea turtles;
 
-&emsp;“(3) encourage such other agreements to promote the purposes of this section with other nations for the protection of specific ocean and land regions which are of special significance to the health and stability of such species of sea turtles;
+&emsp;“(3) encourage such other agreements to promote the purposes of this section with other nations for the protection of specific ocean and land regions whichare of special significance to the health and stability of such species of sea turtles;
 
 &emsp;“(4) initiate the amendment of any existing international treaty for the protection and conservation of such species of sea turtles to which the United States is a party in order to make such treaty consistent with the purposes and policies of this section; and
 

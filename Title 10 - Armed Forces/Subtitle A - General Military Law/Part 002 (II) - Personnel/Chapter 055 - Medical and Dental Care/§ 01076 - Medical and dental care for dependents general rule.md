@@ -30,7 +30,7 @@
 
 &emsp;(2) who died before attaining age 60 and at the time of his death would have been eligible for retired pay under chapter 1223 of this title (or under chapter 67 of this title as in effect before December 1, 1994) but for the fact that he was under 60 years of age;
 
-> may, upon request, be given the medical and dental care prescribed by section 1077 of this title in facilities of the uniformed services, subject to the availability of space and facilities and the capabilities of the medical and dental staff, except that a dependent of a member or former member described in paragraph (2) may not be given such medical or dental care until the date on which such member or former member would have attained age 60.
+> may, upon request, be given the medical and dental care prescribed by section 1077 of thistitle in facilities of the uniformed services, subject to the availability of space and facilities and the capabilities of the medical and dental staff, except that a dependent of a member or former member described in paragraph (2) may not be given such medical or dental care until the date on which such member or former member would have attained age 60.
 
 (c) A determination by the medical or dental officer in charge, or the contract surgeon in charge, or his designee, as to the availability of space and facilities and to the capabilities of the medical and dental staff is conclusive. Care under this section may not be permitted to interfere with the primary mission of those facilities.
 
@@ -106,7 +106,7 @@ June 7, 1956, ch. 374, §§102(a)(2) (as applicable to §103(a)), (3) (as applic
 
 Appropriate references are made to dental care throughout the section to reflect the fact that in certain limited situations dependents are entitled to dental care under 37:403(h)(4), restated as section 1077 of this title.
 
-In subsection (a), the words “appointed, enlisted, inducted or called, ordered or conscripted in a uniformed service” are omitted as surplusage, since it does not matter how a member became a member. The words “active duty for a period of more than 30 days” are substituted for the words “active duty or active duty for training pursuant to a call or order that does not specify a period of thirty days or less” to reflect section 101(22) and (23) of this title.
+In subsection (a), the words “appointed, enlisted, inducted or called, ordered or conscripted in a uniformed service” are omitted as surplusage, since it does not matter how a member became a member. The words “active duty for a period of more than 30 days” are substituted for the words “active duty or active duty fortraining pursuant to a call or order that does not specify a period of thirty days or less” to reflect section 101(22) and (23) of this title.
 
 In subsection (b), the words “active duty (other than for training)” are substituted for the words “active duty as defined in section 901(b) of title 50” to reflect section 101(22) of this title. The words “retirement” and “retirement pay” are omitted as surplusage.
 
@@ -132,7 +132,7 @@ A prior section 1076, act Aug. 10, 1956, ch. 1041, 70A Stat. 84, related to use 
 
 Subsec. (a)(2)(E). Pub. L. 106–65, §578(i)(2), added subpar. (E).
 
-1998—Subsec. (e)(1). Pub. L. 105–261, §732(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Subject to paragraph (3), if an abused dependent of a former member of a uniformed service described in paragraph (4) needs medical or dental carefor an injury or illness resulting from abuse by the member, the administering Secretary may, upon request of the abused dependent, furnish medical or dental care to the dependent for the treatment of such injury or illness in facilities of the uniformed services.”
+1998—Subsec. (e)(1). Pub. L. 105–261, §732(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Subject to paragraph (3), if an abused dependent of a former member of a uniformed service described in paragraph (4) needs medical or dental care for an injury or illness resulting from abuse by the member, the administering Secretary may, upon request of the abused dependent, furnish medical or dental care to the dependent for the treatment of such injury or illness in facilities of the uniformed services.”
 
 Subsec. (e)(3). Pub. L. 105–261, §732(2), inserted “and” at end of subpar. (A), substituted a period for “; and” at end of subpar. (B), and struck out subpar. (C) which read as follows: “shall terminate one year after the date on which the former member was discharged or dismissed from a uniformed service as described in paragraph (4).”
 
@@ -178,7 +178,7 @@ Subsec. (f). Pub. L. 101–189, §731(c)(1), struck out subsec. (f) which read a
 
 “(2) A person referred to in paragraph (1) is a person who would qualify as a dependent under section 1072(2)(G) but for the fact that the person's final decree of divorce, dissolution, or annulment is dated on or after April 1, 1985.
 
-“(3) In this subsection, the term ‘conversion health policy’ means a health insurance plan with a private insurer, developed through negotiations between the Secretary of Defense and a private insurer, that is available for purchase by or for the use of persons described in paragraph (2).”
+“(3) In this subsection, the term ‘conversion health policy’ means a health insurance plan with a privateinsurer, developed through negotiations between the Secretary of Defense and a private insurer, that is available for purchase by or for the use of persons described in paragraph (2).”
 
 1988—Subsec. (f). Pub. L. 100–456 added subsec. (f).
 
@@ -243,6 +243,14 @@ Section 302 of Pub. L. 95–397 provided that: “The amendment made by section 
 #### Effective Date of 1966 Amendment
 
 For effective date of amendment by Pub. L. 89–614, see section 3 of Pub. L. 89–614, set out as a note under section 1071 of this title.
+
+#### Stipend for Members of Reserve Components for Health Care for Certain Dependents
+
+Pub. L. 110–181, div. A, title VII, §704, Jan. 28, 2008, 122 Stat. 188, provided that: “The Secretary of Defense may, pursuant to regulations prescribed by the Secretary, pay a stipend to a member of a reserve component of the Armed Forces who is called or ordered to active duty for a period of more than 30 days for purposes of maintaining civilian health care coverage for a dependant whom the Secretary determines to possess a special health care need that would be best met by remaining in the member's civilian health plan. In making such determination, the Secretary shall consider whether—
+
+&emsp;“(1) the dependent of the member was receiving treatment for the special health care need before the call or order to active duty of the member; and
+
+&emsp;“(2) the call or order to active duty would result in an interruption in treatment or a change in health care provider for such treatment.”
 
 #### Transitional Health Care for Members, or Dependents of Members, Upon Release of Member From Active Duty in Connection With Operation Desert Storm
 

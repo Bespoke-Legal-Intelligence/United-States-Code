@@ -2,9 +2,13 @@
 
 #### (a) Program authorized
 
-#### (1) In general
+#### (1) Purpose
 
-&emsp;The Secretary is authorized to make grants to institutions of higher education, or combinations of such institutions, to pay the Federal share of the cost of planning, establishing and operating centers for international business education which—
+&emsp;The purpose of this section is to coordinate the programs of the Federal Government in the areas of research, education, and training in international business and trade competitiveness.
+
+#### (2) In general
+
+&emsp;The Secretary is authorized to make grants to institutions of higher education, or consortia of such institutions, to pay the Federal share of the cost of planning, establishing and operating centers for international business education which—
 
 &emsp;&emsp;(A) will be national resources for the teaching of improved business techniques, strategies, and methodologies which emphasize the international context in which business is transacted;
 
@@ -12,7 +16,7 @@
 
 &emsp;&emsp;(C) will provide research and training in the international aspects of trade, commerce, and other fields of study.
 
-#### (2) Special rule
+#### (3) Special rule
 
 &emsp;In addition to providing training to students enrolled in the institution of higher education in which a center is located, such centers shall serve as regional resources to businesses proximately located by offering programs and providing research designed to meet the international training needs of such businesses. Such centers shall also serve other faculty, students, and institutions of higher education located within their region.
 
@@ -42,7 +46,7 @@ Each grant made under this section may be used to pay the Federal share of the c
 
 &emsp;&emsp;(C) programs, such as intensive language programs, available to members of the business community and other professionals which are designed to develop or enhance their international skills, awareness, and expertise;
 
-&emsp;&emsp;(D) collaborative programs, activities, or research involving other institutions of higher education, local educational agencies, professional associations, businesses, firms, or combinations thereof, to promote the development of international skills, awareness, and expertise among current and prospective members of the business community and other professionals;
+&emsp;&emsp;(D) collaborative programs, activities, or research involving other institutions of higher education, local educational agencies, professional associations, businesses, firms, or consortia thereof, to promote the development of international skills, awareness, and expertise among current and prospective members of the business community and other professionals;
 
 &emsp;&emsp;(E) research designed to strengthen and improve the international aspects of business and professional education and to promote integrated curricula; and
 
@@ -60,15 +64,17 @@ Each grant made under this section may be used to pay the Federal share of the c
 
 &emsp;&emsp;(D) the development of opportunities for business students to study abroad in locations which are important to the existing and future economic well-being of the United States;
 
-&emsp;&emsp;(E) outreach activities or consortia with business programs located at other institutions of higher education for the purpose of providing expertise regarding the internationalization of such programs, such as assistance in research, curriculum development, faculty development, or educational exchange programs; and
+&emsp;&emsp;(E) outreach activities or consortia with business programs located at other institutions of higher education (including those that are eligible to receive assistance under part A or B of subchapter III or under subchapter V) for the purpose of providing expertise regarding the internationalization of such programs, such as assistance in research, curriculum development, faculty development, or educational exchange programs;
 
-&emsp;&emsp;(F) other eligible activities prescribed by the Secretary.
+&emsp;&emsp;(F) programs encouraging the advancement and understanding of technology-related disciplines, including manufacturing software systems and technology management; and
+
+&emsp;&emsp;(G) other eligible activities prescribed by the Secretary.
 
 #### (d) Advisory council
 
 #### (1) Establishment
 
-&emsp;In order to be eligible for assistance under this section, an institution of higher education, or combination of such institutions, shall establish a center advisory council which will conduct extensive planning prior to the establishment of a center concerning the scope of the center's activities and the design of its programs.
+&emsp;In order to be eligible for assistance under this section, an institution of higher education, or consortium of such institutions, shall establish a center advisory council which will conduct extensive planning prior to the establishment of a center concerning the scope of the center's activities and the design of its programs.
 
 #### (2) Membership on advisory council
 
@@ -114,27 +120,45 @@ Each grant made under this section may be used to pay the Federal share of the c
 
 #### (4) Waiver of non-Federal share
 
-&emsp;In the case of an institution of higher education receiving a grant under this part andconducting outreach or consortia activities with another institution of higher education in accordance with subsection (c)(2)(E) of this section, the Secretary may waive a portion of the requirements for the non-Federal share required in paragraph (2) equal to the amount provided by the institution of higher education receiving such grant to such other institution of higher education for carrying out such outreach or consortia activities. Any such waiver shall be subject to such terms and conditions as the Secretary deems necessary for carrying out the purposes of this section.
+&emsp;In the case of an institution of higher education receiving a grant under this part and conducting outreach or consortia activities with another institution of higher education in accordance with subsection (c)(2)(E) of this section, the Secretary may waive a portion of the requirements for the non-Federal share required in paragraph (2) equal to the amount provided by the institution of higher education receiving such grant to such other institution of higher education for carrying out such outreach or consortia activities. Any such waiver shall be subject to such terms and conditions as the Secretary deems necessary for carrying out the purposes of this section.
 
 #### (f) Grant conditions
 
 Grants under this section shall be made on such conditions as the Secretary determines to be necessary to carry out the objectives of this section. Such conditions shall include—
 
-&emsp;(1) evidence that the institution of higher education, or combination of such institutions, will conduct extensive planning prior to the establishment of a center concerning the scope of the center's activities and the design of its programs in accordance with subsection (d)(1) of this section;
+&emsp;(1) evidence that the institution of higher education, or consortium of such institutions, will conduct extensive planning prior to the establishment of a center concerning the scope of the center's activities and the design of its programs in accordance with subsection (d)(1) of this section;
 
 &emsp;(2) assurance of ongoing collaboration in the establishment and operation of the center by faculty of the business, management, foreign language, international studies, professional international affairs, and other professional schools or departments, as appropriate;
 
-&emsp;(3) assurance that the education and training programs of the center will be open to students concentrating in each of these respective areas, as appropriate; and
+&emsp;(3) assurance that the education and training programs of the center will be open to students concentrating in each of these respective areas, as appropriate, and that diverse perspectives will be made available to students in programs under this section; and
 
-&emsp;(4) assurance that the institution of higher education, or combination of such institutions, will use the assistance provided under this section to supplement and not to supplant activities conducted by institutions of higher education described in subsection (c)(1) of this section.
+&emsp;(4) assurance that the institution of higher education, or consortium of such institutions, will use the assistance provided under this section to supplement and not to supplant activities conducted by institutions of higher education described in subsection (c)(1) of this section.
 
-(Pub. L. 89–329, title VI, §612, as added Pub. L. 100–418, title VI, §6261(2), Aug. 23, 1988, 102 Stat. 1520; amended Pub. L. 102–325, title VI, §601, July 23, 1992, 106 Stat. 729; Pub. L. 105–244, title VI, §602(b), Oct. 7, 1998, 112 Stat. 1783.)
+(Pub. L. 89–329, title VI, §612, as added Pub. L. 100–418, title VI, §6261(2), Aug. 23, 1988, 102 Stat. 1520; amended Pub. L. 102–325, title VI, §601, July 23, 1992, 106 Stat. 729; Pub. L. 105–244, title VI, §602(b), Oct. 7, 1998, 112 Stat. 1783; Pub. L. 110–315, title VI, §§610, 611(a), Aug. 14, 2008, 122 Stat. 3338, 3339.)
 
 #### Prior Provisions
 
 A prior section 612 of Pub. L. 89–329 was renumbered section 613 and is classified to section 1130a of this title.
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–315, §611(a)(1), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
+
+Subsec. (a)(1). Pub. L. 110–315, §610(a), substituted “consortia” for “combinations” in introductory provisions.
+
+Subsec. (c)(1)(D). Pub. L. 110–315, §610(a), substituted “consortia” for “combinations”.
+
+Subsec. (c)(2)(E). Pub. L. 110–315, §611(a)(2)(A), inserted “(including those that are eligible to receive assistance under part A or B of subchapter III or under subchapter V)” after “other institutions of higher education”.
+
+Subsec. (c)(2)(F), (G). Pub. L. 110–315, §611(a)(2)(B)–(D), added subpar. (F) and redesignated former subpar. (F) as (G).
+
+Subsec. (d)(1). Pub. L. 110–315, §610(b), substituted “consortium” for “combination”.
+
+Subsec. (f)(1). Pub. L. 110–315, §610(b), substituted “consortium” for “combination”.
+
+Subsec. (f)(3). Pub. L. 110–315, §611(a)(3), inserted “, and that diverse perspectives will be made available to students in programs under this section” before semicolon.
+
+Subsec. (f)(4). Pub. L. 110–315, §610(b), substituted “consortium” for “combination”.
 
 1998—Subsec. (c)(1)(B). Pub. L. 105–244, §602(b)(1)(A)(i), struck out “advanced” after “faculty and”.
 

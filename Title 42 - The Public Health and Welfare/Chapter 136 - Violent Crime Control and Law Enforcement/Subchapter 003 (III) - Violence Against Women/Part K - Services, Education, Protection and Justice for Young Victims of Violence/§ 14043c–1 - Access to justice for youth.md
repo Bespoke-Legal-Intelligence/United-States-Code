@@ -32,7 +32,7 @@ It is the purpose of this section to encourage cross training and collaboration 
 
 &emsp;&emsp;&emsp;(iv) faith-based entities that deal with the concerns and problems faced by youth;
 
-&emsp;&emsp;&emsp;(v) healthcare entities eligible for reimbursement under title XVIII of the SocialSecurity Act \[42 U.S.C. 1395 et seq.\], including providers that target the special needs of youth;
+&emsp;&emsp;&emsp;(v) healthcare entities eligible for reimbursement under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\], including providers that target the special needs of youth;
 
 &emsp;&emsp;&emsp;(vi) education programs on HIV and other sexually transmitted diseases that are designed to target teens;
 

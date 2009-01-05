@@ -14,7 +14,7 @@ Each order issued under this chapter shall contain the terms and conditions pres
 
 #### (B) Membership
 
-&emsp;&emsp;Except as provided for in paragraph (2), the members of the Council shall be mushroom producers and importers appointed by the Secretary from nominations submitted by producers and importers in the manner authorized by the Secretary, except that no more than one member may be appointed tothe Council from nominations submitted by any one producer or importer.
+&emsp;&emsp;Except as provided for in paragraph (2), the members of the Council shall be mushroom producers and importers appointed by the Secretary from nominations submitted by producers and importers in the manner authorized by the Secretary, except that no more than one member may be appointed to the Council from nominations submitted by any one producer or importer.
 
 #### (2) Appointments
 
@@ -24,7 +24,7 @@ Each order issued under this chapter shall contain the terms and conditions pres
 
 #### (B) Units
 
-&emsp;&emsp;In establishing such geographical distribution of mushroom production, a whole State shall be considered as a unit and such units shall be organized into 4 regions that shall fairly represent the geographic distribution of mushroom production within the United States.
+&emsp;&emsp;In establishing such geographical distribution of mushroom production, a whole State shall be considered as a unit and such units shall be organized into 3 regions that shall fairly represent the geographic distribution of mushroom production within the United States.
 
 #### (C) Importers
 
@@ -32,11 +32,17 @@ Each order issued under this chapter shall contain the terms and conditions pres
 
 #### (D) Members per region
 
-&emsp;&emsp;The Secretary shall appoint one member from each region if such region produces or imports, on average, at least 35,000,000 pounds of mushrooms annually.
+&emsp;&emsp;The Secretary shall appoint one member from each region if such region produces or imports, on average, at least 50,000,000 pounds of mushrooms annually.
 
 #### (E) Additional members
 
-&emsp;&emsp;Subject to the nine-member limit on the number of members on the Council provided in paragraph (1), the Secretary shall appoint an additional member to the Council from a region for each additional 50,000,000 pounds of production or imports per year, on average, within the region.
+&emsp;&emsp;In addition to the members appointed pursuant to paragraph (1), and subject to the 9-member limit of members on the Council provided in that paragraph, the Secretary shall appoint additional members to the council from a region that attains additional pounds of production as follows:
+
+&emsp;&emsp;&emsp;(i) If the annual production of a region is greater than 110,000,000 pounds, but less than or equal to 180,000,000 pounds, the region shall be represented by 1 additional member.
+
+&emsp;&emsp;&emsp;(ii) If the annual production of a region is greater than 180,000,000 pounds, but less than or equal to 260,000,000 pounds, the region shall be represented by 2 additional members.
+
+&emsp;&emsp;&emsp;(iii) If the annual production of a region is greater than 260,000,000 pounds, the region shall be represented by 3 additional members.
 
 #### (F) Average annual production
 
@@ -70,11 +76,13 @@ The order shall define the powers and duties of the Council, which shall include
 
 &emsp;(5) to develop and propose to the Secretary voluntary quality and grade standards for mushrooms;
 
-&emsp;(6) to receive, investigate, and report to the Secretary complaints of violations of the order;
+&emsp;(6) to develop and propose to the Secretary programs for good agricultural and good handling practices and related activities for mushrooms;
 
-&emsp;(7) to recommend to the Secretary amendments to the order; and
+&emsp;(7) to receive, investigate, and report to the Secretary complaints of violations of the order;
 
-&emsp;(8) to invest, pending disbursement under a plan or project, funds collected through assessments authorized under this chapter only in—
+&emsp;(8) to recommend to the Secretary amendments to the order; and
+
+&emsp;(9) to invest, pending disbursement under a plan or project, funds collected through assessments authorized under this chapter only in—
 
 &emsp;&emsp;(A) obligations of the United States or any agency thereof;
 
@@ -218,13 +226,29 @@ The order shall prohibit any funds received by the Council under the order from 
 
 The order also shall contain such terms and conditions, not inconsistent with this chapter, as are necessary to effectuate this chapter, including provisions for the assessment of a penalty for each late payment of assessments under subsection (g) of this section.
 
-(Pub. L. 101–624, title XIX, §1925, Nov. 28, 1990, 104 Stat. 3857; Pub. L. 102–237, title VIII, §803(1), Dec. 13, 1991, 105 Stat. 1882.)
+(Pub. L. 101–624, title XIX, §1925, Nov. 28, 1990, 104 Stat. 3857; Pub. L. 102–237, title VIII, §803(1), Dec. 13, 1991, 105 Stat. 1882; Pub. L. 110–234, title X, §10104, May 22, 2008, 122 Stat. 1336; Pub. L. 110–246, §4(a), title X, §10104, June 18, 2008, 122 Stat. 1664, 2097.)
 
 #### References in Text
 
 The Agricultural Marketing Act of 1946, referred to in subsec. (h), is title II of act Aug. 14, 1946, ch. 966, 60 Stat. 1087, as amended, which is classified generally to chapter 38 (§1621 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1621 of this title and Tables.
 
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 #### Amendments
 
+2008—Subsec. (b)(2)(B). Pub. L. 110–246, §10104(a)(1), substituted “3 regions” for “4 regions”.
+
+Subsec. (b)(2)(D). Pub. L. 110–246, §10104(a)(2), substituted “50,000,000 pounds” for “35,000,000 pounds”.
+
+Subsec. (b)(2)(E). Pub. L. 110–246, §10104(a)(3), added subpar. (E) and struck out former subpar. (E). Prior to amendment, text read as follows: “Subject to the nine-member limit on the number of members on the Council provided in paragraph (1), the Secretary shall appoint an additional member to the Council from a region for each additional 50,000,000 pounds of production or imports per year, on average, within the region.”
+
+Subsec. (c)(6) to (9). Pub. L. 110–246, §10104(b), added par. (6) and redesignated former pars. (6) to (8) as (7) to (9), respectively.
+
 1991—Subsec. (h). Pub. L. 102–237 substituted “governmental” for “government”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

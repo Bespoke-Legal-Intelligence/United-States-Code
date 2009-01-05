@@ -1,6 +1,6 @@
 ### §5371. Insurance coverage, etc.
 
-Any remission, abatement, refund, or credit of, or other relief from, taxes on wines or winespirits authorized by law shall be allowed only to the extent that the claimant is not indemnified or recompensed for the tax.
+Any remission, abatement, refund, or credit of, or other relief from, taxes on wines or wine spirits authorized by law shall be allowed only to the extent that the claimant is not indemnified or recompensed for the tax.
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1382.)
 

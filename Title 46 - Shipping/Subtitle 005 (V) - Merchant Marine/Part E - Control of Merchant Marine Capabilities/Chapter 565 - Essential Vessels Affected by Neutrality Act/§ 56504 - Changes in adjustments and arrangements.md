@@ -1,6 +1,6 @@
 ### §56504. Changes in adjustments and arrangements
 
-The Secretary of Transportation may change an adjustment or arrangement made under this chapter as the Secretary considers necessary to carry out this chapter.
+The Secretary of Transportation may change an adjustment or arrangement made under thischapter as the Secretary considers necessary to carry out this chapter.
 
 (Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1658.)
 

@@ -6,7 +6,7 @@ The Commissioner of Customs shall—
 
 &emsp;(1) develop and implement accounting systems that accurately determine and report the allocations made of Customs Service personnel and other resources among the various operational functions of the Service, such as passenger processing, merchandise processing and drug enforcement; and
 
-&emsp;(2) develop and implement periodic labor distribution surveys of major workforce activities (such as inspectors, import specialists, fines, penalties, and forfeiture officers, special agents, data transcribers, and Customs aides) to determine the costs of different types of passenger and merchandise processing transactions, such as informal and formal entries, and automated and manual entries.
+&emsp;(2) develop and implement periodic labor distribution surveys of major workforce activities (such as inspectors, import specialists,fines, penalties, and forfeiture officers, special agents, data transcribers, and Customs aides) to determine the costs of different types of passenger and merchandise processing transactions, such as informal and formal entries, and automated and manual entries.
 
 #### (b) Survey reports
 

@@ -56,7 +56,7 @@
 
 &emsp;(12) a vessel of the working fleet of the Panama Canal Commission not on a foreign voyage.
 
-(c) On application by the owner and after a survey under section 5105 of this title, the Secretary may assign load lines for a vessel excluded from the application of this chapter under subsection (b) of this section. A vessel assigned load lines under this subsection is subject to this chapter until the surrender of its load line certificate and the removal of its load line marks.
+(c) On application by the owner and after a survey under section 5105 of this title, the Secretary may assign load lines for a vessel excluded from the application of this chapterunder subsection (b) of this section. A vessel assigned load lines under this subsection is subject to this chapter until the surrender of its load line certificate and the removal of its load line marks.
 
 (d) This chapter does not affect an international agreement to which the Government is a party that is not in conflict with the International Convention on Load Lines currently in force for the United States.
 
@@ -74,7 +74,7 @@ Section 5102(a) lists five categories of vessels which are subject to load line 
 
 Clause (1) regarding “a vessel of the United States” includes all vessels documented under Chapter 121 of title 46 or numbered under Chapter 123 of title 46.
 
-Clause (2) regarding “a vessel on the navigable waters of the United States” includes all domestic or foreignvessels found in or on the navigable waters of the United States.
+Clause (2) regarding “a vessel on the navigable waters of the United States” includes all domestic or foreign vessels found in or on the navigable waters of the United States.
 
 Clause (3) regarding “a vessel owned by a citizen of the United States or a corporation established by or under the laws of the United States or a State, and not registered in a foreign country” includes all vessels owned by citizens of the United States (as defined in 5107(7)) \[sic\] and not registered under the laws of a foreign country, wherever the vessels may be located.
 
@@ -132,7 +132,7 @@ Subsec. (b)(10). Pub. L. 104–324, §719(3), inserted “as measured under sect
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–595 effective Nov. 16, 1990, with provision that before Jan. 1, 2003, a fish tender vessel is exempt from this chapter when engaged in Aleutian trade if the vessel either operated in that trade before Sept. 8, 1990, or was purchased before that date to be used in such trade and entered into service in that trade before June 1, 1992, did not undergo a major conversion, and did not have a load line assigned at any time before Nov. 16, 1990, see section 602(f) of Pub. L. 101–595, set out as a note under section 4502 of this title.
+Amendment by Pub. L. 101–595 effective Nov. 16, 1990, with provision that before Jan. 1, 2003, a fish tendervessel is exempt from this chapter when engaged in Aleutian trade if the vessel either operated in that trade before Sept. 8, 1990, or was purchased before that date to be used in such trade and entered into service in that trade before June 1, 1992, did not undergo a major conversion, and did not have a load line assigned at any time before Nov. 16, 1990, see section 602(f) of Pub. L. 101–595, set out as a note under section 4502 of this title.
 
 #### Fish Tender Vessels in Aleutian Trade
 
@@ -152,7 +152,7 @@ In general.—Before December 31, 2006, the BOWFIN (United States official numbe
 
 &emsp;“(2)
 
-Ensuring safety.—Before the date referred to in paragraph (1), a Coast Guard official who has reason to believe that the vessel referred to in paragraph (1) operating under this subsection is in a condition or is operated in a manner that creates an immediate threat to life or the environment or is operated in a manner that is inconsistent with section 3302 of title 46, United States Code, may direct the master or individual in charge to take immediate and reasonablesteps to safeguard life and the environment, including directing the vessel to a port or other refuge.”
+Ensuring safety.—Before the date referred to in paragraph (1), a Coast Guard official who has reason to believe that the vessel referred to in paragraph (1) operating under this subsection is in a condition or is operated in a manner that creates an immediate threat to life or the environment or is operated in a manner that is inconsistent with section 3302 of title 46, United States Code, may direct the master or individual in charge to take immediate and reasonable steps to safeguard life and the environment, including directing the vessel to a port or other refuge.”
 
 \[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 

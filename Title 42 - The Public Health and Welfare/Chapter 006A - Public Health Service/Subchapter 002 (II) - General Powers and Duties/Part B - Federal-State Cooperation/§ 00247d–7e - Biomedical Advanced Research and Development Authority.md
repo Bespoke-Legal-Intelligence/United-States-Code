@@ -184,7 +184,7 @@ In this section:
 
 #### (ii) Application of provisions
 
-&emsp;&emsp;&emsp;Provisions in such section 247d–6a of this title that apply to such authorities and that require institution of internal controls, limit review, provide for Federal Tort Claims Act coverage of personal services contractors, and commit decisions to the discretion of the Secretary shall applyto the authorities as exercised pursuant to this paragraph.
+&emsp;&emsp;&emsp;Provisions in such section 247d–6a of this title that apply to such authorities and that require institution of internal controls, limit review, provide for Federal Tort Claims Act coverage of personal services contractors, and commit decisions to the discretion of the Secretary shall apply to the authorities as exercised pursuant to this paragraph.
 
 #### (iii) Authority to limit competition
 
@@ -204,7 +204,7 @@ In this section:
 
 #### (E) Foreign nationals eligible
 
-&emsp;&emsp;The Secretary may under this section award contracts, grants, and cooperative agreements to, and may enter into other transactions with, highly qualified foreign national persons outside the United States, alone or in collaboration with American participants, when such transactions may inure to the benefit of the American people.
+&emsp;&emsp;The Secretary may under this section award contracts, grants, and cooperativeagreements to, and may enter into other transactions with, highly qualified foreign national persons outside the United States, alone or in collaboration with American participants, when such transactions may inure to the benefit of the American people.
 
 #### (F) Establishment of research centers
 
@@ -280,7 +280,7 @@ In this section:
 
 #### (2) Review
 
-&emsp;Notwithstanding section 14 of the Federal Advisory Committee Act, a working group of BARDA under this section and the National Biodefense Science Board under section 247d–7f of this title shall each terminate on the date that is 5 years after the date on which each such group or Board, as applicable, was established. Such 5-year period may be extended by the Secretary for one or more additional 5-year periods if the Secretary determines that any such extension is appropriate.
+&emsp;Notwithstanding section 14 of the Federal Advisory Committee Act, a working group of BARDA under this section and the National Biodefense Science Board under section 247d–7fof this title shall each terminate on the date that is 5 years after the date on which each such group or Board, as applicable, was established. Such 5-year period may be extended by the Secretary for one or more additional 5-year periods if the Secretary determines that any such extension is appropriate.
 
 (July 1, 1944, ch. 373, title III, §319L, as added Pub. L. 109–417, title IV, §401, Dec. 19, 2006, 120 Stat. 2865.)
 

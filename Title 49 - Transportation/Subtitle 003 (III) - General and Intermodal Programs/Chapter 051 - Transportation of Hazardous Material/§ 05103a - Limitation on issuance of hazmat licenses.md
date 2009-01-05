@@ -86,7 +86,7 @@ Elimination of redundant checks.—An individual with respect to whom the Transp
 
 &emsp;&emsp;&emsp;(ii)
 
-Determination by director.—Not later than 60 days after the date of issuance of the report under paragraph (5), but no later than 120 days after the date of enactment of this Act, the Director shall initiate a rulemaking proceeding, including notice and opportunity for comment, to determine which background checks required for purposes of Federal laws applicable to transportation workers are equivalent to, or less stringent than, those required under this section.
+Determination by director.—Not later than 60 days after the date of issuance of the report under paragraph (5), but no later than 120 days after the date of enactment of this subsection, the Director shall initiate a rulemaking proceeding, including notice and opportunity for comment, to determine which background checks required for purposes of Federal laws applicable to transportation workers are equivalent to, or less stringent than, those required under this section.
 
 &emsp;&emsp;&emsp;(iii)
 
@@ -140,7 +140,7 @@ Extension.—The Director of the Transportation Security Administration may exte
 
 Commercial motor vehicle defined.—In this subsection, the term “commercial motor vehicle” has the meaning given that term by section 31101.
 
-(Added Pub. L. 107–56, title X, §1012(a)(1), Oct. 26, 2001, 115 Stat. 396; amended Pub. L. 109–59, title VII, §§7104, 7105, 7126, Aug. 10, 2005, 119 Stat. 1894, 1909; Pub. L. 110–53, title XV, §1556(a), Aug. 3, 2007, 121 Stat. 475.)
+(Added Pub. L. 107–56, title X, §1012(a)(1), Oct. 26, 2001, 115 Stat. 396; amended Pub. L. 109–59, title VII, §§7104, 7105, 7126, Aug. 10, 2005, 119 Stat. 1894, 1909; Pub. L. 110–53, title XV, §1556(a), Aug. 3, 2007, 121 Stat. 475; Pub. L. 110–244, title III, §302(b), June 6, 2008, 122 Stat. 1618.)
 
 #### References in Text
 
@@ -148,9 +148,9 @@ Section 101(a)(3) of the Immigration and Nationality Act, referred to in subsec.
 
 The date of enactment of this subsection, referred to in subsecs. (g) and (h), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
-The date of enactment of this Act, referred to in subsec. (g)(1)(B)(ii), probably means the date of enactment of Pub. L. 109–59, which enacted subsec. (g) of this section, and was approved Aug. 10, 2005.
-
 #### Amendments
+
+2008—Subsec. (g)(1)(B)(ii). Pub. L. 110–244 substituted “subsection” for “Act”.
 
 2007—Subsec. (a)(1). Pub. L. 110–53, §1556(a)(1), substituted “Secretary of Homeland Security” for “Secretary”.
 

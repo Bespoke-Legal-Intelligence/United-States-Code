@@ -6,7 +6,7 @@ No officer or employee of the Federal Government, and no recipient of assistance
 
 #### (b) Criminal history information; disposition and arrest data; procedures for collection, storage, dissemination, and current status; security and privacy; availability for law enforcement, criminal justice, and other lawful purposes; automated systems: review, challenge, and correction of information
 
-All criminal history information collected, stored, or disseminated through support under this chapter shall contain, to the maximum extent feasible, disposition as well as arrest data where arrest data is included therein. The collection, storage, and dissemination of such information shall take place under procedures reasonably designed to insure that all such information is kept current therein; the Office of Justice Programs shall assure that the security and privacy of all information is adequately provided for and that information shall only be used for law enforcement and criminal justice and other lawful purposes. In addition, an individual who believes that criminal history information concerning him contained in an automated system is inaccurate, incomplete, or maintained in violation of this chapter, shall, upon satisfactory verification of his identity, be entitled to review such information and to obtain a copy of it for the purpose of challenge or correction.
+All criminal history information collected, stored, or disseminated through support under this chapter shall contain, to the maximum extent feasible, disposition as well as arrest data where arrest data is included therein. The collection, storage, and dissemination of such information shall take place under procedures reasonably designed to insure that all such information is kept current therein; the Office of Justice Programs shall assure that the security and privacy of all information is adequately provided for and that information shall only beused for law enforcement and criminal justice and other lawful purposes. In addition, an individual who believes that criminal history information concerning him contained in an automated system is inaccurate, incomplete, or maintained in violation of this chapter, shall, upon satisfactory verification of his identity, be entitled to review such information and to obtain a copy of it for the purpose of challenge or correction.
 
 #### (c) Criminal intelligence systems and information; prohibition against violation of privacy and constitutional rights of individuals
 
@@ -16,7 +16,7 @@ All criminal intelligence systems operating through support under this chapter s
 
 Any person violating the provisions of this section, or of any rule, regulation, or order issued thereunder, shall be fined not to exceed $10,000, in addition to any other penalty imposed by law.
 
-(Pub. L. 90–351, title I, §812, formerly §818, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat.1213; renumbered §812 and amended Pub. L. 98–473, title II, §609B(f), (k), Oct. 12, 1984, 98 Stat. 2093, 2096; Pub. L. 109–162, title XI, §1115(c), Jan. 5, 2006, 119 Stat. 3104.)
+(Pub. L. 90–351, title I, §812, formerly §818, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1213; renumbered §812 and amended Pub. L. 98–473, title II, §609B(f), (k), Oct. 12, 1984, 98 Stat. 2093, 2096; Pub. L. 109–162, title XI, §1115(c), Jan. 5, 2006, 119 Stat. 3104.)
 
 #### Prior Provisions
 

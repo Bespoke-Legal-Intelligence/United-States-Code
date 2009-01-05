@@ -10,7 +10,7 @@ Authority.—The Secretary of Defense may authorize the use of the Department of
 
 (b)
 
-Definition.—In this section, the term “Department of Defense reimbursement rate” means the amount charged a component of the Department of Defense by another component of the Department of Defense.
+Definition.—In this section, the term “Department of Defense reimbursement rate” means the amount charged a component of theDepartment of Defense by another component of the Department of Defense.
 
 (Added Pub. L. 102–88, title V, §501(a), Aug. 14, 1991, 105 Stat. 435; amended Pub. L. 108–136, div. A, title X, §1006(a), (b)(1), Nov. 24, 2003, 117 Stat. 1585.)
 

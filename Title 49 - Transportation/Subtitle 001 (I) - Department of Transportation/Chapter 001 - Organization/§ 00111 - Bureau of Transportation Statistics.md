@@ -34,7 +34,7 @@ Data modernization.—Continually improving surveys and data collection methods 
 
 &emsp;(4)
 
-Encouraging data standardization.—Encouraging the standardization of data, data collection methods, and data management and storage technologies for data collected by the Bureau, the operating administrations of the Department of Transportation, States, local governments, metropolitan planning organizations, and private sector entities.
+Encouraging data standardization.—Encouraging the standardization of data, data collection methods, and data management andstorage technologies for data collected by the Bureau, the operating administrations of the Department of Transportation, States, local governments, metropolitan planning organizations, and private sector entities.
 
 &emsp;(5)
 
@@ -116,7 +116,7 @@ Report to congress.—Not later than 180 days after the date on which the Nation
 
 &emsp;&emsp;(B) how the Department plans to stop collecting data identified under paragraph (2)(C);
 
-&emsp;&emsp;(C) how the Department plans to implement improved data collection methods and other changes identified under paragraph (2)(D);
+&emsp;&emsp;(C) how the Department plans to implement improved data collection methods andother changes identified under paragraph (2)(D);
 
 &emsp;&emsp;(D) the expected costs of implementing subparagraphs (A), (B), and (C) of this paragraph;
 
@@ -226,7 +226,7 @@ Copies of reports.—
 
 &emsp;&emsp;(A)
 
-In general.—No department, bureau, agency, officer, or employee of the UnitedStates (except the Director in carrying out this section) may require, for any reason, a copy of any report that has been filed under subsection (c) with the Bureau or retained by an individual respondent.
+In general.—No department, bureau, agency, officer, or employee of the United States (except the Director in carrying out this section) may require, for any reason, a copy of any report that has been filed under subsection (c) with the Bureau or retained by an individual respondent.
 
 &emsp;&emsp;(B)
 
@@ -308,7 +308,7 @@ The Government Performance and Results Act of 1993, referred to in subsec. (c)(8
 
 The date of enactment of the SAFETEA–LU, referred to in subsecs. (d)(1) and (<i>o</i>)(4)(B), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
-The Federal Advisory Committee Act, referred to in subsec. (<i>o</i>)(5), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770,as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (<i>o</i>)(5), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 
@@ -404,7 +404,7 @@ Establishment.—The Director of the Bureau of Transportation Statistics shall e
 
 “(b)
 
-Function.—It shall be the function of the advisory council established under this section to advise the Director of the Bureau of Transportation Statistics on transportation statistics and analyses, including whether or not the statistics and analysis disseminated by the Bureau of Transportation Statistics are of high quality and are based upon the best available objective information.
+Function.—It shall be the function of the advisory council established under this section to advisethe Director of the Bureau of Transportation Statistics on transportation statistics and analyses, including whether or not the statistics and analysis disseminated by the Bureau of Transportation Statistics are of high quality and are based upon the best available objective information.
 
 “(c)
 

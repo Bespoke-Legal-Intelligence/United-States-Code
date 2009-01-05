@@ -16,7 +16,7 @@ The services provided, in a State program under subsection (a) of this section, 
 
 &emsp;(2) assistance to caregivers in gaining access to the services;
 
-&emsp;(3) individual counseling, organization of support groups, and caregiver training to assist the caregivers in the areas of health, nutrition, and financial literacy, and in making decisions and solving problems relating to their caregiving roles;
+&emsp;(3) individual counseling, organization of support groups, and caregiver training to assist the caregivers in the areas of health, nutrition, and financial literacy, and in makingdecisions and solving problems relating to their caregiving roles;
 
 &emsp;(4) respite care to enable caregivers to be temporarily relieved from their caregiving responsibilities; and
 
@@ -66,7 +66,7 @@ In carrying out this subpart, each area agency on aging shall make use of traine
 
 &emsp;(B) In determining the amounts allotted to States from the sums appropriated under section 3023 of this title for a fiscal year, the Assistant Secretary shall first determine the amount allotted to each State under subparagraph (A) and then proportionately adjust such amounts, if necessary, to meet the requirements of paragraph (2).
 
-&emsp;(C) The number of individuals 70 years of age or older in any State and in all States shall bedetermined by the Assistant Secretary on the basis of the most recent data available from the Bureau of the Census and other reliable demographic data satisfactory to the Assistant Secretary.
+&emsp;(C) The number of individuals 70 years of age or older in any State and in all States shall be determined by the Assistant Secretary on the basis of the most recent data available from the Bureau of the Census and other reliable demographic data satisfactory to the Assistant Secretary.
 
 #### (2) Minimum allotment
 
@@ -90,7 +90,7 @@ In carrying out this subpart, each area agency on aging shall make use of traine
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding section 3024(d)(1)(D) of this title, the Federal share of the cost of carrying out a State program under this subpart shall be 75 percent.
+&emsp;&emsp;Notwithstanding section 3024(d)(1)(D) of this title, the Federal share of the cost ofcarrying out a State program under this subpart shall be 75 percent.
 
 #### (B) Non-Federal share
 

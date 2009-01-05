@@ -18,11 +18,11 @@ Individuals appointed under section 7002, 7003, 7004, or 7005 of this title who 
 
 #### (2) Scientific review group
 
-&emsp;Notwithstanding paragraph (1), the Secretary may employ and fix the compensation of an individual appointed under section 7003(a) of this title to serve as a scientific expert on the scientific review group who is not employed by the United States Government, a State government, or an Indian tribal government in accordance with section 3109 of title 5.
+&emsp;Notwithstanding paragraph (1), the Secretary may employ and fix the compensationof an individual appointed under section 7003(a) of this title to serve as a scientific expert on the scientific review group who is not employed by the United States Government, a State government, or an Indian tribal government in accordance with section 3109 of title 5.
 
 #### (c) Travel expenses
 
-Except as provided in subsection (d), the Secretary shall pay the necessary travel expenses of individuals appointed under this chapter in accordance with the Federal Travel Regulationsand sections 5701, 5702, 5704 through 5708, and 5731 of title 5.
+Except as provided in subsection (d), the Secretary shall pay the necessary travel expenses of individuals appointed under this chapter in accordance with the Federal Travel Regulations and sections 5701, 5702, 5704 through 5708, and 5731 of title 5.
 
 #### (d) Joint appointees
 

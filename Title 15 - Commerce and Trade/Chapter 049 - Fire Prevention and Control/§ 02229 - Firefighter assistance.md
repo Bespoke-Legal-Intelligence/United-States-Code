@@ -106,7 +106,7 @@ In this section, the term “firefighting personnel” means individuals, includ
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraphs (B) and (C), the Director may provide assistance under this subsection only if the applicant for such assistance agrees to match 20 percent of such assistance for any fiscal year with an equal amount of non-Federal funds.
+&emsp;&emsp;Subject to subparagraphs (B) and (C), the Director may provide assistance under thissubsection only if the applicant for such assistance agrees to match 20 percent of such assistance for any fiscal year with an equal amount of non-Federal funds.
 
 #### (B) Requirement for small community organizations
 
@@ -278,7 +278,7 @@ Subsec. (b)(13) to (17). Pub. L. 108–375, §3602(9), added pars. (13) to (17).
 
 Subsec. (d). Pub. L. 108–375, §3602(10), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “In this section, the term ‘State’ includes the District of Columbia and the Commonwealth of Puerto Rico.”
 
-Subsec. (e)(1). Pub. L. 108–375, §3602(11), substituted “There are authorized to be appropriated for the purposes of this section $900,000,000 for fiscal year 2005, $950,000,000 for fiscal year 2006, and $1,000,000,000 for each of the fiscal years 2007 through 2009.” for “Thereare authorized to be appropriated $900,000,000 for each of the fiscal years 2002 through 2004 for the purposes of this section.”
+Subsec. (e)(1). Pub. L. 108–375, §3602(11), substituted “There are authorized to be appropriated for the purposes of this section $900,000,000 for fiscal year 2005, $950,000,000 for fiscal year 2006, and $1,000,000,000 for each of the fiscal years 2007 through 2009.” for “There are authorized to be appropriated $900,000,000 for each of the fiscal years 2002 through 2004 for the purposes of this section.”
 
 2003—Subsec. (b)(2). Pub. L. 108–169, §205(a)(1), added par. (2) and struck out heading and text of former par. (2). Text read as follows:
 

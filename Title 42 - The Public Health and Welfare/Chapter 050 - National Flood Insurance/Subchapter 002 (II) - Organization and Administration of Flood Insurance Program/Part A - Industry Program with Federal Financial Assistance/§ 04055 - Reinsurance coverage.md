@@ -2,7 +2,7 @@
 
 #### (a) Availability for excess losses
 
-The Director is authorized to take such action as may be necessary in order to make available, to the pool formed or otherwise created under section 4051 of this title, reinsurance for losses (due to claims for proved and approved losses covered by flood insurance) which are in excess of losses assumed by such pool in accordance with the excess loss agreement entered into under subsection (c) of this section.
+The Director is authorized to take such action as may be necessary in order to make available,to the pool formed or otherwise created under section 4051 of this title, reinsurance for losses (due to claims for proved and approved losses covered by flood insurance) which are in excess of losses assumed by such pool in accordance with the excess loss agreement entered into under subsection (c) of this section.
 
 #### (b) Availability pursuant to contract, agreement, or other arrangement; payment of premium, fee, or other charge
 

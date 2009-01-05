@@ -212,7 +212,7 @@ Agreement.—The term ‘Agreement’ means an agreement described in section 30
 
 Commission.—The term ‘Commission’ means a commission established pursuant to any Agreement.”
 
-<i><sup>1</sup></i><i> So in original.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
 
 ---

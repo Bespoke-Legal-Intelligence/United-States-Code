@@ -141,7 +141,7 @@
 
 Pub. L. 102–378, §2(24), Oct. 2, 1992, 106 Stat. 1348, substituted “repayments” for “repayment” in item 5379 and struck out “Sec.” before item 5391.
 
-1990—Pub. L. 101–510, div. A, title XII, §1206(i)(2), Nov. 5, 1990, 104 Stat. 1663, which added item 5380 “Pay authority for critical positions”, was repealed by Pub. L.102–378, §8(a), Oct. 2, 1992, 106 Stat. 1359, which provided that this title shall read as if such section 1206(i)(2) had not been enacted.
+1990—Pub. L. 101–510, div. A, title XII, §1206(i)(2), Nov. 5, 1990, 104 Stat. 1663, which added item 5380 “Pay authority for critical positions”, was repealed by Pub. L. 102–378, §8(a), Oct. 2, 1992, 106 Stat. 1359, which provided that this title shall read as if such section 1206(i)(2) had not been enacted.
 
 Pub. L. 101–510, div. A, title XII, §1206(b)(2), Nov. 5, 1990, 104 Stat. 1661, added item 5379.
 

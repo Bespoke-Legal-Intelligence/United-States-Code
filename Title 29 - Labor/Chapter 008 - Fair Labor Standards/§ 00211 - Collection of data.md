@@ -10,7 +10,7 @@ With the consent and cooperation of State agencies charged with the administrati
 
 #### (c) Records
 
-Every employer subject to any provision of this chapter or of any order issued under this chapter shall make, keep, and preserve such records of the persons employed by him and of the wages, hours, and other conditions and practices of employment maintained by him, and shall preserve such records for such periods of time, and shall make such reports therefrom to the Administrator as he shall prescribe by regulation or order as necessary or appropriate for the enforcement of the provisions of this chapter or the regulations or orders thereunder. The employer of an employee who performs substitute work described in section 207(p)(3) of this title may not be required under this subsection to keep a record of the hours of the substitute work.
+Every employer subject to any provision of this chapter or of any order issued under this chapter shall make, keep, and preserve such records of the persons employed by him and of the wages, hours, and other conditions and practices of employment maintained by him, and shall preserve such records for such periods of time, and shall make such reports therefrom tothe Administrator as he shall prescribe by regulation or order as necessary or appropriate for the enforcement of the provisions of this chapter or the regulations or orders thereunder. The employer of an employee who performs substitute work described in section 207(p)(3) of this title may not be required under this subsection to keep a record of the hours of the substitute work.
 
 #### (d) Homework regulations
 
@@ -42,7 +42,7 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 #### Effect of Amendments by Public Law 99–150 on Public Agency Liability Respecting any Employee Covered Under Special Enforcement Policy
 
-Amendment by Pub. L. 99–150 not to affect liability of certain public agencies under section 216 of this titlefor violation of this section occurring before Apr. 15, 1986, see section 7 of Pub. L. 99–150, set out as a note under section 216 of this title.
+Amendment by Pub. L. 99–150 not to affect liability of certain public agencies under section 216 of this title for violation of this section occurring before Apr. 15, 1986, see section 7 of Pub. L. 99–150, set out as a note under section 216 of this title.
 
 #### Definition of “Administrator”
 

@@ -206,7 +206,7 @@ Subsec. (f). Pub. L. 100–647, §1006(t)(26), added subsec. (f).
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 1616(b)(10) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31,1995, but not applicable to any residual interest held by a taxpayer if such interest has been held by such taxpayer at all times since Oct. 31, 1995, see section 1616(c)(1), (4) of Pub. L. 104–188, set out as a note under section 593 of this title.
+Amendment by section 1616(b)(10) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1995, but not applicable to any residual interest held by a taxpayer if such interest has been held by such taxpayer at all times since Oct. 31, 1995, see section 1616(c)(1), (4) of Pub. L. 104–188, set out as a note under section 593 of this title.
 
 Section 1704(h)(2) of Pub. L. 104–188 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the amendments made by section 671 of the Tax Reform Act of 1986 \[Pub. L. 99–514\] unless the taxpayer elects to apply such amendment only to taxable years beginning after the date of the enactment of this Act \[Aug. 20, 1996\].”
 
@@ -224,7 +224,7 @@ Section 1006(t)(16)(D)(ii)–(iv) of Pub. L. 100–647 provided that:
 
 > For purposes of the preceding sentence, any interest in a pass-thru entity (or residual interest) acquired after March 31, 1988, pursuant to a binding written contract in effect on such date shall be treated as acquired before such date.
 
-“(iv) In the case of any real estate investment trust, regulated investment company, common trust fund, or publicly traded partnership, no tax shall be imposed under section 860E(e)(6) of the 1986 Code (as added by the amendment made by subparagraph (B)) for any taxable year beginning before January 1, 1989.”
+“(iv) In the case of any real estate investment trust, regulated investment company, common trust fund, orpublicly traded partnership, no tax shall be imposed under section 860E(e)(6) of the 1986 Code (as added by the amendment made by subparagraph (B)) for any taxable year beginning before January 1, 1989.”
 
 Amendment by section 1006(t)(13), (15), (17), (23), (26), (27) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 

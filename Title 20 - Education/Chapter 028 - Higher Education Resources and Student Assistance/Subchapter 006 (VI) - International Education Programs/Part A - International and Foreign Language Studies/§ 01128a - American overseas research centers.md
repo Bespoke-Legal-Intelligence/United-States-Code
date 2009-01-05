@@ -38,11 +38,19 @@ The Secretary shall only award grants to and enter into contracts with centers u
 
 The Secretary is authorized to make grants for the establishment of new centers. The grants may be used to fund activities that, within 1 year, will result in the creation of a center described in subsection (c) of this section.
 
-(Pub. L. 89–329, title VI, §609, as added Pub. L. 105–244, title VI, §601, Oct. 7, 1998, 112 Stat. 1782.)
+#### (e) Application
+
+Each center desiring to receive a grant or contract under this section shall submit an application to the Secretary at such time, in such manner, and accompanied by such information and assurances as the Secretary may require.
+
+(Pub. L. 89–329, title VI, §609, as added Pub. L. 105–244, title VI, §601, Oct. 7, 1998, 112 Stat. 1782; amended Pub. L. 110–315, title VI, §608, Aug. 14, 2008, 122 Stat. 3338.)
 
 #### Prior Provisions
 
 A prior section 609 of Pub. L. 89–329 was classified to section 1126 of this title, prior to the general amendment of this part by Pub. L. 105–244.
 
 Another prior section 609 of Pub. L. 89–329, title VI, Nov. 8, 1965, 79 Stat. 1266; Pub. L. 92–318, title I, §131(d)(2)(D), June 23, 1972, 86 Stat. 260, prohibited equipment grants for sectarian instruction or religious worship and was classified to section 1129 of this title, prior to the general amendment of this subchapter by Pub. L. 96–374.
+
+#### Amendments
+
+2008—Subsec. (e). Pub. L. 110–315 added subsec. (e).
 

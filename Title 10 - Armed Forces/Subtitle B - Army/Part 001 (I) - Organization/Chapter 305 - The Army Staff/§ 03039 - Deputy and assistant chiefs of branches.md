@@ -1,12 +1,12 @@
 ### §3039. Deputy and assistant chiefs of branches
 
-(a) Each officer named in section 3036 of this title shall have, in addition to the assistants prescribed by subsections (b) and (c) and by section 3037 of this title, such deputies and assistants as the Secretary of the Army may prescribe. Each such deputy and assistant shall be an officer detailed by the Secretary to that position from the officers of the Army for a tour of duty of not more than four years, under a procedure prescribed by the Secretary similar to that prescribed in section 3036 of this title.
+(a) Each officer named in section 3036 of this title shall have, in addition to the assistants prescribed by subsections (b) and (c) and by section 3037 of this title, such deputies and assistants as the Secretary of the Army may prescribe. Each such deputy and assistant shall bean officer detailed by the Secretary to that position from the officers of the Army for a tour of duty of not more than four years, under a procedure prescribed by the Secretary similar to that prescribed in section 3036 of this title.
 
 (b) There is an Assistant Surgeon General appointed from the officers of the Dental Corps, as prescribed in section 3036 of this title. The Assistant Surgeon General is Chief of the Dental Corps and is responsible for making recommendations to the Surgeon General and through the Surgeon General to the Chief of Staff on all matters concerning dentistry and the dental health of the Army. An appointee who holds a lower regular grade shall be appointed in the regular grade of major general.
 
 (c) There are two assistants to the Chief of Engineers appointed as prescribed in section 3036 of this title. An appointee who holds a lower regular grade shall be appointed in the regular grade of brigadier general.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 165, §3040; Pub. L. 95–485, title VIII, §805(a), Oct. 20, 1978, 92 Stat.1621; renumbered §3039 and amended Pub. L. 99–433, title V, §502(f)(2), Oct. 1, 1986, 100 Stat. 1042.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 165, §3040; Pub. L. 95–485, title VIII, §805(a), Oct. 20, 1978, 92 Stat. 1621; renumbered §3039 and amended Pub. L. 99–433, title V, §502(f)(2), Oct. 1, 1986, 100 Stat. 1042.)
 
 Historical and Revision Notes
 

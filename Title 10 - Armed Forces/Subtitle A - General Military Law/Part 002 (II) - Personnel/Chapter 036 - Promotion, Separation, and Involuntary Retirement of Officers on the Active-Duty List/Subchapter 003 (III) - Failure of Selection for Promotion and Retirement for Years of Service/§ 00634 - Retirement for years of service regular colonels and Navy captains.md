@@ -16,7 +16,7 @@ Exceptions.—Subsection (a) does not apply to the following:
 
 #### Amendments
 
-2006—Pub. L. 109–163 designated existing provisions as subsec. (a), inserted heading, substituted “Except asprovided in subsection (b) and as provided” for “Except an officer of the Navy who is designated for limited duty to whom section 6383(a)(4) of this title applies and except as provided”, and added subsec. (b).
+2006—Pub. L. 109–163 designated existing provisions as subsec. (a), inserted heading, substituted “Except as provided in subsection (b) and as provided” for “Except an officer of the Navy who is designated for limited duty to whom section 6383(a)(4) of this title applies and except as provided”, and added subsec. (b).
 
 1998—Pub. L. 105–261 inserted “an officer of the Navy who is designated for limited duty to whom section 6383(a)(4) of this title applies and except” after “Except” and struck out at end “During the period beginning on July 1, 1993, and ending on October 1, 1999, the preceding sentence shall not apply to an officer of the Regular Navy designated for limited duty to whom section 6383(a)(4) of this title applies.”
 

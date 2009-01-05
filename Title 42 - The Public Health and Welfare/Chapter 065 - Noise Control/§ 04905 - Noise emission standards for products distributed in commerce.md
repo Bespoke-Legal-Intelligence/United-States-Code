@@ -22,7 +22,7 @@
 
 (B) In the case of any product described in paragraph (1) which is identified (or is part of a class identified) as a major source of noise in a report published under section 4904(b)(1) of this title after publication of the initial proposed regulations under subparagraph (A) of this paragraph, regulations under paragraph (1) for such product shall be proposed and published by the Administrator not later than eighteen months after such report is published.
 
-(3) After proposed regulations respecting a product have been published under paragraph\(2), the Administrator shall, unless in his judgment noise emission standards are not feasible for such product, prescribe regulations, meeting the requirements of subsection (c) of this section, for such product—
+(3) After proposed regulations respecting a product have been published under paragraph (2), the Administrator shall, unless in his judgment noise emission standards are not feasible for such product, prescribe regulations, meeting the requirements of subsection (c) of this section, for such product—
 
 &emsp;(A) not earlier than six months after publication of such proposed regulations, and
 
@@ -56,7 +56,7 @@ The Administrator may publish proposed regulations, meeting the requirements of 
 
 (1) No State or political subdivision thereof may adopt or enforce—
 
-&emsp;(A) with respect to any new product for which a regulation has been prescribed by the Administrator under this section, any law or regulation which sets a limit on noise emissions from such new product and which is not identical to such regulation of the Administrator; or
+&emsp;(A) with respect to any new product for which a regulation has been prescribed by theAdministrator under this section, any law or regulation which sets a limit on noise emissions from such new product and which is not identical to such regulation of the Administrator; or
 
 &emsp;(B) with respect to any component incorporated into such new product by the manufacturer of such product, any law or regulation setting a limit on noise emissions from such component when so incorporated.
 
@@ -64,7 +64,7 @@ The Administrator may publish proposed regulations, meeting the requirements of 
 
 #### (f) Publication of notice of receipt of revision petitions and proposed revised regulations
 
-At any time after the promulgation of regulations respecting a product under this section, aState or political subdivision thereof may petition the Administrator to revise such standard on the grounds that a more stringent standard under subsection (c) of this section is necessary to protect the public health and welfare. The Administration shall publish notice of receipt of such petition in the Federal Register and shall within ninety days of receipt of such petition respond by (1) publication of proposed revised regulations in accordance with subsection (c)(3) of this section, or (2) publication in the Federal Register of a decision not to publish such proposed revised regulations at that time, together with a detailed explanation for such decision.
+At any time after the promulgation of regulations respecting a product under this section, a State or political subdivision thereof may petition the Administrator to revise such standard on the grounds that a more stringent standard under subsection (c) of this section is necessary to protect the public health and welfare. The Administration shall publish notice of receipt of such petition in the Federal Register and shall within ninety days of receipt of such petition respond by (1) publication of proposed revised regulations in accordance with subsection (c)(3) of this section, or (2) publication in the Federal Register of a decision not to publish such proposed revised regulations at that time, together with a detailed explanation for such decision.
 
 (Pub. L. 92–574, §6, Oct. 27, 1972, 86 Stat. 1237; Pub. L. 95–609, §5, Nov. 8, 1978, 92 Stat. 3081.)
 

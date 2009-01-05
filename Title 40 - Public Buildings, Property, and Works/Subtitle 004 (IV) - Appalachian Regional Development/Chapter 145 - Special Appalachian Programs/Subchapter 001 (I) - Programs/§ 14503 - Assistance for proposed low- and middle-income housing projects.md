@@ -34,7 +34,13 @@ Loans.—
 
 &emsp;(1)
 
-Limitation on available amounts.—A loan under subsection (b) shall not be more than 50 percent (or 80 percent for a project to be carried out in a county for which a distressed county designation is in effect under section 14526 of this title) of the cost of planning and obtaining financing for a project, including preliminary surveys and analyses of market needs, preliminary site engineering and architectural fees, site options, application and mortgage commitment fees, legal fees, and construction loan fees and discounts.
+Limitation on available amounts.—A loan under subsection (b) for the cost of planning and obtaining financing (including the cost of preliminary surveys and analyses of market needs, preliminary site engineering and architectural fees, site options, application and mortgage commitment fees, legal fees, and construction loan fees and discounts) of a project described in that subsection may be made for up to—
+
+&emsp;&emsp;(A) 50 percent of that cost;
+
+&emsp;&emsp;(B) in the case of a project to be carried out in a county for which a distressed county designation is in effect under section 14526, 80 percent of that cost; or
+
+&emsp;&emsp;(C) in the case of a project to be carried out for a county for which an at-risk county designation is in effect under section 14526, 70 percent of that cost.
 
 &emsp;(2)
 
@@ -50,7 +56,17 @@ Grants.—
 
 &emsp;(1)
 
-In general.—A grant under this section shall not be made to an organization established for profit and, except as provided in paragraph (2), shall not exceed 50 percent (or 80 percent for a project to be carried out in a county for which a distressed county designation is in effect under section 14526 of this title) of expenses, incident to planning and obtaining financing for a project, which the Secretary considers not to be recoverable from the proceeds of a permanent loan made to finance the project.
+In general.—A grant under this section for expenses incidental to planning and obtaining financing for a project under this section that the Secretary considers to be unrecoverable from the proceeds of a permanent loan made to finance the project shall—
+
+&emsp;&emsp;(A) not be made to an organization established for profit; and
+
+&emsp;&emsp;(B) except as provided in paragraph (2), not exceed—
+
+&emsp;&emsp;&emsp;(i) 50 percent of those expenses;
+
+&emsp;&emsp;&emsp;(ii) in the case of a project to be carried out in a county for which a distressed county designation is in effect under section 14526, 80 percent of those expenses; or
+
+&emsp;&emsp;&emsp;(iii) in the case of a project to be carried out in a county for which an at-risk county designation is in effect under section 14526, 70 percent of those expenses.
 
 &emsp;(2)
 
@@ -68,7 +84,7 @@ Information, Advice, and Technical Assistance.—The Secretary or the Commission
 
 Application of Certain Provisions.—Programs and projects assisted under this section are subject to the provisions cited in section 14701 of this title to the extent provided in the laws authorizing assistance for low- and moderate-income housing.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1268.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1268; Pub. L. 110–371, §2(c), Oct. 8, 2008, 122 Stat. 4038.)
 
 Historical and Revision Notes
 
@@ -113,4 +129,10 @@ Pub. L. 89–4, title II, §207, as added Pub. L. 90–103, title I, §112, Oct.
 Subsection (a)(1) is added for clarity and for consistency with other titles of the United States Code.
 
 In subsection (g), the words “notwithstanding such section” are omitted as unnecessary.
+
+#### Amendments
+
+2008—Subsec. (d)(1). Pub. L. 110–371, §2(c)(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “A loan under subsection (b) shall not be more than 50 percent (or 80 percent for a project to be carried out in a county for which a distressed county designation is in effect under section 14526 of this title) of the cost of planning and obtaining financing for a project, including preliminary surveys and analyses of market needs, preliminary site engineering and architectural fees, site options, application and mortgage commitment fees, legal fees, and construction loan fees and discounts.”
+
+Subsec. (e)(1). Pub. L. 110–371, §2(c)(2), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “A grant under this section shall not be made to an organization established for profit and, except as provided in paragraph (2), shall not exceed 50 percent (or 80 percent for a project to be carried out in a county for which a distressed county designation is in effect under section 14526 of this title) of expenses, incident to planning and obtaining financing for a project, which the Secretary considers not to be recoverable from the proceeds of a permanent loan made to finance the project.”
 

@@ -40,7 +40,7 @@ For purposes of this section—
 
 #### Amendments
 
-1994—Subsec. (d). Pub. L. 103–236 struck out heading and text of subsec. (d). Text read as follows: “The Secretary shall transmit to the Select Committee on Intelligence and the Committee on Foreign Relations of theSenate, and to the Permanent Select Committee on Intelligence and the Committee on Foreign Affairs of the House of Representatives, not later than six months after December 22, 1987, and not later than every six months thereafter, a report on the actions taken by the Secretary in carrying out this section during the previous six months.”
+1994—Subsec. (d). Pub. L. 103–236 struck out heading and text of subsec. (d). Text read as follows: “The Secretary shall transmit to the Select Committee on Intelligence and the Committee on Foreign Relations of the Senate, and to the Permanent Select Committee on Intelligence and the Committee on Foreign Affairs of the House of Representatives, not later than six months after December 22, 1987, and not later than every six months thereafter, a report on the actions taken by the Secretary in carrying out this section during the previous six months.”
 
 #### Change of Name
 

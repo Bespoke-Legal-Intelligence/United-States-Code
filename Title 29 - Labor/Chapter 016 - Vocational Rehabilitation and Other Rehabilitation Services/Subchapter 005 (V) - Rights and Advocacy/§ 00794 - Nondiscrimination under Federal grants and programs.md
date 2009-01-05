@@ -34,7 +34,7 @@ Small providers are not required by subsection (a) of this section to make signi
 
 #### (d) Standards used in determining violation of section
 
-The standards used to determine whether this section has been violated in a complaint alleging employment discrimination under this section shall be the standards applied under title I of the Americans with Disabilities Act of 1990 (42 U.S.C. 12111 et seq.) and the provisions of sections 501 through 504, and 510, of the Americans with Disabilities Act of 1990 (42 U.S.C. 12201–12204 and 12210), as such sections relate to employment.
+The standards used to determine whether this section has been violated in a complaint alleging employment discrimination under this section shall be the standards applied under title I of the Americans with Disabilities Act of 1990 (42 U.S.C. 12111 et seq.) and the provisions of sections 501 through 504, and 510,<sup>1</sup> of the Americans with Disabilities Act of 1990 (42 U.S.C. 12201–12204 and 12210), as such sections relate to employment.
 
 (Pub. L. 93–112, title V, §504, Sept. 26, 1973, 87 Stat. 394; Pub. L. 95–602, title I, §§119, 122(d)(2), Nov. 6, 1978, 92 Stat. 2982, 2987; Pub. L. 99–506, title I, §103(d)(2)(B), title X, §1002(e)(4), Oct. 21, 1986, 100 Stat. 1810, 1844; Pub. L. 100–259, §4, Mar. 22, 1988, 102 Stat. 29; Pub. L. 100–630, title II, §206(d), Nov. 7, 1988, 102 Stat. 3312; Pub. L. 102–569, title I, §102(p)(32), title V, §506, Oct. 29, 1992, 106 Stat. 4360, 4428; Pub. L. 103–382, title III, §394(i)(2), Oct. 20, 1994, 108 Stat. 4029; Pub. L. 105–220, title IV, §408(a)(3), Aug. 7, 1998, 112 Stat. 1203; Pub. L. 107–110, title X, §1076(u)(2), Jan. 8, 2002, 115 Stat. 2093.)
 
@@ -42,7 +42,7 @@ The standards used to determine whether this section has been violated in a comp
 
 The amendments to this section made by the Rehabilitation, Comprehensive Services, and Developmental Disabilities Act of 1978, referred to in subsec. (a), mean the amendments made by Pub. L. 95–602. See 1978 Amendments note below.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (d), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended. Title I of the Act is classified generally to subchapter I (§12111 et seq.) of chapter 126 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (d), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327. Title I of the Act is classified generally to subchapter I (§12111 et seq.) of chapter 126 of Title 42, The Public Health and Welfare. Section 510 of the Act was renumbered section 511 by Pub. L. 110–325, §6(a)(2), Sept. 25, 2008, 122 Stat. 3558. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 #### Amendments
 
@@ -68,7 +68,7 @@ Subsec. (c). Pub. L. 100–259, §4(2), added subsec. (c).
 
 1986—Pub. L. 99–506 substituted “individual with handicaps” for “handicapped individual” and “section 706(8) of this title” for “section 706(7) of this title”.
 
-1978—Pub. L. 95–602 substituted “section 706(7) of this title” for “section 706(6) of this title” and inserted provision prohibiting discrimination under any program or activity conducted by any Executive agency or by theUnited States Postal Service and requiring the heads of these agencies to promulgate regulations prohibiting discrimination.
+1978—Pub. L. 95–602 substituted “section 706(7) of this title” for “section 706(6) of this title” and inserted provision prohibiting discrimination under any program or activity conducted by any Executive agency or by the United States Postal Service and requiring the heads of these agencies to promulgate regulations prohibiting discrimination.
 
 #### Effective Date of 2002 Amendment
 
@@ -93,4 +93,6 @@ For provisions relating to the coordination of implementation and enforcement of
 #### Executive Order No. 11914
 
 Ex. Ord. No. 11914, Apr. 28, 1976, 41 F.R. 17871, which related to nondiscrimination in federally assisted programs, was revoked by Ex. Ord. No. 12250, Nov. 2, 1980, 45 F.R. 72995, set out as a note under section 2000d–1 of Title 42, The Public Health and Welfare.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

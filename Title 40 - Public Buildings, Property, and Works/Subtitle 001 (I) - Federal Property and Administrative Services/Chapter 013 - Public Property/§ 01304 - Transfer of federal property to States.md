@@ -46,7 +46,7 @@ Limitation on transfers for highway purposes.—An interest in real property whi
 
 &emsp;(4)
 
-Limitation on issuance of rights of way.—Rights of way over, under, and through public lands and lands in the National Forest System may not be granted under this subsection.
+Limitation on issuance of rights of way.—Rights of way over, under, and throughpublic lands and lands in the National Forest System may not be granted under this subsection.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1133.)
 

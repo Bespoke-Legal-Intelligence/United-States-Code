@@ -90,7 +90,7 @@ For the purposes of this chapter—
 
 &emsp;&emsp;(C) nutritional counseling and educational services for individuals and their primary caregivers;
 
-&emsp;&emsp;(D) evidence-based health promotion programs, including programs related to the prevention and mitigation of the effects ofchronic disease (including osteoporosis, hypertension, obesity, diabetes, and cardiovascular disease), alcohol and substance abuse reduction, smoking cessation, weight loss and control, stress management, falls prevention, physical activity, and improved nutrition;
+&emsp;&emsp;(D) evidence-based health promotion programs, including programs related to the prevention and mitigation of the effects of chronic disease (including osteoporosis, hypertension, obesity, diabetes, and cardiovascular disease), alcohol and substance abuse reduction, smoking cessation, weight loss and control, stress management, falls prevention, physical activity, and improved nutrition;
 
 &emsp;&emsp;(E) programs regarding physical fitness, group exercise, and music therapy, art therapy, and dance-movement therapy, including programs for multigenerational participation that are provided by—
 
@@ -288,7 +288,7 @@ For the purposes of this chapter—
 
 &emsp;(44) The term “representative payee” means a person who is appointed by a governmental entity to receive, on behalf of an older individual who is unable to manage funds by reason of a physical or mental incapacity, any funds owed to such individual by such entity.
 
-&emsp;(45) The term “Secretary” means the Secretary of Health and Human Services, except that for purposes of subchapter IX of this chapter such term means the Secretary of Labor.
+&emsp;(45) The term “Secretary” means the Secretary of Health and Human Services, except that for purposes of subchapter IX of thischapter such term means the Secretary of Labor.
 
 &emsp;(46) The term “self-directed care” means an approach to providing services (including programs, benefits, supports, and technology) under this chapter intended to assist an individual with activities of daily living, in which—
 
@@ -390,7 +390,7 @@ Par. (21). Pub. L. 106–501, §101(3), redesignated par. (22) as (21). Former p
 
 Par. (22). Pub. L. 106–501, §101(5), redesignated par. (24) as (22). Former par. (22) redesignated (21).
 
-Par. (23). Pub. L. 106–501, §101(5), redesignated par. (25) as (23) and struck out former par. (23) which read as follows: “The term ‘dance-movement therapy’ means the use of psychotherapeutic movement as a process facilitated by a dance-movement therapist, to further theemotional, cognitive, or physical health of an older individual.”
+Par. (23). Pub. L. 106–501, §101(5), redesignated par. (25) as (23) and struck out former par. (23) which read as follows: “The term ‘dance-movement therapy’ means the use of psychotherapeutic movement as a process facilitated by a dance-movement therapist, to further the emotional, cognitive, or physical health of an older individual.”
 
 Pars. (24) to (31). Pub. L. 106–501, §101(5), redesignated pars. (26) to (33) as (24) to (31), respectively. Former pars. (24) and (25) redesignated (22) and (23), respectively.
 
@@ -430,7 +430,7 @@ Par. (12). Pub. L. 100–628, §705(1)(B), redesignated par. (8) defining “Tru
 
 1987—Par. (1). Pub. L. 100–175, §182(a), substituted “except that for purposes of subchapter IX of this chapter such term means the Secretary of Labor” for “other than for purposes of subchapter IX of this chapter”.
 
-Par. (3). Pub. L. 100–175, §182(b)(1)(A), substituted “means any of the several States,” for “includes” and “the Commonwealth of Puerto Rico” for “Puerto Rico”.
+Par. (3). Pub. L. 100–175, §182(b)(1)(A), substituted “means any of the several States,” for “includes” and“the Commonwealth of Puerto Rico” for “Puerto Rico”.
 
 Par. (8). Pub. L. 100–175, §182(b)(1)(B), added par. (8) defining “Trust Territory of the Pacific Islands”.
 
@@ -454,7 +454,7 @@ Pars. (4) to (7). Pub. L. 95–478, §503(a)(2), redesignated second par. (4), w
 
 1975—Par. (1). Pub. L. 94–135, §114(a), substituted a period for the semicolon.
 
-Pars. (4) to (6). Pub. 94–135, §104(b), added pars. (4) to (6).
+Pars. (4) to (6). Pub. L. 94–135, §104(b), added pars. (4) to (6).
 
 1969—Par. (3). Pub. L. 91–69 enlarged term “State” to include the Trust Territory of the Pacific Islands.
 

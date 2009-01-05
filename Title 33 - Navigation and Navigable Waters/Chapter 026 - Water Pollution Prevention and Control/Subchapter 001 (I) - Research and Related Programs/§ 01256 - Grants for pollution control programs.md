@@ -54,7 +54,7 @@ Grants shall be made under this section on condition that—
 
 Any sums allotted under subsection (b) of this section in any fiscal year which are not paid shall be reallotted by the Administrator in accordance with regulations promulgated by him.
 
-(June 30, 1948, ch. 758, title I, §106, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 827; amended Pub. L. 93–592, §3, Jan. 2, 1975, 88 Stat. 1925; Pub. L. 94–273, §3(20), Apr. 21, 1976, 90 Stat. 377; Pub. L. 95–217, §4(c), Dec. 27, 1977, 91 Stat. 1566; Pub. L. 96–483, §1(b), Oct. 21, 1980, 94 Stat. 2360; Pub. L. 100–4, title I, §101(b), Feb. 4, 1987, 101 Stat. 9.)
+(June 30, 1948, ch. 758, title I, §106, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 827; amended Pub. L. 93–592, §3, Jan. 2, 1975, 88 Stat. 1925; Pub.L. 94–273, §3(20), Apr. 21, 1976, 90 Stat. 377; Pub. L. 95–217, §4(c), Dec. 27, 1977, 91 Stat. 1566; Pub. L. 96–483, §1(b), Oct. 21, 1980, 94 Stat. 2360; Pub. L. 100–4, title I, §101(b), Feb. 4, 1987, 101 Stat. 9.)
 
 #### Amendments
 

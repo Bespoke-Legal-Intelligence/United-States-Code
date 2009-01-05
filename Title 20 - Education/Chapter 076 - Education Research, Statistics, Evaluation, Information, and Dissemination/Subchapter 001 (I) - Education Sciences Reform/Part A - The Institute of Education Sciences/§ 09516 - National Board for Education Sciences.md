@@ -70,7 +70,7 @@ The duties of the Board shall be the following:
 
 &emsp;&emsp;&emsp;(i) Not fewer than 8 researchers in the field of statistics, evaluation, social sciences, or physical and biological sciences, which may include those researchers recommended by the National Academy of Sciences.
 
-&emsp;&emsp;&emsp;(ii) Individuals who are knowledgeable about the educational needs of the United States, who may include school-based professional educators, parents (including parents with experience in promoting parental involvement in education), Chief State School Officers, State postsecondary education executives, presidents of institutions of higher education, local educational agency superintendents, early childhood experts, special education experts, principals, members of State or local boards of education or Bureau-funded school boards, and individuals from business and industry with experience in promoting private sector involvement in education.
+&emsp;&emsp;&emsp;(ii) Individuals who are knowledgeable about the educational needs of the United States, who may include school-based professional educators, parents (including parents with experience in promoting parental involvement in education), Chief State School Officers, State postsecondary education executives, presidents of institutions of higher education, local educational agency superintendents, early childhood experts, special education experts, principals, members of State orlocal boards of education or Bureau-funded school boards, and individuals from business and industry with experience in promoting private sector involvement in education.
 
 #### (B) Terms
 
@@ -164,7 +164,7 @@ The duties of the Board shall be the following:
 
 &emsp;&emsp;(B) prepare for, and submit to, the Board an annual evaluation of the operations of the applicable National Education Center;
 
-&emsp;&emsp;(C) review and comment on the relevant plan for activities to be undertaken by the applicable National Education Center for each fiscal year; and
+&emsp;&emsp;(C) review and comment on the relevant plan for activities to be undertaken by theapplicable National Education Center for each fiscal year; and
 
 &emsp;&emsp;(D) report periodically to the Board regarding the activities of the committee and the applicable National Education Center.
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment and operation
 
-During the period beginning 60 days after December 23, 1985, and ending on December 31, 2007, the Commodity Credit Corporation shall establish and operate an export incentive program as described in this section for dairy products under section 714c of this title.
+During the period beginning 60 days after December 23, 1985, and ending on December 31, 2012,the Commodity Credit Corporation shall establish and operate an export incentive program as described in this section for dairy products under section 714c of this title.
 
 #### (b) Payments to entity that sells for export United States dairy products; bid basis; criteria for acceptance or rejection of bids
 
@@ -16,7 +16,7 @@ The program shall be operated under such rules and regulations issued by the Sec
 
 &emsp;(2) to the extent practicable, dairy products sold for export under the program will not displace commercial export sales of United States dairy products by other exporters;
 
-&emsp;(3) the maximum volume of dairy product exports allowable consistent with the obligations of the United States as a member of the World Trade Organization is exported under the program each year (minus the volume sold under section 1163 of the Food Security Act of 1985 (Public Law 99–198; 7 U.S.C. 1731 note) during that year), except to the extent that the export of such a volume under the program would, in the judgment of the Secretary, exceed the limitations on the value set forth in subsection (f) of this section; and
+&emsp;(3) the maximum volume of dairy product exports allowable consistent with the obligations of the United States under the Uruguay Round Agreements approved under section 3511 of title 19 is exported under the program each year (minus the volume sold under section 1163 of this Act during that year), except to the extent that the export of such a volume under the program would, in the judgment of the Secretary, exceed the limitations on the value permitted under subsection (f); and
 
 &emsp;(4) payments may be made under the program for exports to any destination in the world for the purpose of market development, except a destination in a country with respect to which shipments from the United States are otherwise restricted by law.
 
@@ -38,23 +38,37 @@ The program shall be operated under such rules and regulations issued by the Sec
 
 #### (e) Payment rates; publication in Federal Register or other public announcement
 
-(1) The payments made under the program shall be made at a rate or rates established orapproved by the Secretary, taking into consideration, among other things the type of product to be exported, the domestic price of dairy products, the world price of the dairy products, and any additional amount that may be required to assist in the development of world markets for United States dairy products.
+(1) The payments made under the program shall be made at a rate or rates established or approved by the Secretary, taking into consideration, among other things the type of product to be exported, the domestic price of dairy products, the world price of the dairy products, and any additional amount that may be required to assist in the development of world markets for United States dairy products.
 
 (2) Any such rate established or approved by the Secretary shall be published in the Federal Register or publicly announced through other appropriate means, and shall be at a level or levels as will encourage the exportation of United States dairy products by entities.
 
 #### (f) Required funding
 
-#### (1) In general
+#### (1) Funds and commodities
 
-&emsp;Except as provided in paragraph (2), the Commodity Credit Corporation shall in each year use money and commodities for the program under this section in the maximum amount consistent with the obligations of the United States as a member of the World Trade Organization, minus the amount expended under section 1163 of the Food Security Act of 1985 (Public Law 99–198; 7 U.S.C. 1731 note) during that year.
+&emsp;Except as provided in paragraph (2), the Commodity Credit Corporation shall in each year use money and commodities for the program under this section in the maximum amount consistent with the obligations of the United States under the Uruguay Round Agreements approved under section 3511 of title 19, minus the amount expended under section 1163 of this Act during that year.
 
 #### (2) Volume limitations
 
 &emsp;The Commodity Credit Corporation may not exceed the limitations specified in subsection (c)(3) of this section on the volume of allowable dairy product exports.
 
-(Pub. L. 99–198, title I, §153, Dec. 23, 1985, 99 Stat. 1377; Pub. L. 100–418, title IV, §4308, Aug. 23, 1988, 102 Stat. 1399; Pub. L. 100–435, title I, §106, Sept. 19, 1988, 102 Stat. 1651; Pub. L. 101–624, title I, §114, Nov. 28, 1990, 104 Stat. 3380; Pub. L. 103–465, title IV, §411(b), Dec. 8, 1994, 108 Stat. 4963; Pub. L. 104–127, title I, §148, Apr. 4, 1996, 110 Stat. 920; Pub. L. 107–171, title I, §1503(a), May 13, 2002, 116 Stat. 207.)
+(Pub. L. 99–198, title I, §153, Dec. 23, 1985, 99 Stat. 1377; Pub. L. 100–418, title IV, §4308, Aug. 23, 1988, 102 Stat. 1399; Pub. L. 100–435, title I, §106, Sept. 19, 1988, 102 Stat. 1651; Pub. L. 101–624, title I, §114, Nov. 28, 1990, 104 Stat. 3380; Pub. L. 103–465, title IV, §411(b), Dec. 8, 1994, 108 Stat. 4963; Pub. L. 104–127, title I, §148, Apr. 4, 1996, 110 Stat. 920; Pub. L. 107–171, title I, §1503(a), May 13, 2002, 116 Stat. 207; Pub. L. 110–234, title I, §1503, May 22, 2008, 122 Stat. 992; Pub. L. 110–246, §4(a), title I, §1503, June 18, 2008, 122 Stat. 1664, 1721.)
+
+#### References in Text
+
+Section 1163 of this Act, referred to in subsecs. (c)(3) and (f)(1), is section 1163 of Pub. L. 99–198, which is set out as a note under section 1731 of Title 7, Agriculture.
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–246, §1503(a), substituted “2012” for “2007”.
+
+Subsec. (c)(3). Pub. L. 110–246, §1503(b)(1), added par. (3) and struck out former par. (3) which read as follows: “the maximum volume of dairy product exports allowable consistent with the obligations of the United States as a member of the World Trade Organization is exported under the program each year (minus the volume sold under section 1163 of the Food Security Act of 1985 (Public Law 99–198; 7 U.S.C. 1731 note) during that year), except to the extent that the export of such a volume under the program would, in the judgment of the Secretary, exceed the limitations on the value set forth in subsection (f) of this section; and”
+
+Subsec. (f)(1). Pub. L. 110–246, §1503(b)(2), added par. (1) and struck out former par. (1). Text read as follows: “Except as provided in paragraph (2), the Commodity Credit Corporation shall in each year use money and commodities for the program under this section in the maximum amount consistent with the obligations of the United States as a member of the World Trade Organization, minus the amount expended under section 1163 of the Food Security Act of 1985 (Public Law 99–198; 7 U.S.C. 1731 note) during that year.”
 
 2002—Subsec. (a). Pub. L. 107–171 substituted “2007” for “2002”.
 
@@ -79,6 +93,10 @@ Subsec. (d)(2), (3). Pub. L. 100–418 amended pars. (2) and (3) generally. Prio
 “(2) If payments in commodities are authorized, such payments may be made through the issuance of certificates redeemable in commodities.
 
 “(3) If payments are authorized to be made in dairy products, the regulations issued by the Secretary shall ensure that such dairy products, or an equal amount of other dairy products, will be sold for export by the entity and that any such export sales by the entity will be in addition to, and not in place of, export sales of dairy products that the entity would otherwise make under program or in the absence of the program, and, to the extent practicable, will not displace commercial export sales of United States dairy products by other exporters.”
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 #### Effective Date of 1994 Amendment
 

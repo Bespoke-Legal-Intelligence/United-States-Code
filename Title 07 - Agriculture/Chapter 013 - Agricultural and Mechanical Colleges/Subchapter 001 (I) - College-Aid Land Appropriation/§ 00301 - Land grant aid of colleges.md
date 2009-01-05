@@ -18,7 +18,7 @@ Pub. L. 107–171, title VII, §7201(e), May 13, 2002, 116 Stat. 437, provided t
 
 Pub. L. 106–387, §1(a) \[title I\], Oct. 28, 2000, 114 Stat. 1549, 1549A–7, provided in part: “That hereafter, any distribution of the adjusted income from the Native American Institutions Endowment Fund is authorized to be used for facility renovation, repair, construction, and maintenance, in addition to other authorized purposes.”
 
-Pub. L. 103–382, title V, part C, Oct. 20, 1994, 108 Stat. 4048, as amended by Pub. L. 104–127, title VIII, §882, Apr. 4, 1996, 110 Stat. 1175; Pub. L. 105–185, title II, §251, title III, §301(g), June 23, 1998, 112 Stat. 557, 563; Pub. L. 105–332, §3(d), Oct. 31, 1998, 112 Stat. 3126; Pub. L. 107–171, title VII, §§7126(f)–7128, 7201(a)–(d), May 13, 2002, 116 Stat. 435–437; Pub. L. 108–204, title I, §128, Mar. 2, 2004, 118 Stat. 547; Pub. L. 108–447, div. A, title VII, §777, Dec. 8, 2004, 118 Stat. 2849, provided that:
+Pub. L. 103–382, title V, part C, Oct. 20, 1994, 108 Stat. 4048, as amended by Pub. L. 104–127, title VIII, §882, Apr. 4, 1996, 110 Stat. 1175; Pub. L. 105–185, title II, §251, title III, §301(g), June 23, 1998, 112 Stat. 557, 563; Pub. L. 105–332, §3(d), Oct. 31, 1998, 112 Stat. 3126; Pub. L. 107–171, title VII, §§7126(f)–7128, 7201(a)–(d), May 13, 2002, 116 Stat. 435–437; Pub. L. 108–204, title I, §128, Mar. 2, 2004, 118 Stat. 547; Pub. L. 108–447, div. A, title VII, §777, Dec. 8, 2004, 118 Stat. 2849; Pub. L. 110–234, title VII, §7402(a)–(e), May 22, 2008, 122 Stat. 1245, 1246; Pub. L. 110–246, §4(a), title VII, §7402(a)–(e), June 18, 2008, 122 Stat. 1664, 2007; Pub. L. 110–315, title IX, §941(k)(2)(A), Aug. 14, 2008, 122 Stat. 3465, provided that:
 
 #### “SEC. 531. SHORT TITLE.
 
@@ -94,6 +94,8 @@ Pub. L. 103–382, title V, part C, Oct. 20, 1994, 108 Stat. 4048, as amended by
 
 &emsp;“(33) White Earth Tribal and Community College.
 
+&emsp;“(34) Ilisagvik College.
+
 #### “SEC. 533. LAND-GRANT STATUS FOR 1994 INSTITUTIONS.
 
 “(a)
@@ -118,7 +120,7 @@ institutions.—(A) 1994 Institutions shall not be considered as land-grant coll
 
 &emsp;“(3)
 
-Accreditation.—To receive funding under sections 534, 535, and 536, a 1994 Institution shall certify to the Secretary that the 1994 Institution—
+Accreditation.—To receive funding under this section and sections 534, 535, and 536, a 1994 Institution shall certify to the Secretary that the 1994 Institution—
 
 &emsp;&emsp;“(A) is accredited by a nationally recognized accrediting agency or association determined by the Secretary, in consultation with the Secretary of Education, to be a reliable authority regarding the quality of training offered; or
 
@@ -126,7 +128,7 @@ Accreditation.—To receive funding under sections 534, 535, and 536, a 1994 Ins
 
 “(b)
 
-Authorization of Appropriations.—There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1996 through 2007. Amounts appropriated pursuant to this section shall be held and considered to have been granted to 1994 Institutions to establish an endowment pursuant to subsection (c).
+Authorization of Appropriations.—There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1996 through 2012. Amounts appropriated pursuant to this section shall be held and considered to have been granted to 1994 Institutions to establish an endowment pursuant to subsection (c).
 
 “(c)
 
@@ -152,7 +154,7 @@ Investments.—The Secretary shall invest the endowment fund corpus and income i
 
 Withdrawals and expenditures.—The Secretary may not make a withdrawal or expenditure from the endowment fund corpus. On the termination of each fiscal year, the Secretary shall withdraw the amount of the income from the endowment fund for the fiscal year, and after making adjustments for the cost of administering the endowment fund, distribute the adjusted income as follows:
 
-&emsp;&emsp;“(A) 60 percent of the adjusted income shall be distributed among the 1994 Institutions on a pro rata basis. The proportionate share of the adjusted income received by a 1994 Institution under this subparagraph shall be based on the Indian student count (as defined in section 2(a) of the Tribally Controlled College or University Assistance Act of 1978 (25 U.S.C. 1801(a))).
+&emsp;&emsp;“(A) 60 percent of the adjusted income shall be distributed among the 1994 Institutions on a pro rata basis. The proportionate share of the adjusted income received by a 1994 Institution under this subparagraph shall be based on the Indian student count (as defined in section 2(a) of the Tribally Controlled Colleges and Universities Assistance Act of 1978 (25 U.S.C. 1801(a))).
 
 &emsp;&emsp;“(B) 40 percent of the adjusted income shall be distributed in equal shares to the 1994 Institutions.
 
@@ -184,7 +186,19 @@ Payments.—For each fiscal year, the Secretary of the Treasury shall pay to the
 
 &emsp;“(3)
 
-Use of funds; requirements.—The amounts authorized to be appropriated under this subsection shall be used in the same manner as is prescribed for colleges under the Act of August 30, 1890 (26 Stat. 417, chapter 841; 7 U.S.C. 321 et seq.) (commonly known as the Second Morrill Act), and, except as otherwise provided in this subsection, the requirements of such Act shall apply to 1994 Institutions.
+Use of funds; requirements.—
+
+&emsp;&emsp;“(A)
+
+In general.—Except as provided in subparagraph (B), the amounts authorized to be appropriated under this subsection shall be used in the same manner as is prescribed for colleges under the Act of August 30, 1890 (26 Stat. 417, chapter 841; 7 U.S.C. 321 et seq.) (commonly known as the Second Morrill Act), and, except as otherwise provided in this subsection, the requirements of such Act shall apply to 1994 Institutions.
+
+&emsp;&emsp;“(B)
+
+Redistribution.—Funds that would be paid to a 1994 Institution under paragraph (2) shall be withheld from that 1994 Institution and redistributed among the other 1994 Institutions if that 1994 Institution—
+
+&emsp;&emsp;&emsp;“(i) declines to accept funds under paragraph (2); or
+
+&emsp;&emsp;&emsp;“(ii) fails to meet the accreditation requirements under section 533(a)(3).
 
 “(b)
 
@@ -214,7 +228,7 @@ In General.—
 
 &emsp;“(1)
 
-Institutional capacity building grants.—For each of fiscal years 1996 through 2007, the Secretary shall make two or more institutional capacity building grants to assist 1994 Institutions with constructing, acquiring, and remodeling buildings, laboratories, and other capital facilities (including fixtures and equipment) necessary to conduct instructional activities more effectively in agriculture and sciences.
+Institutional capacity building grants.—For each of fiscal years 1996 through 2012, the Secretary shall make two or more institutional capacity building grants to assist 1994 Institutions with constructing, acquiring, and remodeling buildings, laboratories, and other capital facilities (including fixtures and equipment) necessary to conduct instructional activities more effectively in agriculture and sciences.
 
 &emsp;“(2)
 
@@ -234,7 +248,7 @@ Payment of non-federal share.—A grant awarded under this subsection shall be m
 
 “(c)
 
-Authorization of Appropriations.—There are authorized to be appropriated to the Department of Agriculture to carry out this section, such sums as are necessary for each of fiscal years 2002 through 2007.
+Authorization of Appropriations.—There are authorized to be appropriated to the Department of Agriculture to carry out this section, such sums as are necessary for each of fiscal years 2002 through 2012.
 
 #### “SEC. 536. RESEARCH GRANTS.
 
@@ -248,7 +262,11 @@ Requirements.—Grant applications submitted under this section shall certify th
 
 “(c)
 
-Authorization of Appropriations.—There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2007. Amounts appropriated shall remain available until expended.”
+Authorization of Appropriations.—There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2012. Amounts appropriated shall remain available until expended.”
+
+\[Pub. L. 110–234, title VII, §7402(f), May 22, 2008, 122 Stat. 1246, and Pub. L. 110–246, §4(a), title VII, §7402(f), June 18, 2008, 122 Stat. 1664, 2007, provided that: “The amendment made by subsection (a) \[amending section 532 of Pub. L. 103–382, set out above\] takes effect on October 1, 2008.”
+
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
 
 #### Land Grant Colleges in American Samoa, Northern Mariana Islands, and Trust Territory of the Pacific Islands
 
@@ -270,7 +288,7 @@ Section 506(a), (b) of Pub. L. 92–318, title V, June 23, 1972, 86 Stat. 350, a
 
 #### Exchange of Land in Missouri
 
-Pub. L. 85–282, Sept. 4, 1957, 71 Stat. 607, provided: “That, notwithstanding the provisions of the Act entitled ‘An Act donating public lands to the several States and Territories which may provide colleges for the benefit of agriculture and the mechanic arts’, approved July 2, 1862 (7 U.S.C. secs. 301–308), the State of Missouri is authorized to convey to the United States all right, title, and interest of such State in and to any land granted to such State under authority of such Act of July 2, 1862, which is located within the exterior boundaries of the national forests situated within such State, and, in exchange therefor, the Secretary of Agriculture is authorized to convey to the State of Missouri all right, title, and interest of the United States in and to not to exceed an equal value of national forest lands (as determined by the Secretary) situated within such State.
+Pub. L. 85–282, Sept. 4, 1957, 71 Stat. 607, provided: “That, notwithstanding the provisions of the Act entitled ‘An Act donating public lands to the several States and Territories which may provide colleges for the benefit of agriculture and the mechanic arts’, approved July 2, 1862 (7 U.S.C. secs. 301–308), the State of Missouri is authorized to convey to the United States all right, title, and interest of such State in and to any land granted to such State under authority of such Act of July 2, 1862, which is located within the exterior boundaries of the national forests situated within such State, and, in exchange therefor, the Secretary of Agriculture is authorized to convey to the State of Missouri all right, title, and interest of the United States in and to not to exceed an equal value of national forest lands\(as determined by the Secretary) situated within such State.
 
 “
 
@@ -282,7 +300,7 @@ Sec. 3. Any land conveyed to the State of Missouri under authority of this Act s
 
 #### Cooperation in Placement of Domestic Farm Labor
 
-Section 2(b) of act Apr. 28, 1947, ch. 43, 61 Stat. 55, provided: “The Secretary of Agriculture and the Secretary of Labor shall take such action as may be necessary toassure maximum cooperation between the agricultural extension services of the land-grant colleges and the State public employment agencies in the recruitment and placement of domestic farm labor and in the keeping of such records and information with respect thereto as may be necessary for the proper and efficient administration of the State unemployment compensation laws and of title V of the Servicemen's Readjustment Act of 1944, as amended (58 Stat. 295).”
+Section 2(b) of act Apr. 28, 1947, ch. 43, 61 Stat. 55, provided: “The Secretary of Agriculture and the Secretary of Labor shall take such action as may be necessary to assure maximum cooperation between the agricultural extension services of the land-grant colleges and the State public employment agencies in the recruitment and placement of domestic farm labor and in the keeping of such records and information with respect thereto as may be necessary for the proper and efficient administration of the State unemployment compensation laws and of title V of the Servicemen's Readjustment Act of 1944, as amended (58 Stat. 295).”
 
 #### Admission of Alaska as State; Grants Not To Extend to Alaska
 

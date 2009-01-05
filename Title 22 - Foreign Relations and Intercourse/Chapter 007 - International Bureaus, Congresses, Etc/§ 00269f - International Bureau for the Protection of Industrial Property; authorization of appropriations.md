@@ -6,7 +6,7 @@ Funds appropriated to the Secretary of State for “International Organizations 
 
 #### Amendments
 
-1983—Pub. L. 98–164 substituted provisions making appropriations available for the payment of expenses ofthe International Bureau for the Protection of Industrial Property for any year after 1981, for provisions authorizing appropriations for contributions for the support of the International Bureau of Intellectual Property for the period from July 1, 1950, through June 30, 1959, and for the payment by the United States of its share of the expenses of the Bureau.
+1983—Pub. L. 98–164 substituted provisions making appropriations available for the payment of expenses of the International Bureau for the Protection of Industrial Property for any year after 1981, for provisions authorizing appropriations for contributions for the support of the International Bureau of Intellectual Property for the period from July 1, 1950, through June 30, 1959, and for the payment by the United States of its share of the expenses of the Bureau.
 
 1972—Subsec. (a). Pub. L. 92–511, §1(1), substituted “International Bureau of Intellectual Property” for “International Bureau for the Protection of Industrial Property”.
 

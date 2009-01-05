@@ -2,17 +2,21 @@
 
 (a) Notwithstanding any other provision of law, the Secretary of the Interior shall not, in disbursing funds provided under sections 640a to 640c–3 of this title, use any method of payment which was not used during fiscal year 1987 in the disbursement of funds provided under sections 640a to 640c–3 of this title.
 
-(b)(1)(A) Notwithstanding any provision of law other than subparagraph (B), any interest or investment income that accrues on any funds provided under sections 640a to 640c–3 of this title after such funds are paid to the Navajo Community College and before such funds are expended for the purpose for which such funds were provided under sections 640a to 640c–3 of this title shall be the property of the Navajo Community College and shall not be taken into account by any officer or employee of the Federal Government in determining whether to provide assistance, or the amount of assistance, to the Navajo Community College under any provision of Federal law.
+(b)(1)(A) Notwithstanding any provision of law other than subparagraph (B), any interest or investment income that accrues on any funds provided under sections 640a to 640c–3 of this title after such funds are paid to Dine�AE1 College and before such funds are expended for the purpose for which such funds were provided under sections 640a to 640c–3 of this title shall be the property of Dine�AE1 College and shall not be taken into account by any officer or employee of the Federal Government in determining whether to provide assistance, or the amount of assistance, to Dine�AE1 College under any provision of Federal law.
 
-(B) All interest or investment income described in subparagraph (A) shall be expended by the Navajo Community College by no later than the close of the fiscal year succeeding the fiscal year in which such interest or investment income accrues.
+(B) All interest or investment income described in subparagraph (A) shall be expended by Dine�AE1 College by no later than the close of the fiscal year succeeding the fiscal year in which such interest or investment income accrues.
 
-(2) Funds provided under sections 640a to 640c–3 of this title may only be invested by the Navajo Community College in obligations of the United States or in obligations or securities that are guaranteed or insured by the United States.
+(2) Funds provided under sections 640a to 640c–3 of this title may only be invested by Dine�AE1 College in obligations of the United States or in obligations or securities that are guaranteed or insured by the United States.
 
-(Pub. L. 92–189, §7, as added Pub. L. 100–297, title V, §5402(b), Apr. 28, 1988, 102 Stat. 415.)
+(Pub. L. 92–189, §7, as added Pub. L. 100–297, title V, §5402(b), Apr. 28, 1988, 102 Stat. 415; amended Pub. L. 110–315, title IX, §946(f), Aug. 14, 2008, 122 Stat. 3469.)
 
 #### Codification
 
 Section was not enacted as part of act Apr. 19, 1950, ch. 92, 64 Stat. 44, which comprises this subchapter.
+
+#### Amendments
+
+2008—Subsec. (b). Pub. L. 110–315 substituted “Dine�AE1 College” for “the Navajo Community College” wherever appearing.
 
 #### Effective Date
 

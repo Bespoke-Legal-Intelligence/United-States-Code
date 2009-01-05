@@ -16,7 +16,7 @@ There is within the Administration an Office of Defense Nuclear Security, headed
 
 #### Amendments
 
-2006—Pub. L. 109–364, §3117(b)(1)(A), struck out “Office of Defense Nuclear Counterintelligence and” before “Office of Defense Nuclear Security” in section catchline.
+<b>2006</b>—Pub. L. 109–364, §3117(b)(1)(A), struck out “Office of Defense Nuclear Counterintelligence and” before “Office of Defense Nuclear Security” in section catchline.
 
 Subsec. (a). Pub. L. 109–364, §3117(b)(1)(B), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows:
 

@@ -6,7 +6,7 @@ This part may be cited as the “Native Hawaiian Education Act”.
 
 #### Prior Provisions
 
-Provisions naming former part B (§7901 et seq.) of subchapter IX of this chapter as the “Native HawaiianEducation Act” were contained in section 7901 of this title, prior to the general amendment of subchapter IX by Pub. L. 107–110.
+Provisions naming former part B (§7901 et seq.) of subchapter IX of this chapter as the “Native Hawaiian Education Act” were contained in section 7901 of this title, prior to the general amendment of subchapter IX by Pub. L. 107–110.
 
 A prior section 7511, Pub. L. 89–10, title VII, §7201, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3737, set forth short title of the Foreign Language Assistance Act of 1994, prior to the general amendment of this subchapter by Pub. L. 107–110.
 

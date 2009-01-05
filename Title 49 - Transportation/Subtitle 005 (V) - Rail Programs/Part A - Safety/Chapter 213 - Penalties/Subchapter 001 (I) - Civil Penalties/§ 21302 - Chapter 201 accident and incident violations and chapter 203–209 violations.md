@@ -4,7 +4,7 @@
 
 Penalty.—(1) Subject to section 21304 of this title, a person violating a regulation prescribed or order issued under chapter 201 of this title related to accident and incident reporting or investigation, or violating chapters 203–209 of this title or a regulation or requirement prescribed or order issued under chapters 203–209, is liable to the United States Government for a civil penalty. An act by an individual that causes a railroad carrier to be in violation is a violation. A separate violation occurs for each day the violation continues.
 
-(2) The Secretary of Transportation imposes a civil penalty under this subsection. The amount of the penalty shall be at least $500 but not more than $10,000. However, when a grossly negligent violation or a pattern of repeated violations has caused an imminent hazard of death or injury to individuals, or has caused death or injury, the amount may be not more than $20,000.
+(2) The Secretary of Transportation imposes a civil penalty under this subsection. The amount of the penalty shall be at least $500 but not more than $25,000. However, when a grossly negligent violation or a pattern of repeated violations has caused an imminent hazard of death or injury to individuals, or has caused death or injury, the amount may be not more than $100,000.
 
 (3) The Secretary may compromise the amount of the civil penalty under section 3711 of title 31. In determining the amount of a compromise, the Secretary shall consider—
 
@@ -20,7 +20,7 @@ Penalty.—(1) Subject to section 21304 of this title, a person violating a regu
 
 Civil Actions To Collect.—The Attorney General shall bring a civil action in a district court of the United States to collect a civil penalty that is referred to the Attorney General for collection under subsection (a) of this section. The action may be brought in the judicial district in which the violation occurred or the defendant has its principal executive office. If the action is against an individual, the action also may be brought in the judicial district in which the individual resides.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 892.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 892; Pub. L. 110–432, div. A, title III, §302(b), Oct. 16, 2008, 122 Stat. 4878.)
 
 Historical and Revision Notes
 
@@ -121,4 +121,8 @@ In subsection (a)(3), the words “section 3711 of title 31” are substituted f
 In subsection (a)(4), the words “the Secretary shall refer the matter to the Attorney General for collection” are substituted for “recovered in a suit or suits to be brought by” for clarity. The words “and it shall also be the duty of the Secretary of Transportation to lodge with . . . information of any such violations as may come to his knowledge” and “and it shall be the duty of the director of locomotive inspection to give information . . . of all violations coming to his knowledge” are omitted as obsolete.
 
 In subsection (b), the words “The Attorney General shall bring a civil action in a district court of the United States to collect a civil penalty that is referred to the Attorney General for collection under subsection (a) of this section” are substituted for “and it shall be the duty of such United States attorney to bring such suits upon duly verified information being lodged with him of such violation having occurred” in 45:6, and for “It shall be the duty of such attorneys to bring such suits upon duly verified information being lodged with them showing such violations having occurred” in 49 App.:26, for clarity and consistency in this section and with other provisions of the revised title.
+
+#### Amendments
+
+2008—Subsec. (a)(2). Pub. L. 110–432 substituted “$25,000.” for “$10,000.” and “$100,000.” for “$20,000.”
 

@@ -20,7 +20,7 @@ Beginning in fiscal year 2008, the Secretary shall assess and collect fees in ac
 
 #### (C) Exception for previously filed application or supplement
 
-&emsp;&emsp;If a human drug application or supplement was submitted by a person that paid the fee for such application or supplement, was accepted for filing, and was not approved or was withdrawn (without a waiver), the submission of a human drug application or a supplement for the same product by the same person (or the person's licensee, assignee, or successor) shall not be subject to a fee under subparagraph (A).
+&emsp;&emsp;If a human drug application or supplement was submitted by a person that paid the feefor such application or supplement, was accepted for filing, and was not approved or was withdrawn (without a waiver), the submission of a human drug application or a supplement for the same product by the same person (or the person's licensee, assignee, or successor) shall not be subject to a fee under subparagraph (A).
 
 #### (D) Refund of fee if application refused for filing or withdrawn before filing
 
@@ -64,7 +64,7 @@ Beginning in fiscal year 2008, the Secretary shall assess and collect fees in ac
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), each person who is named as the applicant in anapproved human drug application for a positron emission tomography drug shall be subject under subparagraph (A) to one-sixth of an annual establishment fee with respect to each such establishment identified in the application as producing positron emission tomography drugs under the approved application.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), each person who is named as the applicant in an approved human drug application for a positron emission tomography drug shall be subject under subparagraph (A) to one-sixth of an annual establishment fee with respect to each such establishment identified in the application as producing positron emission tomography drugs under the approved application.
 
 #### (ii) Exception from annual establishment fee
 
@@ -142,7 +142,7 @@ Beginning in fiscal year 2008, the Secretary shall assess and collect fees in ac
 
 &emsp;&emsp;(A) the total percentage change that occurred in the Consumer Price Index for all urban consumers (all items; U.S. city average) for the 12 month period ending June 30 preceding the fiscal year for which fees are being established,
 
-&emsp;&emsp;(B) the total percentage change for the previous fiscal year in basic pay under theGeneral Schedule in accordance with section 5332 of title 5, as adjusted by any locality-based comparability payment pursuant to section 5304 of such title for Federal employees stationed in the District of Columbia, or
+&emsp;&emsp;(B) the total percentage change for the previous fiscal year in basic pay under the General Schedule in accordance with section 5332 of title 5, as adjusted by any locality-based comparability payment pursuant to section 5304 of such title for Federal employees stationed in the District of Columbia, or
 
 &emsp;&emsp;(C) the average annual change in the cost, per full-time equivalent position of the Food and Drug Administration, of all personnel compensation and benefits paid with respect to such positions for the first 5 years of the preceding 6 fiscal years.
 
@@ -150,7 +150,7 @@ Beginning in fiscal year 2008, the Secretary shall assess and collect fees in ac
 
 #### (2) Workload adjustment
 
-&emsp;For fiscal year 2009 and subsequent fiscal years, after the fee revenues established in subsection (b) of this section are adjusted for a fiscal year for inflation in accordance with paragraph (1), the fee revenues shall be adjusted further for such fiscal year to reflect changes in the workload of the Secretary for the process for the review of human drug applications. With respect to such adjustment:
+&emsp;For fiscal year 2009 and subsequent fiscal years, after the fee revenues established in subsection (b) of this section are adjusted for a fiscal year for inflation in accordance with paragraph (1), the fee revenues shall be adjusted further for such fiscal year to reflect changes in the workload of the Secretary forthe process for the review of human drug applications. With respect to such adjustment:
 
 &emsp;&emsp;(A) The adjustment shall be determined by the Secretary based on a weighted average of the change in the total number of human drug applications (adjusted for changes in review activities, as described in the notice that the Secretary is required to publish in the Federal Register under this subparagraph), efficacy supplements, and manufacturing supplements submitted to the Secretary, and the change in the total number of active commercial investigational new drug applications (adjusted for changes in review activities, as so described) during the most recent 12-month period for which data on such submissions is available. The Secretary shall publish in the Federal Register the fee revenues and fees resulting from the adjustment and the supporting methodologies.
 
@@ -318,7 +318,7 @@ This section may not be construed to require that the number of full-time equiva
 
 &emsp;An exemption under paragraph (1) applies with respect to a drug only if the applicant involved submits a certification that its gross annual revenues did not exceed $50,000,000 for the preceding 12 months before the exemption was requested.
 
-(June 25, 1938, ch. 675, §736, as added Pub. L. 102–571, title I, §103, Oct. 29, 1992, 106 Stat. 4494; amended Pub. L. 105–115, title I, §103(a)–(g), Nov. 21, 1997, 111 Stat. 2299–2304; Pub. L. 107–109, §5(a), Jan. 4, 2002, 115 Stat. 1413; Pub. L. 107–188, title V, §504, June 12, 2002, 116 Stat. 689; Pub. L.110–85, title I, §103(a)–(h)(1), Sept. 27, 2007, 121 Stat. 826–832.)
+(June 25, 1938, ch. 675, §736, as added Pub. L. 102–571, title I, §103, Oct. 29, 1992, 106 Stat. 4494; amended Pub. L. 105–115, title I, §103(a)–(g), Nov. 21, 1997, 111 Stat. 2299–2304; Pub. L. 107–109, §5(a), Jan. 4, 2002, 115 Stat. 1413; Pub. L. 107–188, title V, §504, June 12, 2002, 116 Stat. 689; Pub. L. 110–85, title I, §103(a)–(h)(1), Sept. 27, 2007, 121 Stat. 826–832.)
 
 #### Amendment of Section
 
@@ -336,7 +336,7 @@ This section may not be construed to require that the number of full-time equiva
 
 Section 357 of this title, referred to in subsec. (a)(3)(B), was repealed by Pub. L. 105–115, title I, §125(b)(1), Nov. 21, 1997, 111 Stat. 2325.
 
-The Drug Price Competition and Patent Term Restoration Act of 1984, referred to in subsec. (a)(3)(B), is Pub. L. 98–417, Sept. 24, 1984, 98 Stat. 1585. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 301 of this title and Tables.
+The Drug Price Competition and Patent Term Restoration Act of 1984, referred to in subsec. (a)(3)(B), isPub. L. 98–417, Sept. 24, 1984, 98 Stat. 1585. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 301 of this title and Tables.
 
 #### Amendments
 
@@ -380,7 +380,7 @@ Subsec. (d)(2), (3). Pub. L. 110–85, §§103(d)(2), (3), 106(a), temporarily a
 
 Subsec. (d)(4). Pub. L. 110–85, §§103(d)(2), 106(a), temporarily redesignated par. (3) as (4). See Effective and Termination Dates of 2007 Amendment note below.
 
-Subsec. (d)(4)(A). Pub. L. 110–85, §§103(d)(4), 106(a), temporarily inserted before period at end “, and thatdoes not have a drug product that has been approved under a human drug application and introduced or delivered for introduction into interstate commerce”. See Effective and Termination Dates of 2007 Amendment note below.
+Subsec. (d)(4)(A). Pub. L. 110–85, §§103(d)(4), 106(a), temporarily inserted before period at end “, and that does not have a drug product that has been approved under a human drug application and introduced or delivered for introduction into interstate commerce”. See Effective and Termination Dates of 2007 Amendment note below.
 
 Subsec. (g)(1). Pub. L. 110–85, §§103(h)(1), 106(a), temporarily substituted “Fees authorized under subsection (a) shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriations Acts. Such fees are authorized to remain available until expended.” for “Fees collected for a fiscal year pursuant to subsection (a) of this section shall be credited to the appropriation account for salaries and expenses of the Food and Drug Administration and shall be available in accordance with appropriation Acts until expended without fiscal year limitation.” See Effective and Termination Dates of 2007 Amendment note below.
 
@@ -492,7 +492,7 @@ Subsec. (c)(3). Pub. L. 105–115, §§103(c)(4), 107, temporarily substituted �
 
 Subsec. (d). Pub. L. 105–115, §§103(d), 107, temporarily struck out introductory provisions which read “The Secretary shall grant a waiver from or a reduction of 1 or more fees under subsection (a) of this section where the Secretary finds that—” and closing provisions which read “In making the finding in paragraph (3), the Secretary may use standard costs.”, inserted designation, heading, and introductory provisions of par. (1), redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), and added pars. (1)(E), (2), and (3). See Effective and Termination Dates of 1997 Amendment note below.
 
-Subsec. (f)(1). Pub. L. 105–115, §§103(e), 107, temporarily substituted “fiscal year 1997” for “fiscal year 1993” and “fiscal year 1997 (excluding the amount of fees appropriated for such fiscal year)” for “fiscal year 1992”. See Effective and Termination Dates of 1997 Amendment note below.
+Subsec. (f)(1). Pub. L. 105–115, §§103(e), 107, temporarily substituted “fiscal year 1997” for “fiscal year 1993” and “fiscal year 1997 (excluding the amount of fees appropriated for such fiscal year)” for “fiscal year1992”. See Effective and Termination Dates of 1997 Amendment note below.
 
 Subsec. (g)(1). Pub. L. 105–115, §§103(f)(1), 107, temporarily inserted at end “Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation. The sums transferred shall be available solely for the process for the review of human drug applications.” See Effective and Termination Dates of 1997 Amendment note below.
 

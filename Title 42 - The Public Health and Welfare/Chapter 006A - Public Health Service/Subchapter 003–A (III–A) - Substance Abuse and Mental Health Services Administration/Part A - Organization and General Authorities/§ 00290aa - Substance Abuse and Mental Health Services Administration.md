@@ -32,7 +32,7 @@ The Secretary, acting through the Administrator, shall—
 
 &emsp;(2) establish and implement, through the respective agencies, a comprehensive program to improve the provision of treatment and related services to individuals with respect to substance abuse and mental illness and to improve prevention services, promote mental health and protect the legal rights of individuals with mental illnesses and individuals who are substance abusers;
 
-&emsp;(3) carry out the administrative and financial management, policy development and planning, evaluation, knowledge dissemination, and public information functions that are required for the implementation of this subchapter;
+&emsp;(3) carry out the administrative and financial management, policy development andplanning, evaluation, knowledge dissemination, and public information functions that are required for the implementation of this subchapter;
 
 &emsp;(4) assure that the Administration conduct and coordinate demonstration projects, evaluations, and service system assessments and other activities necessary to improve the availability and quality of treatment, prevention and related services;
 
@@ -66,7 +66,7 @@ The Secretary, acting through the Administrator, shall—
 
 &emsp;(15) improve coordination among prevention programs, treatment facilities and nonhealth care systems such as employers, labor unions, and schools, and encourage the adoption of employee assistance programs and student assistance programs;
 
-&emsp;(16) maintain a clearinghouse for substance abuse and mental health information to assurethe widespread dissemination of such information to States, political subdivisions, educational agencies and institutions, treatment providers, and the general public;
+&emsp;(16) maintain a clearinghouse for substance abuse and mental health information to assure the widespread dissemination of such information to States, political subdivisions, educational agencies and institutions, treatment providers, and the general public;
 
 &emsp;(17) in collaboration with the National Institute on Aging, and in consultation with the National Institute on Drug Abuse, the National Institute on Alcohol Abuse and Alcoholism and the National Institute of Mental Health, as appropriate, promote and evaluate substance abuse services for older Americans in need of such services, and mental health services for older Americans who are seriously mentally ill; and
 
@@ -80,7 +80,7 @@ The Secretary, acting through the Administrator, shall—
 
 #### (2) Plan
 
-&emsp;(A) The Administrator, acting through the Associate Administrator for Alcohol Prevention and Treatment Policy, shall develop, and periodically review and as appropriate revise, a plan for programs and policies to treat and prevent alcoholism and alcohol abuse. The plan shall be developed (and reviewed and revised) in collaboration with the Directors of the Centers of the Administration and in consultation with members of other Federal agencies and public and private entities.
+&emsp;(A) The Administrator, acting through the Associate Administrator for Alcohol Prevention and Treatment Policy, shall develop, andperiodically review and as appropriate revise, a plan for programs and policies to treat and prevent alcoholism and alcohol abuse. The plan shall be developed (and reviewed and revised) in collaboration with the Directors of the Centers of the Administration and in consultation with members of other Federal agencies and public and private entities.
 
 &emsp;(B) Not later than 1 year after July 10, 1992, the Administrator shall submit to the Congress the first plan developed under subparagraph (A).
 
@@ -116,7 +116,7 @@ The Secretary, acting through the Administrator, shall—
 
 &emsp;&emsp;(C) establish an advisory committee to be known as the Advisory Committee for Women's Services, which shall be composed of not more than 10 individuals, a majority of whom shall be women, who are not officers or employees of the Federal Government, to be appointed by the Administrator from among physicians, practitioners, treatment providers, and other health professionals, whose clinical practice, specialization, or professional expertise includes a significant focus on women's substance abuse and mental health conditions, that shall—
 
-&emsp;&emsp;&emsp;(i) advise the Associate Administrator on appropriate activities to be undertaken by the agencies of the Administration with respect to women's substance abuse andmental health services, including services which require a multidisciplinary approach;
+&emsp;&emsp;&emsp;(i) advise the Associate Administrator on appropriate activities to be undertaken by the agencies of the Administration with respect to women's substance abuse and mental health services, including services which require a multidisciplinary approach;
 
 &emsp;&emsp;&emsp;(ii) collect and review data, including information provided by the Secretary (including the material referred to in paragraph (3)), and report biannually to the Administrator regarding the extent to which women are represented among senior personnel, and make recommendations regarding improvement in the participation of women in the workforce of the Administration; and
 
@@ -140,7 +140,7 @@ The Secretary, acting through the Administrator, shall—
 
 &emsp;(A) The Secretary, acting through the Assistant Secretary for Personnel, shall conduct a study to evaluate the extent to which women are represented among senior personnel at the Administration.
 
-&emsp;(B) Not later than 90 days after July 10, 1992, the Assistant Secretary for Personnel shall provide the Advisory Committee for Women's Services with a study plan, including the methodology of the study and any sampling frames. Not later than 180 days after July 10, 1992, the Assistant Secretary shall prepare and submit directly to the Advisory Committee a report concerning the results of the study conducted under subparagraph (A).
+&emsp;(B) Not later than 90 days after July 10, 1992, the Assistant Secretary for Personnel shallprovide the Advisory Committee for Women's Services with a study plan, including the methodology of the study and any sampling frames. Not later than 180 days after July 10, 1992, the Assistant Secretary shall prepare and submit directly to the Advisory Committee a report concerning the results of the study conducted under subparagraph (A).
 
 &emsp;(C) The Secretary shall prepare and provide to the Advisory Committee for Women's Services any additional data as requested.
 
@@ -174,7 +174,7 @@ The Administrator may accept voluntary and uncompensated services.
 
 #### (j) Administration
 
-The Administrator shall ensure that programs and activities assigned under this subchapter to the Administration are fully administered bythe respective Centers to which such programs and activities are assigned.
+The Administrator shall ensure that programs and activities assigned under this subchapter to the Administration are fully administered by the respective Centers to which such programs and activities are assigned.
 
 #### (k) Report concerning activities and progress
 
@@ -312,7 +312,7 @@ Substance Abuse and Mental Health Services Administration.—Except as specifica
 
 “(b)
 
-National Institutes.—Except as specifically provided otherwise in this Act or an amendment madeby this Act, there are transferred to the appropriate Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health, through the Director of the National Institutes of Health, all research related functions which the Administrator of the Alcohol, Drug Abuse and Mental Health Administration exercised before the date of the enactment of this Act and all related functions of any officer or employee of the Alcohol, Drug Abuse, and Mental Health Administration.
+National Institutes.—Except as specifically provided otherwise in this Act or an amendment made by this Act, there are transferred to the appropriate Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health, through the Director of the National Institutes of Health, all research related functions which the Administrator of the Alcohol, Drug Abuse and Mental Health Administration exercised before the date of the enactment of this Act and all related functions of any officer or employee of the Alcohol, Drug Abuse, and Mental Health Administration.
 
 “(c)
 
@@ -388,7 +388,7 @@ Substitution.—If, before the date of enactment of this Act \[July 10, 1992\], 
 
 “(f)
 
-Judicial Review.—Orders and actions of the Administrator of the Substance Abuse and Mental Health Services Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health in the exercise of functions transferred to the Directors by this subtitle shall be subject to judicial review to the same extent and in the same manner as if such orders and actions had been by the Administrator of the Alcohol, Drug Abuse and Mental Health Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, and the National Institute of Mental Health, or any office or officer thereof, in the exercise of such functions immediately preceding their transfer. Any statutory requirements relating to notice, hearings, action upon the record, or administrative review that apply to any function transferred by this subtitle shall apply to the exercise of such function by the Administrator of the Substance Abuse and Mental Health Services Administration or the Directors.
+Judicial Review.—Orders and actions of the Administrator of the Substance Abuse and Mental Health Services Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health in the exercise of functions transferred to the Directors by this subtitle shall be subject to judicial review to the same extent and in the same manner as if such orders and actions had been by the Administrator of the Alcohol, Drug Abuse and Mental Health Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, and the National Institute of Mental Health, or any office or officer thereof, in the exercise of such functions immediately preceding their transfer. Any statutory requirements relating to notice, hearings, action upon the record, or administrative review that apply to any function transferred by this subtitle shall apply to the exercise ofsuch function by the Administrator of the Substance Abuse and Mental Health Services Administration or the Directors.
 
 #### “SEC. 146. TRANSITION.
 
@@ -420,7 +420,7 @@ Judicial Review.—Orders and actions of the Administrator of the Substance Abus
 
 #### Report by Substance Abuse and Mental Health Services Administration
 
-Section 708 of Pub. L. 102–321 directed Administrator of Substance Abuse and Mental Health Services Administration to submit to Congress an interim report, not later than 6 months after July 10, 1992, and a final report, not later than Oct. 1, 1993, concerning current policies and barriers to provision of substance abuse and mental health services, with emphasis on barriers to health insurance and Medicaid coverage of such services, and further directed Secretary of Health and Human Services to initiate, not later than Jan. 1, 1994, research and demonstration projects which, consistentwith information from reports submitted by the Administrator, explore alternative mechanisms of providing health insurance and treatment services for substance abuse and mental illness.
+Section 708 of Pub. L. 102–321 directed Administrator of Substance Abuse and Mental Health Services Administration to submit to Congress an interim report, not later than 6 months after July 10, 1992, and a final report, not later than Oct. 1, 1993, concerning current policies and barriers to provision of substance abuse and mental health services, with emphasis on barriers to health insurance and Medicaid coverage of such services, and further directed Secretary of Health and Human Services to initiate, not later than Jan. 1, 1994, research and demonstration projects which, consistent with information from reports submitted by the Administrator, explore alternative mechanisms of providing health insurance and treatment services for substance abuse and mental illness.
 
 #### Relationship Between Mental Illness and Substance Abuse
 
@@ -446,7 +446,7 @@ Section 1(b) of Pub. L. 98–24 provided that: “It is the policy of the United
 
 &emsp;“(4) the development and encouragement of prevention programs designed to combat the spread of alcoholism, alcohol abuse, drug abuse, and the abuse of other legal and illegal substances;
 
-&emsp;“(5) the development and encouragement of effective occupational prevention and treatment programs within Government and in cooperation with the private sector; and
+&emsp;“(5) the development and encouragement of effective occupational prevention and treatment programswithin Government and in cooperation with the private sector; and
 
 &emsp;“(6) the provision of a Federal response to alcohol abuse and alcoholism and drug abuse which encourages the greatest participation by the private sector, both financially and otherwise, and concentrates on carrying out functions relating to alcohol abuse and alcoholism and drug abuse which are truly national in scope.”
 

@@ -9,15 +9,14 @@
 | [1803\.](Subchapter%20001%20%28I%29%20-%20Electronic%20Surveillance/%C2%A7%2001803%20-%20Designation%20of%20judges.md) | Designation of judges. |
 | [1804\.](Subchapter%20001%20%28I%29%20-%20Electronic%20Surveillance/%C2%A7%2001804%20-%20Applications%20for%20court%20orders.md) | Applications for court orders. |
 | [1805\.](Subchapter%20001%20%28I%29%20-%20Electronic%20Surveillance/%C2%A7%2001805%20-%20Issuance%20of%20order.md) | Issuance or order. |
-| [1805a.](Subchapter%20001%20%28I%29%20-%20Electronic%20Surveillance/%C2%A7%2001805a%20-%20Clarification%20of%20electronic%20surveillance%20of%20persons%20outside%20the%20United%20States.md) | Clarification of electronic surveillance of persons outside the United States. |
-| [1805b.](Subchapter%20001%20%28I%29%20-%20Electronic%20Surveillance/%C2%A7%2001805b%20-%20Additional%20procedure%20for%20authorizing%20certain%20acquisitions%20concerning%20persons%20located%20outside%20the%20United%20States.md) | Additional procedure for authorizing certain acquisitions concerning persons located outside the United States. |
-| [1805c.](Subchapter%20001%20%28I%29%20-%20Electronic%20Surveillance/%C2%A7%2001805c%20-%20Submission%20to%20court%20review%20of%20procedures.md) | Submission to court review of procedures. |
+| 1805a to 1805c. Repealed. |  |
 | [1806\.](Subchapter%20001%20%28I%29%20-%20Electronic%20Surveillance/%C2%A7%2001806%20-%20Use%20of%20information.md) | Use of information. |
 | [1807\.](Subchapter%20001%20%28I%29%20-%20Electronic%20Surveillance/%C2%A7%2001807%20-%20Report%20to%20Administrative%20Office%20of%20the%20United%20States%20Court%20and%20to%20Congress.md) | Report to Administrative Office of the United States Court and to Congress. |
 | [1808\.](Subchapter%20001%20%28I%29%20-%20Electronic%20Surveillance/%C2%A7%2001808%20-%20Report%20of%20Attorney%20General%20to%20Congressional%20committees%3B%20limitation%20on%20authority%20or%20responsibility%20of%20information%20gathering%20activities%20of%E2%80%A6.md) | Report of Attorney General to Congressional committees; limitation on authority or responsibility of information gathering activities of Congressional committees; report of Congressional committees to Congress. |
 | [1809\.](Subchapter%20001%20%28I%29%20-%20Electronic%20Surveillance/%C2%A7%2001809%20-%20Criminal%20sanctions.md) | Criminal sanctions. |
 | [1810\.](Subchapter%20001%20%28I%29%20-%20Electronic%20Surveillance/%C2%A7%2001810%20-%20Civil%20liability.md) | Civil liability. |
 | [1811\.](Subchapter%20001%20%28I%29%20-%20Electronic%20Surveillance/%C2%A7%2001811%20-%20Authorization%20during%20time%20of%20war.md) | Authorization during time of war. |
+| [1812\.](Subchapter%20001%20%28I%29%20-%20Electronic%20Surveillance/%C2%A7%2001812%20-%20Statement%20of%20exclusive%20means%20by%20which%20electronic%20surveillance%20and%20interception%20of%20certain%20communications%20may%20be%20conducted.md) | Statement of exclusive means by which electronic surveillance and interception of certain communications may be conducted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -68,6 +67,32 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER VI—ADDITIONAL PROCEDURES REGARDING CERTAIN PERSONS OUTSIDE THE UNITED STATES
+
+|  |  |
+| :--- | ---: |
+| [1881\.](Subchapter%20006%20%28VI%29%20-%20Additional%20Procedures%20Regarding%20Certain%20Persons%20Outside%20the%20United%20States/%C2%A7%2001881%20-%20Definitions.md) | Definitions. |
+| [1881a.](Subchapter%20006%20%28VI%29%20-%20Additional%20Procedures%20Regarding%20Certain%20Persons%20Outside%20the%20United%20States/%C2%A7%2001881a%20-%20Procedures%20for%20targeting%20certain%20persons%20outside%20the%20United%20States%20other%20than%20United%20States%20persons.md) | Procedures for targeting certain persons outside the United States other than United States persons. |
+| [1881b.](Subchapter%20006%20%28VI%29%20-%20Additional%20Procedures%20Regarding%20Certain%20Persons%20Outside%20the%20United%20States/%C2%A7%2001881b%20-%20Certain%20acquisitions%20inside%20the%20United%20States%20targeting%20United%20States%20persons%20outside%20the%20United%20States.md) | Certain acquisitions inside the United States targeting United States persons outside the United States. |
+| [1881c.](Subchapter%20006%20%28VI%29%20-%20Additional%20Procedures%20Regarding%20Certain%20Persons%20Outside%20the%20United%20States/%C2%A7%2001881c%20-%20Other%20acquisitions%20targeting%20United%20States%20persons%20outside%20the%20United%20States.md) | Other acquisitions targeting United States persons outside the United States. |
+| [1881d.](Subchapter%20006%20%28VI%29%20-%20Additional%20Procedures%20Regarding%20Certain%20Persons%20Outside%20the%20United%20States/%C2%A7%2001881d%20-%20Joint%20applications%20and%20concurrent%20authorizations.md) | Joint applications and concurrent authorizations. |
+| [1881e.](Subchapter%20006%20%28VI%29%20-%20Additional%20Procedures%20Regarding%20Certain%20Persons%20Outside%20the%20United%20States/%C2%A7%2001881e%20-%20Use%20of%20information%20acquired%20under%20this%20subchapter.md) | Use of information acquired under this subchapter. |
+| [1881f.](Subchapter%20006%20%28VI%29%20-%20Additional%20Procedures%20Regarding%20Certain%20Persons%20Outside%20the%20United%20States/%C2%A7%2001881f%20-%20Congressional%20oversight.md) | Congressional oversight. |
+| [1881g.](Subchapter%20006%20%28VI%29%20-%20Additional%20Procedures%20Regarding%20Certain%20Persons%20Outside%20the%20United%20States/%C2%A7%2001881g%20-%20Savings%20provision.md) | Savings provision. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER VII—PROTECTION OF PERSONS ASSISTING THE GOVERNMENT
+
+|  |  |
+| :--- | ---: |
+| [1885\.](Subchapter%20007%20%28VII%29%20-%20Protection%20of%20Persons%20Assisting%20the%20Government/%C2%A7%2001885%20-%20Definitions.md) | Definitions. |
+| [1885a.](Subchapter%20007%20%28VII%29%20-%20Protection%20of%20Persons%20Assisting%20the%20Government/%C2%A7%2001885a%20-%20Procedures%20for%20implementing%20statutory%20defenses.md) | Procedures for implementing statutory defenses. |
+| [1885b.](Subchapter%20007%20%28VII%29%20-%20Protection%20of%20Persons%20Assisting%20the%20Government/%C2%A7%2001885b%20-%20Preemption.md) | Preemption. |
+| [1885c.](Subchapter%20007%20%28VII%29%20-%20Protection%20of%20Persons%20Assisting%20the%20Government/%C2%A7%2001885c%20-%20Reporting.md) | Reporting. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ---
 
@@ -78,3 +103,5 @@
 - [Subchapter 003 (III) - Pen Registers and Trap and Trace Devices for Foreign Intelligence Purposes](Subchapter%20003%20%28III%29%20-%20Pen%20Registers%20and%20Trap%20and%20Trace%20Devices%20for%20Foreign%20Intelligence%20Purposes/README.md)
 - [Subchapter 004 (IV) - Access to Certain Business Records for Foreign Intelligence Purposes](Subchapter%20004%20%28IV%29%20-%20Access%20to%20Certain%20Business%20Records%20for%20Foreign%20Intelligence%20Purposes/README.md)
 - [Subchapter 005 (V) - Reporting Requirement](Subchapter%20005%20%28V%29%20-%20Reporting%20Requirement/README.md)
+- [Subchapter 006 (VI) - Additional Procedures Regarding Certain Persons Outside the United States](Subchapter%20006%20%28VI%29%20-%20Additional%20Procedures%20Regarding%20Certain%20Persons%20Outside%20the%20United%20States/README.md)
+- [Subchapter 007 (VII) - Protection of Persons Assisting the Government](Subchapter%20007%20%28VII%29%20-%20Protection%20of%20Persons%20Assisting%20the%20Government/README.md)

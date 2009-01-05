@@ -154,7 +154,7 @@ This redesignates 49:47504(c)(1)(C) and (D) as 49:47504(c)(2)(C) and (D) because
 
 #### References in Text
 
-Section 301(d)(4)(B) of the Airport and Airway Safety and Capacity Expansion Act of 1987, referred to in subsec. (c)(2)(A)(i), is section 301(d)(4)(B) of Pub. L. 100–223, which was set out as a note under section 2104 of former Title 49, Transportation, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379.
+Section 301(d)(4)(B) of the Airport and Airway Safety and Capacity Expansion Act of 1987, referred to in subsec. (c)(2)(A)(i), is section 301(d)(4)(B) of Pub. L. 100–223, which was set out as a note under section 2104 of formerTitle 49, Transportation, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379.
 
 #### Amendments
 

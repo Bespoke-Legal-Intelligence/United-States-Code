@@ -12,3 +12,6 @@ Part A—General Provisions
 - [&sect; 00195 - Punishment for violation of order](%C2%A7%2000195%20-%20Punishment%20for%20violation%20of%20order.md)
 - [&sect; 00196 - Statutory trust established; livestock](%C2%A7%2000196%20-%20Statutory%20trust%20established%3B%20livestock.md)
 - [&sect; 00197 - Statutory trust established; poultry](%C2%A7%2000197%20-%20Statutory%20trust%20established%3B%20poultry.md)
+- [&sect; 00197a - Production contracts](%C2%A7%2000197a%20-%20Production%20contracts.md)
+- [&sect; 00197b - Choice of law and venue](%C2%A7%2000197b%20-%20Choice%20of%20law%20and%20venue.md)
+- [&sect; 00197c - Arbitration](%C2%A7%2000197c%20-%20Arbitration.md)

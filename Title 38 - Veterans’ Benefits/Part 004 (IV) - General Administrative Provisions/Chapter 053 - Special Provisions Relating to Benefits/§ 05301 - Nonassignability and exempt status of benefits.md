@@ -6,7 +6,7 @@
 
 (3)(A) This paragraph is intended to clarify that, in any case where a beneficiary entitled to compensation, pension, or dependency and indemnity compensation enters into an agreement with another person under which agreement such other person acquires for consideration the right to receive such benefit by payment of such compensation, pension, or dependency and indemnity compensation, as the case may be, except as provided in subparagraph (B), and including deposit into a joint account from which such other person may make withdrawals, or otherwise, such agreement shall be deemed to be an assignment and is prohibited.
 
-(B) Notwithstanding subparagraph (A), nothing in this paragraph is intended to prohibit aloan involving a beneficiary under the terms of which the beneficiary may use the benefit to repay such other person as long as each of the periodic payments made to repay such other person is separately and voluntarily executed by the beneficiary or is made by preauthorized electronic funds transfer pursuant to the Electronic Funds Transfers Act (15 U.S.C. 1693 et seq.).
+(B) Notwithstanding subparagraph (A), nothing in this paragraph is intended to prohibit a loan involving a beneficiary under the terms of which the beneficiary may use the benefit to repay such other person as long as each of the periodic payments made to repay such other person is separately and voluntarily executed by the beneficiary or is made by preauthorized electronic funds transfer pursuant to the Electronic Funds Transfers Act (15 U.S.C. 1693 et seq.).
 
 (C) Any agreement or arrangement for collateral for security for an agreement that is prohibited under subparagraph (A) is also prohibited and is void from its inception.
 
@@ -32,7 +32,7 @@
 
 &emsp;(1) has been determined to be eligible to receive pension or compensation under laws administered by the Secretary but for the receipt by such person of pay pursuant to any provision of law providing retired or retirement pay to members or former members of the Armed Forces or commissioned officers of the National Oceanic and Atmospheric Administration or of the Public Health Service; and
 
-&emsp;(2) files a waiver of such pay in accordance with section 5305 of this title in the amount of such pension or compensation before the end of the one-year period beginning on the date such person is notified by the Secretary of such person's eligibility for such pension or compensation,
+&emsp;(2) files a waiver of such pay in accordance with section 5305 of this title in the amount of such pension or compensation before the endof the one-year period beginning on the date such person is notified by the Secretary of such person's eligibility for such pension or compensation,
 
 > the retired or retirement pay of such person shall be exempt from taxation, as provided in subsection (a) of this section, in an amount equal to the amount of pension or compensation which would have been paid to such person but for the receipt by such person of such pay.
 

@@ -2,7 +2,7 @@
 
 (a) In the performance of, and with respect to, the functions, powers, and duties vested in him by this chapter, the Secretary shall (in addition to any authority otherwise vested in him) have the functions, powers, and duties set forth in section 1749a <sup>1</sup> of title 12, except subsections (a), (c)(2), and (f) thereof.
 
-(b) The Secretary is authorized, notwithstanding the provisions of section 3324(a) and (b) of title 31, to make advance or progress payments on account of any grant made pursuant to this chapter. No part of any grant authorized to be made by the provisions of this chapter shall be used for the payment of ordinary governmental operating expenses.
+(b) The Secretary is authorized, notwithstanding the provisions of section 3324(a) and (b) oftitle 31, to make advance or progress payments on account of any grant made pursuant to this chapter. No part of any grant authorized to be made by the provisions of this chapter shall be used for the payment of ordinary governmental operating expenses.
 
 (Pub. L. 89–117, title VII, §705, Aug. 10, 1965, 79 Stat. 492; Pub. L. 90–19, §22(b), May 25, 1967, 81 Stat. 26.)
 

@@ -2,7 +2,7 @@
 
 There are authorized to be appropriated from time to time such sums as may be necessary for carrying out the purposes and provisions of the Treaty and this chapter including—
 
-&emsp;(a) necessary travel expenses of the Commissioners, Panel members, alternate Commissioners, alternate Panel members, United States members of joint technical committees established under article IV of the Treaty, and advisory committee members in accordance with the Federal Travel Regulations and sections 5701, 5702, 5704 through 5708, and 5731 of title 5;
+&emsp;(a) necessary travel expenses of the Commissioners, Panel members, alternate Commissioners, alternate Panel members, United States members of joint technical committeesestablished under article IV of the Treaty, and advisory committee members in accordance with the Federal Travel Regulations and sections 5701, 5702, 5704 through 5708, and 5731 of title 5;
 
 &emsp;(b) the United States share of the joint expenses of the Commission: <i>Provided</i>, That the United States Commissioners and Panel members and alternates shall not, with respect to commitments concerning the United States share of the joint expenses of the Organization, be subject to section 262b of title 22 insofar as it limits the authority of United States representatives to international organizations with respect to such commitments;
 

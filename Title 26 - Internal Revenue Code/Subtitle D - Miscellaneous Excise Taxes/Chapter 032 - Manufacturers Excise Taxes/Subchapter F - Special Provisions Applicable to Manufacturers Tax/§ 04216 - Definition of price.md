@@ -76,7 +76,7 @@ In the case of—
 
 #### (d) Sales of installment accounts
 
-If installment accounts, with respect to payments on which tax is being computed as provided in subsection (c), are sold or otherwise disposed of, then subsection (c) shall not apply with respect to any subsequent payments on such accounts (other than subsequent payments on returned accounts with respect to which credit or refund is allowable by reason of section 6416(b)(5)), but instead—
+If installment accounts, with respect to payments on which tax is being computed as provided in subsection (c), are sold or otherwise disposed of, then subsection (c) shall not apply with respect to any subsequent payments on such accounts (other than subsequent payments on returned accounts with respect to whichcredit or refund is allowable by reason of section 6416(b)(5)), but instead—
 
 &emsp;(1) there shall be paid an amount equal to the difference between (A) the tax previously paid on the payments on such installment accounts, and (B) the total tax which would be payable if such installment accounts had not been sold or otherwise disposed of (computed as provided in subsection (c)); except that
 
@@ -96,7 +96,7 @@ If installment accounts, with respect to payments on which tax is being computed
 
 &emsp;&emsp;(C) is intended to be refunded to the purchaser or any subsequent vendee in reimbursement of costs incurred for local advertising.
 
-> &emsp;In the case of any such charge (or portion thereof) which is not so refunded before the first day of the fifth calendar month following the calendar year during which the article was sold, the exclusion provided by the precedingsentence shall cease to apply as of such first day.
+> &emsp;In the case of any such charge (or portion thereof) which is not so refunded before the first day of the fifth calendar month following the calendar year during which the article was sold, the exclusion provided by the preceding sentence shall cease to apply as of such first day.
 
 #### (2) Aggregate amount which may be excluded
 
@@ -162,7 +162,7 @@ Subsec. (b)(3). Pub. L. 89–44, §208(b), struck out par. (3) which related to 
 
 Subsec. (c). Pub. L. 89–44, §207(a), struck out “that portion of the total tax which is proportionate to the portion of the total amount to be paid represented by such payment” in text following par. (4) and inserted in lieu thereof “a percentage of such payment equal to the rate of tax in effect on the date such payment is due”.
 
-Subsec. (e)(1). Pub. L. 89–44, §207(b)(1), substituted “total tax which would be payable if such installmentaccounts had not been sold or otherwise disposed of (computed as provided in subsection (c)) for “total tax”.
+Subsec. (e)(1). Pub. L. 89–44, §207(b)(1), substituted “total tax which would be payable if such installment accounts had not been sold or otherwise disposed of (computed as provided in subsection (c)) for “total tax”.
 
 Subsec. (e)(2). Pub. L. 89–44, §207(b)(2), substituted, as factor (A) in the formula for computing the maximum amount, the proportionate share of the amount for which such accounts are sold which is allocable to each unpaid installment payment for the amount for which such accounts are sold, and, as factor (B) in the formula, the rate of tax on the date that such unpaid installment payment is or was due for the rate of tax which applied on the day on which the transaction giving rise to such installment accounts took place.
 
@@ -214,7 +214,7 @@ Section 932(b) of Pub. L. 91–172 provided that: “The amendment made by subse
 
 Amendment by section 207(a), (b) of Pub. L. 89–44 effective June 22, 1965, and amendment by section 208 of Pub. L. 89–44 applicable with respect to articles sold on or after June 22, 1965, except insofar as such amendments related to the taxes imposed by sections 4061(b), 4091, or 4131 and, as to such taxes, applicable with respect to articles sold on or after January 1, 1966, see section 701(a) of Pub. L. 89–44, set out as a note under section 4161 of this title.
 
-Section 801(e) of Pub. L. 89–44 provided that: “The amendments made by subsections (a), (b), and (d) \[amending this section and sections 4063, 4221, and 6416 of this title\] shall apply with respect to articles sold on or after the day after the date of the enactment of this Act \[June 21, 1965\]. The amendment made by subsection (c) \[amending section 4221 of this title\] shall apply with respect to articles sold on or after January 1, 1965.”
+Section 801(e) of Pub. L. 89–44 provided that: “The amendments made by subsections (a), (b), and (d) \[amending this section and sections 4063, 4221, and 6416 of this title\] shall apply with respect to articles sold onor after the day after the date of the enactment of this Act \[June 21, 1965\]. The amendment made by subsection (c) \[amending section 4221 of this title\] shall apply with respect to articles sold on or after January 1, 1965.”
 
 #### Effective Date of 1962 Amendments
 

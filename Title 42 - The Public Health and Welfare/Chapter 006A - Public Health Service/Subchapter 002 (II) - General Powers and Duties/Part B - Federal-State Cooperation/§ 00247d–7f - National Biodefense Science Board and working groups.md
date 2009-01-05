@@ -66,7 +66,7 @@
 
 #### (B) Postal services
 
-&emsp;&emsp;The Board may use the United States mails in the same manner and under the same conditions as other departments and agencies of the Federal Government.
+&emsp;&emsp;The Board may use the United States mails in the same manner and under thesame conditions as other departments and agencies of the Federal Government.
 
 #### (10) Personnel
 

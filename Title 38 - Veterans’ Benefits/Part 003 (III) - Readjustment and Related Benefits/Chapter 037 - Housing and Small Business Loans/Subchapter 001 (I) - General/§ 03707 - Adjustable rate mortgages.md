@@ -1,6 +1,6 @@
 ### §3707. Adjustable rate mortgages
 
-(a) The Secretary shall carry out a demonstration project under this section during fiscal years 1993 through 2008 for the purpose of guaranteeing loans in a manner similar to the manner in which the Secretary of Housing and Urban Development insures adjustable rate mortgages under section 251 of the National Housing Act.
+(a) The Secretary shall carry out a demonstration project under this section during fiscal years 1993 through 2012 for the purpose of guaranteeing loans in a manner similar to the manner in which the Secretary of Housing and Urban Development insures adjustable rate mortgages under section 251 of the National Housing Act.
 
 (b) Interest rate adjustment provisions of a mortgage guaranteed under this section shall—
 
@@ -24,7 +24,7 @@
 
 (d) The Secretary shall require that the mortgagee make available to the mortgagor, at the time of loan application, a written explanation of the features of the adjustable rate mortgage, including a hypothetical payment schedule that displays the maximum potential increases in monthly payments to the mortgagor over the first five years of the mortgage term.
 
-(Added Pub. L. 102–547, §3(a)(1), Oct. 28, 1992, 106 Stat. 3634; amended Pub. L. 103–78, §7, Aug. 13, 1993, 107 Stat. 769; Pub. L. 108–454, title IV, §404, Dec. 10, 2004, 118 Stat. 3616.)
+(Added Pub. L. 102–547, §3(a)(1), Oct. 28, 1992, 106 Stat. 3634; amended Pub. L. 103–78, §7, Aug. 13, 1993, 107 Stat. 769; Pub. L. 108–454, title IV, §404, Dec. 10, 2004, 118 Stat. 3616; Pub. L. 110–389, title V, §505(a), Oct. 10, 2008, 122 Stat. 4176.)
 
 #### References in Text
 
@@ -32,11 +32,13 @@ The National Housing Act, referred to in subsecs. (a) and (c)(3), is act June 27
 
 #### Amendments
 
+2008—Subsec. (a). Pub. L. 110–389 substituted “2012” for “2008”.
+
 2004—Subsec. (a). Pub. L. 108–454 substituted “during fiscal years 1993 through 2008” for “during fiscal years 1993, 1994, and 1995”.
 
 1993—Subsec. (b)(2). Pub. L. 103–78 struck out before semicolon at end “on the anniversary of the date on which the loan was closed”.
 
 #### Annual Reports on Adjustable Rate Mortgages Guaranteed Under This Section
 
-Section 3(b) of Pub. L. 102–547 directed Secretary of Veterans Affairs to transmit adjustable rate mortgage report to Committees on Veterans’ Affairs of Senate and House of Representatives no later than Dec. 31,1993, containing description of project carried out under this section and thereafter to transmit annual reports to such committees with respect to default rates and other information concerning loans guaranteed under this section prior to repeal by Pub. L. 104–110, title II, §201(b), Feb. 13, 1996, 110 Stat. 770.
+Section 3(b) of Pub. L. 102–547 directed Secretary of Veterans Affairs to transmit adjustable rate mortgage report to Committees on Veterans’ Affairs of Senate and House of Representatives no later than Dec. 31, 1993, containing description of project carried out under this section and thereafter to transmit annual reports to such committees with respect to default rates and other information concerning loans guaranteed under this section prior to repeal by Pub. L. 104–110, title II, §201(b), Feb. 13, 1996, 110 Stat. 770.
 

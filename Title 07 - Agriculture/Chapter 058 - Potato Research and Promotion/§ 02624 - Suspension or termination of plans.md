@@ -10,7 +10,7 @@ The Secretary may conduct a referendum at any time and shall hold a referendum o
 
 #### (c) Limitation
 
-The termination or suspension of any plan, or any provision thereof, shall not be consideredthe issuance of a plan within the meaning of this chapter.
+The termination or suspension of any plan, or any provision thereof, shall not be considered the issuance of a plan within the meaning of this chapter.
 
 (Pub. L. 91–670, title III, §315, Jan. 11, 1971, 84 Stat. 2047; Pub. L. 101–624, title XIX, §1945, Nov. 28, 1990, 104 Stat. 3868.)
 

@@ -60,7 +60,7 @@ The determination referred to in subsection (a) is a determination by the Presid
 
 &emsp;&emsp;(F) A description of the steps that India is taking to secure materials and technology applicable for the development, acquisition, or manufacture of weapons of mass destruction and the means to deliver such weapons through the application of comprehensive export control legislation and regulations, and through harmonization with and adherence to MTCR, NSG, Australia Group, and Wassenaar Arrangement guidelines, compliance with United Nations Security Council Resolution 1540, and participation in the Proliferation Security Initiative.
 
-&emsp;&emsp;(G) A description and assessment of the specific measures that India has taken to fully and actively participate in United States and international efforts to dissuade, isolate, and, if necessary, sanction and contain Iran for its efforts to acquire weapons of mass destruction, including a nuclear weapons capability and the capability to enrich uranium or reprocess nuclear fuel and the means to deliver weapons of mass destruction.
+&emsp;&emsp;(G) A description and assessment of the specific measures that India has taken tofully and actively participate in United States and international efforts to dissuade, isolate, and, if necessary, sanction and contain Iran for its efforts to acquire weapons of mass destruction, including a nuclear weapons capability and the capability to enrich uranium or reprocess nuclear fuel and the means to deliver weapons of mass destruction.
 
 &emsp;&emsp;(H) A description of the decision of the NSG relating to nuclear cooperation with India, including whether nuclear cooperation by the United States under an agreement for cooperation arranged pursuant to section 2153 of title 42 is consistent with the decision, practices, and policies of the NSG.
 
@@ -160,7 +160,7 @@ The determination referred to in subsection (a) is a determination by the Presid
 
 #### (f) Sunset
 
-The authority provided under subsection (a)(1) to exempt an agreement shall terminate upon the enactment of a joint resolution under section 2153(d) of title 42 approving such an agreement.
+The authority provided under subsection (a)(1) to exempt an agreement shall terminate upon October 8, 2008.
 
 #### (g) Reporting to Congress
 
@@ -184,11 +184,13 @@ The authority provided under subsection (a)(1) to exempt an agreement shall term
 
 &emsp;&emsp;&emsp;(vii) United States laws and regulations regarding such licenses;
 
-&emsp;&emsp;(B) the construction of a nuclear facility in India after December 18, 2006;
+&emsp;&emsp;(B) any material inconsistencies between the content or timeliness of notifications by the Government of India pursuant to paragraph 14(a) of the Safeguards Agreement and the facilities and schedule described in paragraph (14) of the separation plan presented in the national parliament of India on May 11, 2006, taking into account the later initiation of safeguards than was anticipated in the separation plan;
 
-&emsp;&emsp;(C) significant changes in the production by India of nuclear weapons or in the types or amounts of fissile material produced; and
+&emsp;&emsp;(C) the construction of a nuclear facility in India after December 18, 2006;
 
-&emsp;&emsp;(D) changes in the purpose or operational status of any unsafeguarded nuclear fuel cycle activities in India.
+&emsp;&emsp;(D) significant changes in the production by India of nuclear weapons or in the types or amounts of fissile material produced; and
+
+&emsp;&emsp;(E) changes in the purpose or operational status of any unsafeguarded nuclear fuel cycle activities in India.
 
 #### (2) Implementation and compliance report
 
@@ -288,9 +290,45 @@ The authority provided under subsection (a)(1) to exempt an agreement shall term
 
 &emsp;&emsp;&emsp;(iii) public announcement of its decision to conform its export control laws, regulations, and policies with the Australia Group and with the Guidelines, Procedures, Criteria, and Controls List of the Wassenaar Arrangement; and
 
-&emsp;&emsp;&emsp;(iv) effective implementation of the decision described in clause (iii); and
+&emsp;&emsp;&emsp;(iv) effective implementation of the decision described in clause (iii);
 
-&emsp;&emsp;(L) the disposal during the previous year of spent nuclear fuel from India's civilian nuclear program, and any plans or activities relating to future disposal of such spent nuclear fuel.
+&emsp;&emsp;(L) the disposal during the previous year of spent nuclear fuel from India's civilian nuclear program, and any plans or activities relating to future disposal of such spent nuclear fuel; and
+
+&emsp;&emsp;(M) with respect to the United States-India Agreement for Cooperation on Peaceful Uses of Nuclear Energy (hereinafter in this subparagraph referred to as the “Agreement”) approved under section 101(a) of the United States-India Nuclear Cooperation Approval and Nonproliferation Enhancement Act—
+
+&emsp;&emsp;&emsp;(i) a listing of—
+
+&emsp;&emsp;&emsp;&emsp;(I) all provision of sensitive nuclear technology to India, and other such information as may be so designated by the United States or India under Article 1(Q); and
+
+&emsp;&emsp;&emsp;&emsp;(II) all facilities in India notified pursuant to Article 7(1) of the Agreement;
+
+&emsp;&emsp;&emsp;(ii) a description of—
+
+&emsp;&emsp;&emsp;&emsp;(I) any agreed safeguards or any other form of verification for by-product material decided by mutual agreement pursuant to the terms of Article 1(A) of the Agreement;
+
+&emsp;&emsp;&emsp;&emsp;(II) research and development undertaken in such areas as may be agreed between the United States and India as detailed in Article 2(2)(a.) of the Agreement;
+
+&emsp;&emsp;&emsp;&emsp;(III) the civil nuclear cooperation activities undertaken under Article 2(2)(d.) of the Agreement;
+
+&emsp;&emsp;&emsp;&emsp;(IV) any United States efforts to help India develop a strategic reserve of nuclear fuel as called for in Article 2(2)(e.) of the Agreement;
+
+&emsp;&emsp;&emsp;&emsp;(V) any United States efforts to fulfill political commitments made in Article 5(6) of the Agreement;
+
+&emsp;&emsp;&emsp;&emsp;(VI) any negotiations that have occurred or are ongoing under Article 6(iii.) of the Agreement; and
+
+&emsp;&emsp;&emsp;&emsp;(VII) any transfers beyond the territorial jurisdiction of India pursuant to Article 7(2) of the Agreement, including a listing of the receiving country of each such transfer;
+
+&emsp;&emsp;&emsp;(iii) an analysis of—
+
+&emsp;&emsp;&emsp;&emsp;(I) any instances in which the United States or India requested consultations arising from concerns over compliance with the provisions of Article 7(1) of the Agreement, and the results of such consultations; and
+
+&emsp;&emsp;&emsp;&emsp;(II) any matters not otherwise identified in this report that have become the subject of consultations pursuant to Article 13(2) of the Agreement, and a statement as to whether such matters were resolved by the end of the reporting period; and
+
+&emsp;&emsp;&emsp;(iv) a statement as to whether—
+
+&emsp;&emsp;&emsp;&emsp;(I) any consultations are expected to occur under Article 16(5) of the Agreement; and
+
+&emsp;&emsp;&emsp;&emsp;(II) any enrichment is being carried out pursuant to Article 6 of the Agreement.
 
 #### (3) Submittal with other annual reports
 
@@ -306,15 +344,61 @@ The authority provided under subsection (a)(1) to exempt an agreement shall term
 
 &emsp;Each report submitted under this subsection shall be submitted in unclassified form, but may contain a classified annex.
 
-(Pub. L. 109–401, title I, §104, Dec. 18, 2006, 120 Stat. 2729.)
+(Pub. L. 109–401, title I, §104, Dec. 18, 2006, 120 Stat. 2729; Pub. L. 110–369, title I, §§101(c), 105, Oct. 8, 2008, 122 Stat. 4029, 4030.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (d)(1), (2), (3)(A), was in the original “this title”, meaning title I of Pub. L. 109–401, Dec. 18, 2006, 120 Stat. 2726, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 8001 of this title and Tables.
 
+Section 101(a) of the United States-India Nuclear Cooperation Approval and Nonproliferation EnhancementAct, referred to in subsec. (g)(2)(M), is section 101(a) of Pub. L. 110–369, which is set out in a note under section 8001 of this title.
+
 #### Codification
 
 Section is comprised of section 104 of Pub. L. 109–401. Subsec. (e) of section 104 of Pub. L. 109–401 amended section 2153(d) of Title 42, The Public Health and Welfare.
+
+#### Amendments
+
+2008—Subsec. (f). Pub. L. 110–369, §101(c), substituted “October 8, 2008” for “the enactment of a joint resolution under section 2153(d) of title 42 approving such an agreement”.
+
+Subsec. (g)(1)(B) to (E). Pub. L. 110–369, §105(a), added subpar. (B) and redesignated former subpars. (B) to (D) as (C) to (E), respectively.
+
+Subsec. (g)(2)(M). Pub. L. 110–369, §105(b), added subpar. (M).
+
+#### Proposed Agreement for Cooperation Between the Government of the United States of America and the Government of India Concerning Peaceful Uses of Nuclear Energy
+
+Determination of the President of the United States, No. 2008–26, Sept. 10, 2008, 73 F.R. 54287, provided:
+
+Memorandum for the Secretary of State \[and\] the Secretary of Energy
+
+I have considered the Proposed Agreement for Cooperation Between the Government of the United States of America and the Government of India Concerning Peaceful Uses of Nuclear Energy, along with the views, recommendations, and statements of interested agencies.
+
+I have determined that the performance of the Agreement will promote, and will not constitute an unreasonable risk to, the common defense and security. Pursuant to section 123 b. of the Atomic Energy Act of 1954, as amended (42 U.S.C. 2153(B) \[sic\]), I hereby approve the proposed agreement and authorize the Secretary of State to arrange for its execution.
+
+In addition, pursuant to the authority vested in me by the Constitution and the laws of the United States of America, including the Henry J. Hyde United States-India Peaceful Atomic Energy Cooperation Act of 2006 (Public Law 109–401), I hereby determine that:
+
+1\. India has provided the United States and the IAEA with a credible plan to separate civil and military nuclear facilities, materials, and programs, and has filed a declaration regarding its civil facilities and materials with the IAEA;
+
+2\. India and the IAEA have concluded all legal steps required prior to signature by the parties of an agreement requiring the application of IAEA safeguards in perpetuity in accordance with IAEA standards, principles, and practices (including IAEA Board of Governors Document GOV/1621 (1973)) to India's civil nuclear facilities, materials, and programs as declared in the plan described in paragraph (1), including materials used in or produced through the use of India's civil nuclear facilities;
+
+3\. India and the IAEA are making substantial progress toward concluding an Additional Protocol consistent with IAEA principles, practices, and policies that would apply to India's civil nuclear program;
+
+4\. India is working actively with the United States for the early conclusion of a multilateral treaty on the cessation of the production of fissile materials for use in nuclear weapons or other nuclear explosive devices;
+
+5\. India is working with and supporting United States and international efforts to prevent the spread of enrichment and reprocessing technology to any state that does not already possess full-scale, functioning enrichment or reprocessing plants;
+
+6\. India is taking the necessary steps to secure nuclear and other sensitive materials and technology, including through (A) the enactment and effective enforcement of comprehensive export control legislation and regulations; (B) harmonization of its export control laws, regulations, policies, and practices with the guidelines and practices of the Missile Technology Control Regime (MTCR) and the Nuclear Suppliers Group (NSG); and (C) adherence to the MTCR and the NSG in accordance with the procedures of those regimes for unilateral adherence; and
+
+7\. The NSG has decided by consensus to permit supply to India of nuclear items covered by the guidelines of the NSG.
+
+I therefore hereby (1) exempt the proposed Agreement for Cooperation Between the Government of the United States of America and the Government of India Concerning Peaceful Uses of Nuclear Energy arranged pursuant to section 123 of the Atomic Energy Act of 1954 (42 U.S.C. 2153) from the requirement of subsection 123 a.(2) of such section; (2) waive the application of section 128 of the Atomic Energy Act of 1954 (42 U.S.C. 2157) with respect to exports to India; and (3) waive with respect to India the application of:
+
+(A) subsection 129 a.(1)(D) of the Atomic Energy Act of 1954 (42 U.S.C. 2158(a)(1)(D)); and
+
+(B) section 129 of the Atomic Energy Act of 1954 (42 U.S.C. 2158) regarding any actions that occurred before July 18, 2005.
+
+The Secretary of State is authorized and directed to publish this determination in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Regulations,”.</i>
 

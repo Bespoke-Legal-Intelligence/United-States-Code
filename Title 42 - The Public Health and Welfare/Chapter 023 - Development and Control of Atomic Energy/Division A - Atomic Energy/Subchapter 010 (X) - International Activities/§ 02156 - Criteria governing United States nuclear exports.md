@@ -12,7 +12,7 @@ The United States adopts the following criteria which, in addition to other requ
 
 &emsp;(5) No such material proposed to be exported and no special nuclear material produced through the use of such material will be reprocessed, and no irradiated fuel elements containing such material removed from a reactor shall be altered in form or content, unless the prior approval of the United States is obtained for such reprocessing or alteration.
 
-&emsp;(6) No such sensitive nuclear technology shall be exported unless the foregoing conditions shall be applied to any nuclear material or equipment which is produced or constructed under the jurisdiction of the recipient nation or group of nations by or through the use of any such exported sensitive nuclear technology.
+&emsp;(6) No such sensitive nuclear technology shall be exported unless the foregoing conditions shall be applied to any nuclear material or equipment which is produced or constructed under the jurisdiction of the recipient nation or group of nations by or through the use ofany such exported sensitive nuclear technology.
 
 (Aug. 1, 1946, ch. 724, title I, §127, as added Pub. L. 95–242, title III, §305, Mar. 10, 1978, 92 Stat. 136; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 

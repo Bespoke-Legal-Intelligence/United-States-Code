@@ -8,6 +8,7 @@
 | [702\.](Subchapter%20001%20%28I%29%20-%20Definitions%20and%20General%20Organization/%C2%A7%2000702%20-%20Government%20Accountability%20Office.md) | Government Accountability Office. |
 | [703\.](Subchapter%20001%20%28I%29%20-%20Definitions%20and%20General%20Organization/%C2%A7%2000703%20-%20Comptroller%20General%20and%20Deputy%20Comptroller%20General.md) | Comptroller General and Deputy Comptroller General. |
 | [704\.](Subchapter%20001%20%28I%29%20-%20Definitions%20and%20General%20Organization/%C2%A7%2000704%20-%20Relationship%20to%20other%20laws.md) | Relationship to other laws. |
+| [705\.](Subchapter%20001%20%28I%29%20-%20Definitions%20and%20General%20Organization/%C2%A7%2000705%20-%20Inspector%20General%20for%20the%20Government%20Accountability%20Office.md) | Inspector General for the Government Accountability Office. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -86,6 +87,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–323, §5(c), Sept. 22, 2008, 122 Stat. 3547, added item 705.
 
 2004—Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, substituted “GOVERNMENT ACCOUNTABILITY OFFICE” for “GENERAL ACCOUNTING OFFICE” in chapter heading and “Government Accountability Office” for “General Accounting Office” in item 702.
 

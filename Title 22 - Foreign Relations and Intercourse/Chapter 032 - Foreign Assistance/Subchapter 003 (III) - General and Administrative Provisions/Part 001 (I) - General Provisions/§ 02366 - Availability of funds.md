@@ -14,5 +14,5 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Administration of Funds
 
-Pub. L. 87–329, title I, §112, Sept. 30, 1961, 75 Stat. 719, provided that funds appropriated under Pub. L. 87–329, popularly known as the Foreign Assistance and Related Agencies Appropriation Act, 1962, should be administered with a favorable view toward those recipient nations which share the view of the United States on the world crisis.
+Pub. L. 87–329, title I, §112, Sept. 30, 1961, 75 Stat. 719, provided that funds appropriated under Pub. L. 87–329,popularly known as the Foreign Assistance and Related Agencies Appropriation Act, 1962, should be administered with a favorable view toward those recipient nations which share the view of the United States on the world crisis.
 

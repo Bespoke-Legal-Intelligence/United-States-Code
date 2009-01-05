@@ -1,10 +1,12 @@
 ### §3325. Appointments to scientific and professional positions
 
-(a) Positions established under section 3104 of this title are in the competitive service. However, appointments to the positions are made without competitive examination on approval of the qualifications of the proposed appointee by the Office of Personnel Management or its designee for this purpose.
+(a) Positions established under section 3104 of this title are in the competitive service. However, appointments to the positions are made without competitive examination on approval of the qualifications of the proposed appointee by the Office of Personnel Management on the basis of standards developed by the agency involved in accordance with criteria specified in regulations prescribed by the Director of the Office of Personnel Management.
 
 (b) This section does not apply to positions established under section 3104(c).
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 423; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 102–378, §2(12), Oct. 2, 1992, 106 Stat. 1347.)
+(c) The Director of the Office of Personnel Management shall prescribe such regulations as may be necessary to carry out the purpose of this section.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 423; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 102–378, §2(12), Oct. 2, 1992, 106 Stat. 1347; Pub. L. 110–372, §2(c)(3), Oct. 8, 2008, 122 Stat. 4044.)
 
 Historical and Revision Notes
 
@@ -36,9 +38,17 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
+2008—Subsec. (a). Pub. L. 110–372, §2(c)(3)(A), substituted “on the basis of standards developed by theagency involved in accordance with criteria specified in regulations prescribed by the Director of the Office of Personnel Management” for “or its designee for this purpose”.
+
+Subsec. (c). Pub. L. 110–372, §2(c)(3)(B), added subsec. (c).
+
 1992—Subsec. (b). Pub. L. 102–378 substituted “section 3104(c)” for “section 3104(a)(7) of this title”.
 
 1978—Subsec. (a). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–372 effective on the first day of the first pay period beginning on or after the 180th day following Oct. 8, 2008, see section 2(d) of Pub. L. 110–372, set out as a note under section 5376 of this title.
 
 #### Effective Date of 1978 Amendment
 

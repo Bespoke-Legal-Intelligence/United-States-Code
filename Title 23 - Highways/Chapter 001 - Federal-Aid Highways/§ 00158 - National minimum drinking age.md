@@ -10,7 +10,7 @@ In general.—The Secretary shall withhold 10 per centum of the amount required 
 
 &emsp;(2)
 
-State grandfather law as complying.—If, before the later of (A) October 1, 1986, or (B) the tenth day following the last day of the first session the legislature of a State convenes after the date of the enactment of this paragraph, such State has in effect a lawwhich makes unlawful the purchase and public possession in such State of any alcoholic beverage by a person who is less than 21 years of age (other than any person who is 18 years of age or older on the day preceding the effective date of such law and at such time could lawfully purchase or publicly possess any alcoholic beverage in such State), such State shall be deemed to be in compliance with paragraph (1) in each fiscal year in which such law is in effect.
+State grandfather law as complying.—If, before the later of (A) October 1, 1986, or (B) the tenth day following the last day of the first session the legislature of a State convenes after the date of the enactment of this paragraph, such State has in effect a law which makes unlawful the purchase and public possession in such State of any alcoholic beverage by a person who is less than 21 years of age (other than any person who is 18 years of age or older on the day preceding the effective date of such law and at such time could lawfully purchase or publicly possess any alcoholic beverage in such State), such State shall be deemed to be in compliance with paragraph (1) in each fiscal year in which such law is in effect.
 
 (b)
 
@@ -40,7 +40,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (c), is set out in Tit
 
 “(1)
 
-First year.—The Secretary shall withhold 5 per centum of the amount required to be apportioned to any State under each of sections 104(b)(1), 104(b)(2), 104(b)(5), and 104(b)(6) of this title on the first day of the fiscal year succeeding the first fiscal year beginning after September 30, 1985, in which the purchase or public possession in such State of any alcoholic beverage by a person who is less than twenty-one years of age is lawful.”
+First year.—The Secretary shall withhold 5 per centum of the amount required to be apportioned to any State under each of sections 104(b)(1), 104(b)(2),104(b)(5), and 104(b)(6) of this title on the first day of the fiscal year succeeding the first fiscal year beginning after September 30, 1985, in which the purchase or public possession in such State of any alcoholic beverage by a person who is less than twenty-one years of age is lawful.”
 
 Subsec. (a)(2), (3). Pub. L. 105–178, §1103(<i>l</i>)(2)(A)(ii), (iv), redesignated par. (3) as (2) and substituted “paragraph (1)” for “paragraphs (1) and (2) of this subsection”. Former par. (2) redesignated (1).
 

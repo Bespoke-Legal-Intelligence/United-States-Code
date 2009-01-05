@@ -50,7 +50,7 @@ The Secretary, after consultation with the United States Trade Representative an
 
 The regulations under subsection (b) of this section shall—
 
-&emsp;(1) require that safeguards be in place to ensure that each prescription drug imported under the regulations complies with section 355 of this title (including with respect to being safe and effective for the intended use of the prescription drug), with sections 351 and 352 of this title, and with other applicable requirements of this chapter;
+&emsp;(1) require that safeguards be in place to ensure that each prescription drug imported under the regulations complies with section 355 of this title (including with respect to being safe and effective for the intended use ofthe prescription drug), with sections 351 and 352 of this title, and with other applicable requirements of this chapter;
 
 &emsp;(2) require that an importer of a prescription drug under the regulations comply with subsections (d)(1) and (e) of this section; and
 

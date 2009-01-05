@@ -28,7 +28,7 @@
 
 &emsp;The duty-free treatment provided under paragraph (1) shall apply to any article described in that paragraph that meets the requirements of section 2463(a)(2) of this title, except that—
 
-&emsp;&emsp;(A) if the cost or value of materials produced in the customs territory of the United States is included with respect to that article, an amount not to exceed 15 percent of the appraised value of the article at the time it is entered that is attributed to such United States cost or value may be applied toward determining the percentage referred to in subparagraph (A) of section 2463(a)(2) of this title; and
+&emsp;&emsp;(A) if the cost or value of materials produced in the customs territory of the United States is included with respect to that article, an amount not to exceed 15 percent of the appraised value of the article at the time it is entered that is attributed to suchUnited States cost or value may be applied toward determining the percentage referred to in subparagraph (A) of section 2463(a)(2) of this title; and
 
 &emsp;&emsp;(B) the cost or value of the materials included with respect to that article that are produced in one or more beneficiary sub-Saharan African countries or former beneficiary sub-Saharan African countries shall be applied in determining such percentage.
 

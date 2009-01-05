@@ -8,7 +8,7 @@ The relations between the courts established by the Constitution or laws of the 
 
 1994—Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” before “of the House”.
 
-1984—Pub. L. 98–454 amended section generally, substituting provisions relating to the relations between local law courts and already established courts under the Constitution or laws of the United States with respect to appeals, certiorari, etc. and providing that the Court of Appeals for the Third Circuit shall have jurisdiction to review all final decisions from the highest court of the Virgin Islands for fifteen years after theappellate court is established for former provisions relating to the jurisdiction of inferior courts, transfer of actions, status as committing court, bail and rules.
+1984—Pub. L. 98–454 amended section generally, substituting provisions relating to the relations between local law courts and already established courts under the Constitution or laws of the United States with respect to appeals, certiorari, etc. and providing that the Court of Appeals for the Third Circuit shall have jurisdiction to review all final decisions from the highest court of the Virgin Islands for fifteen years after the appellate court is established for former provisions relating to the jurisdiction of inferior courts, transfer of actions, status as committing court, bail and rules.
 
 #### Effective Date of 1984 Amendment
 

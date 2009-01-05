@@ -6,7 +6,7 @@
 
 #### (i) Covering of fees collected into special account for agency established in Treasury
 
-(1)(A), (B) Repealed. Pub. L. 108–447, div. J, title VIII, §813(a), Dec. 8, 2004, 118 Stat. 3390, asamended by Pub. L. 109–54, title I, §132(a), Aug. 2, 2205, 119 Stat. 526.
+(1)(A), (B) Repealed. Pub. L. 108–447, div. J, title VIII, §813(a), Dec. 8, 2004, 118 Stat. 3390, as amended by Pub. L. 109–54, title I, §132(a), Aug. 2, 2205, 119 Stat. 526.
 
 (C)
 
@@ -50,11 +50,11 @@ When authorized by the head of the collecting agency, volunteers at designated a
 
 (1) Where the National Park Service provides transportation to view all or a portion of any unit of the National Park System, the Director may impose a charge for such service in lieu of an admission fee under this section. The charge imposed under this paragraph shall not exceed the maximum admission fee under subsection (a) <sup>1</sup> of this section.
 
-(2) Notwithstanding any other provision of law, half of the charges imposed under paragraph (1) shall be retained by the unit of the National Park System at which the service was provided. The remainder shall be covered into the special account referred to in subsection (i) <sup>1</sup> of this section in the same manner as receipts from fees collected pursuant to this section. Fifty percent of the amount retained shall be expended only for maintenance of transportation systems at the unit where the charge was imposed. The remaining 50 percent of the retained amount shall be expended only for activities related to resource protection at such units.
+(2) Notwithstanding any other provision of law, half of the charges imposed under paragraph (1) shall be retained by the unit of the National Park System at which the service was provided. The remainder shall be covered into the special account referred to in subsection (i) <sup>1</sup> of this section in the same manner as receiptsfrom fees collected pursuant to this section. Fifty percent of the amount retained shall be expended only for maintenance of transportation systems at the unit where the charge was imposed. The remaining 50 percent of the retained amount shall be expended only for activities related to resource protection at such units.
 
 #### (m) Admission fee at National Park System units where primary public access is provided by concessioner; maximum fee
 
-Where the primary public access to a unit of the National Park System is provided by a concessioner, the Secretary may charge an admission fee at such units only to the extent that thetotal of the fee charged by the concessioner for access to the unit and the admission fee does not exceed the maximum amount of the admission fee which could otherwise be imposed under subsection (a) <sup>1</sup> of this section.
+Where the primary public access to a unit of the National Park System is provided by a concessioner, the Secretary may charge an admission fee at such units only to the extent that the total of the fee charged by the concessioner for access to the unit and the admission fee does not exceed the maximum amount of the admission fee which could otherwise be imposed under subsection (a) <sup>1</sup> of this section.
 
 #### (n) Commercial tour use fees
 
@@ -104,7 +104,7 @@ Subsec. (i). Pub. L. 108–447, §813(a), as amended by Pub. L. 109–54, §132(
 
 1998—Subsec. (i)(1)(C). Pub. L. 105–327 added subpar. (C).
 
-1995—Subsec. (h). Pub. L. 104–66 struck out subsec. (h) which read as follows: “Periodic reports indicating the number and location of fee collection areas, the number and location of potential fee collection areas, capacity and visitation information, the fees collected, and other pertinent data, shall be coordinated and compiled by the Bureau of Outdoor Recreation and transmitted to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate. Such reports, which shall be transmitted no later than March 31 annually, shall include any recommendations which the Bureau may have with respect to improving this aspect of the land and water conservation fund program.”
+1995—Subsec. (h). Pub. L. 104–66 struck out subsec. (h) which read as follows: “Periodic reports indicating the number and location of fee collection areas, the number and location of potential fee collection areas, capacity and visitation information, the fees collected, and other pertinent data, shall be coordinated and compiled by the Bureau of Outdoor Recreation and transmitted to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate. Such reports, which shall be transmitted no later than March 31 annually, shall include any recommendations which theBureau may have with respect to improving this aspect of the land and water conservation fund program.”
 
 1994—Subsec. (h). Pub. L. 103–437 substituted “Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate” for “Committees on Interior and Insular Affairs of the United States House of Representatives and United States Senate”.
 
@@ -146,7 +146,7 @@ Subsec. (a)(1). Pub. L. 93–303, §1(c), among other changes, substituted “Th
 
 Subsec. (a)(2). Pub. L. 93–303, §1(d), struck out “or who enter such an area by means other than by private, noncommercial vehicle” after “annual permit” in first sentence. See subsec. (a)(1) of this section.
 
-Subsec. (a)(4). Pub. L. 93–303, §1(e), substituted “a lifetime admission permit” for “an annual entrance permit”, limited the issuance of this permit to citizens of, or persons domiciled in the United States, and inserted provisions to allow the permittee and his spouse and children accompanying him to enter an area which entry is by any means other than private, noncommercial vehicle.
+Subsec. (a)(4). Pub. L. 93–303, §1(e), substituted “a lifetime admission permit” for “an annual entrancepermit”, limited the issuance of this permit to citizens of, or persons domiciled in the United States, and inserted provisions to allow the permittee and his spouse and children accompanying him to enter an area which entry is by any means other than private, noncommercial vehicle.
 
 Subsec. (b). Pub. L. 93–303, §1(f), (g), among other changes, substituted “daily recreation use fee” for “special recreation use fees”, authorized a fee for boat launching facilities where specialized facilities or services such as mechanical or hydraulic boat lifts or facilities are provided, required the Corps of Engineers to provide at least one primitive campground where no charge shall be imposed at each lake or reservoir under its jurisdiction, incorporated provisions formerly in subsec. (b)(1) allowing any Golden Age Passport permittee to utilize the recreation facilities at a rate of 50 per centum of the established use fee, struck out the remainder of former subsec. (b)(1) which related to determination of daily use fees for overnight occupancy, and redesignated former subsec. (b)(2) as (c).
 
@@ -236,7 +236,7 @@ Availability.—Each amount withheld by the Secretary \[of the Army\] shall be a
 
 #### Recreational Fee Demonstration Program
 
-Pub. L. 108–447, div. E, title III, §319, Dec. 8, 2004, 118 Stat. 3097, provided that: “A project undertaken by theForest Service under the Recreation Fee Demonstration Program as authorized by section 315 of the Department of the Interior and Related Agencies Appropriations Act for Fiscal Year 1996, as amended \[Pub. L. 104–134, title I, §101(c), formerly set out below\], shall not result in—
+Pub. L. 108–447, div. E, title III, §319, Dec. 8, 2004, 118 Stat. 3097, provided that: “A project undertaken by the Forest Service under the Recreation Fee Demonstration Program as authorized by section 315 of the Department of the Interior and Related Agencies Appropriations Act for Fiscal Year 1996, as amended \[Pub. L. 104–134, title I, §101(c), formerly set out below\], shall not result in—
 
 &emsp;“(1) displacement of the holder of an authorization to provide commercial recreation services on Federal lands. Prior to initiating any project, the Secretary shall consult with potentially affected holders to determine what impacts the project may have on the holders. Any modifications to the authorization shall be made within the terms and conditions of the authorization and authorities of the impacted agency; and
 

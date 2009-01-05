@@ -22,7 +22,7 @@
 
 (B) The Secretary of Labor shall make determinations referred to in subparagraph (A) based on a preponderance of the evidence.
 
-(2) If the efforts of the Secretary under subsection (b) with respect to a complaint under subsection (a) do not result in the resolution of the complaint, the Secretary shall notify the person who submitted the complaint, in writing, of the results of the Secretary's investigation under subsection (b).
+(2) If the efforts of the Secretary under subsection (b) with respect to a complaint under subsection (a) do not result in the resolution of the complaint, the Secretary shall notify the person who submitted the complaint, in writing,of the results of the Secretary's investigation under subsection (b).
 
 (d)(1) If the Secretary of Labor is unable to resolve a complaint under subsection (a) within 60 days after the date on which it is filed, the complainant may elect to appeal the alleged violation to the Merit Systems Protection Board in accordance with such procedures as the Merit Systems Protection Board shall prescribe, except that in no event may any such appeal be brought—
 

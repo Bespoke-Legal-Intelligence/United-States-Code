@@ -30,7 +30,7 @@ Subsec. (b)(1). Pub. L. 108–136, §1012(a)(2), inserted before period at end �
 
 Subsec. (b)(2). Pub. L. 108–136, §1012(b)(2), added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (b)(3). Pub. L. 108–136, §1012(b)(1), (3), redesignated par. (2) as (3) and substituted “services needed for such stripping and for environmental remediation required for the use of the vessel for experimental purposes. Amounts received in excess of amounts needed for reimbursement of those costs shall be deposited into the account from which the stripping and environmental remediation expenses were incurred and shall be available for stripping and environmental remediation of other vessels to be used for experimental purposes” for “scrapping services needed for such stripping. Amounts received which are in excess of amounts needed for procuring such services shall be deposited into the general fund of the Treasury”.
+Subsec. (b)(3). Pub. L. 108–136, §1012(b)(1), (3), redesignated par. (2) as (3) and substituted “services needed for such stripping and for environmental remediation required for the use of the vessel for experimental purposes. Amounts received in excess of amounts neededfor reimbursement of those costs shall be deposited into the account from which the stripping and environmental remediation expenses were incurred and shall be available for stripping and environmental remediation of other vessels to be used for experimental purposes” for “scrapping services needed for such stripping. Amounts received which are in excess of amounts needed for procuring such services shall be deposited into the general fund of the Treasury”.
 
 Subsec. (c). Pub. L. 108–136, §1012(c), added subsec. (c).
 

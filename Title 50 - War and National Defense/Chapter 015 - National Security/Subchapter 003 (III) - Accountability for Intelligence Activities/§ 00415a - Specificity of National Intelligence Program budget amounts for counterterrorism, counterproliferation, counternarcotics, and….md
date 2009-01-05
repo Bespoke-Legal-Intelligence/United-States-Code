@@ -20,7 +20,7 @@ Amounts set forth under subsection (a) of this section may be set forth in uncla
 
 #### Amendments
 
-2004—Pub. L. 108–458, §1074(b)(1)(A)(ii), struck out “Foreign” before “Intelligence” in section catchline.
+<b>2004</b>—Pub. L. 108–458, §1074(b)(1)(A)(ii), struck out “Foreign” before “Intelligence” in section catchline.
 
 Subsec. (a). Pub. L. 108–458, §1074(b)(1)(A)(i), substituted “National Intelligence Program” for “National Foreign Intelligence Program”.
 

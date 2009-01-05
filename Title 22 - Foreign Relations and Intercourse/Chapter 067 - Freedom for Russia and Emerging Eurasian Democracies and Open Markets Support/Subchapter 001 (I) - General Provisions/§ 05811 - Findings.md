@@ -256,7 +256,7 @@ United states person.—The term ‘United States person’ means—
 
 Report.—Not later than 90 days after the date of the enactment of this Act \[Oct. 20, 2004\], and not later than 1 year thereafter, the President shall transmit to the appropriate congressional committees a report that describes, with respect to the preceding 12-month period, and to the extent practicable the following:
 
-&emsp;“(1) The sale or delivery of weapons or weapons-related technologies from the Republic of Belarus to any country, the government of which the Secretary of State has determined, for purposes of section 6(j)(1) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)), has repeatedly provided support for acts of international terrorism.
+&emsp;“(1) The sale or delivery of weapons or weapons-related technologies from the Republic of Belarus toany country, the government of which the Secretary of State has determined, for purposes of section 6(j)(1) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)), has repeatedly provided support for acts of international terrorism.
 
 &emsp;“(2) An identification of each country described in paragraph (1) and a detailed description of the weapons or weapons-related technologies involved in the sale.
 

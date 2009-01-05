@@ -16,11 +16,11 @@
 
 #### (b) Promotional rights under mandatory bout contracts
 
-No boxing service provider may require a boxer to grant any future promotional rights as a requirement of competing in a professional boxing match that is a mandatory bout under the rules of a sanctioning organization.
+No boxing service provider may require a boxer to grant any future promotional rights asa requirement of competing in a professional boxing match that is a mandatory bout under the rules of a sanctioning organization.
 
 #### (c) Protection from coercive contracts with broadcasters
 
-Subsection (a) of this section applies to any contract between a commercial broadcaster and a boxer, or granting any rights with respect to that boxer, involving a broadcast in or affectinginterstate commerce, regardless of the broadcast medium. For the purpose of this subsection, any reference in subsection (a)(1)(B) of this section to “promoter” shall be considered a reference to “commercial broadcaster”.
+Subsection (a) of this section applies to any contract between a commercial broadcaster and a boxer, or granting any rights with respect to that boxer, involving a broadcast in or affecting interstate commerce, regardless of the broadcast medium. For the purpose of this subsection, any reference in subsection (a)(1)(B) of this section to “promoter” shall be considered a reference to “commercial broadcaster”.
 
 (Pub. L. 104–272, §10, as added Pub. L. 106–210, §4(2), May 26, 2000, 114 Stat. 322.)
 

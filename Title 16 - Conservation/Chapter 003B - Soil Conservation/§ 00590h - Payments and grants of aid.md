@@ -26,15 +26,33 @@
 
 #### (II) Local administrative areas
 
-&emsp;&emsp;&emsp;&emsp;The Secretary may designate local administrative areas within a county or alarger area under the jurisdiction of a committee established under subclause (I).
+&emsp;&emsp;&emsp;&emsp;The Secretary may designate local administrative areas within a county or a larger area under the jurisdiction of a committee established under subclause (I).
 
 #### (ii) Composition of county, area, or local committees
 
-&emsp;&emsp;&emsp;A committee established under clause (i) shall consist of not fewer than 3 nor more than 5 members that—
+#### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;(I) are fairly representative of the agricultural producers within the area covered by the county, area, or local committee; and
+&emsp;&emsp;&emsp;&emsp;Except as provided in subclause (II), a committee established under clause (i) shall consist of not fewer than 3 nor more than 5 members that—
 
-&emsp;&emsp;&emsp;&emsp;(II) are elected by the agricultural producers that participate or cooperate in programs administered within the area under the jurisdiction of the county, area, or local committee.
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) are fairly representative of the agricultural producers within the area covered by the county, area, or local committee; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) are elected by the agricultural producers that participate or cooperate in programs administered within the area under the jurisdiction of the county, area, or local committee.
+
+#### (II) Combination or consolidation of areas
+
+&emsp;&emsp;&emsp;&emsp;A committee established by combining or consolidating 2 or more county or area committees shall consist of not fewer than 3 nor more than 11 members that—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) are fairly representative of the agricultural producers within the area covered by the county, area, or local committee; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) are elected by the agricultural producers that participate or cooperate in programs administered within the area under the jurisdiction of the county, area, or local committee.
+
+#### (III) Representation of socially disadvantaged farmers and ranchers
+
+&emsp;&emsp;&emsp;&emsp;The Secretary shall develop procedures to maintain representation of socially disadvantaged farmers and ranchers on combined or consolidated committees.
+
+#### (IV) Eligibility for membership
+
+&emsp;&emsp;&emsp;&emsp;Notwithstanding any other producer eligibility requirements for service on county or area committees, if a county or area is consolidated or combined, a producer shall be eligible to serve only as a member of the county or area committee that the producer elects to administer the farm records of the producer.
 
 #### (iii) Elections
 
@@ -180,7 +198,7 @@
 
 A payment that may be made to a producer under this section may be assigned only in accordance with regulations issued by the Secretary. This subsection shall not authorize any suit against or impose any liability on the Secretary, any disbursing agent, or any agency of the United States if payment is made to the producer without regard to the existence of any such assignment.
 
-(Apr. 27, 1935, ch. 85, §8, as added Feb. 29, 1936, ch. 104, §1, 49 Stat. 1149; amended June 28, 1937, ch. 395, §1, 50 Stat. 329; Feb. 16, 1938, ch. 30, title I, §§101, 102, 103, 52 Stat. 31, 34, 35; Apr. 7, 1938, ch. 107, §§16–18, 52 Stat. 204, 205; Apr. 10, 1939, ch. 48, 53 Stat. 573; May 14, 1940, ch. 200, 54 Stat. 216; July 2, 1940, ch. 521, §2, 54 Stat. 727; June 21, 1941, ch. 217, 55 Stat. 257; Dec. 26, 1941, ch. 626, §1, 55 Stat. 860; Feb. 6, 1942, ch. 44, §4, 56 Stat. 53; Sept. 29, 1942, ch. 568, 56 Stat. 761; Sept. 21, 1944, ch. 412, title III, §301, 58 Stat. 737; July 25, 1946, ch. 642, 60 Stat. 663; July 3, 1948, ch. 827, title I, §4, 62 Stat. 1250; Sept. 23, 1950, ch. 997, 64 Stat. 978; May 26, 1952, ch. 335, 66 Stat. 95; Aug. 28, 1954, ch. 1041, title V, §501, 68 Stat. 907; Aug. 9, 1955, ch. 624, 69 Stat. 545; Apr. 6, 1956, ch. 186, 70 Stat. 105; July 24, 1956, ch. 668, 70 Stat. 597; Pub. L. 85–553, July 25, 1958, 72 Stat. 414; Pub. L. 86–70, §13(a), June 25, 1959, 73 Stat. 143; Pub. L. 86–624, §8(a), July 12, 1960, 74 Stat. 412; Pub. L. 87–703, title I, §101(2), (3), Sept. 27, 1962, 76 Stat. 605, 606; Pub. L. 88–534, §1, Aug. 31, 1964, 78 Stat. 743; Pub. L. 89–742, Nov. 2, 1966, 80 Stat. 1167; Pub. L. 92–419, title VI, §§605, 606(2)–(5), Aug. 30, 1972, 86 Stat. 676, 677; Pub. L. 95–113, title XV, §1501(a), Sept. 29, 1977, 91 Stat. 1019; Pub. L. 96–294, title II, §259, June 30, 1980, 94 Stat. 709; Pub. L. 99–198, title XVII, §§1711(a), 1712, Dec. 23, 1985, 99 Stat. 1635, 1636; Pub. L. 99–253, §3, Feb. 28, 1986, 100 Stat. 36; Pub. L. 99–500, §101(a) \[title VI, §645\], Oct. 18, 1986, 100 Stat. 1783, 1783–36, and Pub. L. 99–591, §101(a) \[title VI, §645\], Oct. 30, 1986, 100 Stat. 3341, 3341–36; Pub. L. 99–641, title II, §204, Nov. 10, 1986, 100 Stat. 3563; Pub. L. 101–624, title XI, §1146, Nov. 28, 1990, 104 Stat. 3516; Pub. L. 102–237, title II, §202, Dec. 13, 1991, 105 Stat. 1848; Pub. L. 103–354, title II, §227(a), Oct. 13, 1994, 108 Stat. 3216; Pub. L. 104–127, title III, §336(a)(1)(A), Apr. 4, 1996, 110 Stat. 1004; Pub. L. 107–171, title X, §10708(b), May 13, 2002, 116 Stat. 522.)
+(Apr. 27, 1935, ch. 85, §8, as added Feb. 29, 1936, ch. 104, §1, 49 Stat. 1149; amended June 28, 1937, ch. 395, §1, 50 Stat. 329; Feb. 16, 1938, ch. 30, title I, §§101, 102, 103, 52 Stat. 31, 34, 35; Apr. 7, 1938, ch. 107, §§16–18, 52 Stat. 204, 205; Apr. 10, 1939, ch. 48, 53 Stat. 573; May 14, 1940, ch. 200, 54 Stat. 216; July 2, 1940, ch. 521, §2, 54 Stat. 727; June 21, 1941, ch. 217, 55 Stat. 257; Dec. 26, 1941, ch. 626, §1, 55 Stat. 860; Feb. 6, 1942, ch. 44, §4, 56 Stat. 53; Sept. 29, 1942, ch. 568, 56 Stat. 761; Sept. 21, 1944, ch. 412, title III, §301, 58 Stat. 737; July 25, 1946, ch. 642, 60 Stat. 663; July 3, 1948, ch. 827, title I, §4, 62 Stat. 1250; Sept. 23, 1950, ch. 997, 64 Stat. 978; May 26, 1952, ch. 335, 66 Stat. 95; Aug. 28, 1954, ch. 1041, title V, §501, 68 Stat. 907; Aug. 9, 1955, ch. 624, 69 Stat. 545; Apr. 6, 1956, ch. 186, 70 Stat. 105; July 24, 1956, ch. 668, 70 Stat. 597; Pub. L. 85–553, July 25, 1958, 72 Stat. 414; Pub. L. 86–70, §13(a), June 25, 1959, 73 Stat. 143; Pub. L. 86–624, §8(a), July 12, 1960, 74 Stat. 412; Pub. L. 87–703, title I, §101(2), (3), Sept. 27, 1962, 76 Stat. 605, 606; Pub. L. 88–534, §1, Aug. 31, 1964, 78 Stat. 743; Pub. L. 89–742, Nov. 2, 1966, 80 Stat. 1167; Pub. L. 92–419, title VI, §§605, 606(2)–(5), Aug. 30, 1972, 86 Stat. 676, 677; Pub. L. 95–113, title XV, §1501(a), Sept. 29, 1977, 91 Stat. 1019; Pub. L. 96–294, title II, §259, June 30, 1980, 94 Stat. 709; Pub. L. 99–198, title XVII, §§1711(a), 1712, Dec. 23, 1985, 99 Stat. 1635, 1636; Pub. L. 99–253, §3, Feb. 28, 1986, 100 Stat. 36; Pub. L. 99–500, §101(a) \[title VI, §645\], Oct. 18, 1986, 100 Stat. 1783, 1783–36, and Pub. L. 99–591, §101(a) \[title VI, §645\], Oct. 30, 1986, 100 Stat. 3341, 3341–36; Pub. L. 99–641, title II, §204, Nov. 10, 1986, 100 Stat. 3563; Pub. L. 101–624, title XI, §1146, Nov. 28, 1990, 104 Stat. 3516; Pub. L. 102–237, title II, §202, Dec. 13, 1991, 105 Stat. 1848; Pub. L. 103–354, title II, §227(a), Oct. 13, 1994, 108 Stat. 3216; Pub. L. 104–127, title III, §336(a)(1)(A), Apr. 4, 1996, 110 Stat. 1004; Pub. L. 107–171, title X, §10708(b), May 13, 2002, 116 Stat. 522; Pub. L. 110–234, title I, §1615, May 22, 2008, 122 Stat. 1021; Pub. L. 110–246, §4(a), title I, §1615, June 18, 2008, 122 Stat. 1664, 1749.)
 
 #### References in Text
 
@@ -190,9 +208,13 @@ The Consolidated Farm and Rural Development Act, referred to in subsec. (b)(5)(D
 
 #### Codification
 
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+2008—Subsec. (b)(5)(B)(ii). Pub. L. 110–246, §1615, designated existing provisions as subcl. (I), inserted heading, substituted “Except as provided in subclause (II), a committee established” for “A committee established” in introductory provisions, redesignated former subcls. (I) and (II) as items (aa) and (bb), respectively, and added subcls. (II) to (IV).
 
 2002—Subsec. (b)(5)(B). Pub. L. 107–171 added subpar. (B) and struck out former subpar. (B) which read as follows:
 
@@ -238,7 +260,7 @@ Pub. L. 99–198, §1711(a)(4), in fifth par., inserted provisions directing tha
 
 1977—Subsec. (b). Pub. L. 95–113, §1501(a)(1), (2), specified that financial assistance be provided to agricultural producers for carrying out enduring conservation and environmental enhancement measures, that eligibility for financial assistance be determined by the existence of conservation or environmental problems that reduce the productive capacity of the land and water or that cause environmental degradation, that financial assistance be a portion of the cost of the installation of conservation and environmental enhancement measures, that the Secretary of Agriculture be given discretion to set the level of payment based on a number of considerations relating to the level and distribution of benefits and costs accruing from the conservation problem and the applied remedy including the level of expected benefits to society, the total cost of the conservation practice, the degree to which the farmer benefits from other conservation programs, and the degree to which conservation would be applied in the absence of financial assistance, and that the Secretary be required to consider national and local needs and priorities in developing a national cost-share assistance program.
 
-Subsec. (e). Pub. L. 95–113, §1501(a)(3), struck out first three pars. which related to allotment and production adjustment activities and for provisions making small cost-share payments, and substituted a new par. authorizing the Secretary to establish a payment limitation. The first three pars. were deemed by the codifiers to constitute the first par., the flush sentence at the end of the first par., and the second par. to reflect the probable intent of Congress. See pp. 192, 193, 400, 401 of Senate Report 95–180.
+Subsec. (e). Pub. L. 95–113, §1501(a)(3), struck out first three pars. which related to allotment and production adjustment activities and for provisions making small cost-share payments, and substituted a new par. authorizing the Secretary to establish a payment limitation. The first three pars. were deemed by the codifiersto constitute the first par., the flush sentence at the end of the first par., and the second par. to reflect the probable intent of Congress. See pp. 192, 193, 400, 401 of Senate Report 95–180.
 
 1972—Subsec. (b). Pub. L. 92–419, §§605, 606(2), (3), added par. respecting long-term rural environmental protection contracts; included in first sentence reference to cl. (6) of section 590g of this title and in item (2) provided as a measure for amount of payments and grants the treatment or use of the land for the prevention or abatement of agriculture-related pollution; and included in the second paragraph provisions respecting making available pollution prevention or abatement aids and orders covering pollution prevention or abatement aids and carrying out by the producers or pollution prevention or abatement practices, respectfully.
 
@@ -308,6 +330,10 @@ Subsec. (g). Act Apr. 7, 1938, substituted second and third sentences for senten
 
 1937—Subsec. (a). Act June 28, 1937, substituted “January 1, 1942” for “January 1, 1938” wherever appearing, and “December 31, 1941” for “December 31, 1937”.
 
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–624 effective beginning with 1991 crop of an agricultural commodity, with provision for prior crops, see section 1171 of Pub. L. 101–624, set out as a note under section 1421 of this title.
@@ -372,7 +398,7 @@ Pub. L. 89–301, §10, Oct. 29, 1965, 79 Stat. 1120, provided that: “The rate
 
 #### 1964 Increase in Rates of Compensation of Persons Employed by County Committees
 
-Pub. L. 88–426, title I, §122, Aug. 14, 1964, 78 Stat. 412, provided that: “The rates of compensation of persons employed by the county committees establish pursuant to section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b)) shall be increased by amounts equal, as nearly as may be practicable to the increases provided by section 102 of this Act \[amending section 1113(b) of former Title 5, Executive Departments and Government Officers and Employees\] for corresponding rates of compensation in the appropriate schedule or scale of pay.”
+Pub. L. 88–426, title I, §122, Aug. 14, 1964, 78 Stat. 412, provided that: “The rates of compensation of persons employed by the county committees establish pursuant to section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b)) shall be increased by amounts equal, as nearly as may be practicable to theincreases provided by section 102 of this Act \[amending section 1113(b) of former Title 5, Executive Departments and Government Officers and Employees\] for corresponding rates of compensation in the appropriate schedule or scale of pay.”
 
 #### 1962 Increase in Rates of Compensation of Persons Employed by County Committees
 

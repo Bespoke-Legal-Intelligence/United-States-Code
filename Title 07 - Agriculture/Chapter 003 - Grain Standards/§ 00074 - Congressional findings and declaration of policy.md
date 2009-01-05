@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(F) accommodate scientific advances in testing and new knowledge concerning factors related to, or highly correlated with, the end use performance of grain.
 
-(Aug. 11, 1916, ch. 313, pt. B, §2, 39 Stat. 482; July 18, 1940, ch. 636, 54 Stat. 765; Pub. L. 90–487, §1,Aug. 15, 1968, 82 Stat. 761; Pub. L. 94–582, §2, Oct. 21, 1976, 90 Stat. 2867; Pub. L. 99–641, title III, §302, Nov. 10, 1986, 100 Stat. 3564; Pub. L. 101–624, title XX, §2004, Nov. 28, 1990, 104 Stat. 3929.)
+(Aug. 11, 1916, ch. 313, pt. B, §2, 39 Stat. 482; July 18, 1940, ch. 636, 54 Stat. 765; Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 761; Pub. L. 94–582, §2, Oct. 21, 1976, 90 Stat. 2867; Pub. L. 99–641, title III, §302, Nov. 10, 1986, 100 Stat. 3564; Pub. L. 101–624, title XX, §2004, Nov. 28, 1990, 104 Stat. 3929.)
 
 #### Amendments
 

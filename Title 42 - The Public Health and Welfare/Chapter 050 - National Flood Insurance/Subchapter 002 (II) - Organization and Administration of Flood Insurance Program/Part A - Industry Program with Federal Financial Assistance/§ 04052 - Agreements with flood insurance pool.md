@@ -22,7 +22,7 @@ Such agreements shall specify—
 
 In addition, such agreements shall contain such provisions as the Director finds necessary to assure that—
 
-&emsp;(1) no insurance company or other insurer which meets the requirements prescribed under section 4051(b) of this title, and which has indicated an intention to participate in the flood insurance program on a risk-sharing basis, will be excluded from participating in the pool,
+&emsp;(1) no insurance company or other insurer which meets the requirements prescribedunder section 4051(b) of this title, and which has indicated an intention to participate in the flood insurance program on a risk-sharing basis, will be excluded from participating in the pool,
 
 &emsp;(2) the insurance companies and other insurers participating in the pool will take whatever action may be necessary to provide continuity of flood insurance coverage by the pool, and
 

@@ -40,7 +40,7 @@ For the purposes of this subchapter:
 
 #### Amendments
 
-1999—Par. (4)(A). Pub. L. 106–120 substituted “a present or retired officer or employee” for “an officer or employee” and “a present or retired member” for “a member”.
+<b>1999</b>—Par. (4)(A). Pub. L. 106–120 substituted “a present or retired officer or employee” for “an officer or employee” and “a present or retired member” for “a member”.
 
 #### Transfer of Functions
 

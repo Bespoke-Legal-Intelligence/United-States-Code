@@ -34,7 +34,7 @@ Compensation which officers and members are entitled to receive under this secti
 
 #### (e) Transfer of accrued compensatory time off or receipt of lump-sum payment upon termination of service
 
-No officer or member may, upon the termination of his service as an officer or member of the United States Capitol Police force, transfer accrued compensatory time off for application with respect to his employment by any other department, agency, or establishment of the Federal Government or the District of Columbia. No officer or employee may, upon such termination, receive any lump-sum payment with respect to such accrued compensatory time off.
+No officer or member may, upon the termination of his service as an officer or member ofthe United States Capitol Police force, transfer accrued compensatory time off for application with respect to his employment by any other department, agency, or establishment of the Federal Government or the District of Columbia. No officer or employee may, upon such termination, receive any lump-sum payment with respect to such accrued compensatory time off.
 
 #### (f) Definitions
 

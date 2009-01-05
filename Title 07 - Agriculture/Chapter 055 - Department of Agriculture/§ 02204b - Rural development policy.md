@@ -86,7 +86,7 @@ The Federal Advisory Committee Act, referred to in subsec. (b)(3), is Pub. L. 92
 
 #### Effective Date
 
-Section 10 of Pub. L. 96–355 provided that: “The provisions of this Act \[enacting this section and section 2211b of this title, amending sections 1926, 2204, 2204a, 2204b–1, 2663, and 2667 of this title and section 5314 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 2201 of this title\] shall become effective October 1, 1980.”
+Section 10 of Pub. L. 96–355 provided that: “The provisions of this Act \[enacting this section and section2211b of this title, amending sections 1926, 2204, 2204a, 2204b–1, 2663, and 2667 of this title and section 5314 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 2201 of this title\] shall become effective October 1, 1980.”
 
 #### Termination of Reporting Requirements
 

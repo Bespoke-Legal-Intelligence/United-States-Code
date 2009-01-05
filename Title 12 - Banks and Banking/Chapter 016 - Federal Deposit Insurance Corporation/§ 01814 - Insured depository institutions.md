@@ -46,7 +46,7 @@ Subsec. (c)(2). Pub. L. 109–351, §608(b)(2), which directed insertion of “o
 
 1989—Pub. L. 101–73, §201(a), substituted references to insured depository institutions for references to insured banks wherever appearing.
 
-Subsec. (a). Pub. L. 101–73, §205(1), inserted heading, designated existing provisions as par. (1), inserted par. (1) heading, and substituted “Each bank” for “Every bank”, and added par. (2).
+Subsec. (a). Pub. L. 101–73, §205(1), inserted heading, designated existing provisions as par. (1), inserted par.\(1) heading, and substituted “Each bank” for “Every bank”, and added par. (2).
 
 Subsec. (b). Pub. L. 101–73, §205(2)(A), (B), inserted after first sentence “Any application or notice for membership or to commence or resume business shall be promptly provided by the appropriate Federal banking agency to the Corporation and the Corporation shall have a reasonable period of time to provide comments on such application or notice. Any comments submitted by the Corporation to the appropriate Federal banking agency shall be considered by such agency.” and struck out at end “A State bank, resulting from the conversion of an insured national bank, shall continue as an insured bank. A State bank, resulting from the merger or consolidation of insured banks, or from the merger or consolidation of a noninsured bank or institution with an insured State bank, shall continue as an insured bank.”
 

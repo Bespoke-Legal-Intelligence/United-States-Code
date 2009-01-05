@@ -8,7 +8,7 @@
 
 #### References in Text
 
-The passage of the Food Quality Protection Act of 1996, referred to in subsec. (b), probably means the dateof enactment of Pub. L. 104–170, which was approved Aug. 3, 1996.
+The passage of the Food Quality Protection Act of 1996, referred to in subsec. (b), probably means the date of enactment of Pub. L. 104–170, which was approved Aug. 3, 1996.
 
 #### Prior Provisions
 

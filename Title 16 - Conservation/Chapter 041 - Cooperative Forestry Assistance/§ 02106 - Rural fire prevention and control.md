@@ -24,7 +24,7 @@ Notwithstanding the Federal Fire Prevention and Control Act of 1974 \[15 U.S.C. 
 
 &emsp;(2) provide financial, technical, and related assistance to State foresters or equivalent State officials, and through them to other agencies and individuals, for the prevention, control, suppression, and prescribed use of fires on non-Federal forest lands and other non-Federal lands;
 
-&emsp;(3) provide financial, technical, and related assistance to State foresters or equivalent State officials in cooperative efforts to organize, train, and equip local firefighting forces, including those of Indian tribes or other native groups, to prevent, control, and suppress fires threatening human lives, crops, livestock, farmsteads or other improvements, pastures, orchards, wildlife, rangeland, woodland, and other resources in rural areas. As usedherein, the term “rural areas” shall have the meaning set out in the first clause of section 1926(a)(7) <sup>1</sup> of title 7; and
+&emsp;(3) provide financial, technical, and related assistance to State foresters or equivalent State officials in cooperative efforts to organize, train, and equip local firefighting forces, including those of Indian tribes or other native groups, to prevent, control, and suppress fires threatening human lives, crops, livestock, farmsteads or other improvements, pastures, orchards, wildlife, rangeland, woodland, and other resources in rural areas. As used herein, the term “rural areas” shall have the meaning set out in the first clause of section 1926(a)(7) <sup>1</sup> of title 7; and
 
 &emsp;(4) provide financial, technical, and related assistance to State foresters or equivalent State officials, and through them to other agencies and individuals, including rural volunteer fire departments, to conduct preparedness and mobilization activities, including training, equipping, and otherwise enabling State and local firefighting agencies to respond to requests for fire suppression assistance.
 
@@ -34,7 +34,7 @@ The Secretary, with the cooperation and assistance of the Administrator of Gener
 
 #### (d) Coordination of assistance with assistance of Secretary of Commerce under Federal fire prevention and control provisions
 
-To promote maximum effectiveness and economy, the Secretary shall seek to coordinate the assistance the Secretary provides under this section with the assistance provided by the Secretary of Commerce under the Federal Fire Prevention and Control Act of 1974 \[15 U.S.C. 2201 et seq.\].
+To promote maximum effectiveness and economy, the Secretary shall seek to coordinate theassistance the Secretary provides under this section with the assistance provided by the Secretary of Commerce under the Federal Fire Prevention and Control Act of 1974 \[15 U.S.C. 2201 et seq.\].
 
 #### (e) Authorization of appropriations for implementation of provisions
 

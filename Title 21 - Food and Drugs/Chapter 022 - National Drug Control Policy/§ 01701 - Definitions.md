@@ -98,7 +98,7 @@ In this chapter:
 
 #### (13) Law enforcement
 
-&emsp;The term “law enforcement” or “drug law enforcement” means all efforts by a Federal, State, local, or tribal government agency to enforce the drug laws of the United States or any State, including investigation, arrest, prosecution, and incarceration or other punishments or penalties.
+&emsp;The term “law enforcement” or “drug law enforcement” means all efforts by a Federal, State, local, or tribal government agency to enforce the drug laws of the United States or any State, including investigation, arrest,prosecution, and incarceration or other punishments or penalties.
 
 (Pub. L. 105–277, div. C, title VII, §702, Oct. 21, 1998, 112 Stat. 2681–670; Pub. L. 109–469, title I, §101, Dec. 29, 2006, 120 Stat. 3503.)
 

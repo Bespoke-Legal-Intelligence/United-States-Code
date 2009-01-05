@@ -12,7 +12,7 @@ All rights and remedies of the Corporation, including without limitation on the 
 
 #### (c) Financial reports; submission to Director; contents
 
-(1) The Corporation shall submit to the Director of the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development annual and quarterly reports of the financial condition and operations of the Corporation which shall be in such form, contain such information, and be submitted on such dates as the Director shall require.
+(1) The Corporation shall submit to the Director of the Federal Housing Finance Agency annual and quarterly reports of the financial condition and operations of the Corporation which shall be in such form, contain such information, and be submitted on such dates as the Director shall require.
 
 (2) Each such annual report shall include—
 
@@ -38,7 +38,7 @@ All rights and remedies of the Corporation, including without limitation on the 
 
 #### (e) Mortgage data collection and reporting requirements
 
-(1) The Corporation shall collect, maintain, and provide to the Secretary, in a form determined by the Secretary, data relating to its mortgages on housing consisting of 1 to 4 dwelling units. Such data shall include—
+(1) The Corporation shall collect, maintain, and provide to the Director of the Federal Housing Finance Agency, in a form determined by the Director, data relating to its mortgages on housing consisting of 1 to 4 dwelling units. Such data shall include—
 
 &emsp;(A) the income, census tract location, race, and gender of mortgagors under such mortgages;
 
@@ -50,7 +50,7 @@ All rights and remedies of the Corporation, including without limitation on the 
 
 &emsp;(E) any other characteristics that the Secretary considers appropriate, to the extent practicable.
 
-(2) The Corporation shall collect, maintain, and provide to the Secretary, in a form determined by the Secretary, data relating to its mortgages on housing consisting of more than 4 dwelling units. Such data shall include—
+(2) The Corporation shall collect, maintain, and provide to the Director of the Federal Housing Finance Agency, in a form determined by the Director, data relating to its mortgages on housing consisting of more than 4 dwelling units. Such data shall include—
 
 &emsp;(A) census tract location of the housing;
 
@@ -74,7 +74,7 @@ All rights and remedies of the Corporation, including without limitation on the 
 
 #### (f) Report on housing activities; contents; public disclosure
 
-(1) The Corporation shall submit to the Committee on Banking, Finance and Urban Affairs of the House of Representatives, the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Secretary a report on its activities under subpart B of part 2 of subtitle A of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 \[12 U.S.C. 4561 et seq.\].
+(1) The Corporation shall submit to the Committee on Banking, Finance and Urban Affairs of the House of Representatives, the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Director of the Federal Housing Finance Agency a report on its activities under subpart B of part 2 of subtitle A of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 \[12 U.S.C. 4561 et seq.\].
 
 (2) The report under this subsection shall—
 
@@ -86,13 +86,13 @@ All rights and remedies of the Corporation, including without limitation on the 
 
 &emsp;(D) include statements of the proportion of mortgages on housing consisting of 1 to 4 dwelling units purchased by the Corporation that have been made to first-time homebuyers, as soon as providing such data is practicable, and identifying any special programs (or revisions to conventional practices) facilitating homeownership opportunities for first-time homebuyers;
 
-&emsp;(E) include, in aggregate form and by appropriate category, the data provided to the Secretary under subsection (e)(1)(B) of this section;
+&emsp;(E) include, in aggregate form and by appropriate category, the data provided to the Director of the Federal Housing Finance Agency under subsection (e)(1)(B) of this section;
 
 &emsp;(F) compare the level of securitization versus portfolio activity;
 
 &emsp;(G) assess underwriting standards, business practices, repurchase requirements, pricing, fees, and procedures, that affect the purchase of mortgages for low- and moderate-income families, or that may yield disparate results based on the race of the borrower, including revisions thereto to promote affordable housing or fair lending;
 
-&emsp;(H) describe trends in both the primary and secondary multifamily housing mortgage markets, including a description of the progressmade, and any factors impeding progress, toward standardization and securitization of mortgage products for multifamily housing;
+&emsp;(H) describe trends in both the primary and secondary multifamily housing mortgage markets, including a description of the progress made, and any factors impeding progress, toward standardization and securitization of mortgage products for multifamily housing;
 
 &emsp;(I) describe trends in the delinquency and default rates of mortgages secured by housing for low- and moderate-income families that have been purchased by the Corporation, including a comparison of such trends with delinquency and default information for mortgage products serving households with incomes above the median level that have been purchased by the Corporation, and evaluate the impact of such trends on the standards and levels of risk of mortgage products serving low- and moderate-income families;
 
@@ -100,11 +100,11 @@ All rights and remedies of the Corporation, including without limitation on the 
 
 &emsp;(K) describe the activities undertaken by the Corporation with nonprofit and for-profit organizations and with State and local governments and housing finance agencies, including how the Corporation's activities support the objectives of comprehensive housing affordability strategies under section 12705 of title 42; and
 
-&emsp;(L) include any other information that the Secretary considers appropriate.
+&emsp;(L) include any other information that the Director of the Federal Housing Finance Agency considers appropriate.
 
 (3)(A) The Corporation shall make each report under this subsection available to the public at the principal and regional offices of the Corporation.
 
-(B) Before making a report under this subsection available to the public, the Corporation may exclude from the report information that the Secretary has determined is proprietary information under section 1326 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 \[12 U.S.C. 4546\].
+(B) Before making a report under this subsection available to the public, the Corporation may exclude from the report information that the Director of the Federal Housing Finance Agency has determined is proprietary information under section 1326 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 \[12 U.S.C. 4546\].
 
 #### (g) Affordable Housing Advisory Council
 
@@ -112,13 +112,23 @@ All rights and remedies of the Corporation, including without limitation on the 
 
 (2) The Affordable Housing Advisory Council shall consist of 15 individuals, who shall include representatives of community-based and other nonprofit and for-profit organizations and State and local government agencies actively engaged in the promotion, development, or financing of housing for low- and moderate-income families.
 
-(Pub. L. 91–351, title III, §307, July 24, 1970, 84 Stat. 456; Pub. L. 101–73, title VII, §731(j)(1), Aug. 9, 1989, 103 Stat. 435; Pub. L. 102–550, title XIII, §1382(<i>o</i>)–(t), Oct. 28, 1992, 106 Stat. 4005–4008; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 91–351, title III, §307, July 24, 1970, 84 Stat. 456; Pub. L. 101–73, title VII, §731(j)(1), Aug. 9, 1989, 103 Stat. 435; Pub. L. 102–550, title XIII, §1382(<i>o</i>)–(t), Oct. 28, 1992, 106 Stat. 4005–4008; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–289, div. A, title I, §1161(c)(1), (3), July 30, 2008, 122 Stat. 2780.)
 
 #### References in Text
 
 The Federal Housing Enterprises Financial Safety and Soundness Act of 1992, referred to in subsec. (f)(1), is title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941. Subpart B of part 2 of subtitle A of the Act is classified generally to subpart 2 (§4561 et seq.) of part B of subchapter I of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note under section 4501 of this title and Tables.
 
 #### Amendments
+
+2008—Subsec. (c)(1). Pub. L. 110–289, §1161(c)(1), substituted “Director of the Federal Housing Finance Agency” for “Director of the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development”.
+
+Subsec. (e)(1), (2). Pub. L. 110–289, §1161(c)(3)(A), substituted “to the Director of the Federal Housing Finance Agency, in a form determined by the Director” for “to the Secretary, in a form determined by the Secretary” in introductory provisions.
+
+Subsec. (f)(1). Pub. L. 110–289, §1161(c)(3)(B)(i), substituted “and the Director of the Federal Housing Finance Agency” for “and the Secretary”.
+
+Subsec. (f)(2)(E), (L). Pub. L. 110–289, §1161(c)(3)(B)(ii), substituted “the Director of the Federal Housing Finance Agency” for “the Secretary”.
+
+Subsec. (f)(3)(B). Pub. L. 110–289, §1161(c)(3)(B)(iii), substituted “Director of the Federal Housing Finance Agency” for “Secretary”.
 
 2004—Subsec. (b). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” wherever appearing.
 

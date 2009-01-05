@@ -1,5 +1,5 @@
 
-25 U.S.C.<br>United States Code, 2007 Edition<br>Title 25 - INDIANS<br>From the U.S. Government Publishing Office, www.gpo.gov
+25 U.S.C.<br>United States Code, 2008 Edition<br>Title 25 - INDIANS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 25—INDIANS
 
@@ -26,7 +26,7 @@
 | [<b>17.</b>](Chapter%20017%20-%20Financing%20Economic%20Development%20of%20Indians%20and%20Indian%20Organizations/README.md) | <b>Financing Economic Development of Indians and Indian Organizations</b> | <b>1451</b> |
 | [<b>18.</b>](Chapter%20018%20-%20Indian%20Health%20Care/README.md) | <b>Indian Health Care</b> | <b>1601</b> |
 | [<b>19.</b>](Chapter%20019%20-%20Indian%20Land%20Claims%20Settlements/README.md) | <b>Indian Land Claims Settlements</b> | <b>1701</b> |
-| [<b>20.</b>](Chapter%20020%20-%20Tribally%20Controlled%20College%20or%20University%20Assistance/README.md) | <b>Tribally Controlled College or University Assistance</b> | <b>1801</b> |
+| [<b>20.</b>](Chapter%20020%20-%20Tribally%20Controlled%20Colleges%20and%20Universities%20Assistance/README.md) | <b>Tribally Controlled Colleges and Universities Assistance</b> | <b>1801</b> |
 | [<b>21.</b>](Chapter%20021%20-%20Indian%20Child%20Welfare/README.md) | <b>Indian Child Welfare</b> | <b>1901</b> |
 | [<b>22.</b>](Chapter%20022%20-%20Bureau%20of%20Indian%20Affairs%20Programs/README.md) | <b>Bureau of Indian Affairs Programs</b> | <b>2000</b> |
 | [<b>23.</b>](Chapter%20023%20-%20Development%20of%20Tribal%20Mineral%20Resources/README.md) | <b>Development of Tribal Mineral Resources</b> | <b>2101</b> |
@@ -39,6 +39,7 @@
 | [<b>30.</b>](Chapter%20030%20-%20Indian%20Law%20Enforcement%20Reform/README.md) | <b>Indian Law Enforcement Reform</b> | <b>2801</b> |
 | [<b>31.</b>](Chapter%20031%20-%20Native%20American%20Languages/README.md) | <b>Native American Languages</b> | <b>2901</b> |
 | [<b>32.</b>](Chapter%20032%20-%20Native%20American%20Graves%20Protection%20and%20Repatriation/README.md) | <b>Native American Graves Protection and Repatriation</b> | <b>3001</b> |
+| [<b>32A.</b>](Chapter%20032A%20-%20Cultural%20and%20Heritage%20Cooperation%20Authority/README.md) | <b>Cultural and Heritage Cooperation Authority</b> | <b>3051</b> |
 | [<b>33.</b>](Chapter%20033%20-%20National%20Indian%20Forest%20Resources%20Management/README.md) | <b>National Indian Forest Resources Management</b> | <b>3101</b> |
 | [<b>34.</b>](Chapter%20034%20-%20Indian%20Child%20Protection%20and%20Family%20Violence%20Prevention/README.md) | <b>Indian Child Protection and Family Violence Prevention</b> | <b>3201</b> |
 | [<b>35.</b>](Chapter%20035%20-%20Indian%20Higher%20Education%20Programs/README.md) | <b>Indian Higher Education Programs</b> | <b>3301</b> |
@@ -81,7 +82,7 @@
 - [Chapter 017 - Financing Economic Development of Indians and Indian Organizations](Chapter%20017%20-%20Financing%20Economic%20Development%20of%20Indians%20and%20Indian%20Organizations/README.md)
 - [Chapter 018 - Indian Health Care](Chapter%20018%20-%20Indian%20Health%20Care/README.md)
 - [Chapter 019 - Indian Land Claims Settlements](Chapter%20019%20-%20Indian%20Land%20Claims%20Settlements/README.md)
-- [Chapter 020 - Tribally Controlled College or University Assistance](Chapter%20020%20-%20Tribally%20Controlled%20College%20or%20University%20Assistance/README.md)
+- [Chapter 020 - Tribally Controlled Colleges and Universities Assistance](Chapter%20020%20-%20Tribally%20Controlled%20Colleges%20and%20Universities%20Assistance/README.md)
 - [Chapter 021 - Indian Child Welfare](Chapter%20021%20-%20Indian%20Child%20Welfare/README.md)
 - [Chapter 022 - Bureau of Indian Affairs Programs](Chapter%20022%20-%20Bureau%20of%20Indian%20Affairs%20Programs/README.md)
 - [Chapter 023 - Development of Tribal Mineral Resources](Chapter%20023%20-%20Development%20of%20Tribal%20Mineral%20Resources/README.md)
@@ -94,6 +95,7 @@
 - [Chapter 030 - Indian Law Enforcement Reform](Chapter%20030%20-%20Indian%20Law%20Enforcement%20Reform/README.md)
 - [Chapter 031 - Native American Languages](Chapter%20031%20-%20Native%20American%20Languages/README.md)
 - [Chapter 032 - Native American Graves Protection and Repatriation](Chapter%20032%20-%20Native%20American%20Graves%20Protection%20and%20Repatriation/README.md)
+- [Chapter 032A - Cultural and Heritage Cooperation Authority](Chapter%20032A%20-%20Cultural%20and%20Heritage%20Cooperation%20Authority/README.md)
 - [Chapter 033 - National Indian Forest Resources Management](Chapter%20033%20-%20National%20Indian%20Forest%20Resources%20Management/README.md)
 - [Chapter 034 - Indian Child Protection and Family Violence Prevention](Chapter%20034%20-%20Indian%20Child%20Protection%20and%20Family%20Violence%20Prevention/README.md)
 - [Chapter 035 - Indian Higher Education Programs](Chapter%20035%20-%20Indian%20Higher%20Education%20Programs/README.md)

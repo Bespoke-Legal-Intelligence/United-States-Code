@@ -2,9 +2,10 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [2101\.](%C2%A7%2002101%20-%20Veterans%20eligible%20for%20assistance.md) | Veterans eligible for assistance. |
+| [2101\.](%C2%A7%2002101%20-%20Acquisition%20and%20adaptation%20of%20housing%20eligible%20veterans.md) | Acquisition and adaptation of housing: eligible veterans. |
+| [2101A.](%C2%A7%2002101A%20-%20Eligibility%20for%20benefits%20and%20assistance%20members%20of%20the%20Armed%20Forces%20with%20service-connected%20disabilities%3B%20individuals%20residing%20outside%20the%E2%80%A6.md) | Eligibility for benefits and assistance: members of the Armed Forces with service-connected disabilities; individuals residing outside the United States. |
 | [2102\.](%C2%A7%2002102%20-%20Limitations%20on%20assistance%20furnished.md) | Limitations on assistance furnished. |
-| [2102A.](%C2%A7%2002102A%20-%20Assistance%20for%20veterans%20residing%20temporarily%20in%20housing%20owned%20by%20a%20family%20member.md) | Assistance for veterans residing temporarily in housing owned by a family member. |
+| [2102A.](%C2%A7%2002102A%20-%20Assistance%20for%20individuals%20residing%20temporarily%20in%20housing%20owned%20by%20a%20family%20member.md) | Assistance for individuals residing temporarily in housing owned by a family member. |
 | [2103\.](%C2%A7%2002103%20-%20Furnishing%20of%20plans%20and%20specifications.md) | Furnishing of plans and specifications. |
 | [2104\.](%C2%A7%2002104%20-%20Benefits%20additional%20to%20benefits%20under%20other%20laws.md) | Benefits additional to benefits under other laws. |
 | [2105\.](%C2%A7%2002105%20-%20Nonliability%20of%20United%20States.md) | Nonliability of United States. |
@@ -14,6 +15,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–289, div. B, title VI, §2602(b)(8), July 30, 2008, 122 Stat. 2860, substituted “Acquisition and adaptation of housing: eligible veterans” for “Veterans eligible for assistance” in item 2101, added item 2101A, and substituted “individuals” for “veterans” in item 2102A.
 
 2006—Pub. L. 109–233, title I, §101(d), June 15, 2006, 120 Stat. 399, added items 2102A and 2107.
 
@@ -30,9 +33,10 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 02101 - Veterans eligible for assistance](%C2%A7%2002101%20-%20Veterans%20eligible%20for%20assistance.md)
+- [&sect; 02101 - Acquisition and adaptation of housing eligible veterans](%C2%A7%2002101%20-%20Acquisition%20and%20adaptation%20of%20housing%20eligible%20veterans.md)
+- [&sect; 02101A - Eligibility for benefits and assistance members of the Armed Forces with service-connected disabilities; individuals residing outside the&#8230;](%C2%A7%2002101A%20-%20Eligibility%20for%20benefits%20and%20assistance%20members%20of%20the%20Armed%20Forces%20with%20service-connected%20disabilities%3B%20individuals%20residing%20outside%20the%E2%80%A6.md)
 - [&sect; 02102 - Limitations on assistance furnished](%C2%A7%2002102%20-%20Limitations%20on%20assistance%20furnished.md)
-- [&sect; 02102A - Assistance for veterans residing temporarily in housing owned by a family member](%C2%A7%2002102A%20-%20Assistance%20for%20veterans%20residing%20temporarily%20in%20housing%20owned%20by%20a%20family%20member.md)
+- [&sect; 02102A - Assistance for individuals residing temporarily in housing owned by a family member](%C2%A7%2002102A%20-%20Assistance%20for%20individuals%20residing%20temporarily%20in%20housing%20owned%20by%20a%20family%20member.md)
 - [&sect; 02103 - Furnishing of plans and specifications](%C2%A7%2002103%20-%20Furnishing%20of%20plans%20and%20specifications.md)
 - [&sect; 02104 - Benefits additional to benefits under other laws](%C2%A7%2002104%20-%20Benefits%20additional%20to%20benefits%20under%20other%20laws.md)
 - [&sect; 02105 - Nonliability of United States](%C2%A7%2002105%20-%20Nonliability%20of%20United%20States.md)

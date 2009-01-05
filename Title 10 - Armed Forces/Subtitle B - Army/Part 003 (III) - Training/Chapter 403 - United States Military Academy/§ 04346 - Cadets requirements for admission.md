@@ -54,7 +54,7 @@ In subsection (b), the words “To be” are substituted for the words “before
 
 In subsection (c), the word “shall” is substituted for the word “may”, since the nominee is required to appear for the examination. The word “appear” is substituted for the words “present himself”. The words “at a place” are substituted for the words “at West Point, New York, or other prescribed places”.
 
-In subsection (d), the word “county” is omitted as surplusage. The words “Uniform Code of Military Justice” are substituted for the words “rules and articles governing the armies of the United States”, since the Articles of War have been superseded by the Uniform Code of Military Justice. The words “his appointment is terminated” are substituted for the words “shall be dismissed from the service”, since a cadet who has not taken the oath is not yet a member.
+In subsection (d), the word “county” is omitted as surplusage. The words “Uniform Code of Military Justice” are substituted for the words “rules and articles governing the armies of the United States”, since the Articles of War have been superseded by the UniformCode of Military Justice. The words “his appointment is terminated” are substituted for the words “shall be dismissed from the service”, since a cadet who has not taken the oath is not yet a member.
 
 #### Amendments
 

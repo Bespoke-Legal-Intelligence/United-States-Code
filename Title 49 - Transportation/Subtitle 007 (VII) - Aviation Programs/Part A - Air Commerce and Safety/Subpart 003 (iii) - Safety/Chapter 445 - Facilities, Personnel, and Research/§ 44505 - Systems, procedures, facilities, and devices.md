@@ -136,7 +136,7 @@ Pub. L. 106–181, title I, §157, Apr. 5, 2000, 114 Stat. 89, provided that:
 
 “(a)
 
-Study.—The Administrator \[of the Federal Aviation Administration\] shall conduct a study of the use ofrecycled materials (including recycled pavements, waste materials, and byproducts) in pavement used for runways, taxiways, and aprons and the specification standards in tests necessary for the use of recycled materials in such pavement. The primary focus of the study shall be on the long-term physical performance, safety implications, and environmental benefits of using recycled materials in aviation pavement.
+Study.—The Administrator \[of the Federal Aviation Administration\] shall conduct a study of the use of recycled materials (including recycled pavements, waste materials, and byproducts) in pavement used for runways, taxiways, and aprons and the specification standards in tests necessary for the use of recycled materials in such pavement. The primary focus of the study shall be on the long-term physical performance, safety implications, and environmental benefits of using recycled materials in aviation pavement.
 
 “(b)
 

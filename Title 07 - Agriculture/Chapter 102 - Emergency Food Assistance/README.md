@@ -13,17 +13,19 @@
 | [7509\.](%C2%A7%2007509%20-%20Relationship%20to%20other%20programs.md) | Relationship to other programs. |
 | [7510\.](%C2%A7%2007510%20-%20Commodities%20not%20income.md) | Commodities not income. |
 | [7511\.](%C2%A7%2007511%20-%20Prohibition%20against%20certain%20State%20charges.md) | Prohibition against certain State charges. |
+| [7511a.](%C2%A7%2007511a%20-%20Emergency%20food%20program%20infrastructure%20grants.md) | Emergency food program infrastructure grants. |
 | [7512\.](%C2%A7%2007512%20-%20Regulations.md) | Regulations. |
 | [7513\.](%C2%A7%2007513%20-%20Finality%20of%20determinations.md) | Finality of determinations. |
 | [7514\.](%C2%A7%2007514%20-%20Incorporation%20of%20additional%20commodities.md) | Incorporation of additional commodities. |
 | [7515\.](%C2%A7%2007515%20-%20Allotment%20and%20delivery%20of%20commodities.md) | Allotment and delivery of commodities. |
 | [7516\.](%C2%A7%2007516%20-%20Settlement%20and%20adjustment%20of%20claims.md) | Settlement and adjustment of claims. |
+| [7517\.](%C2%A7%2007517%20-%20Hunger-free%20communities.md) | Hunger-free communities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Codification
 
-This chapter is comprised principally of title II (§§201–215) of Pub. L. 98–8, Mar. 24, 1983, 97 Stat. 35, as amended. Title II of Pub. L. 98–8 was formerly set out as a note under section 612c of this title. Section 203 of title II of Pub. L. 98–8, which related to processing agreements, was repealed by Pub. L. 99–198, title XV, §1567(c), Dec. 23, 1985, 99 Stat. 1592. Section 207 of title II of Pub. L. 98–8 amended section 4(c) of the Agriculture and Consumer Protection Act of 1973, Pub. L. 93–86, set out as a note under section 612c of this title. Section 209 of title II of Pub. L. 98–8, which related to commodity supplemental food program administrative expenses, was repealed by Pub. L. 99–198, title XV, §1562(e)(1), Dec. 23, 1985, 99 Stat. 1590. Section 212 of title II of Pub. L. 98–8, which provided for termination of title II of Pub. L. 98–8 on Sept. 30, 2002, was repealed by Pub. L. 104–193, title VIII, §871(e)(4), Aug. 22, 1996, 110 Stat. 2345.
+This chapter is comprised principally of title II (§§201–215) of Pub. L. 98–8, Mar. 24, 1983, 97 Stat. 35, as amended. Title II of Pub. L. 98–8 was formerly set out as a note under section 612c of this title. Section 203 of title II of Pub. L. 98–8, which related to processing agreements, was repealed by Pub. L. 99–198, title XV, §1567(c), Dec. 23, 1985, 99 Stat. 1592. Section 207 of title II of Pub. L. 98–8 amended section 4(c) of the Agriculture and Consumer Protection Act of 1973, Pub. L. 93–86, set out as a note under section 612c of this title. Section 212 of title II of Pub. L. 98–8, which provided for termination of title II of Pub. L. 98–8 on Sept. 30, 2002, was repealed by Pub. L. 104–193, title VIII, §871(e)(4), Aug. 22, 1996, 110 Stat. 2345.
 
 
 ---
@@ -41,8 +43,10 @@ This chapter is comprised principally of title II (§§201–215) of Pub. L. 98�
 - [&sect; 07509 - Relationship to other programs](%C2%A7%2007509%20-%20Relationship%20to%20other%20programs.md)
 - [&sect; 07510 - Commodities not income](%C2%A7%2007510%20-%20Commodities%20not%20income.md)
 - [&sect; 07511 - Prohibition against certain State charges](%C2%A7%2007511%20-%20Prohibition%20against%20certain%20State%20charges.md)
+- [&sect; 07511a - Emergency food program infrastructure grants](%C2%A7%2007511a%20-%20Emergency%20food%20program%20infrastructure%20grants.md)
 - [&sect; 07512 - Regulations](%C2%A7%2007512%20-%20Regulations.md)
 - [&sect; 07513 - Finality of determinations](%C2%A7%2007513%20-%20Finality%20of%20determinations.md)
 - [&sect; 07514 - Incorporation of additional commodities](%C2%A7%2007514%20-%20Incorporation%20of%20additional%20commodities.md)
 - [&sect; 07515 - Allotment and delivery of commodities](%C2%A7%2007515%20-%20Allotment%20and%20delivery%20of%20commodities.md)
 - [&sect; 07516 - Settlement and adjustment of claims](%C2%A7%2007516%20-%20Settlement%20and%20adjustment%20of%20claims.md)
+- [&sect; 07517 - Hunger-free communities](%C2%A7%2007517%20-%20Hunger-free%20communities.md)

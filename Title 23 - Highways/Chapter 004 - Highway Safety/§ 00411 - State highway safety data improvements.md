@@ -52,7 +52,7 @@ Eligibility.—A State shall become eligible for a first-year grant under this s
 
 &emsp;&emsp;&emsp;(i) established a highway safety data and traffic records coordinating committee with a multidisciplinary membership, including the administrators, collectors, and users of such data (including the public health, injury control, and motor carrier communities);
 
-&emsp;&emsp;&emsp;(ii) completed, within the preceding 5 years, a highway safety data and trafficrecords assessment or an audit of the highway safety data and traffic records system of the State; and
+&emsp;&emsp;&emsp;(ii) completed, within the preceding 5 years, a highway safety data and traffic records assessment or an audit of the highway safety data and traffic records system of the State; and
 
 &emsp;&emsp;&emsp;(iii) initiated the development of a multiyear highway safety data and traffic records strategic plan that—
 
@@ -92,7 +92,7 @@ Grant amounts.—The amount of a first-year grant made to a State for a fiscal y
 
 States not meeting criteria.—The Secretary may award a grant of up to $25,000 for 1 year to any State that does not meet the criteria established in paragraph (1). The grant may only be used to conduct activities needed to enable the State to qualify for a first-year grant in the next fiscal year.
 
-(c) <sup>1</sup>
+(c)
 
 Succeeding Year Grants.—
 
@@ -116,19 +116,21 @@ Grant amounts.—The amount of a succeeding year grant made to the State for a f
 
 > &emsp;except that no State eligible for a grant under this paragraph shall receive less than $225,000.
 
-(c) <sup>1</sup>
+(d)
 
 Administrative Expenses.—Funds authorized to be appropriated to carry out this section in a fiscal year shall be subject to a deduction not to exceed 5 percent for the necessary costs of administering the provisions of this section.
 
-(d)
+(e)
 
 Applicability of Chapter 1.—The provisions contained in section 402(d) shall apply to this section.
 
-(Added Pub. L. 105–178, title II, §2005(a), June 9, 1998, 112 Stat. 332.)
+(Added Pub. L. 105–178, title II, §2005(a), June 9, 1998, 112 Stat. 332; amended Pub. L. 110–244, title III, §303(c)(4), June 6, 2008, 122 Stat. 1619.)
 
 #### References in Text
 
 The date of enactment of the Transportation Equity Act for the 21st Century, referred to in subsec. (a)(3), is the date of enactment of Pub. L. 105–178, which was approved June 9, 1998.
 
-<i><sup>1</sup></i><i> So in original. Two subsecs. (c) have been enacted.</i>
+#### Amendments
+
+2008—Subsecs. (c) to (e). Pub. L. 110–244 redesignated subsecs. (c), relating to administrative expenses, and (d) as (d) and (e), respectively.
 

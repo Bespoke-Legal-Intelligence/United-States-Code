@@ -30,7 +30,7 @@ Sources.—The sources from which gifts and donations may be accepted under subs
 
 (c)
 
-Limitation.—The Secretary may not accept a gift or donation under subsection (a) ifacceptance of the gift or donation would compromise or appear to compromise—
+Limitation.—The Secretary may not accept a gift or donation under subsection (a) if acceptance of the gift or donation would compromise or appear to compromise—
 
 &emsp;(1) the ability of the Department of Defense, any employee of the Department, or any member of the armed forces to carry out the responsibility or duty of the Department in a fair and objective manner; or
 

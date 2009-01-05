@@ -10,7 +10,7 @@ No person licensed or authorized by the Secretary to perform any official functi
 
 (2) A substantial stockholder of a corporation shall be any person holding 2 per centum or more, or one hundred shares or more, of the voting stock of the corporation, whichever is the lesser interest. Any entity shall be considered to be related to another entity if it owns or controls, or is owned or controlled by, such other entity, or both entities are owned or controlled by another entity.
 
-(3) Each State agency delegated official weighing authority under section 79a of this title and each State or local agency or other person designated by the Secretary under such section to perform official weighing or supervision of weighing shall be subject to the provisions of subsection (b) of this section. The term “use of official inspection service” shall be deemed torefer to the use of the services provided under such a delegation or designation.
+(3) Each State agency delegated official weighing authority under section 79a of this title and each State or local agency or other person designated by the Secretary under such section to perform official weighing or supervision of weighing shall be subject to the provisions of subsection (b) of this section. The term “use of official inspection service” shall be deemed to refer to the use of the services provided under such a delegation or designation.
 
 (4) If a State or local governmental agency is delegated authority to perform official inspection or official weighing or supervision of weighing, or a State or local governmental agency is designated as an official agency, the Secretary shall specify the officials and other personnel thereof to which the conflict of interest provisions of this subsection (b) apply.
 

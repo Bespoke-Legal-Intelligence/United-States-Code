@@ -3,7 +3,8 @@
 | Sec. |  |
 | :--- | ---: |
 | [12101\.](%C2%A7%2012101%20-%20Findings%20and%20purpose.md) | Findings and purpose. |
-| [12102\.](%C2%A7%2012102%20-%20Definitions.md) | Definitions. |
+| [12102\.](%C2%A7%2012102%20-%20Definition%20of%20disability.md) | Definition of disability. |
+| [12103\.](%C2%A7%2012103%20-%20Additional%20definitions.md) | Additional definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -90,6 +91,7 @@ I74subpart i—public transportation other than by aircraft or certain rail oper
 | [12203\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2012203%20-%20Prohibition%20against%20retaliation%20and%20coercion.md) | Prohibition against retaliation and coercion. |
 | [12204\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2012204%20-%20Regulations%20by%20Architectural%20and%20Transportation%20Barriers%20Compliance%20Board.md) | Regulations by Architectural and Transportation Barriers Compliance Board. |
 | [12205\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2012205%20-%20Attorney%27s%20fees.md) | Attorney's fees. |
+| [12205a.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2012205a%20-%20Rule%20of%20construction%20regarding%20regulatory%20authority.md) | Rule of construction regarding regulatory authority. |
 | [12206\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2012206%20-%20Technical%20assistance.md) | Technical assistance. |
 | [12207\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2012207%20-%20Federal%20wilderness%20areas.md) | Federal wilderness areas. |
 | [12208\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2012208%20-%20Transvestites.md) | Transvestites. |
@@ -107,7 +109,8 @@ I74subpart i—public transportation other than by aircraft or certain rail oper
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 12101 - Findings and purpose](%C2%A7%2012101%20-%20Findings%20and%20purpose.md)
-- [&sect; 12102 - Definitions](%C2%A7%2012102%20-%20Definitions.md)
+- [&sect; 12102 - Definition of disability](%C2%A7%2012102%20-%20Definition%20of%20disability.md)
+- [&sect; 12103 - Additional definitions](%C2%A7%2012103%20-%20Additional%20definitions.md)
 - [Subchapter 001 (I) - Employment](Subchapter%20001%20%28I%29%20-%20Employment/README.md)
 - [Subchapter 002 (II) - Public Services](Subchapter%20002%20%28II%29%20-%20Public%20Services/README.md)
 - [Subchapter 003 (III) - Public Accommodations and Services Operated by Private Entities](Subchapter%20003%20%28III%29%20-%20Public%20Accommodations%20and%20Services%20Operated%20by%20Private%20Entities/README.md)

@@ -6,7 +6,7 @@ The Secretary is authorized to make urban development action grants to cities an
 
 #### (b) Eligibility of cities and urban counties; criteria and standards; regulations
 
-(1) Urban development action grants shall be made only to cities and urban counties which have, in the determination of the Secretary, demonstrated results in providing housing for low- and moderate-income persons and in providing equal opportunity in housing and employment for low- and moderate-income persons and members of minority groups. The Secretary shall issue regulations establishing criteria in accordance with the preceding sentence and setting forth minimum standards for determining the level of economic distress of cities and urban counties for eligibility for such grants. These standards shall take into account factors such as the age of housing; the extent of poverty; the extent of population lag; growth of per capita income; and the extent of unemployment, job lag, or surplus labor. Any city that has a population of less than 50,000 persons and is not the central city of a metropolitan area, and that was eligible for fiscal year 1983 under this paragraph for assistance under this section, shall continue to be eligible for such assistance until the Secretary revises the standards for eligibility for such cities under this paragraph and includes the extent of unemployment, job lag, or labor surplus as a standard of distress for such cities. The Secretary shall make such revision as soon as practicable following November 30, 1983.
+(1) Urban development action grants shall be made only to cities and urban counties whichhave, in the determination of the Secretary, demonstrated results in providing housing for low- and moderate-income persons and in providing equal opportunity in housing and employment for low- and moderate-income persons and members of minority groups. The Secretary shall issue regulations establishing criteria in accordance with the preceding sentence and setting forth minimum standards for determining the level of economic distress of cities and urban counties for eligibility for such grants. These standards shall take into account factors such as the age of housing; the extent of poverty; the extent of population lag; growth of per capita income; and the extent of unemployment, job lag, or surplus labor. Any city that has a population of less than 50,000 persons and is not the central city of a metropolitan area, and that was eligible for fiscal year 1983 under this paragraph for assistance under this section, shall continue to be eligible for such assistance until the Secretary revises the standards for eligibility for such cities under this paragraph and includes the extent of unemployment, job lag, or labor surplus as a standard of distress for such cities. The Secretary shall make such revision as soon as practicable following November 30, 1983.
 
 (2) A city or urban county which fails to meet the minimum standards established pursuant to paragraph (1) shall be eligible for assistance under this section if it meets the requirements of the first sentence of such paragraph and—
 
@@ -32,7 +32,7 @@ Applications for assistance under this section shall—
 
 (1) Except in the case of a city or urban county eligible under subsection (b)(2) of this section, the Secretary shall establish selection criteria for a national competition for grants under this section which must include—
 
-&emsp;(A) the comparative degree of economic distress among applicants, as measured (in the case of a metropolitan city or urban county) by the differences in the extent of growth lag, the extent of poverty, and the adjusted age of housing in the metropolitan city or urban county;
+&emsp;(A) the comparative degree of economic distress among applicants, as measured (in the case of a metropolitan city or urban county) by the differences in the extent of growth lag,the extent of poverty, and the adjusted age of housing in the metropolitan city or urban county;
 
 &emsp;(B) other factors determined to be relevant by the Secretary in assessing the comparative degree of economic deterioration in cities and urban counties;
 
@@ -192,7 +192,7 @@ In the case of any application which identifies any property in accordance with 
 
 #### (n) Territories, tribes, and certain Hawaiian counties included in term “city”
 
-(1) For the purposes of this section, the term “city” includes Guam, American Samoa, the Northern Mariana Islands, the Virgin Islands, and Indian tribes. Such term also includes the counties of Kauai, Maui and Hawaii in the State of Hawaii.
+(1) For the purposes of this section, the term “city” includes Guam, American Samoa, theNorthern Mariana Islands, the Virgin Islands, and Indian tribes. Such term also includes the counties of Kauai, Maui and Hawaii in the State of Hawaii.
 
 (2) The Secretary may not approve a grant to an Indian tribe under this section unless the tribe (A) is located on a reservation, or on former Indian reservations in Oklahoma as determined by the Secretary of the Interior, or in an Alaskan Native Village, and (B) was an eligible recipient under chapter 67 of title 31 prior to the repeal of such chapter.
 
@@ -218,7 +218,7 @@ For fiscal years 1988 and 1989, the maximum grant amount for any project under t
 
 #### (t) UDAG retention program
 
-If a grant or a portion of a grant under this section remains unexpended upon the issuance of a notice implementing this subsection, the grantee may enter into an agreement, as provided under this subsection, with the Secretaryto receive a percentage of the grant amount and relinquish all claims to the balance of the grant within 90 days of the issuance of notice implementing this subsection (or such later date as the Secretary may approve). The Secretary shall not recapture any funds obligated pursuant to this section during a period beginning on April 11, 1994, until 90 days after the issuance of a notice implementing this subsection. A grantee may receive as a grant under this subsection—
+If a grant or a portion of a grant under this section remains unexpended upon the issuance of a notice implementing this subsection, the grantee may enter into an agreement, as provided under this subsection, with the Secretary to receive a percentage of the grant amount and relinquish all claims to the balance of the grant within 90 days of the issuance of notice implementing this subsection (or such later date as the Secretary may approve). The Secretary shall not recapture any funds obligated pursuant to this section during a period beginning on April 11, 1994, until 90 days after the issuance of a notice implementing this subsection. A grantee may receive as a grant under this subsection—
 
 &emsp;(1) 33 percent of such unexpended amounts if—
 
@@ -238,7 +238,7 @@ If a grant or a portion of a grant under this section remains unexpended upon th
 
 #### References in Text
 
-For effective date of this paragraph, referred to in subsec. (h)(5)(C)(i), see section 516(b) of Pub. L. 100–242, set out as an Effective Date of 1988 Amendment note below.
+For effective date of this paragraph, referred to in subsec. (h)(5)(C)(i), see section 516(b) of Pub. L. 100–242,set out as an Effective Date of 1988 Amendment note below.
 
 Chapter 67 of title 31, referred to in subsec. (n)(2)(B), was repealed by Pub. L. 99–272, title XIV, §14001(a)(1), Apr. 7, 1986, 100 Stat. 327.
 
@@ -306,7 +306,7 @@ Subsec. (i). Pub. L. 98–181, §121(f), inserted provisions relating to applica
 
 Subsecs. (p) to (r). Pub. L. 98–181, §121(g), added subsecs. (p) to (r).
 
-1981—Pub. L. 97–35 substantially restructured and reorganized provisions, made changes in nomenclature and phraseology, and revised purposes, selection criteria and standards, application procedures, approval powers of Secretary, covered activities, limitations, allocation computations, funding prerequisites, amounts for grants, waivers, notice requirements, applicable definitions, and special provisions for years after 1983.
+1981—Pub. L. 97–35 substantially restructured and reorganized provisions, made changes in nomenclatureand phraseology, and revised purposes, selection criteria and standards, application procedures, approval powers of Secretary, covered activities, limitations, allocation computations, funding prerequisites, amounts for grants, waivers, notice requirements, applicable definitions, and special provisions for years after 1983.
 
 1980—Subsec. (c)(7). Pub. L. 96–399, §110(a)(1)–(3), added par. (7).
 
@@ -588,7 +588,7 @@ In general.—Assistance under this section shall be repaid in accordance with t
 
 &emsp;“(2)
 
-Terms.—During the period ending upon repayment of the assistance as provided in this subsection, any building containing rental units that is provided assistance under this section shall be used as rental housing subject to the requirements of section 1103(c)(4). During the period ending upon repayment of the assistance as provided in this subsection, any dwelling unit made available for purchase by the occupant that is provided assistance under this section may be sold only to a family having an income not exceeding the amount specified in section 1103(c)(2).
+Terms.—During the period ending upon repayment of the assistance as provided in this subsection, any building containing rental units that is provided assistance under this section shall be used as rental housing subject to the requirements of section 1103(c)(4). During the period ending upon repayment of the assistance as provided in this subsection, any dwelling unit made available for purchase by the occupant that is provided assistance under this sectionmay be sold only to a family having an income not exceeding the amount specified in section 1103(c)(2).
 
 &emsp;“(3)
 

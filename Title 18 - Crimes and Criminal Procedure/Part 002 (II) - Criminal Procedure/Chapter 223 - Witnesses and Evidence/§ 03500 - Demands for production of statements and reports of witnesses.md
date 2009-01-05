@@ -12,7 +12,7 @@
 
 &emsp;(1) a written statement made by said witness and signed or otherwise adopted or approved by him;
 
-&emsp;(2) a stenographic, mechanical, electrical, or other recording, or a transcription thereof, which is a substantially verbatim recital of an oral statement made by said witness and recorded contemporaneously with the making of such oral statement; or
+&emsp;(2) a stenographic, mechanical, electrical, or other recording, or a transcription thereof,which is a substantially verbatim recital of an oral statement made by said witness and recorded contemporaneously with the making of such oral statement; or
 
 &emsp;(3) a statement, however taken or recorded, or a transcription thereof, if any, made by said witness to a grand jury.
 

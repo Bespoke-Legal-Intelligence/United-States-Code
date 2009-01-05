@@ -38,7 +38,7 @@
 
 #### (1) Delay in removal
 
-&emsp;The Attorney General may hold in abeyance the removal of an alien who has been ordered removed, pursuant to this subchapter, to allow the trial of such alien on any Federal or State criminal charge and the service of any sentence of confinement resulting from such a trial.
+&emsp;The Attorney General may hold in abeyance the removal of an alien who has been orderedremoved, pursuant to this subchapter, to allow the trial of such alien on any Federal or State criminal charge and the service of any sentence of confinement resulting from such a trial.
 
 #### (2) Maintenance of custody
 
@@ -70,7 +70,7 @@ For purposes of sections 751 and 752 of title 18, an alien in the custody of the
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the firstmonth beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

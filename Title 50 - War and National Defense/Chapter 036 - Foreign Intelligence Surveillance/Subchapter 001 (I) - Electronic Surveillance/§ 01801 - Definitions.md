@@ -12,9 +12,11 @@ As used in this subchapter:
 
 &emsp;&emsp;(4) a group engaged in international terrorism or activities in preparation therefor;
 
-&emsp;&emsp;(5) a foreign-based political organization, not substantially composed of United States persons; or
+&emsp;&emsp;(5) a foreign-based political organization, not substantially composed of United States persons;
 
-&emsp;&emsp;(6) an entity that is directed and controlled by a foreign government or governments.
+&emsp;&emsp;(6) an entity that is directed and controlled by a foreign government or governments; or
+
+&emsp;&emsp;(7) an entity not substantially composed of United States persons that is engaged in the international proliferation of weapons of mass destruction.
 
 &emsp;(b) “Agent of a foreign power” means—
 
@@ -22,9 +24,13 @@ As used in this subchapter:
 
 &emsp;&emsp;&emsp;(A) acts in the United States as an officer or employee of a foreign power, or as a member of a foreign power as defined in subsection (a)(4) of this section;
 
-&emsp;&emsp;&emsp;(B) acts for or on behalf of a foreign power which engages in clandestine intelligence activities in the United States contrary to the interests of the United States, when the circumstances of such person's presence in the United States indicate that such person may engage in such activities in the United States, or when such person knowingly aids or abets any person in the conduct of such activities or knowingly conspires with any person to engage in such activities; or
+&emsp;&emsp;&emsp;(B) acts for or on behalf of a foreign power which engages in clandestine intelligence activities in the United States contrary to the interests of the United States, when the circumstances of such person's presence in the United States indicate that such person may engage in such activities in the United States, or when such person knowingly aids or abets any person in the conduct of such activities or knowingly conspires with any person to engage in such activities;
 
-&emsp;&emsp;&emsp;(C) engages in international terrorism or activities in preparation therefore; or
+&emsp;&emsp;&emsp;(C) engages in international terrorism or activities in preparation therefore;
+
+&emsp;&emsp;&emsp;(D) engages in the international proliferation of weapons of mass destruction, or activities in preparation therefor; or
+
+&emsp;&emsp;&emsp;(E) engages in the international proliferation of weapons of mass destruction, or activities in preparation therefor for or on behalf of a foreign power; or
 
 &emsp;&emsp;(2) any person who—
 
@@ -50,7 +56,7 @@ As used in this subchapter:
 
 &emsp;&emsp;&emsp;(C) to affect the conduct of a government by assassination or kidnapping; and
 
-&emsp;&emsp;(3) occur totally outside the United States, or transcend national boundaries in terms ofthe means by which they are accomplished, the persons they appear intended to coerce or intimidate, or the locale in which their perpetrators operate or seek asylum.
+&emsp;&emsp;(3) occur totally outside the United States, or transcend national boundaries in terms of the means by which they are accomplished, the persons they appear intended to coerce or intimidate, or the locale in which their perpetrators operate or seek asylum.
 
 &emsp;(d) “Sabotage” means activities that involve a violation of chapter 105 of title 18, or that would involve such a violation if committed against the United States.
 
@@ -60,7 +66,7 @@ As used in this subchapter:
 
 &emsp;&emsp;&emsp;(A) actual or potential attack or other grave hostile acts of a foreign power or an agent of a foreign power;
 
-&emsp;&emsp;&emsp;(B) sabotage or international terrorism by a foreign power or an agent of a foreign power; or
+&emsp;&emsp;&emsp;(B) sabotage, international terrorism, or the international proliferation of weapons of mass destruction by a foreign power or an agent of a foreign power; or
 
 &emsp;&emsp;&emsp;(C) clandestine intelligence activities by an intelligence service or network of a foreign power or by an agent of a foreign power; or
 
@@ -106,7 +112,17 @@ As used in this subchapter:
 
 &emsp;(<i>o</i>) “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Trust Territory of the Pacific Islands, and any territory or possession of the United States.
 
-(Pub. L. 95–511, title I, §101, Oct. 25, 1978, 92 Stat. 1783; Pub. L. 106–120, title VI, §601, Dec. 3, 1999, 113 Stat. 1619; Pub. L. 107–56, title X, §1003, Oct. 26, 2001, 115 Stat. 392; Pub. L. 107–108, title III, §314(a)(1), (c)(2), Dec. 28, 2001, 115 Stat. 1402, 1403; Pub. L. 108–458, title VI, §6001(a), Dec. 17, 2004, 118 Stat. 3742; Pub. L. 109–177, title V, §506(a)(5), Mar. 9, 2006, 120 Stat. 248.)
+&emsp;(p) “Weapon of mass destruction” means—
+
+&emsp;&emsp;(1) any explosive, incendiary, or poison gas device that is designed, intended, or has the capability to cause a mass casualty incident;
+
+&emsp;&emsp;(2) any weapon that is designed, intended, or has the capability to cause death or serious bodily injury to a significant number of persons through the release, dissemination, or impact of toxic or poisonous chemicals or their precursors;
+
+&emsp;&emsp;(3) any weapon involving a biological agent, toxin, or vector (as such terms are defined in section 178 of title 18) that is designed, intended, or has the capability to cause death, illness, or serious bodily injury to a significant number of persons; or
+
+&emsp;&emsp;(4) any weapon that is designed, intended, or has the capability to release radiation or radioactivity causing death, illness, or serious bodily injury to a significant number of persons.
+
+(Pub. L. 95–511, title I, §101, Oct. 25, 1978, 92 Stat. 1783; Pub. L. 106–120, title VI, §601, Dec. 3, 1999, 113 Stat. 1619; Pub. L. 107–56, title X, §1003, Oct. 26, 2001, 115 Stat. 392; Pub. L. 107–108, title III, §314(a)(1), (c)(2), Dec. 28, 2001, 115 Stat. 1402, 1403; Pub. L. 108–458, title VI, §6001(a), Dec. 17, 2004, 118 Stat. 3742; Pub. L. 109–177, title V, §506(a)(5), Mar. 9, 2006, 120 Stat. 248; Pub. L. 110–261, title I, §110(a), July 10, 2008, 122 Stat. 2465.)
 
 #### Amendment of Section
 
@@ -114,15 +130,27 @@ As used in this subchapter:
 
 #### Amendments
 
-2006—Subsec. (g). Pub. L. 109–177 substituted “, the Deputy Attorney General, or, upon the designation of the Attorney General, the Assistant Attorney General designated as the Assistant Attorney General for National Security under section 507A of title 28” for “or the Deputy Attorney General”.
+<b>2008</b>—Subsec. (a)(7). Pub. L. 110–261, §110(a)(1), added par. (7).
 
-2004—Subsec. (b)(1)(C). Pub. L. 108–458, §6001, temporarily added subpar. (C). See Termination Date of 2004 Amendment note below.
+Subsec. (b)(1)(D), (E). Pub. L. 110–261, §110(a)(2), added subpars. (D) and (E).
 
-2001—Subsec. (f)(2). Pub. L. 107–56, §1003, as amended by Pub. L. 107–108, §314(c)(2), inserted “, but does not include the acquisition of those communications of computer trespassers that would be permissible under section 2511(2)(i) of title 18” before semicolon at end.
+Subsec. (e)(1)(B). Pub. L. 110–261, §110(a)(3), substituted “sabotage, international terrorism, or the international proliferation of weapons of mass destruction” for “sabotage or international terrorism”.
+
+Subsec. (p). Pub. L. 110–261, §110(a)(4), added subsec. (p).
+
+<b>2006</b>—Subsec. (g). Pub. L. 109–177 substituted “, the Deputy Attorney General, or, upon the designation of the Attorney General, the Assistant Attorney General designated as the Assistant Attorney General for National Security under section 507A of title 28” for “or the Deputy Attorney General”.
+
+<b>2004</b>—Subsec. (b)(1)(C). Pub. L. 108–458, §6001, temporarily added subpar. (C). See Termination Date of 2004 Amendment note below.
+
+<b>2001</b>—Subsec. (f)(2). Pub. L. 107–56, §1003, as amended by Pub. L. 107–108, §314(c)(2), inserted “, but does not include the acquisition of those communications of computer trespassers that would be permissible under section 2511(2)(i) of title 18” before semicolon at end.
 
 Subsec. (h)(4). Pub. L. 107–108, §314(a)(1), substituted “72 hours” for “twenty-four hours”.
 
-1999—Subsec. (b)(2)(D), (E). Pub. L. 106–120 added subpar. (D) and redesignated former subpar. (D) as (E).
+<b>1999</b>—Subsec. (b)(2)(D), (E). Pub. L. 106–120 added subpar. (D) and redesignated former subpar. (D) as (E).
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–261, title IV, §402, July 10, 2008, 122 Stat. 2473, provided that: “Except as provided in section 404 \[set out as a note under this section\], the amendments made by this Act \[see Short Title of 2008 Amendment note below\] shall take effect on the date of the enactment of this Act \[July 10, 2008\].”
 
 #### Termination Date of 2004 Amendment
 
@@ -142,7 +170,11 @@ Pub. L. 107–108, title III, §314(c), Dec. 28, 2001, 115 Stat. 1402, provided 
 
 #### Effective Date; Exception
 
-Pub. L. 95–511, title VII, §701, formerly title III, §301, Oct. 25, 1978, 92 Stat. 1798, as renumbered title IV, §401, and amended by Pub. L. 103–359, title VIII, §807(a)(1), (2), Oct. 14, 1994, 108 Stat. 3443; renumbered title VI, §601, and amended Pub. L. 105–272, title VI, §§601(1), 603(a), Oct. 20, 1998, 112 Stat. 2404, 2412; renumbered title VII, §701, Pub. L. 108–458, title VI, §6002(a)(1), Dec. 17, 2004, 118 Stat. 3743, provided that: “The provisions of this Act \[enacting this chapter, amending sections 2511, 2518, and 2519 of Title 18, Crimes and Criminal Procedure, and enacting provision set out as a note below\] (other than titles III, IV, and V \[enacting subchapters II, III, and IV, respectively, of this chapter\]) and the amendments made hereby shall become effective upon the date of enactment of this Act \[Oct. 25, 1978\], except that any electronic surveillance approved by the Attorney General to gather foreign intelligence information shall not be deemed unlawful for failure to follow the procedures of this Act, if that surveillance is terminated or an order approving that surveillance is obtained under title I of this Act \[enacting this subchapter\] within ninety days following the designation of the first judge pursuant to section 103 of this Act \[section 1803 of this title\].”
+Pub. L. 95–511, title VII, §701, formerly title III, §301, Oct. 25, 1978, 92 Stat. 1798, as renumbered title IV, §401, and amended by Pub. L. 103–359, title VIII, §807(a)(1), (2), Oct. 14, 1994, 108 Stat. 3443; renumbered title VI, §601, and amended Pub. L. 105–272, title VI, §§601(1), 603(a), Oct. 20, 1998, 112 Stat. 2404, 2412; renumbered title VII, §701, Pub. L. 108–458, title VI, §6002(a)(1), Dec. 17, 2004, 118 Stat. 3743, which provided that the provisions of this Act \[enacting this chapter, amending sections 2511, 2518, and 2519 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note below\] (other than titles III, IV, and V \[enacting subchapters II, III, and IV, respectively, of this chapter\]) and the amendments made hereby shall become effective upon the date of enactment of this Act \[Oct. 25, 1978\], except that any electronic surveillance approved by the Attorney General to gather foreign intelligence information shall not be deemed unlawful for failure to follow the procedures of this Act, if that surveillance is terminated or an order approving that surveillance is obtained under title I of this Act \[enacting this subchapter\] within ninety days following the designation of the first judge pursuant to section 103 of this Act \[section 1803 of this title\], was repealed by Pub. L. 110–261, title I, §101(a)(1), July 10, 2008, 122 Stat. 2437.
+
+#### Short Title of 2008 Amendment
+
+Pub. L. 110–261, §1(a), July 10, 2008, 122 Stat. 2436, provided that: “This Act \[enacting section 1812 and subchapters VI and VII of this chapter, amending this section, sections 1803 to 1805, 1806, 1808, 1809, 1821 to 1825, 1843, and 1871 of this title, and section 2511 of Title 18, Crimes and Criminal Procedure, repealing sections 1805a to 1805c of this title and subchapter VI of this chapter, enacting provisions set out as notes under this section, section 1881 of this title, and section 2511 of Title 18, amending provisions set out as a note under section 1803 of this title, and repealing provisions set out as a note under this section\] may be cited as the ‘Foreign Intelligence Surveillance Act of 1978 Amendments Act of 2008’ or the ‘FISA Amendments Act of 2008’.”
 
 #### Short Title of 2007 Amendment
 
@@ -158,7 +190,145 @@ Section 1 of Pub. L. 95–511 provided in part: “That this Act \[enacting this
 
 #### Severability
 
+Pub. L. 110–261, title IV, §401, July 10, 2008, 122 Stat. 2473, provided that: “If any provision of this Act \[see Short Title of 2008 Amendment note above\], any amendment made by this Act, or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act, of any such amendments, and of the application of such provisions to other persons and circumstances shall not be affected thereby.”
+
 Pub. L. 106–567, title VI, §608, Dec. 27, 2000, 114 Stat. 2856, provided that: “If any provision of this title \[see Short Title of 2000 Amendment note above\] (including an amendment made by this title), or the application thereof, to any person or circumstance, is held invalid, the remainder of this title (including the amendments made by this title), and the application thereof, to other persons or circumstances shall not be affected thereby.”
+
+#### Transition Procedures
+
+Pub. L. 110–261, title IV, §404, July 10, 2008, 122 Stat. 2474, provided that:
+
+“(a)
+
+Transition Procedures for Protect America Act of 2007
+
+Provisions.—
+
+&emsp;“(1)
+
+Continued effect of orders, authorizations, directives.—Except as provided in paragraph (7), notwithstanding any other provision of law, any order, authorization, or directive issued or made pursuant to section 105B of the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1805b\], as added by section 2 of the Protect America Act of 2007 (Public Law 110–55; 121 Stat. 552), shall continue in effect until the expiration of such order, authorization, or directive.
+
+&emsp;“(2)
+
+Applicability of protect america act of 2007 to continued orders, authorizations, directives.—Notwithstanding any other provision of this Act \[see Short Title of 2008 Amendment note above\], any amendment made by this Act, or the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.)—
+
+&emsp;&emsp;“(A) subject to paragraph (3), section 105A of such Act \[50 U.S.C. 1805a\], as added by section 2 of the Protect America Act of 2007 (Public Law 110–55; 121 Stat. 552), shall continue to apply to any acquisition conducted pursuant to an order, authorization, or directive referred to in paragraph (1); and
+
+&emsp;&emsp;“(B) sections 105B and 105C of the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1805b, 1805c\], as added by sections 2 and 3, respectively, of the Protect America Act of 2007, shall continue to apply with respect to an order, authorization, or directive referred to in paragraph (1) until the later of—
+
+&emsp;&emsp;&emsp;“(i) the expiration of such order, authorization, or directive; or
+
+&emsp;&emsp;&emsp;“(ii) the date on which final judgment is entered for any petition or other litigation relating to such order, authorization, or directive.
+
+&emsp;“(3)
+
+Use of information.—Information acquired from an acquisition conducted pursuant to an order, authorization, or directive referred to in paragraph (1) shall be deemed to be information acquired from an electronic surveillance pursuant to title I of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.) for purposes of section 106 of such Act (50 U.S.C. 1806), except for purposes of subsection (j) of such section.
+
+&emsp;“(4)
+
+Protection from liability.—Subsection (<i>l</i>) of section 105B of the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1805b(<i>l</i>)\], as added by section 2 of the Protect America Act of 2007, shall continue to apply with respect to any directives issued pursuant to such section 105B.
+
+&emsp;“(5) Jurisdiction of foreign intelligence surveillance court.—Notwithstanding any other provision of this Act or of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.), section 103(e) of the Foreign Intelligence Surveillance Act \[of 1978\] (50 U.S.C. 1803(e)), as amended by section 5(a) of the Protect America Act of 2007 (Public Law 110–55; 121 Stat. 556), shall continue to apply with respect to a directive issued pursuant to section 105B of the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1805b\], as added by section 2 of the Protect America Act of 2007, until the later of—
+
+&emsp;&emsp;“(A) the expiration of all orders, authorizations, or directives referred to in paragraph (1); or
+
+&emsp;&emsp;“(B) the date on which final judgment is entered for any petition or other litigation relating to such order, authorization, or directive.
+
+&emsp;“(6)
+
+Reporting requirements.—
+
+&emsp;&emsp;“(A)
+
+Continued applicability.—Notwithstanding any other provision of this Act, any amendment made by this Act, the Protect America Act of 2007 (Public Law 110–55) \[see Short Title of 2007 Amendment note above\], or the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.), section 4 of the Protect America Act of 2007 \[121 Stat. 555\] shall continue to apply until the date that the certification described in subparagraph (B) is submitted.
+
+&emsp;&emsp;“(B)
+
+Certification.—The certification described in this subparagraph is a certification—
+
+&emsp;&emsp;&emsp;“(i) made by the Attorney General;
+
+&emsp;&emsp;&emsp;“(ii) submitted as part of a semi-annual report required by section 4 of the Protect America Act of 2007;
+
+&emsp;&emsp;&emsp;“(iii) that states that there will be no further acquisitions carried out under section 105B of the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1805b\], as added by section 2 of the Protect America Act of 2007, after the date of such certification; and
+
+&emsp;&emsp;&emsp;“(iv) that states that the information required to be included under such section 4 relating to any acquisition conducted under such section 105B has been included in a semi-annual report required by such section 4.
+
+&emsp;“(7)
+
+Replacement of orders, authorizations, and directives.—
+
+&emsp;&emsp;“(A)
+
+In general.—If the Attorney General and the Director of National Intelligence seek to replace an authorization issued pursuant to section 105B of the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1805b\], as added by section 2 of the Protect America Act of 2007 (Public Law 110–55), with an authorization under section 702 of the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1881a\] (as added by section 101(a) of this Act), the Attorney General and the Director of National Intelligence shall, to the extent practicable, submit to the Foreign Intelligence Surveillance Court (as such term is defined in section 701(b)(2) of such Act \[50 U.S.C. 1881(b)(2)\] (as so added)) a certification prepared in accordance with subsection (g) of such section 702 and the procedures adopted in accordance with subsections (d) and (e) of such section 702 at least 30 days before the expiration of such authorization.
+
+&emsp;&emsp;“(B)
+
+Continuation of existing orders.—If the Attorney General and the Director of National Intelligence seek to replace an authorization made pursuant to section 105B of the Foreign Intelligence Surveillance Act of 1978, as added by section 2 of the Protect America Act of 2007 (Public Law 110–55; 121 Stat. 522), by filing a certification in accordance with subparagraph (A), that authorization, and any directives issued thereunder and any order related thereto, shall remain in effect, notwithstanding the expiration provided for in subsection (a) of such section 105B, until the Foreign Intelligence Surveillance Court (as such term is defined in section 701(b)(2) of the Foreign Intelligence Surveillance Act of 1978 (as so added)) issues an order with respect to that certification under section 702(i)(3) of such Act (as so added) at which time the provisions of that section and of section 702(i)(4) of such Act (as so added) shall apply.
+
+&emsp;“(8)
+
+Effective date.—Paragraphs (1) through (7) shall take effect as if enacted on August 5, 2007.
+
+“(b)
+
+Transition Procedures for FISA Amendments Act of 2008
+
+Provisions.—
+
+&emsp;“(1)
+
+Orders in effect on december 31, 2012.—Notwithstanding any other provision of this Act, any amendment made by this Act, or the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.), any order, authorization, or directive issued or made under title VII of the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1881 et seq.\], as amended by section 101(a), shall continue in effect until the date of the expiration of such order, authorization, or directive.
+
+&emsp;“(2)
+
+Applicability of title vii of fisa to continued orders, authorizations, directives.—Notwithstanding any other provision of this Act, any amendment made by this Act, or the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.), with respect to any order, authorization, or directive referred to in paragraph (1), title VII of such Act, as amended by section 101(a), shall continue to apply until the later of—
+
+&emsp;&emsp;“(A) the expiration of such order, authorization, or directive; or
+
+&emsp;&emsp;“(B) the date on which final judgment is entered for any petition or other litigation relating to such order, authorization, or directive.
+
+&emsp;“(3)
+
+Challenge of directives; protection from liability; use of information.—Notwithstanding any other provision of this Act or of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.)—
+
+&emsp;&emsp;“(A) section 103(e) of such Act \[50 U.S.C. 1803(e)\], as amended by section 403(a)(1)(B)(ii), shall continue to apply with respect to any directive issued pursuant to section 702(h) of such Act \[50 U.S.C. 1881a(h)\], as added by section 101(a);
+
+&emsp;&emsp;“(B) section 702(h)(3) of such Act (as so added) shall continue to apply with respect to any directive issued pursuant to section 702(h) of such Act (as so added);
+
+&emsp;&emsp;“(C) section 703(e) of such Act \[50 U.S.C. 1881b(e)\] (as so added) shall continue to apply with respect to an order or request for emergency assistance under that section;
+
+&emsp;&emsp;“(D) section 706 of such Act \[50 U.S.C. 1881e\] (as so added) shall continue to apply to an acquisition conducted under section 702 or 703 of such Act (as so added); and
+
+&emsp;&emsp;“(E) section 2511(2)(a)(ii)(A) of title 18, United States Code, as amended by section 101(c)(1), shall continue to apply to an order issued pursuant to section 704 of the Foreign Intelligence Surveillance Act of 1978, \[50 U.S.C. 1881c\] as added by section 101(a).
+
+&emsp;“(4)
+
+Reporting requirements.—
+
+&emsp;&emsp;“(A)
+
+Continued applicability.—Notwithstanding any other provision of this Act or of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.), section 601(a) of such Act (50 U.S.C. 1871(a)), as amended by section 101(c)(2), and sections 702(<i>l</i>) and 707 of such Act, \[50 U.S.C. 1881a(<i>l</i>), 1881f\] as added by section 101(a), shall continue to apply until the date that the certification described in subparagraph (B) is submitted.
+
+&emsp;&emsp;“(B)
+
+Certification.—The certification described in this subparagraph is a certification—
+
+&emsp;&emsp;&emsp;“(i) made by the Attorney General;
+
+&emsp;&emsp;&emsp;“(ii) submitted to the Select Committee on Intelligence of the Senate, the Permanent Select Committee on Intelligence of the House of Representatives, and the Committees on the Judiciary of the Senate and the House of Representatives;
+
+&emsp;&emsp;&emsp;“(iii) that states that there will be no further acquisitions carried out under title VII of the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1881 et seq.\], as amended by section 101(a), after the date of such certification; and
+
+&emsp;&emsp;&emsp;“(iv) that states that the information required to be included in a review, assessment, or report under section 601 of such Act \[50 U.S.C. 1871\], as amended by section 101(c), or section 702(<i>l</i>) or 707 of such Act, as added by section 101(a), relating to any acquisition conducted under title VII of such Act, as amended by section 101(a), has been included in a review, assessment, or report under such section 601, 702(<i>l</i>), or 707.
+
+&emsp;“(5)
+
+Transition procedures concerning the targeting of united states persons overseas.—Any authorization in effect on the date of enactment of this Act \[July 10, 2008\] under section 2.5 of Executive Order 12333 \[50 U.S.C. 401 note\] to intentionally target a United States person reasonably believed to be located outside the United States shall continue in effect, and shall constitute a sufficient basis for conducting such an acquisition targeting a United States person located outside the United States until the earlier of—
+
+&emsp;&emsp;“(A) the date that authorization expires; or
+
+&emsp;&emsp;“(B) the date that is 90 days after the date of the enactment of this Act \[July 10, 2008\].”
 
 #### Termination of Trust Territory of the Pacific Islands
 

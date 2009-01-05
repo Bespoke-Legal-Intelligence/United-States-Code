@@ -6,7 +6,7 @@
 
 &emsp;(1) projections of the impact on prison, probation, and post prison supervision populations;
 
-&emsp;(2) an estimate of the fiscal impact of such population changes on Federal expenditures, including those for construction and operation of correctional facilities for the current fiscal year and 5 succeeding fiscal years;
+&emsp;(2) an estimate of the fiscal impact of such population changes on Federal expenditures, including those for construction and operationof correctional facilities for the current fiscal year and 5 succeeding fiscal years;
 
 &emsp;(3) an analysis of any other significant factor affecting the cost of the measure and its impact on the operations of components of the criminal justice system; and
 

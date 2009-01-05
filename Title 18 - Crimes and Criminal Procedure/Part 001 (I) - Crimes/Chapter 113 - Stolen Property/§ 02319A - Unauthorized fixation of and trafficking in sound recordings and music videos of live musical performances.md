@@ -14,11 +14,11 @@ Offense.—Whoever, without the consent of the performer or performers involved,
 
 (b)
 
-Forfeiture and Destruction.—When a person is convicted of a violation of subsection (a), the court shall order the forfeiture and destruction of any copies or phonorecords created in violation thereof, as well as any plates, molds, matrices, masters, tapes, and film negatives by means of which such copies or phonorecords may be made. The court may also, in its discretion, order the forfeiture and destruction of any other equipment by means of which such copies or phonorecords may be reproduced, taking into account the nature, scope, and proportionality of the use of the equipment in the offense.
+Forfeiture and Destruction of Property; Restitution.—Forfeiture, destruction, and restitution relating to this section shall be subject to section 2323, to the extent provided in that section, in addition to any other similar remedies provided by law.
 
 (c)
 
-Seizure and Forfeiture.—If copies or phonorecords of sounds or sounds and images of a live musical performance are fixed outside of the United States without the consent of the performer or performers involved, such copies or phonorecords are subject to seizure and forfeiture in the United States in the same manner as property imported in violation of the customs laws. The Secretary of the Treasury shall, not later than 60 days after the date of the enactment of the Uruguay Round Agreements Act, issue regulations to carry out this subsection, including regulations by which any performer may, upon payment of a specified fee, be entitled to notification by the United States Customs Service of the importation of copies or phonorecords that appear to consist of unauthorized fixations of the sounds or sounds and images of a live musical performance.
+Seizure and Forfeiture.—If copies or phonorecords of sounds or sounds and images of a live musical performance are fixed outside of the United States without the consent of the performer or performers involved, such copies or phonorecords are subject to seizure and forfeiture in the United States in the same manner as property imported in violation of the customs laws. The Secretary of Homeland Security shall issue regulations by which any performer may, upon payment of a specified fee, be entitled to notification by United States Customs and Border Protection of the importation of copies or phonorecords that appear to consist of unauthorized fixations of the sounds or sounds and images of a live musical performance.
 
 (d)
 
@@ -44,15 +44,19 @@ Definitions.—As used in this section—
 
 Applicability.—This section shall apply to any Act or Acts that occur on or after the date of the enactment of the Uruguay Round Agreements Act.
 
-(Added Pub. L. 103–465, title V, §513(a), Dec. 8, 1994, 108 Stat. 4974; amended Pub. L. 105–147, §2(e), Dec. 16, 1997, 111 Stat. 2679; Pub. L. 109–181, §2(c)(1), Mar. 16, 2006, 120 Stat. 288.)
+(Added Pub. L. 103–465, title V, §513(a), Dec. 8, 1994, 108 Stat. 4974; amended Pub. L. 105–147, §2(e), Dec. 16, 1997, 111 Stat. 2679; Pub. L. 109–181, §2(c)(1), Mar. 16, 2006, 120 Stat. 288; Pub. L. 110–403, title II, §203, Oct. 13, 2008, 122 Stat. 4261.)
 
 #### References in Text
 
-The date of the enactment of the Uruguay Round Agreements Act, referred to in subsecs. (c) and (f), is the date of enactment of Pub. L. 103–465, which was approved Dec. 8, 1994.
-
 The Federal Rules of Criminal Procedure, referred to in subsec. (d)(1), are set out in the Appendix to this title.
 
+The date of the enactment of the Uruguay Round Agreements Act, referred to in subsec. (f), is the date of enactment of Pub. L. 103–465, which was approved Dec. 8, 1994.
+
 #### Amendments
+
+2008—Subsec. (b). Pub. L. 110–403, §203(a), amended subsec. (b) generally. Prior to amendment, text read as follows: “When a person is convicted of a violation of subsection (a), the court shall order the forfeiture and destruction of any copies or phonorecords created in violation thereof, as well as any plates, molds, matrices, masters, tapes, and film negatives by means of which such copies or phonorecords may be made. The court may also, in its discretion, order the forfeiture and destruction of any other equipment by means of which such copies or phonorecords may be reproduced, taking into account the nature, scope, and proportionality of the use of the equipment in the offense.”
+
+Subsec. (c). Pub. L. 110–403, §203(b), substituted “The Secretary of Homeland Security shall issue regulations by which any performer may, upon payment of a specified fee, be entitled to notification by United States Customs and Border Protection of the importation ofcopies or phonorecords that appear to consist of unauthorized fixations of the sounds or sounds and images of a live musical performance.” for “The Secretary of the Treasury shall, not later than 60 days after the date of the enactment of the Uruguay Round Agreements Act, issue regulations to carry out this subsection, including regulations by which any performer may, upon payment of a specified fee, be entitled to notification by the United States Customs Service of the importation of copies or phonorecords that appear to consist of unauthorized fixations of the sounds or sounds and images of a live musical performance.”
 
 2006—Subsec. (e)(2). Pub. L. 109–181 added par. (2) and struck out former par. (2) which read as follows: “the term ‘traffic in’ means transport, transfer, or otherwise dispose of, to another, as consideration for anything of value, or make or obtain control of with intent to transport, transfer, or dispose of.”
 

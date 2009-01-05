@@ -14,7 +14,7 @@ Any person who knowingly and willfully makes an unlawful payment to an eligible 
 
 #### (d) Obstruction of justice
 
-Any person who knowingly and willfully destroys or conceals any record relating to the provision of assistance under this subchapter and part C of subchapter I of chapter 34 of title42 or attempts to so destroy or conceal with intent to defraud the United States or to prevent the United States from enforcing any right obtained by subrogation under this part, shall upon conviction thereof, be fined not more than $20,000 or imprisoned not more than 5 years, or both.
+Any person who knowingly and willfully destroys or conceals any record relating to the provision of assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 or attempts to so destroy or conceal with intent to defraud the United States or to prevent the United States from enforcing any right obtained by subrogation under this part, shall upon conviction thereof, be fined not more than $20,000 or imprisoned not more than 5 years, or both.
 
 (Pub. L. 89–329, title IV, §490, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1491; amended Pub. L. 102–325, title IV, §495, July 23, 1992, 106 Stat. 631.)
 

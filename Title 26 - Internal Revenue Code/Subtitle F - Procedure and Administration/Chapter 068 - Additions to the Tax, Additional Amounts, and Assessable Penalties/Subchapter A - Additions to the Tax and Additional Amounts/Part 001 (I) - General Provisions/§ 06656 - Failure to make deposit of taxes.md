@@ -72,7 +72,7 @@ The Secretary may abate the penalty imposed by subsection (a) with respect to th
 
 Subsec. (e). Pub. L. 105–206, §3304(a), added subsec. (e).
 
-Subsec. (e)(1). Pub. L. 105–206, §3304(c), reenacted heading without change and amended text of par. (1) generally. Prior to amendment, text read as follows: “A person may, with respect to any deposit of tax to be reported on such person's return for a specified tax period, designate the period or periods within such specified tax period to which the deposit is to be applied for purposes of this section.”
+Subsec. (e)(1). Pub. L. 105–206, §3304(c), reenacted heading without change and amended text of par. (1) generally. Prior to amendment, text read as follows: “Aperson may, with respect to any deposit of tax to be reported on such person's return for a specified tax period, designate the period or periods within such specified tax period to which the deposit is to be applied for purposes of this section.”
 
 1996—Subsec. (c). Pub. L. 104–168, §304(a), added subsec. (c).
 

@@ -34,7 +34,7 @@ Memorandum of President of the United States, Oct. 24, 1994, 59 F.R. 54121, prov
 
 Memorandum for the Secretary of State
 
-Pursuant to authority vested in me as the Chief Executive Officer of the United States, and consistent with the provisions of the Hatch Act Reform Amendment regulations, 5 CFR 734.104, and section 301 of title 3, United States Code, I delegate to you the authority to limit the political activities of political appointees of the Department of State, including Presidential appointees, Presidential appointees with Senate confirmation, noncareer SES appointees, and Schedule C appointees.
+Pursuant to authority vested in me as the Chief Executive Officer of the United States, and consistentwith the provisions of the Hatch Act Reform Amendment regulations, 5 CFR 734.104, and section 301 of title 3, United States Code, I delegate to you the authority to limit the political activities of political appointees of the Department of State, including Presidential appointees, Presidential appointees with Senate confirmation, noncareer SES appointees, and Schedule C appointees.
 
 You are authorized and directed to publish this memorandum in the Federal Register.
 

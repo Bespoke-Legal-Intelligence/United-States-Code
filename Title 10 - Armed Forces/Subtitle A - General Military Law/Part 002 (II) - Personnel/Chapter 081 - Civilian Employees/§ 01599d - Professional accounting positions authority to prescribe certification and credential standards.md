@@ -18,9 +18,13 @@ Report.—The Secretary of Defense shall submit to Congress a report on the Secr
 
 (e)
 
-Definition.—In this section, the term “professional accounting position” means a position or group of positions in the GS–510, GS–511, and GS–505 series that involves professional accounting work.
+Definition.—In this section, the term “professional accounting position” means a positionor group of positions in the 0505, 0510, 0511, or equivalent series that involves professional accounting work.
 
-(Added Pub. L. 107–314, div. A, title XI, §1104(a)(1), Dec. 2, 2002, 116 Stat. 2661.)
+(Added Pub. L. 107–314, div. A, title XI, §1104(a)(1), Dec. 2, 2002, 116 Stat. 2661; amended Pub. L. 110–417, \[div. A\], title XI, §1110, Oct. 14, 2008, 122 Stat. 4619.)
+
+#### Amendments
+
+2008—Subsec. (e). Pub. L. 110–417 substituted “0505, 0510, 0511, or equivalent” for “GS–510, GS–511, and GS–505”.
 
 #### Effective Date
 

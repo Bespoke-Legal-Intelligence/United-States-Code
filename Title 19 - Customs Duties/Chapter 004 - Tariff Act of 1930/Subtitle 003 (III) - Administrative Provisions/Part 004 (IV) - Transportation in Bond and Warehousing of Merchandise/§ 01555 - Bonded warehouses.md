@@ -14,7 +14,7 @@ Subject to subsection (b) of this section, buildings or parts of buildings and o
 
 &emsp;(B) 25 statute miles from the exit point through which the purchaser of duty-free merchandise will depart the customs territory; or
 
-&emsp;(C) a port of entry, as established under section 1 of the Act of August 24, 1912 (37 Stat. 434), or within 25 statute miles of a staffed port of entry if reasonable assurance can be provided that duty-free merchandise sold by the enterprise will be exported by individuals departing from the customs territory through an international airport located within the customs territory.
+&emsp;(C) a port of entry, as established under section 1 of the Act of August 24, 1912 (37 Stat. 434), or within 25 statute miles of a staffed port of entry if reasonable assurance can beprovided that duty-free merchandise sold by the enterprise will be exported by individuals departing from the customs territory through an international airport located within the customs territory.
 
 (3) Each duty-free sales enterprise—
 
@@ -70,7 +70,7 @@ Subject to subsection (b) of this section, buildings or parts of buildings and o
 
 &emsp;(C) The term “customs territory” means the customs territory of the United States and foreign trade zones.
 
-&emsp;(D) The term “duty-free sales enterprise” means a person that sells, for use outside the customs territory, duty-free merchandise that is delivered from a bonded warehouse to an airport or other exit point for exportation by, or on behalf of, individuals departing from the customs territory.
+&emsp;(D) The term “duty-free sales enterprise” means a person that sells, for use outside the customs territory, duty-free merchandise that is delivered from a bonded warehouse to an airport or other exit point for exportation by,or on behalf of, individuals departing from the customs territory.
 
 &emsp;(E) The term “duty-free merchandise” means merchandise sold by a duty-free sales enterprise on which neither Federal duty nor Federal tax has been assessed pending exportation from the customs territory.
 
@@ -122,7 +122,7 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(
 
 Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §555, 42 Stat. 976. That section was superseded by section 555 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-Prior provisions dealing with the subject matter of this section were contained in R.S. §2958, authorizing cellars and vaults of stores for storage of wines and distilled spirits, and yards for storage of coal, etc., to be constituted bonded warehouses; section 2959, authorizing parts of buildings to be bonded for the storage of grain; section 2960, requiring private warehouses to be used solely for the storage of warehoused merchandise,and be approved by the Secretary of the Treasury, and be in charge of a proper officer of the customs, etc.; section 2961 requiring bonds to hold the United States harmless, and providing that imports deposited in warehouses should be at the risk and expense of the owner or importer; section 2968, authorizing the extension of warehouse privileges to the port of Albany; and section 2988, as amended by act Feb. 27, 1877, ch. 69, §1, 19 Stat. 247, requiring collectors to make reports of merchandise in warehouses. All of these sections were repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
+Prior provisions dealing with the subject matter of this section were contained in R.S. §2958, authorizing cellars and vaults of stores for storage of wines and distilled spirits, and yards for storage of coal, etc., to be constituted bonded warehouses; section 2959, authorizing parts of buildings to be bonded for the storage of grain; section 2960, requiring private warehouses to be used solely for the storage of warehoused merchandise, and be approved by the Secretary of the Treasury, and be in charge of a proper officer of the customs, etc.; section 2961 requiring bonds to hold the United States harmless, and providing that imports deposited in warehouses should be at the risk and expense of the owner or importer; section 2968, authorizing the extension of warehouse privileges to the port of Albany; and section 2988, as amended by act Feb. 27, 1877, ch. 69, §1, 19 Stat. 247, requiring collectors to make reports of merchandise in warehouses. All of these sections were repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
 #### Amendments
 

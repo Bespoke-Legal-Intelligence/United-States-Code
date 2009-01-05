@@ -36,7 +36,7 @@ For prior section 520 of Pub. L. 90–351 and prior sections 3766 of this title,
 
 Subsec. (a)(2). Pub. L. 109–162, §1111(c)(2)(B)(ii), substituted “evaluations of programs funded under section 3755 (formula grants) and section 3762a (discretionary grants) of this title” for “evaluations of programs funded under section 3756 (formula grants) and sections 3761 and 3762a (discretionary grants) of this title”.
 
-Subsec. (b)(2). Pub. L. 109–162, §1111(c)(2)(B)(iii), substituted “programs funded under section 3755 (formula grants)” for “programs funded under section 3756 (formula grants) and section 3761 (discretionary grants)”.
+Subsec. (b)(2). Pub. L. 109–162, §1111(c)(2)(B)(iii), substituted “programs funded under section 3755 (formulagrants)” for “programs funded under section 3756 (formula grants) and section 3761 (discretionary grants)”.
 
 1990—Subsec. (a)(2). Pub. L. 101–647 substituted “sections 3761 and 3762a” for “section 3761”.
 

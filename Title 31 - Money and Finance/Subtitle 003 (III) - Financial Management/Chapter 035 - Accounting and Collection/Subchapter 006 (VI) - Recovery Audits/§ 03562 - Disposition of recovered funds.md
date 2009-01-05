@@ -12,7 +12,7 @@ Availability of Funds for Recovery Audits and Activities Program.—Funds collec
 
 Funds Not Used for Program.—Any amounts erroneously paid by an executive agency that are recovered under such a program of an executive agency and are not used to reimburse expenses or pay contractors under subsection (a)—
 
-&emsp;(1) shall be credited to the appropriations from which the erroneous payments were made, shall be merged with other amounts in those appropriations, and shall be available for the purposes and period for which such appropriations are available; or
+&emsp;(1) shall be credited to the appropriations from which the erroneous payments were made, shall be merged with other amounts inthose appropriations, and shall be available for the purposes and period for which such appropriations are available; or
 
 &emsp;(2) if no such appropriation remains available, shall be deposited in the Treasury as miscellaneous receipts.
 

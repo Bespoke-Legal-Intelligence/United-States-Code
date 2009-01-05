@@ -64,7 +64,7 @@ Pub. L. 106–309, title IV, §403, Oct. 17, 2000, 114 Stat. 1097, provided that
 
 “(a)
 
-Priority for Disaster Relief Assistance.—In processing applications for the transportation of humanitarian assistance abroad under section 402 of title 10, United States Code, the Administrator of the UnitedStates Agency for International Development shall afford a priority to applications for the transportation of disaster relief assistance.
+Priority for Disaster Relief Assistance.—In processing applications for the transportation of humanitarian assistance abroad under section 402 of title 10, United States Code, the Administrator of the United States Agency for International Development shall afford a priority to applications for the transportation of disaster relief assistance.
 
 “(b)
 

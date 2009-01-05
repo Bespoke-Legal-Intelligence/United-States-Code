@@ -202,7 +202,7 @@ Treatment of certain facilities.—All of the incarceration facilities within th
 
 &emsp;“(1) the assignment of a single Immigration and Naturalization Service employee to more than 1 incarceration facility; and
 
-&emsp;“(2) the development of a system to permit the Attorney General to conduct off-site verification, by computer or other electronic means, of the immigration status of individuals who are incarcerated in local governmental incarceration facilities prior to arraignment on criminal charges.”
+&emsp;“(2) the development of a system to permit the Attorney General to conduct off-site verification, by computer or other electronic means, of the immigration status of individuals who are incarcerated inlocal governmental incarceration facilities prior to arraignment on criminal charges.”
 
 #### Criminal Alien Tracking Center
 

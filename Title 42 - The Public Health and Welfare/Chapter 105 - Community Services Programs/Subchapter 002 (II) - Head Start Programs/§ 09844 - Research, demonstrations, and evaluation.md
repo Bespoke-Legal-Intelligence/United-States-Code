@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) foster continuous improvement in the quality of the Head Start programs under this subchapter and in their effectiveness in enabling participating children and their families to succeed in school and otherwise; and
 
-&emsp;&emsp;(B) use the Head Start programs to develop, test, and disseminate new ideas basedon existing scientifically valid research, for addressing the needs of low-income preschool children (including children with disabilities, homeless children, children who have been abused or neglected, and children in foster care) and their families and communities (including demonstrations of innovative non-center-based program models such as home-based and mobile programs), and otherwise to further the purposes of this subchapter.
+&emsp;&emsp;(B) use the Head Start programs to develop, test, and disseminate new ideas based on existing scientifically valid research, for addressing the needs of low-income preschool children (including children with disabilities, homeless children, children who have been abused or neglected, and children in foster care) and their families and communities (including demonstrations of innovative non-center-based program models such as home-based and mobile programs), and otherwise to further the purposes of this subchapter.
 
 #### (2) Plan
 
@@ -214,7 +214,7 @@ The Secretary shall take necessary steps to ensure that all studies, reports, pr
 
 &emsp;&emsp;&emsp;(iv) the correlation between such progress and the health and family services provided by such programs to limited English proficient children and their families; and
 
-&emsp;&emsp;(G) the extent to which Head Start programs and Early Head Start programs makeuse of funds under section 9835(a)(2)(D) of this title to improve the quality of such services provided to limited English proficient children and their families.
+&emsp;&emsp;(G) the extent to which Head Start programs and Early Head Start programs make use of funds under section 9835(a)(2)(D) of this title to improve the quality of such services provided to limited English proficient children and their families.
 
 #### (i) Research and evaluation activities relevant to diverse communities
 
@@ -292,7 +292,7 @@ The Secretary shall—
 
 &emsp;(5) through regulation, ensure the confidentiality of any personally identifiable data, information, and records collected or maintained by the Secretary, by Head Start agencies that carry out Indian Head Start programs, and by State Directors of Head Start Collaboration, by the Indian Head Start Collaboration Project Director and by other appropriate entities pursuant to this subsection (such regulations shall provide the policies, protections, and rights equivalent to those provided a parent, student, or educational agency or institution under section 1232g of title 20); and
 
-&emsp;(6) ensure that nothing in this subsection shall be construed to authorize the development of a nationwide database of personally identifiable information on individuals involved in studies or other collections of data under this subsection.
+&emsp;(6) ensure that nothing in this subsection shall be construed to authorize the development of a nationwide database of personallyidentifiable information on individuals involved in studies or other collections of data under this subsection.
 
 #### (<i>l</i>) Migrant and seasonal Head Start program study
 
@@ -332,7 +332,7 @@ The Secretary shall—
 
 #### (3) Report to Congress
 
-&emsp;Not later than 18 months after December 12, 2007, the Secretary shall prepare and submit to Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions ofthe Senate a report containing the results of the evaluation required under paragraph (2), including—
+&emsp;Not later than 18 months after December 12, 2007, the Secretary shall prepare and submit to Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report containing the results of the evaluation required under paragraph (2), including—
 
 &emsp;&emsp;(A) recommendations for improvements to Federal, State, and local preparedness and response capabilities to large-scale emergencies, including those that were developed in response to hurricanes Katrina, Rita, and Wilma, as they relate to Head Start programs, including Early Head Start programs, and the Secretary's plan to implement such recommendations;
 
@@ -342,7 +342,7 @@ The Secretary shall—
 
 &emsp;&emsp;(D) an evaluation of procedures for Head Start agencies and the Secretary to coordinate with appropriate Federal, State, and local emergency management agencies in the event of a large scale emergency and recommendations to improve such procedures.
 
-(Pub. L. 97–35, title VI, §649, Aug. 13, 1981, 95 Stat. 505; Pub. L. 98–558, title I, §107, Oct. 30, 1984, 98 Stat. 2880; Pub. L. 101–501, title I, §117(a), Nov. 3, 1990, 104 Stat. 1233; Pub. L. 103–252, title I, §116, May 18, 1994, 108 Stat. 646; Pub. L. 105–244, title I, §102(a)(13)(G), Oct. 7, 1998, 112 Stat. 1621; Pub. L. 105–285, title I, §116, Oct. 27, 1998, 112 Stat. 2723; Pub. L. 110–134, §20, Dec. 12, 2007, 121 Stat. 1435.)
+(Pub. L. 97–35, title VI, §649, Aug. 13, 1981, 95 Stat. 505; Pub. L. 98–558, title I, §107, Oct. 30, 1984, 98 Stat. 2880; Pub. L. 101–501, title I, §117(a), Nov. 3, 1990, 104 Stat. 1233; Pub. L. 103–252, title I, §116, May 18, 1994, 108 Stat. 646; Pub. L. 105–244,title I, §102(a)(13)(G), Oct. 7, 1998, 112 Stat. 1621; Pub. L. 105–285, title I, §116, Oct. 27, 1998, 112 Stat. 2723; Pub. L. 110–134, §20, Dec. 12, 2007, 121 Stat. 1435.)
 
 #### References in Text
 

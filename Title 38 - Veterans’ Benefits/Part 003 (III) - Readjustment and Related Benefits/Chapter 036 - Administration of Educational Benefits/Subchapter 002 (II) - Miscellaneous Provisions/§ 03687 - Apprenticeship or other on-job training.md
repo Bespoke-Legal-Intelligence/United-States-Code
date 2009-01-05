@@ -23,7 +23,7 @@
 
 (2) The monthly training assistance allowance of an eligible person pursuing a program described under subsection (a) shall be $574 for the first six months, $429 for the second six months, $285 for the third six months, and $144 for the fourth and any succeeding six-month period of training.
 
-(3) In any month in which an eligible veteran or person pursuing a program of apprenticeship or a program of other on-job training fails to complete one hundred and twenty hours of training in such month, the monthly training assistance allowance set forth in subsection (b)(1) or (2) of this section, as applicable, shall be reduced proportionately in the proportion that the number of hours worked bears to one hundred and twenty hours rounded off to the nearest eight hours.
+(3) In any month in which an eligible veteran or person pursuing a program of apprenticeshipor a program of other on-job training fails to complete one hundred and twenty hours of training in such month, the monthly training assistance allowance set forth in subsection (b)(1) or (2) of this section, as applicable, shall be reduced proportionately in the proportion that the number of hours worked bears to one hundred and twenty hours rounded off to the nearest eight hours.
 
 (c) For the purpose of this chapter, the terms “program of apprenticeship” and “program of other on-job training” shall have the same meaning as “program of education”; and the term “training assistance allowance” shall have the same meaning as “educational assistance allowance” as set forth in chapters 34 and 35 of this title.
 

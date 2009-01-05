@@ -46,7 +46,7 @@ For purposes of this section—
 
 &emsp;(3)
 
-Downstream producer.—The term “downstream producer” means a firm that performs additional, value-added production processes for a firm or subdivision, including a firm that performs final assembly or finishing, directly for another firm (or subdivision), for articles that were the basis for a certificationof eligibility under subsection (a) of this section of a group of workers employed by such other firm, if the certification of eligibility under subsection (a) of this section is based on an increase in imports from, or a shift in production to, Canada or Mexico.
+Downstream producer.—The term “downstream producer” means a firm that performs additional, value-added production processes for a firm or subdivision, including a firm that performs final assembly or finishing, directly for another firm (or subdivision), for articles that were the basis for a certification of eligibility under subsection (a) of this section of a group of workers employed by such other firm, if the certification of eligibility under subsection (a) of this section is based on an increase in imports from, or a shift in production to, Canada or Mexico.
 
 &emsp;(4)
 
@@ -118,7 +118,7 @@ No trade adjustment assistance, vouchers, allowances, or other payments or benef
 
 #### Workers Covered by Certification Notwithstanding Other Law
 
-Section 1421(a)(1)(B) of Pub. L. 100–418 provided that: “Notwithstanding section 223(b) of the Trade Act of1974 \[19 U.S.C. 2273(b)\], or any other provision of law, any certification made under subchapter A of chapter 2 of title II of such Act \[this subpart\] which—
+Section 1421(a)(1)(B) of Pub. L. 100–418 provided that: “Notwithstanding section 223(b) of the Trade Act of 1974 \[19 U.S.C. 2273(b)\], or any other provision of law, any certification made under subchapter A of chapter 2 of title II of such Act \[this subpart\] which—
 
 &emsp;“(i) is made with respect to a petition filed before the date that is 90 days after the date of enactment of this Act \[Aug. 23, 1988\], and
 

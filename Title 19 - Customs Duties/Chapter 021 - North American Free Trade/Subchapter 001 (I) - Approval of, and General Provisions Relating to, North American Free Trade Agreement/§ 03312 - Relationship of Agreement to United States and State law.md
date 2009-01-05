@@ -42,7 +42,7 @@
 
 &emsp;&emsp;&emsp;(iv) the Trade Representative will take into account the information and advice received from the States under clause (iii) when formulating United States positions regarding matters referred to in clause (ii); and
 
-&emsp;&emsp;&emsp;(v) the States will be involved (including involvement through the inclusion of appropriate representatives of the States) to the greatest extent practicable at each stage of the development of United States positions regarding matters referred to in clause (ii) that will be addressed by committees, subcommittees, or working groups established under the Agreement or through dispute settlement processes provided for under the Agreement.
+&emsp;&emsp;&emsp;(v) the States will be involved (including involvement through the inclusion of appropriate representatives of the States) tothe greatest extent practicable at each stage of the development of United States positions regarding matters referred to in clause (ii) that will be addressed by committees, subcommittees, or working groups established under the Agreement or through dispute settlement processes provided for under the Agreement.
 
 > &emsp;The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Federal-State consultation process established by this paragraph.
 

@@ -48,7 +48,7 @@ Lease of Federal Building Sites.—
 
 &emsp;(1)
 
-In general.—The Administrator may lease a federal building site or addition, including any improvements, until the site isneeded for construction purposes. The lease must be for fair rental value and on other terms and conditions the Administrator considers to be in the public interest pursuant to section 545 of this title.
+In general.—The Administrator may lease a federal building site or addition, including any improvements, until the site is needed for construction purposes. The lease must be for fair rental value and on other terms and conditions the Administrator considers to be in the public interest pursuant to section 545 of this title.
 
 &emsp;(2)
 
@@ -144,7 +144,7 @@ June 30, 1949, ch. 288, title II, §210(a), as added Sept. 5, 1950, ch. 849, §5
 
 In this section, 40:490(a)(7) is omitted as obsolete because the pneumatic tube system referred to in the provision is no longer used or maintained and 40:490(a)(9) is omitted as obsolete because the relevant provisions of the Surplus Property Act of 1944 (50 App.:1611 et seq.) have been repealed.
 
-In subsection (c)(3) and (4), the words “without regard to the provisions of section 278a of this title” and“which on June 30, 1950, was specifically exempted by law from the requirements of said section” (in 40:490(a)(5)), and the words “without regard to the 25 per centum limitation of section 278a of this title” and “without reference to such limitation” (in 40:490(a)(8)), respectively, are omitted as obsolete because 40:278a was repealed by section 7 of the Public Buildings Amendments of 1988 (Public Law 100–678, 40:278a).
+In subsection (c)(3) and (4), the words “without regard to the provisions of section 278a of this title” and “which on June 30, 1950, was specifically exempted by law from the requirements of said section” (in 40:490(a)(5)), and the words “without regard to the 25 per centum limitation of section 278a of this title” and “without reference to such limitation” (in 40:490(a)(8)), respectively, are omitted as obsolete because 40:278a was repealed by section 7 of the Public Buildings Amendments of 1988 (Public Law 100–678, 40:278a).
 
 In subsection (c)(5), the words “Defense Industrial Reserve” are substituted for “National Industrial Reserve” because the National Industrial Reserve Act was renamed the Defense Industrial Reserve Act by section 809 of the Department of Defense Appropriation Authorization Act, 1974 (Public Law 93–155, 87 Stat. 617), and transferred to 10:2535 by section 4235 of the Defense Conversion, Reinvestment and Transition Assistance Act of 1992, which was included as Division D in the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484, title XLII, 106 Stat. 2690).
 

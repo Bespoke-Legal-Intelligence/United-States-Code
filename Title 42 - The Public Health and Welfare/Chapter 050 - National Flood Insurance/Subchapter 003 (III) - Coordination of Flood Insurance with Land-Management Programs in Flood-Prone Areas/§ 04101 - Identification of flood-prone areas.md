@@ -30,11 +30,11 @@ The Director shall revise and update any floodplain areas and flood-risk zonesâ€
 
 &emsp;(1) upon the determination of the Director, according to the assessment under subsection (e) of this section, that revision and updating are necessary for the areas and zones; or
 
-&emsp;(2) upon the request from any State or local government stating that specific floodplain areas or flood-risk zones in the State or locality need revision or updating, if sufficient technical data justifying the request is submitted and the unit of government making the request agrees to provide funds in an amount determined by the Director, but which may not exceed 50 percent of the cost of carrying out the requested revision or update.
+&emsp;(2) upon the request from any State or local government stating that specific floodplain areas or flood-risk zones in the State or locality need revision or updating, if sufficient technical data justifying the request is submitted and the unit of government making the request agrees to provide funds in an amountdetermined by the Director, but which may not exceed 50 percent of the cost of carrying out the requested revision or update.
 
 #### (g) Availability of flood maps
 
-To promote compliance with the requirements of this chapter, the Director shall make flood insurance rate maps and related information available free of charge to the Federal entitiesfor lending regulation, Federal agency lenders, State agencies directly responsible for coordinating the national flood insurance program, and appropriate representatives of communities participating in the national flood insurance program, and at a reasonable cost to all other persons. Any receipts resulting from this subsection shall be deposited in the National Flood Insurance Fund, pursuant to section 4017(b)(6) of this title.
+To promote compliance with the requirements of this chapter, the Director shall make flood insurance rate maps and related information available free of charge to the Federal entities for lending regulation, Federal agency lenders, State agencies directly responsible for coordinating the national flood insurance program, and appropriate representatives of communities participating in the national flood insurance program, and at a reasonable cost to all other persons. Any receipts resulting from this subsection shall be deposited in the National Flood Insurance Fund, pursuant to section 4017(b)(6) of this title.
 
 #### (h) Notification of flood map changes
 

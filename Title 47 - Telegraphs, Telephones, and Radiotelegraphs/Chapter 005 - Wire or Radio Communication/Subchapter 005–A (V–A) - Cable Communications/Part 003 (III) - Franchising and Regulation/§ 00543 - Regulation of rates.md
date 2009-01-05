@@ -38,7 +38,7 @@
 
 #### (5) Revocation of jurisdiction
 
-&emsp;Upon petition by a cable operator or other interested party, the Commission shall review the regulation of cable system rates by a franchising authority under this subsection. A copy of the petition shall be provided to the franchising authority by the person filing the petition. If the Commission finds that the franchising authority has acted inconsistently with the requirements of this subsection, the Commission shall grant appropriate relief. If the Commission, after the franchising authority has had a reasonable opportunity to comment, determines that the State and local laws and regulations are not in conformance with the regulations prescribed by the Commission under subsection (b) of this section, the Commission shall revoke the jurisdiction of such authority.
+&emsp;Upon petition by a cable operator or other interested party, the Commission shall review the regulation of cable system rates by a franchising authority under this subsection. A copy of the petition shall be provided to the franchising authority by the person filing thepetition. If the Commission finds that the franchising authority has acted inconsistently with the requirements of this subsection, the Commission shall grant appropriate relief. If the Commission, after the franchising authority has had a reasonable opportunity to comment, determines that the State and local laws and regulations are not in conformance with the regulations prescribed by the Commission under subsection (b) of this section, the Commission shall revoke the jurisdiction of such authority.
 
 #### (6) Exercise of jurisdiction by Commission
 
@@ -156,7 +156,7 @@
 
 &emsp;&emsp;(B) fair and expeditious procedures for the receipt, consideration, and resolution of complaints from any franchising authority (in accordance with paragraph (3)) alleging that a rate for cable programming services charged by a cable operator violates the criteria prescribed under subparagraph (A), which procedures shall include the minimum showing that shall be required for a complaint to obtain Commission consideration and resolution of whether the rate in question is unreasonable; and
 
-&emsp;&emsp;(C) the procedures to be used to reduce rates for cable programming services that are determined by the Commission to be unreasonable and to refund such portion of the rates or charges that were paid by subscribers after the filing of the first complaint filed with the franchising authority under paragraph (3) and that are determined to be unreasonable.
+&emsp;&emsp;(C) the procedures to be used to reduce rates for cable programming services that are determined by the Commission to be unreasonable and to refund such portion of the rates or charges that were paid by subscribers after the filing of the first complaint filed with the franchising authority underparagraph (3) and that are determined to be unreasonable.
 
 #### (2) Factors to be considered
 
@@ -184,7 +184,7 @@
 
 #### (d) Uniform rate structure required
 
-A cable operator shall have a rate structure, for the provision of cable service, that is uniform throughout the geographic area in which cable service is provided over its cable system. This subsection does not apply to (1) a cable operator with respect to the provision of cable service over its cable system in any geographic area in which the video programming services offered by the operator in that area are subject to effective competition, or (2) any video programming offered on a per channel or per program basis. Bulk discounts to multiple dwelling units shall not be subject to this subsection, except that a cable operator of a cable system that is not subject to effective competition may notcharge predatory prices to a multiple dwelling unit. Upon a prima facie showing by a complainant that there are reasonable grounds to believe that the discounted price is predatory, the cable system shall have the burden of showing that its discounted price is not predatory.
+A cable operator shall have a rate structure, for the provision of cable service, that is uniform throughout the geographic area in which cable service is provided over its cable system. This subsection does not apply to (1) a cable operator with respect to the provision of cable service over its cable system in any geographic area in which the video programming services offered by the operator in that area are subject to effective competition, or (2) any video programming offered on a per channel or per program basis. Bulk discounts to multiple dwelling units shall not be subject to this subsection, except that a cable operator of a cable system that is not subject to effective competition may not charge predatory prices to a multiple dwelling unit. Upon a prima facie showing by a complainant that there are reasonable grounds to believe that the discounted price is predatory, the cable system shall have the burden of showing that its discounted price is not predatory.
 
 #### (e) Discrimination; services for the hearing impaired
 
@@ -216,7 +216,7 @@ During the term of an agreement made before July 1, 1990, by a franchising autho
 
 #### (k) Reports on average prices
 
-The Commission shall annually publish statistical reports on the average rates for basic cable service and other cable programming, and for converter boxes, remote control units, and other equipment, of—
+The Commission shall annually publish statistical reports on the average rates for basic cableservice and other cable programming, and for converter boxes, remote control units, and other equipment, of—
 
 &emsp;(1) cable systems that the Commission has found are subject to effective competition under subsection (a)(2) of this section, compared with
 
@@ -282,7 +282,7 @@ Subsec. (m). Pub. L. 104–104, §301(c), added subsec. (m).
 
 Subsec. (n). Pub. L. 104–104, §301(k)(1), added subsec. (n).
 
-1992—Pub. L. 102–385 amended section generally, substituting present provisions for former provisions which related in subsec. (a) to limitation on regulatory power of Federal agencies, States, or franchising authorities, in subsec. (b) to promulgation, scope, content, periodic review, and amendment of regulations, in subsec. (c) to regulation by franchising authority during initial 2-year period, in subsec. (d) to automatic granting of rate increase requests upon agency inaction within 180-day period, in subsec. (e) to additional increases in rates and to reduction by amount of increase under franchise provisions, in subsec. (f) to nondiscrimination and facilitation of reception by hearing-impaired individuals, in subsec. (g) to continued effectiveness of limitation or the preemption of regulation under prior State law, and in subsec. (h) to reports and recommendations to Congress.
+1992—Pub. L. 102–385 amended section generally, substituting present provisions for former provisions which related in subsec. (a) to limitation on regulatorypower of Federal agencies, States, or franchising authorities, in subsec. (b) to promulgation, scope, content, periodic review, and amendment of regulations, in subsec. (c) to regulation by franchising authority during initial 2-year period, in subsec. (d) to automatic granting of rate increase requests upon agency inaction within 180-day period, in subsec. (e) to additional increases in rates and to reduction by amount of increase under franchise provisions, in subsec. (f) to nondiscrimination and facilitation of reception by hearing-impaired individuals, in subsec. (g) to continued effectiveness of limitation or the preemption of regulation under prior State law, and in subsec. (h) to reports and recommendations to Congress.
 
 #### Effective Date of 1996 Amendment
 

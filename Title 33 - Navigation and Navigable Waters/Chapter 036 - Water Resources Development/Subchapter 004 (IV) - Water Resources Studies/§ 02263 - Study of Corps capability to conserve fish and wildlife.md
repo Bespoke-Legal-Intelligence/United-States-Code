@@ -68,7 +68,7 @@ The Secretary shall investigate and study the feasibility of utilizing the capab
 
 #### References in Text
 
-Paragraph (4), referred to in concluding provisions of subsec. (b), meaning subsec. (b)(4) of this section, was redesignated subsec. (b)(1)(D) by Pub. L. 107–66, title I, §113(1), (2), Nov. 12, 2001, 115 Stat. 496. Subsequently, Pub. L. 110–114, title V, §5021(1), (2)(B), (3), Nov. 8, 2007, 121 Stat. 1202, redesignated subsec. (b)(1)(D) as (b)(2)(D), struck it out, added a new subsec. (b)(2)(D), and redesignated former subsec. (b)(2) as (b)(4).
+Paragraph (4), referred to in concluding provisions of subsec. (b), meaning subsec. (b)(4) of this section, was redesignated subsec. (b)(1)(D) by Pub. L. 107–66, title I,§113(1), (2), Nov. 12, 2001, 115 Stat. 496. Subsequently, Pub. L. 110–114, title V, §5021(1), (2)(B), (3), Nov. 8, 2007, 121 Stat. 1202, redesignated subsec. (b)(1)(D) as (b)(2)(D), struck it out, added a new subsec. (b)(2)(D), and redesignated former subsec. (b)(2) as (b)(4).
 
 #### Amendments
 

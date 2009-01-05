@@ -22,7 +22,7 @@ Research.—The Director shall—
 
 (e)
 
-Technical Assistance.—The Director shall provide technical assistance to States and to metropolitan planning organizations for urban areas having a population of at least 1,000,000 in collecting data related to intermodal transportation to facilitate the collection of the data by States and metropolitan planning organizations. Amounts reserved under section 5504(d) not awarded to States as grants may be used by the Director to provide technical assistance under this subsection.
+Technical Assistance.—The Director shall provide technical assistance to States and to metropolitan planning organizations for urban areas having a population of at least 1,000,000 in collecting data related to intermodal transportation to facilitate the collection of the data byStates and metropolitan planning organizations. Amounts reserved under section 5504(d) not awarded to States as grants may be used by the Director to provide technical assistance under this subsection.
 
 (f)
 
@@ -48,7 +48,7 @@ In general.—The Director, in consultation with the advisory board established 
 
 &emsp;(2)
 
-Progress reports.—The Director shall submit an initial report on the plan to improve the national intermodal transportation system 2 years after the date of enactment of the Surface Transportation Safety Improvement Act of 2005,<sup>1</sup> and a follow-up report 2 years after that, to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives. The progress report shall—
+Progress reports.—The Director shall submit an initial report on the plan to improve the national intermodal transportation system 2 years after the date of enactment of the Motor Carrier Safety Reauthorization Act of 2005, and a follow-up report 2 years after that, to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives. The progress report shall—
 
 &emsp;&emsp;(A) describe progress made toward achieving the plan's goals;
 
@@ -64,7 +64,7 @@ Plan development funding.—Such sums as may be necessary from the administrativ
 
 (g)
 
-Impact Measurement Methodology; Impact Review.—The Director and the Director ofthe Bureau of Transportation Statistics shall jointly—
+Impact Measurement Methodology; Impact Review.—The Director and the Director of the Bureau of Transportation Statistics shall jointly—
 
 &emsp;(1) develop, in consultation with the modal administrations, and State and local planning organizations, common measures to compare transportation investment decisions across the various modes of transportation; and
 
@@ -82,15 +82,15 @@ Impact Measurement Methodology; Impact Review.—The Director and the Director o
 
 &emsp;&emsp;(F) the economy and employment.
 
-(h) <sup>2</sup>
-
-Authorization of Appropriations.—There is authorized to be appropriated to the Secretary of Transportation such sums as may be necessary for fiscal years 2006 through 2009 to carry out this chapter.
-
-(h) <sup>2</sup>
+(h)
 
 Administrative and Clerical Support.—The Director shall provide administrative and clerical support to the Intermodal Transportation Advisory Board.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 850; Pub. L. 105–178, title V, §5109(b), June 9, 1998, 112 Stat. 440; Pub. L. 108–426, §4(c), Nov. 30, 2004, 118 Stat. 2425; Pub. L. 109–59, title IV, §4149, Aug. 10, 2005, 119 Stat. 1750.)
+(i)
+
+Authorization of Appropriations.—There is authorized to be appropriated to the Secretary of Transportation such sums as may be necessary for fiscal years 2006 through 2009 to carry out this chapter.
+
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 850; Pub. L. 105–178, title V, §5109(b), June 9, 1998, 112 Stat. 440; Pub. L. 108–426, §4(c), Nov. 30, 2004, 118 Stat. 2425; Pub. L. 109–59, title IV, §4149, Aug. 10, 2005, 119 Stat. 1750; Pub. L. 110–244, title III, §301(k), June 6, 2008, 122 Stat. 1616.)
 
 Historical and Revision Notes
 
@@ -112,9 +112,13 @@ Dec. 18, 1991, Pub. L. 102–240, §5002(c), 105 Stat. 2158.
 
 Section 6009(b) of the Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsec. (d)(1), is section 6009(b) of Pub. L. 102–240, which is set out as a note under section 508 of Title 23, Highways.
 
-The date of enactment of the Surface Transportation Safety Improvement Act of 2005, referred to in subsec. (f)(2), probably means the date of enactment of the Motor Carrier Safety Reauthorization Act of 2005, title IV of Pub. L. 109–59, which was approved Aug. 10, 2005.
+The date of enactment of the Motor Carrier Safety Reauthorization Act of 2005, referred to in subsec. (f)(2), is the date of enactment of title IV of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
 #### Amendments
+
+2008—Subsec. (f)(2). Pub. L. 110–244, §301(k)(1), substituted “Motor Carrier Safety Reauthorization Act of 2005” for “Surface Transportation Safety Improvement Act of 2005” in introductory provisions.
+
+Subsecs. (h), (i). Pub. L. 110–244, §301(k)(2), redesignated subsec. (h), relating to authorization of appropriations, as (i) and moved such subsec. to appear in proper order.
 
 2005—Subsec. (e). Pub. L. 109–59, §4149(1), inserted at end “Amounts reserved under section 5504(d) not awarded to States as grants may be used by the Director to provide technical assistance under this subsection.”
 
@@ -124,7 +128,7 @@ Subsec. (h). Pub. L. 109–59, §4149(3), added subsec. (h) relating to authoriz
 
 Pub. L. 109–59, §4149(2), redesignated subsec. (f) as (h) relating to administrative and clerical support.
 
-2004—Subsec. (a). Pub. L. 108–426 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The Secretary of Transportation shall establish in the Office of the Secretary an Office of Intermodalism.”
+2004—Subsec. (a). Pub. L. 108–426 reenacted heading without change and amended text generally. Prior toamendment, text read as follows: “The Secretary of Transportation shall establish in the Office of the Secretary an Office of Intermodalism.”
 
 1998—Subsecs. (d) to (g). Pub. L. 105–178 redesignated subsecs. (e) to (g) as (d) to (f), respectively, and struck out heading and text of former subsec. (d). Text read as follows:
 
@@ -137,8 +141,4 @@ Pub. L. 109–59, §4149(2), redesignated subsec. (f) as (h) relating to adminis
 &emsp;“(C) public and private investment in intermodal transportation facilities and services.
 
 “(2) The Director shall make information from the data base available to the public.”
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Two subsecs. (h) have been enacted.</i>
 

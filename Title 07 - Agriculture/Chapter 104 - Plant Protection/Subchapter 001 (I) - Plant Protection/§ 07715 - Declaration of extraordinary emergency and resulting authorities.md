@@ -8,7 +8,7 @@ If the Secretary determines that an extraordinary emergency exists because of th
 
 &emsp;(2) quarantine, treat, or apply other remedial measures to any premises, including any plants, biological control organisms, plant products, articles, or means of conveyance on the premises, that the Secretary has reason to believe is infested with the plant pest or noxious weed;
 
-&emsp;(3) quarantine any State or portion of a State in which the Secretary finds the plant pest or noxious weed or any plant, biological control organism, plant product, article, or means of conveyance that the Secretary has reason to believe is infested with the plant pest or noxious weed; and
+&emsp;(3) quarantine any State or portion of a State in which the Secretary finds the plantpest or noxious weed or any plant, biological control organism, plant product, article, or means of conveyance that the Secretary has reason to believe is infested with the plant pest or noxious weed; and
 
 &emsp;(4) prohibit or restrict the movement within a State of any plant, biological control organism, plant product, article, or means of conveyance when the Secretary determines that the prohibition or restriction is necessary to prevent the dissemination of the plant pest or noxious weed or to eradicate the plant pest or noxious weed.
 
@@ -40,13 +40,23 @@ No plant, biological control organism, plant product, plant pest, noxious weed, 
 
 #### (e) Payment of compensation
 
-The Secretary may pay compensation to any person for economic losses incurred by the person as a result of action taken by the Secretary under this section. The determination by the Secretary of the amount of any compensation to be paid under this subsection shall be final and shall not be subject to judicial review or a review of longer than 60 days by any officer or employee of the Federal Government other than the Secretary or the designee of the Secretary.
+The Secretary may pay compensation to any person for economic losses incurred by the person as a result of action taken by the Secretary under this section. The determination by the Secretary of the amount of any compensation to be paid under this subsection shall be final and shall not be subject to judicial review or a review by any officer or employee of the Federal Government other than the Secretary or the designee of the Secretary.
 
-(Pub. L. 106–224, title IV, §415, June 20, 2000, 114 Stat. 445; Pub. L. 107–171, title VII, §7504(a), May 13, 2002, 116 Stat. 465.)
+(Pub. L. 106–224, title IV, §415, June 20, 2000, 114 Stat. 445; Pub. L. 107–171, title VII, §7504(a), May 13, 2002, 116 Stat. 465; Pub. L. 110–234, title X, §10203(a), May 22, 2008, 122 Stat. 1342; Pub. L. 110–246, §4(a), title X, §10203(a), June 18, 2008, 122 Stat. 1664, 2104.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
+2008—Subsec. (e). Pub. L. 110–246, §10203(a), struck out “of longer than 60 days” after “or a review”.
+
 2002—Subsec. (e). Pub. L. 107–171 inserted before period at end “or a review of longer than 60 days by any officer or employee of the Federal Government other than the Secretary or the designee of the Secretary”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Transfer of Functions
 

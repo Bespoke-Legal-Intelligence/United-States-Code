@@ -6,7 +6,7 @@ Information submitted by any person in connection with the issuance, amendment, 
 
 #### (b) Protection of potentially harmful confidential information; exceptions: Congress; judicial or administrative proceedings; consent; necessity for determination; Federal law; regulations
 
-(1) Except as provided in paragraph (2), no officer or employee of the United States shall disclose commercial or financial information submitted in connection with the issuance, amendment, or revocation of a certificate of review if the information is privileged or confidential andif disclosure of the information would cause harm to the person who submitted the information.
+(1) Except as provided in paragraph (2), no officer or employee of the United States shall disclose commercial or financial information submitted in connection with the issuance, amendment, or revocation of a certificate of review if the information is privileged or confidential and if disclosure of the information would cause harm to the person who submitted the information.
 
 (2) Paragraph (1) shall not apply with respect to information disclosed—
 

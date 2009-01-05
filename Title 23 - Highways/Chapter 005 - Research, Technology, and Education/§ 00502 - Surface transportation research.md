@@ -264,23 +264,7 @@ Seismic Research.—The Secretary shall—
 
 &emsp;&emsp;(C) to conduct seismic research and upgrade earthquake simulation facilities as necessary to carry out the program.
 
-(h) <sup>1</sup>
-
-Infrastructure Investment Needs Report.—
-
-&emsp;(1)
-
-In general.—Not later than January 31, 1999, and January 31 of every second year thereafter, the Secretary shall report to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on—
-
-&emsp;&emsp;(A) estimates of the future highway and bridge needs of the United States; and
-
-&emsp;&emsp;(B) the backlog of current highway and bridge needs.
-
-&emsp;(2)
-
-Comparison with prior reports.—Each report under paragraph (1) shall provide the means, including all necessary information, to relate and compare the conditions and service measures used in the 3 biannual reports published prior to the date of enactment of the Transportation Equity Act for the 21st Century.
-
-(h) <sup>1</sup>
+(h)
 
 Infrastructure Investment Needs Report.—
 
@@ -294,7 +278,7 @@ In general.—Not later than July 31, 2006, and July 31 of every second year the
 
 &emsp;(2)
 
-Comparison with prior reports.—Each report under paragraph (1) shall provide themeans, including all necessary information, to relate and compare the conditions and service measures used in the previous biennial reports.
+Comparison with prior reports.—Each report under paragraph (1) shall provide the means, including all necessary information, to relate and compare the conditions and service measures used in the previous biennial reports.
 
 (i)
 
@@ -332,19 +316,19 @@ Grants, cooperative agreements, and contracts.—Under the program, the Secretar
 
 &emsp;&emsp;(C) prepare products to fulfill program objectives and meet future bridge technology needs.
 
-(Added Pub. L. 105–178, title V, §5102, June 9, 1998, 112 Stat. 422; amended Pub. L. 109–59, title V, §§5201(b)–(g), (i)(1), (j)(1), (k), (<i>l</i>), 5202(a)(1), Aug. 10, 2005, 119 Stat. 1781–1785.)
+(Added Pub. L. 105–178, title V, §5102, June 9, 1998, 112 Stat. 422; amended Pub. L. 109–59, title V, §§5201(b)–(g), (i)(1), (j)(1), (k), (<i>l</i>), 5202(a)(1), Aug. 10, 2005, 119 Stat. 1781–1785; Pub. L. 110–244, title I, §111(g)(1), June 6, 2008, 122 Stat. 1605.)
 
 #### References in Text
 
-The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (c)(4), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classified generally to chapter 63 (§3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short title note set out under section 3701 of Title 15 and Tables.
-
-The date of enactment of the Transportation Equity Act for the 21st Century, referred to in subsec. (h)(2), is the date of enactment of Pub. L. 105–178, which was approved June 9, 1998.
+The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (c)(4), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classifiedgenerally to chapter 63 (§3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short title note set out under section 3701 of Title 15 and Tables.
 
 #### Prior Provisions
 
 A prior section 502, added Pub. L. 90–495, §30, Aug. 23, 1968, 82 Stat. 831, related to State assurances of adequate highway relocation assistance program, prior to repeal by Pub. L. 91–646, title II, §220(a)(10), Jan. 2, 1971, 84 Stat. 1903.
 
 #### Amendments
+
+2008—Subsec. (h). Pub. L. 110–244 struck out subsec. (h) relating to infrastructure investment needs report to be submitted not later than Jan. 31, 1999, and Jan. 31 of every second year thereafter.
 
 2005—Subsec. (a). Pub. L. 109–59, §5201(b)(2), added subsec. (a). Former subsec. (a) redesignated (b).
 
@@ -798,7 +782,7 @@ Funding.—
 
 &emsp;&emsp;&emsp;“(i)
 
-Eligibility under section 5208.—The center established under this paragraph shall be eligible for funding under section 5208 of this Act \[set out in a note below\].
+Eligibility under section 5208.—The center established under this paragraph shall be eligiblefor funding under section 5208 of this Act \[set out in a note below\].
 
 &emsp;&emsp;&emsp;“(ii)
 
@@ -1004,7 +988,7 @@ In general.—The Secretary shall issue guidelines and requirements for the eval
 
 &emsp;&emsp;“(B)
 
-Objectivity and independence.—The guidelines and requirements issued under subparagraph\(A) shall include provisions to ensure the objectivity and independence of the evaluator so as to avoid any real or apparent conflict of interest or potential influence on the outcome by parties to any such test or deployment project or by any other formal evaluation carried out under this subtitle.
+Objectivity and independence.—The guidelines and requirements issued under subparagraph (A) shall include provisions to ensure the objectivity and independence of the evaluator so as to avoid any real or apparent conflict of interest or potential influence on the outcome by parties to any such test or deployment project or by any other formal evaluation carried out under this subtitle.
 
 &emsp;&emsp;“(C)
 
@@ -1393,6 +1377,4 @@ Authorization of Appropriations.—The Secretary shall expend from administrativ
 #### Study of Factors Affecting Safe and Efficient Operation of Bridges, Tunnels and Roads Within United States
 
 Pub. L. 95–599, title I, §166, Nov. 6, 1978, 92 Stat. 2722, provided that: “The Secretary of Transportation shall make a full and complete investigation and study of all those factors affecting the safe and efficient operation of bridges, tunnels, and roads within the United States, including, but not limited to, structural, operational, environmental, and civil disturbance factors.”
-
-<i><sup>1</sup></i><i> So in original. Two subsecs. (h) have been enacted.</i>
 

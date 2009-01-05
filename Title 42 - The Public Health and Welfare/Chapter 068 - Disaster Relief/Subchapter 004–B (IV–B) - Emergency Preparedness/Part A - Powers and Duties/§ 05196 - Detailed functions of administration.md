@@ -82,7 +82,7 @@ The Director may publicly disseminate appropriate emergency preparedness informa
 
 #### (j) Financial contributions
 
-(1) The Director may make financial contributions, on the basis of programs or projects approved by the Director, to the States for emergency preparedness purposes, including the procurement, construction, leasing, or renovatingof materials and facilities. Such contributions shall be made on such terms or conditions as the Director shall prescribe, including the method of purchase, the quantity, quality, or specifications of the materials or facilities, and such other factors or care or treatment to assure the uniformity, availability, and good condition of such materials or facilities.
+(1) The Director may make financial contributions, on the basis of programs or projects approved by the Director, to the States for emergency preparedness purposes, including the procurement, construction, leasing, or renovating of materials and facilities. Such contributions shall be made on such terms or conditions as the Director shall prescribe, including the method of purchase, the quantity, quality, or specifications of the materials or facilities, and such other factors or care or treatment to assure the uniformity, availability, and good condition of such materials or facilities.
 
 (2) The Director may make financial contributions, on the basis of programs or projects approved by the Director, to the States and local authorities for animal emergency preparedness purposes, including the procurement, construction, leasing, or renovating of emergency shelter facilities and materials that will accommodate people with pets and service animals.
 
@@ -140,7 +140,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 #### National Capital Region Mutual Aid
 
-Pub. L. 108–458, title VII, §7302, Dec. 17, 2004, 118 Stat. 3840, provided that:
+Pub. L. 108–458, title VII, §7302, Dec. 17, 2004, 118 Stat. 3840, as amended by Pub. L. 110–250, §1, June 26, 2008, 122 Stat. 2318, provided that:
 
 “(a)
 
@@ -160,11 +160,11 @@ Emergency.—The term ‘emergency’ means a major disaster or emergency declar
 
 &emsp;“(4)
 
-Employee.—The term ‘employee’ means the employees of the party, including its agents or authorized volunteers, who are committed in a mutual aid agreement to prepare for or who respond to an emergency or public service event.
+Employee.—The term ‘employee’ means the employees of the party who are committed in a mutual aid agreement to prepare for or who respond to an emergency or public service event.
 
 &emsp;“(5)
 
-Locality.—The term ‘locality’ means a county, city, or town within the State of Maryland or the Commonwealth of Virginia and within the National Capital Region.
+Locality.—The term ‘locality’ means a county, city, town, or other governmental agency, governmental authority, or governmental institution with the power to sue or be sued in its own name, within the National Capital Region.
 
 &emsp;“(6)
 
@@ -200,7 +200,7 @@ Mutual Aid Authorized.—
 
 &emsp;“(1)
 
-In general.—The mayor of the District of Columbia, any authorized representative of the Federal Government, the Governor of the State of Maryland, the Governor of the Commonwealth of Virginia, or the chief operating officer of a locality, or their designees, acting within his or her jurisdictional purview, may, in accordance with State law, enter into, request or provide assistance under mutual aid agreements with localities, the Washington Metropolitan Area Transit Authority, the Metropolitan Washington Airports Authority, and any other governmental agency or authority for—
+In general.—The mayor of the District of Columbia, any authorized representative of the Federal Government, the Governor of the State of Maryland, the Governor of the Commonwealth of Virginia, or the chief operating officer of a locality, or their designees, acting within his or her jurisdictional purview, may, in accordance with State law, enter into, request or provide assistance under mutual aid agreements with localities for—
 
 &emsp;&emsp;“(A) law enforcement, fire, rescue, emergency health and medical services, transportation, communications, public works and engineering, mass care, and resource support in an emergency or public service event;
 
@@ -248,11 +248,11 @@ Liability and Actions at Law.—
 
 &emsp;“(1)
 
-In general.—Any responding party or its officers or employees rendering aid or failing to render aid to the District of Columbia, the Federal Government, the State of Maryland, the Commonwealth of Virginia, or a locality, under a mutual aid agreement authorized under this section, and any party or its officers or employees engaged in training activities with another party under such a mutual aid agreement, shall be liable on account of any act or omission of its officers or employees while so engaged or on account of the maintenance or use of any related equipment, facilities, or supplies, but only to the extent permitted under the laws and procedures of the State of the party rendering aid.
+In general.—Any responding party or its officers, employees, or agents rendering aid or failing to render aid to the District of Columbia, the Federal Government, the State of Maryland, the Commonwealth of Virginia, or a locality, under a mutual aid agreement authorized under this section, and any party or its officers, employees, or agents engaged in training activities with another party under such a mutual aid agreement, shall be liable on account of any act or omission of its officers, employees, or agents while so engaged or on account of the maintenance or use of any related equipment, facilities, or supplies, but only to the extent permitted under the laws and procedures of the State of the party rendering aid.
 
 &emsp;“(2)
 
-Actions.—Any action brought against a party or its officers or employees on account of an act or omission in the rendering of aid to the District of Columbia, the Federal Government, the State of Maryland, the Commonwealth of Virginia, or a locality, or failure to render such aid or on account of the maintenance or use of any related equipment, facilities, or supplies may be brought only under the laws and procedures of the State of the party rendering aid and only in the Federal or State courts located therein. Actions against the United States under this section may be brought only in Federal courts.
+Actions.—Any action brought against a party or its officers, employees, or agents on account of an act or omission in the rendering of aid to the District of Columbia, the Federal Government, the State of Maryland, the Commonwealth of Virginia, or a locality, or failure to render such aid or on account of the maintenance or use of any related equipment, facilities, or supplies may be brought only under the laws and procedures of the State of the party rendering aid and only in the Federal or State courts located therein. Actions against the United States under this section may be brought only in Federal courts.
 
 &emsp;“(3)
 

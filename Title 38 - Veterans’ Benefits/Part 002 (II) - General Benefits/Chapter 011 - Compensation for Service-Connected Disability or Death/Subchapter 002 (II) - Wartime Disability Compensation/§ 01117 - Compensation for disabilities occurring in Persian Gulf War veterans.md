@@ -36,7 +36,7 @@
 
 (e) A disability for which compensation under this subchapter is payable shall be considered to be service connected for purposes of all other laws of the United States.
 
-(f) For purposes of this section, the term “Persian Gulf veteran” means a veteran who servedon active duty in the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf War.
+(f) For purposes of this section, the term “Persian Gulf veteran” means a veteran who served on active duty in the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf War.
 
 (g) For purposes of this section, signs or symptoms that may be a manifestation of an undiagnosed illness or a chronic multisymptom illness include the following:
 
@@ -124,7 +124,7 @@ Assessment by National Academy of Sciences.—Not later than April 1, 1999, the 
 
 “(b)
 
-Action on Report.—(1) After receiving the final report of the National Academy of Sciences under subsection (a), the Secretary shall, if a reasonable and scientifically feasible methodology is identified by the Academy, develop an appropriate mechanism to monitor and study the effectiveness of treatments furnished to, and health outcomes of, Persian Gulf War veterans who suffer from diagnosed and undiagnosed illnesseswhich may be associated with their service in the Persian Gulf War.
+Action on Report.—(1) After receiving the final report of the National Academy of Sciences under subsection (a), the Secretary shall, if a reasonable and scientifically feasible methodology is identified by the Academy, develop an appropriate mechanism to monitor and study the effectiveness of treatments furnished to, and health outcomes of, Persian Gulf War veterans who suffer from diagnosed and undiagnosed illnesses which may be associated with their service in the Persian Gulf War.
 
 “(2) The Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the implementation of paragraph (1).
 
@@ -262,7 +262,7 @@ Review of Potential Treatment Models for Certain Illnesses.—Under the agreemen
 
 “(g)
 
-Recommendations for Additional Scientific Studies.—(1) Under the agreement under subsection (b), the National Academy of Sciences shall make anyrecommendations that it considers appropriate for additional scientific studies (including studies relating to treatment models) to resolve areas of continuing scientific uncertainty relating to the health consequences of exposure to toxic agents, environmental or wartime hazards, or preventive medicines or vaccines associated with Gulf War service.
+Recommendations for Additional Scientific Studies.—(1) Under the agreement under subsection (b), the National Academy of Sciences shall make any recommendations that it considers appropriate for additional scientific studies (including studies relating to treatment models) to resolve areas of continuing scientific uncertainty relating to the health consequences of exposure to toxic agents, environmental or wartime hazards, or preventive medicines or vaccines associated with Gulf War service.
 
 “(2) In making recommendations for additional studies, the Academy shall consider the available scientific data, the value and relevance of the information that could result from such studies, and the cost and feasibility of carrying out such studies.
 
@@ -290,7 +290,7 @@ Reports.—(1) Under the agreement under subsection (b), the National Academy of
 
 “(3) Reports shall be submitted under this subsection at least once every two years, as measured from the date of the report under paragraph (2).
 
-“(4) In any report under this subsection (other than the report under paragraph (2)), the Academy may specify an absence of meaningful developments in the scientific or medical community with respect to the activities of the Academy under this section during the 2-year period ending on the date of such report.
+“(4) In any report under this subsection (other than the report under paragraph (2)), the Academy mayspecify an absence of meaningful developments in the scientific or medical community with respect to the activities of the Academy under this section during the 2-year period ending on the date of such report.
 
 “(5) Reports under this subsection shall be submitted to the following:
 
@@ -342,7 +342,7 @@ Sections 102 to 105, 107, 109, and 110 of title I of Pub. L. 103–446, as amend
 
 &emsp;“(2) Significant numbers of veterans of the Persian Gulf War are suffering from illnesses, or are exhibiting symptoms of illness, that cannot now be diagnosed or clearly defined. As a result, many of these conditions or illnesses are not considered to be service connected under current law for purposes of benefits administered by the Department of Veterans Affairs.
 
-&emsp;“(3) The National Institutes of Health Technology Assessment Workshop on the Persian Gulf Experience and Health, held in April 1994, concluded that the complex biological, chemical, physical, and psychological environment of the Southwest Asia theater of operations produced complex adverse health effects in Persian Gulf War veterans and that no single disease entity or syndrome is apparent. Rather, it may be that the illnesses suffered by those veterans resultfrom multiple illnesses with overlapping symptoms and causes that have yet to be defined.
+&emsp;“(3) The National Institutes of Health Technology Assessment Workshop on the Persian Gulf Experience and Health, held in April 1994, concluded that the complex biological, chemical, physical, and psychological environment of the Southwest Asia theater of operations produced complex adverse health effects in Persian Gulf War veterans and that no single disease entity or syndrome is apparent. Rather, it may be that the illnesses suffered by those veterans result from multiple illnesses with overlapping symptoms and causes that have yet to be defined.
 
 &emsp;“(4) That workshop concluded that the information concerning the range and intensity of exposure to toxic substances by military personnel in the Southwest Asia theater of operations is very limited and that such information was collected only after a considerable delay.
 
@@ -488,7 +488,7 @@ Study of Health Consequences of Persian Gulf Service.—If the National Academy 
 
 Oversight.—(1) The Secretary shall seek to enter into an agreement with the Medical Follow-Up Agency (MFUA) of the Institute of Medicine of the National Academy of Sciences for (A) the review of proposals to conduct the research referred to in subsection (a), (B) oversight of such research, and (C) review of the research findings.
 
-“(2) If the Secretary is unable to enter into an agreement under paragraph (1) with the entity specified in that paragraph, the Secretary shall enter into anagreement described in that paragraph with another appropriate scientific organization which does not have a connection to the Department of Veterans Affairs. In such a case, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives, at least 90 days before the date on which the agreement is entered into, notice in writing identifying the organization with which the Secretary intends to enter into the agreement.
+“(2) If the Secretary is unable to enter into an agreement under paragraph (1) with the entity specified in that paragraph, the Secretary shall enter into an agreement described in that paragraph with another appropriate scientific organization which does not have a connection to the Department of Veterans Affairs. In such a case, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives, at least 90 days before the date on which the agreement is entered into, notice in writing identifying the organization with which the Secretary intends to enter into the agreement.
 
 “(c)
 

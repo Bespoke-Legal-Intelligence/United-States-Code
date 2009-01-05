@@ -1,8 +1,8 @@
 ### §4354. Reports
 
-The Board of Trustees of Gallaudet University and the Board of Trustees or other governing body of the institution of higher education with which the Secretary has an agreement under section 4332 of this title shall prepare and submit an annual report to the Secretary, and to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate, not later than 100 days after the end of each fiscal year, which shall include the following:
+The Board of Trustees of Gallaudet University and the Board of Trustees or other governing body of the institution of higher education with which the Secretary has an agreement under section 4332 of this title shall prepare and submit an annual report to the Secretary, and to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate, not later than 100 days after the end of each fiscal year, which shall include the following:
 
-&emsp;(1) The number of students during the preceding academic year who enrolled and whether these were first-time enrollments, who graduated, who found employment, or who left without completing a program of study, reported under each of the programs of the University (elementary, secondary, preparatory, undergraduate, and graduate) and of NTID.
+&emsp;(1) The number of students during the preceding academic year who enrolled and whether these were first-time enrollments, who graduated, who found employment, or who left without completing a program of study, reported under each of the programs of the University (elementary, secondary, undergraduate, and graduate) and of NTID.
 
 &emsp;(2) For the preceding academic year, and to the extent possible, the following data on individuals who are deaf and from minority backgrounds and who are students (at all educational levels) or employees:
 
@@ -10,7 +10,7 @@ The Board of Trustees of Gallaudet University and the Board of Trustees or other
 
 &emsp;&emsp;(B) The number of these students who completed or graduated from each of the educational programs.
 
-&emsp;&emsp;(C) The disposition of these students upon graduation/completion of programs at NTID and at the University and its elementary and secondary schools in comparison to students from non-minority backgrounds.
+&emsp;&emsp;(C) The disposition of these students on the date that is one year after the date of graduation or completion of programs at NTID and at the University and its elementary and secondary schools in comparison to students from non-minority backgrounds.
 
 &emsp;&emsp;(D) The number of students needing and receiving support services (such as tutoring and counseling) at all educational levels.
 
@@ -20,7 +20,7 @@ The Board of Trustees of Gallaudet University and the Board of Trustees or other
 
 &emsp;&emsp;(G) Strategies (such as parent groups and training classes in the development of individualized education programs) used by the elementary and secondary programs and the extension centers to reach and actively involve minority parents in the educational programs of their children who are deaf or hard of hearing and the number of parents who have been served as a result of these activities.
 
-&emsp;(3)(A) A summary of the annual audited financial statements and auditor's report of the University, as required under section 4353 of this title, and (B) a summary of the annual audited financial statements and auditor's report of the institution of higher education with which the Secretary has an agreement under section 4332 of this title, including specific schedules and analyses for all NTID funds, as required under section 4353 of this title, and such supplementary schedules presenting financial information for NTID for the end of the Federal fiscal year as determined by the Secretary.
+&emsp;(3)(A) A summary of the annual audited financial statements and auditor's report of the University, as required under section 4353 of this title, and (B) a summary of the annual audited financial statements and auditor's report of NTID programs and activities, and such supplementary schedules presenting financial information for NTID for the end of the Federal fiscal year as determined by the Secretary.
 
 &emsp;(4) For the preceding fiscal year, a statement showing the receipts of the University and NTID and from what Federal sources, and a statement showing the expenditures of each institution by function, activity, and administrative and academic unit.
 
@@ -30,13 +30,21 @@ The Board of Trustees of Gallaudet University and the Board of Trustees or other
 
 &emsp;(7) Such additional information as the Secretary may consider necessary.
 
-(Pub. L. 99–371, title II, §204, formerly title IV, §404, Aug. 4, 1986, 100 Stat. 790; renumbered title II, §204, and amended Pub. L. 102–421, title I, §§101(b)(5), (6), 134, Oct. 16, 1992, 106 Stat. 2151, 2157; Pub. L. 103–73, title II, §204(c), Aug. 11, 1993, 107 Stat. 735; Pub. L. 105–244, title IX, §917, Oct. 7, 1998, 112 Stat. 1831.)
+(Pub. L. 99–371, title II, §204, formerly title IV, §404, Aug. 4, 1986, 100 Stat. 790; renumbered title II, §204, and amended Pub. L. 102–421, title I, §§101(b)(5), (6), 134, Oct. 16, 1992, 106 Stat. 2151, 2157; Pub. L. 103–73, title II, §204(c), Aug. 11, 1993, 107 Stat. 735; Pub. L. 105–244, title IX, §917, Oct. 7, 1998, 112 Stat. 1831; Pub. L. 110–315, title IX, §906, Aug. 14, 2008, 122 Stat. 3453.)
 
 #### Prior Provisions
 
 Provisions similar to this section were contained in section 691f of this title prior to repeal by Pub. L. 99–371.
 
 #### Amendments
+
+2008—Pub. L. 110–315, §906(1), substituted “Committee on Health, Education, Labor, and Pensions of the Senate” for “Committee on Labor and Human Resources of the Senate” in introductory provisions.
+
+Par. (1). Pub. L. 110–315, §906(2), struck out “preparatory,” after “secondary,”.
+
+Par. (2)(C). Pub. L. 110–315, §906(3), substituted “on the date that is one year after the date of graduation or completion” for “upon graduation/completion”.
+
+Par. (3)(B). Pub. L. 110–315, §906(4), substituted “of NTID programs and activities” for “of the institution of higher education with which the Secretary has an agreement under section 4332 of this title, including specific schedules and analyses for all NTID funds, as required under section 4353 of this title”.
 
 1998—Par. (3). Pub. L. 105–244 substituted “A summary of the annual” for “The annual” in subpar. (A) and substituted “a summary of the annual” for “the annual” in subpar. (B).
 
@@ -49,10 +57,6 @@ Par. (3). Pub. L. 103–73, §204(c)(3), amended par. (3) generally. Prior to am
 Par. (6). Pub. L. 103–73, §204(c)(4), substituted “Program funds are” for “Program is”.
 
 1992—Pub. L. 102–421, §134, amended section generally, substituting present provisions for provisions requiring annual reports from Board of Trustees of Gallaudet University and National Technical Institute for the Deaf and providing for an annual monitoring and evaluation report.
-
-#### Change of Name
-
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Effective Date of 1998 Amendment
 

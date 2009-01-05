@@ -8,7 +8,7 @@
 
 &emsp;(3) who (other than a publisher described by section 3007(b) of this title) has actual knowledge of any such order, is in privity with any person described by paragraph (1) or (2) of this subsection, and engages in conduct to assist any such person to evade, attempt to evade, or fail to comply with any such order, as the case may be, through the use of the mail;
 
-> shall be liable to the United States for a civil penalty in an amount not to exceed $50,000 for each mailing of less than 50,000 pieces; $100,000 for each mailing of 50,000 to 100,000 pieces; withan additional $10,000 for each additional 10,000 pieces above 100,000, not to exceed $2,000,000. A separate penalty may be assessed under this subsection with respect to the conduct described in each such paragraph.
+> shall be liable to the United States for a civil penalty in an amount not to exceed $50,000 for each mailing of less than 50,000 pieces; $100,000 for each mailing of 50,000 to 100,000 pieces; with an additional $10,000 for each additional 10,000 pieces above 100,000, not to exceed $2,000,000. A separate penalty may be assessed under this subsection with respect to the conduct described in each such paragraph.
 
 (b)(1) Whenever, on the basis of any information available to it, the Postal Service finds that any person has engaged, or is engaging, in conduct described by paragraph (1), (2), or (3) of subsection (a), (c), or (d), the Postal Service may, under the provisions of section 409(d) of this title, commence a civil action to enforce the civil penalties established by such subsection. Any such action shall be brought in the district court of the United States for the district in which the defendant resides or receives mail.
 

@@ -64,11 +64,11 @@ Refund for Period of Unserved Obligated Service.—(1)(A) A participant in the p
 
 (3) The Secretary of Defense may waive, in whole or in part, a refund required under paragraph (1) if the Secretary determines that recovery would be against equity and good conscience or would be contrary to the best interests of the United States.
 
-(4) A discharge in bankruptcy under title 11, United States Code, that is entered less than five years after the termination of an agreement under this section does not discharge the person signing such agreement from a debt arising under such agreement or under this subsection.
+(4) A discharge in bankruptcy under title 11 that is entered less than five years after the termination of an agreement under this section does not discharge the person signing such agreement from a debt arising under such agreement or under this subsection.
 
 (f)
 
-Relationship to Other Programs.—The program under this section is in addition to the authorities provided in chapter 111 of title 10, United States Code. The Secretary of Defense shall coordinate the provision of financial assistance under the authority of this section with the provision of financial assistance under the authorities provided in such chapter in order to maximize the benefits derived by the Department of Defense from the exercise of all such authorities.
+Relationship to Other Programs.—The program under this section is in addition to the authorities provided in chapter 111 of this title. The Secretary of Defense shall coordinate the provision of financial assistance under the authority of this section with the provision of financial assistance under the authorities provided in such chapter in order to maximize the benefits derived by the Department of Defense from the exercise of all such authorities.
 
 (g)
 
@@ -78,11 +78,17 @@ Recommendation on Program.—Not later than February 1, 2007, the Secretary of D
 
 Institution of Higher Education Defined.—In this section, the term “institution of higher education” has the meaning given such term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
 
-(Added Pub. L. 109–163, div. A, title XI, §1104(d)(1), Jan. 6, 2006, 119 Stat. 3449.)
+(Added Pub. L. 109–163, div. A, title XI, §1104(d)(1), Jan. 6, 2006, 119 Stat. 3449; amended Pub. L. 110–417, \[div. A\], title X, §1061(a)(5), Oct. 14, 2008, 122 Stat. 4612.)
 
 #### Codification
 
 Section, as added by Pub. L. 109–163, consists of text of Pub. L. 108–375, div. A, title XI, §1105, Oct. 28, 2004, 118 Stat. 2074; Pub. L. 109–163, div. A, title X, §1056(d), title XI, §1104(a)–(c), Jan. 6, 2006, 119 Stat. 3440, 3448, 3449, which was formerly set out as a note under section 2192 of this title, and was repealed by Pub. L. 109–163, div. A, title XI, §1104(e)(1), Jan. 6, 2006, 119 Stat. 3450.
+
+#### Amendments
+
+2008—Subsec. (e)(4). Pub. L. 110–417, §1061(a)(5)(A), substituted “title 11” for “title 11, United States Code,”.
+
+Subsec. (f). Pub. L. 110–417, §1061(a)(5)(B), substituted “this title” for “title 10, United States Code”.
 
 #### Change of Name
 

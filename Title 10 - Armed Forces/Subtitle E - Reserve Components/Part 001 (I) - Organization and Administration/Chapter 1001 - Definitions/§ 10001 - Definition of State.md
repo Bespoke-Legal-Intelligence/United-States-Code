@@ -28,7 +28,7 @@ Effective Date for New Reserve Officer Personnel Policies.—(1) The provisions 
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–201, div. A, title XII, §1201, Sept. 23, 1996, 110 Stat. 2689, provided that: “This title \[enacting chapter 1006 and sections 5143, 5144, and 10543 of this title, amending sections 113, 641, 3038, 8038, and 10216 of this title and section 404 of Title 37, Pay and Allowances of the Uniformed Services, enacting provisions set out as notes under this section and sections 10171 and 10543 of this title, and repealing provisions set out as a note under section 3074 of this title\] may be cited as the ‘Reserve Forces Revitalization Act of 1996’.”
+Pub. L. 104–201, div. A, title XII, §1201, Sept. 23, 1996, 110 Stat. 2689, provided that: “This title \[enacting chapter 1006 and sections 5143, 5144, and 10543 of this title, amending sections 113, 641, 3038, 8038, and 10216 of this title and section 404 of Title 37, Pay and Allowances of the Uniformed Services, enacting provisions set out as notes under this section and sections 10171 and 10543 ofthis title, and repealing provisions set out as a note under section 3074 of this title\] may be cited as the ‘Reserve Forces Revitalization Act of 1996’.”
 
 #### Short Title
 

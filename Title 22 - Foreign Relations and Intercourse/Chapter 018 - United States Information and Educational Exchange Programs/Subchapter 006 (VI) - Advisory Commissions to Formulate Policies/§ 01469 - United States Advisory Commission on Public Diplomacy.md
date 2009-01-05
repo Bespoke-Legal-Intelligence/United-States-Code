@@ -18,7 +18,7 @@ The Commission shall have a staff director who shall be appointed by the chairpe
 
 &emsp;(1) appoint such additional personnel for the staff of the Commission as the chairperson considers necessary; and
 
-&emsp;(2) procure temporary and intermittent services to the same extent as is authorized by section 3109(b) of title 5, but at rates for individuals not to exceed the daily equivalent of the annual rate of basic pay payable for grade GS–18 of the General Schedule under section 5332 of title 5.
+&emsp;(2) procure temporary and intermittent services to the same extent as is authorized bysection 3109(b) of title 5, but at rates for individuals not to exceed the daily equivalent of the annual rate of basic pay payable for grade GS–18 of the General Schedule under section 5332 of title 5.
 
 #### (c) Duties and responsibilities
 
@@ -80,7 +80,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(d)\], Nov. 29,
 
 #### Reduction in Staff and Budget
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(e)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–447, provided that: “Notwithstanding section 604(b) of the United States Information and Educational Exchange Act of 1948 \[22 U.S.C. 1469(b)\], effective on the date of the enactment of this Act \[Nov. 29, 1999\], the United States Advisory Commission on Public Diplomacy shall have not more than 2 individuals who are compensated staff, and not more than 50 percent of the resources allocated in fiscal year 1999.”
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(e)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–447, provided that: “Notwithstanding section 604(b) of the United States Information and Educational Exchange Act of 1948 \[22 U.S.C. 1469(b)\], effective on the date of the enactment of this Act \[Nov. 29, 1999\], the United States Advisory Commission on Public Diplomacy shall havenot more than 2 individuals who are compensated staff, and not more than 50 percent of the resources allocated in fiscal year 1999.”
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

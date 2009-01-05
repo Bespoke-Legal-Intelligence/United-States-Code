@@ -4,7 +4,7 @@ Section 160, acts May 27, 1921, ch. 14, §201, 42 Stat. 11; Sept. 1, 1954, ch. 1
 
 Section 161, acts May 27, 1921, ch. 14, §202, 42 Stat. 11; Sept. 1, 1954, ch. 1213, title III, §302, 68 Stat. 1139; Aug. 14, 1958, Pub. L. 85–630, §§2, 4(b), 72 Stat. 583, 585; June 2, 1970, Pub. L. 91–271, title III, §311, 84 Stat. 292, related to collection of a special dumping duty. See section 1673 et seq. of this title.
 
-Section 162, acts May 27, 1921, ch. 14, §203, 42 Stat. 12; Jan. 3, 1975, Pub. L. 93–618, title III, §321(b), 88 Stat. 2045, related to determination of purchase price of merchandise for purposes of sections 160 to 171 of this title. See section 1673 et seq. of this title.
+Section 162, acts May 27, 1921, ch. 14, §203, 42 Stat. 12; Jan. 3, 1975, Pub. L. 93–618, title III, §321(b), 88 Stat.2045, related to determination of purchase price of merchandise for purposes of sections 160 to 171 of this title. See section 1673 et seq. of this title.
 
 Section 163, acts May 27, 1921, ch. 14, §204, 42 Stat. 13; Jan. 3, 1975, Pub. L. 93–618, title III, §321(c), 88 Stat. 2046, related to determination of price at which merchandise is sold or agreed to be sold in United States. See section 1677a of this title.
 
@@ -32,7 +32,7 @@ Repeal effective Jan. 1, 1980, see section 107 of Pub. L. 96–39, set out as an
 
 #### Savings Provision
 
-Pub. L. 96–39, title I, §106(a), July 26, 1979, 93 Stat. 193, provided in part that findings in effect on the effective date of the repeal of sections 160 to 171 of this title (Jan. 1, 1980, see Effective Date of Repeal note set outabove) or issued pursuant to court order in an action brought before that date, shall remain in effect, subject to review under section 1675 of this title.
+Pub. L. 96–39, title I, §106(a), July 26, 1979, 93 Stat. 193, provided in part that findings in effect on the effective date of the repeal of sections 160 to 171 of this title (Jan. 1, 1980, see Effective Date of Repeal note set out above) or issued pursuant to court order in an action brought before that date, shall remain in effect, subject to review under section 1675 of this title.
 
 #### Administration of the Antidumping Act, 1921, by United States Tariff Commission; Report to Congress
 

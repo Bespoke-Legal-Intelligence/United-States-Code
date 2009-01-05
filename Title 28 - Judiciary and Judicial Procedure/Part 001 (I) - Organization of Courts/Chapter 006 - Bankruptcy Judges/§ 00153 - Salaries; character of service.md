@@ -30,7 +30,7 @@ Section 1003(b) of Pub. L. 100–702 provided that:
 
 #### Continuation of Salaries of Bankruptcy Judges in Effect on June 27, 1984
 
-Section 105(a) of Pub. L. 98–353 provided that: “The salary of a bankruptcy judge in effect on June 27, 1984, shall remain in effect until changed as a result of a determination or adjustment made pursuant to section 153(a) of title 28, United States Code, as added by this Act.”
+Section 105(a) of Pub. L. 98–353 provided that: “The salary of a bankruptcy judge in effect on June 27, 1984, shall remain in effect until changed as a result of a determination or adjustment made pursuant to section153(a) of title 28, United States Code, as added by this Act.”
 
 #### Part-Time Bankruptcy Judges
 
@@ -46,7 +46,7 @@ Salaries of bankruptcy judges increased to $70,500 effective on first day of fir
 
 1985—Salaries of bankruptcy judges increased to $68,400 effective on first day of first pay period beginning on or after Jan. 1, 1985, by Ex. Ord. No. 12496, Dec. 28, 1984, 50 F.R. 211, as amended by Ex. Ord. No. 12540, Dec. 30, 1985, 51 F.R. 577, formerly set out as a note under section 5332 of Title 5.
 
-1984—Salaries of bankruptcy judges (full-time) and bankruptcy judges (part-time) (maximum rate) increased to $66,100 and $33,100, respectively, effective on first day of first pay period beginning on or after Jan.1, 1984, by Ex. Ord. No. 12456, Dec. 30, 1983, 49 F.R. 347, as amended Ex. Ord. No. 12477, May 23, 1984, 49 F.R. 22041; Ex. Ord. No. 12487, Sept. 14, 1984, 49 F.R. 36493, formerly set out as a note under section 5332 of Title 5.
+1984—Salaries of bankruptcy judges (full-time) and bankruptcy judges (part-time) (maximum rate) increased to $66,100 and $33,100, respectively, effective on first day of first pay period beginning on or after Jan. 1, 1984, by Ex. Ord. No. 12456, Dec. 30, 1983, 49 F.R. 347, as amended Ex. Ord. No. 12477, May 23, 1984, 49 F.R. 22041; Ex. Ord. No. 12487, Sept. 14, 1984, 49 F.R. 36493, formerly set out as a note under section 5332 of Title 5.
 
 1982—Salaries of bankruptcy judges and referees in bankruptcy (full-time), or referees in bankruptcy (part-time) (maximum rate) increased to $63,600 and $31,800, respectively, effective on first day of first pay period beginning on or after Oct. 1, 1982, by Ex. Ord. No. 12387, Oct. 8, 1982, 47 F.R. 44981, formerly set out as a note under section 5332 of Title 5. Ex. Ord. No. 12387 further provided that pursuant to section 101(e) of Pub. L. 97–276 funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1982, which was $58,500 for bankruptcy judges and referees in bankruptcy (full-time), and $30,600 for referees in bankruptcy (part-time) (maximum rate).
 

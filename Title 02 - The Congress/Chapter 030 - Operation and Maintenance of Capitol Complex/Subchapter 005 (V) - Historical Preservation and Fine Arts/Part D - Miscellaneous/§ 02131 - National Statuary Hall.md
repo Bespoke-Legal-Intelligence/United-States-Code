@@ -14,5 +14,5 @@ Section 2 of act July 2, 1864, gave the supervision and direction of the Nationa
 
 #### Change of Name
 
-Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see Prior Provisions and Change of Name notes set out under section 1801 of this title.
+Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see PriorProvisions and Change of Name notes set out under section 1801 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) Consistent with the regulations issued pursuant to section 1413 of this title, the Secretary shall issue a permit to a vessel of the United States authorizing participation in the International Dolphin Conservation Program and may require a permit for the person actually in charge of and controlling the fishing operation of the vessel. The Secretary shall prescribe suchprocedures as are necessary to carry out this subsection, including requiring the submission of—
+(1) Consistent with the regulations issued pursuant to section 1413 of this title, the Secretary shall issue a permit to a vessel of the United States authorizing participation in the International Dolphin Conservation Program and may require a permit for the person actually in charge of and controlling the fishing operation of the vessel. The Secretary shall prescribe such procedures as are necessary to carry out this subsection, including requiring the submission of—
 
 &emsp;(A) the name and official number or other identification of each fishing vessel for which a permit is sought, together with the name and address of the owner thereof; and
 
@@ -38,7 +38,7 @@
 
 &emsp;(B) with respect to the violator, the degree of culpability, any history of prior offenses, and other such matters as justice requires.
 
-(3) Transfer of ownership of a vessel, by sale or otherwise, shall not extinguish any permit sanction that is in effect or is pending at the time of transfer of ownership. Before executing the transfer of ownership of a vessel, by sale or otherwise, the owner shall disclose in writing to the prospective transferee the existence of any permit sanction that will be in effect or pending with respect to the vessel at the time of transfer.
+(3) Transfer of ownership of a vessel, by sale or otherwise, shall not extinguish any permit sanction that is in effect or is pending at the time of transfer of ownership. Before executing the transfer of ownership of a vessel, by sale or otherwise, the owner shall disclose in writing tothe prospective transferee the existence of any permit sanction that will be in effect or pending with respect to the vessel at the time of transfer.
 
 (4) In the case of any permit that is suspended for the failure to pay a civil penalty or criminal fine, the Secretary shall reinstate the permit upon payment of the penalty or fine and interest thereon at the prevailing rate.
 

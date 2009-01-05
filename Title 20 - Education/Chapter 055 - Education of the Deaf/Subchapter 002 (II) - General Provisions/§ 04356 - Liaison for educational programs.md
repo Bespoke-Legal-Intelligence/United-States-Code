@@ -2,7 +2,7 @@
 
 #### (a) Designation of liaison
 
-Not later than 30 days after August 4, 1986, the Secretary shall designate an individual in the Office of Special Education and Rehabilitative Services of the Department of Education from among individuals who have experience in the education of individuals who are deaf to serve as liaison between the Department and Gallaudet University, the National Technical Institute for the Deaf, and other postsecondary educational programs for individuals who are deaf under the Individuals with Disabilities Education Act \[20 U.S.C. 1400 et seq.\], the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\], and other Federal or non-Federal agencies, institutions, or organizations involved with the education or rehabilitation of individuals who are deaf or hard of hearing.
+The Secretary shall designate an individual in the Office of Special Education and Rehabilitative Services of the Department of Education from among individuals who have experience in the education of individuals who are deaf to serve as liaison between the Department and Gallaudet University, the National Technical Institute for the Deaf, and other postsecondary educational programs for individuals who are deaf under the Individuals with Disabilities Education Act \[20 U.S.C. 1400 et seq.\], the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\], and other Federal or non-Federal agencies, institutions, or organizations involved with the education or rehabilitation of individuals who are deaf or hard of hearing.
 
 #### (b) Duties of liaison
 
@@ -18,7 +18,7 @@ The individual serving as liaison for educational programs for individuals who a
 
 Nothing in this section may be construed to affect the authority of the Secretary under this chapter or any other Act with respect to Gallaudet University or the National Technical Institute for the Deaf.
 
-(Pub. L. 99–371, title II, §206, formerly title IV, §406, Aug. 4, 1986, 100 Stat. 790; Pub. L. 101–476, title IX, §901(a)(2), Oct. 30, 1990, 104 Stat. 1142; renumbered title II, §206, and amended Pub. L. 102–421, title I, §§101(b)(5), (6), 136, 151(a)(4), (5), Oct. 16, 1992, 106 Stat. 2151, 2159, 2164; Pub. L. 103–73, title II, §204(e), Aug. 11, 1993, 107 Stat. 735.)
+(Pub. L. 99–371, title II, §206, formerly title IV, §406, Aug. 4, 1986, 100 Stat. 790; Pub. L. 101–476, title IX, §901(a)(2), Oct. 30, 1990, 104 Stat. 1142; renumbered title II, §206, and amended Pub. L. 102–421, title I, §§101(b)(5), (6), 136, 151(a)(4), (5), Oct. 16, 1992, 106 Stat. 2151, 2159, 2164; Pub. L. 103–73, title II, §204(e), Aug. 11, 1993, 107 Stat. 735; Pub. L. 110–315, title IX, §908, Aug. 14, 2008, 122 Stat. 3453.)
 
 #### References in Text
 
@@ -27,6 +27,8 @@ The Individuals with Disabilities Education Act, referred to in subsec. (a), is 
 The Rehabilitation Act of 1973, referred to in subsec. (a), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–315 substituted “The” for “Not later than 30 days after August 4, 1986, the”.
 
 1993—Subsec. (b). Pub. L. 103–73, which directed amendment of subsec. (b) by inserting “or hard of hearing” after “individuals who are deaf”, was executed by making the insertion in introductory provisions but not in par. (2) to reflect the probable intent of Congress.
 

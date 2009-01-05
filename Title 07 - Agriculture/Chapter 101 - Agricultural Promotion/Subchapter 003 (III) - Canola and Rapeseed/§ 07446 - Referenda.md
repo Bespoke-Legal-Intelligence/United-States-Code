@@ -74,11 +74,25 @@
 
 #### (2) Date
 
-&emsp;Each referendum shall be conducted for a reasonable period of time not to exceed 3 days, established by the Secretary, under a procedure under which producers intending to vote in the referendum shall certify that the producers were engaged in the production ofcanola, rapeseed, or canola or rapeseed products during the representative period and, at the same time, shall be provided an opportunity to vote in the referendum.
+&emsp;Each referendum shall be conducted for a reasonable period of time not to exceed 3 days, established by the Secretary, under a procedure under which producers intending to vote in the referendum shall certify that the producers were engaged in the production of canola, rapeseed, or canola or rapeseed products during the representative period and, at the same time, shall be provided an opportunity to vote in the referendum.
 
 #### (3) Place
 
 &emsp;Referenda under this section shall be conducted at locations determined by the Secretary. On request, absentee mail ballots shall be furnished by the Secretary in a manner prescribed by the Secretary.
 
-(Pub. L. 104–127, title V, §537, Apr. 4, 1996, 110 Stat. 1058.)
+(Pub. L. 104–127, title V, §537, Apr. 4, 1996, 110 Stat. 1058; Pub. L. 110–234, title VII, §7511(c)(28), May 22, 2008, 122 Stat. 1270; Pub. L. 110–246, §4(a), title VII, §7511(c)(28), June 18, 2008, 122 Stat. 1664, 2031.)
+
+#### Amendment of Subsections (a)(2) and (b)(3)(B)(i)
+
+<i>Pub. L. 110–246, title VII, §7511(c), June 18, 2008, 122 Stat. 2028, 2031, provided that, effective Oct. 1, 2009, subsections (a)(2) and (b)(3)(B)(i) of this section are amended by sub</i><i>stituting “cooperative extension” for “Cooperative State Research, Education, and Extension Service”.</i>
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+
+Amendment by section 7511(c)(28) of Pub. L. 110–246 effective Oct. 1, 2009, see section 7511(c) of Pub. L. 110–246, set out as a note under section 1522 of this title.
 

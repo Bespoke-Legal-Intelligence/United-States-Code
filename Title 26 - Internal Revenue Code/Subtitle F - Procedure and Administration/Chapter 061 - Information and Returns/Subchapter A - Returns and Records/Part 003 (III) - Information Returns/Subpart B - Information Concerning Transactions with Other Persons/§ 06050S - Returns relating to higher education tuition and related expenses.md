@@ -34,7 +34,7 @@ A return is described in this subsection if such return—
 
 &emsp;&emsp;&emsp;(iii) amount of any adjustments to the aggregate amounts reported by the institution pursuant to clause (i) or (ii) with respect to such individual for a prior calendar year,
 
-&emsp;&emsp;&emsp;(iv) aggregate amount of reimbursements or refunds (or similar amounts) paidto such individual during the calendar year by a person engaged in a trade or business described in subsection (a)(2), and
+&emsp;&emsp;&emsp;(iv) aggregate amount of reimbursements or refunds (or similar amounts) paid to such individual during the calendar year by a person engaged in a trade or business described in subsection (a)(2), and
 
 &emsp;&emsp;&emsp;(v) aggregate amount of interest received for the calendar year from such individual, and
 
@@ -86,7 +86,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 Subsec. (b)(1). Pub. L. 107–131, §1(b)(1), inserted “and” at end.
 
-Subsec. (b)(2)(A). Pub. L. 107–131, §1(b)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the name, address, and TIN of the individual with respect to whom payments or interest described in subsection (a) were received from (or were paid to),”.
+Subsec. (b)(2)(A). Pub. L. 107–131, §1(b)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: “the name, address, and TIN of the individual with respect to whom payments or interest described in subsection (a) were received from (or were paid to),”.
 
 Subsec. (b)(2)(B). Pub. L. 107–131, §1(b)(4), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the—
 

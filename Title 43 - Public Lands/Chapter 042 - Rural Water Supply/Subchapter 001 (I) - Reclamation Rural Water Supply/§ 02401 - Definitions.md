@@ -4,7 +4,7 @@ In this subchapter:
 
 #### (1) Construction
 
-&emsp;The term “construction” means the installation of infrastructure and the upgrading of existing facilities in locations in which the infrastructure or facilities are associated with the new infrastructure of a rural water project recommended by the Secretary pursuant to this subchapter.
+&emsp;The term “construction” means the installation of infrastructure and the upgrading of existing facilities in locations in which the infrastructure or facilities are associated withthe new infrastructure of a rural water project recommended by the Secretary pursuant to this subchapter.
 
 #### (2) Federal reclamation law
 
@@ -54,7 +54,7 @@ In this subchapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term “rural water supply project” means a project that is designed to serve a community or group of communities, each of which has a population of not more than 50,000 inhabitants, which may include Indian tribes and tribal organizations, dispersedhomesites, or rural areas with domestic, industrial, municipal, and residential water.
+&emsp;&emsp;The term “rural water supply project” means a project that is designed to serve a community or group of communities, each of which has a population of not more than 50,000 inhabitants, which may include Indian tribes and tribal organizations, dispersed homesites, or rural areas with domestic, industrial, municipal, and residential water.
 
 #### (B) Inclusion
 

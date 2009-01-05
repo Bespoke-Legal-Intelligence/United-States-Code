@@ -130,7 +130,7 @@ In each contract of the Administrator that provides for the Administrator to sel
 
 #### (1) Repayment
 
-&emsp;This section does not affect the obligation of the Administrator to repay the principal associated with each capital investment, and to pay interest on the principal, only from the “Administrator's net proceeds,” as defined in section 838k(b) of this title.
+&emsp;This section does not affect the obligation of the Administrator to repay the principal associated with each capital investment, and topay interest on the principal, only from the “Administrator's net proceeds,” as defined in section 838k(b) of this title.
 
 #### (2) Payment of capital investment
 

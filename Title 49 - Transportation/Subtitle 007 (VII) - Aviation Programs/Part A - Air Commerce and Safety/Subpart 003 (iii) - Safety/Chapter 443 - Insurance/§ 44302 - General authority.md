@@ -44,7 +44,7 @@ Extension of Policies.—
 
 &emsp;(1)
 
-In general.—The Secretary shall extend through August 31, 2008, and may extend through December 31, 2008, the termination date of any insurance policy that the Department of Transportation issued to an air carrier under subsection (a) and that is in effect on the date of enactment of this subsection on no less favorable terms to the air carrier than existed on June 19, 2002; except that the Secretary shall amend the insurance policy, subject to such terms and conditions as the Secretary may prescribe, to add coverage for losses or injuries to aircraft hulls, passengers, and crew at the limits carried by air carriers for such losses and injuries as of such date of enactment and at an additional premium comparable to the premium charged for third-party casualty coverage under such policy.
+In general.—The Secretary shall extend through March 31, 2009, and may extend through May 31, 2009, the termination date of any insurance policy that the Department of Transportation issued to an air carrier under subsection (a) and that is in effect on the date of enactment of this subsection on no less favorable terms to the air carrier than existed on June 19, 2002; except that the Secretary shall amend the insurance policy, subject to such terms and conditions as the Secretary may prescribe, to add coverage for losses or injuries to aircraft hulls, passengers, and crew at the limits carried by air carriers for such losses and injuries as of such date of enactment and at an additional premium comparable to the premium charged for third-party casualty coverage under such policy.
 
 &emsp;(2)
 
@@ -70,7 +70,7 @@ Amount.—Insurance provided by the Secretary under this subsection shall be for
 
 Terms and conditions.—Insurance provided by the Secretary under this subsection shall be subject to the terms and conditions set forth in this chapter and such other terms and conditions as the Secretary may prescribe.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1168; Pub. L. 105–137, §2(a), Dec. 2, 1997, 111 Stat. 2640; Pub. L. 107–42, title II, §201(a), Sept. 22, 2001, 115 Stat. 234; Pub. L. 107–296, title XII, §1202, Nov. 25, 2002, 116 Stat. 2286; Pub. L. 108–11, title IV, §4001(a), Apr. 16, 2003, 117 Stat. 606; Pub. L. 108–176, title I, §106(a)(1), Dec. 12, 2003, 117 Stat. 2498; Pub. L. 108–447, div. H, title I, §106(a), Dec. 8, 2004, 118 Stat. 3204; Pub. L. 109–115, div. A, title I, §108(a), Nov. 30, 2005, 119 Stat. 2402; Pub. L. 110–161, div. K, title I, §114(a), Dec. 26, 2007, 121 Stat. 2381.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1168; Pub. L. 105–137, §2(a), Dec. 2, 1997, 111 Stat. 2640; Pub. L. 107–42, title II, §201(a), Sept. 22, 2001, 115 Stat. 234; Pub. L. 107–296, title XII, §1202, Nov. 25, 2002, 116 Stat. 2286; Pub. L. 108–11, title IV, §4001(a), Apr. 16, 2003, 117 Stat. 606; Pub. L. 108–176, title I, §106(a)(1), Dec. 12, 2003, 117 Stat. 2498; Pub. L. 108–447, div. H, title I, §106(a), Dec. 8, 2004, 118 Stat. 3204; Pub. L. 109–115, div. A, title I, §108(a), Nov. 30, 2005, 119 Stat. 2402; Pub. L. 110–161, div. K, title I, §114(a), Dec. 26, 2007, 121 Stat. 2381; Pub. L. 110–253, §3(c)(6), June 30, 2008, 122 Stat. 2418; Pub. L. 110–330, §5(c), Sept. 30, 2008, 122 Stat. 3718.)
 
 Historical and Revision Notes
 
@@ -126,6 +126,10 @@ The date of enactment of this subsection, referred to in subsec. (f)(1), is the 
 
 #### Amendments
 
+2008—Subsec. (f)(1). Pub. L. 110–330 substituted “March 31, 2009,” for “November 30, 2008,” and “May 31, 2009,” for “December 31, 2008,”.
+
+Pub. L. 110–253 substituted “November 30, 2008” for “August 31, 2008”.
+
 2007—Subsec. (f)(1). Pub. L. 110–161 substituted “2008” for “2006” in two places.
 
 2005—Subsec. (f)(1). Pub. L. 109–115 substituted “2006” for “2005” in two places.
@@ -153,6 +157,12 @@ Subsec. (d). Pub. L. 107–42, §201(a)(2), (5), redesignated subsec. (c) as (d)
 Subsec. (e). Pub. L. 107–42, §201(a)(2), redesignated subsec. (d) as (e).
 
 1997—Subsec. (a)(2). Pub. L. 105–137 substituted “as determined by the Secretary in accordance with reasonable business practices in the commercial aviation insurance industry.” for “as determined by the Secretary.”
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–330 effective Oct. 1, 2008, see section 5(<i>l</i>) of Pub. L. 110–330, set out as a note under section 40117 of this title.
+
+Amendment by Pub. L. 110–253 effective July 1, 2008, see section 3(d) of Pub. L. 110–253, set out as a note under section 9502 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2003 Amendment
 
@@ -186,7 +196,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Provision of Aviation Insurance Coverage for Commercial Air Carrier Service in Domestic and International Operations
 
-Memorandum of President of the United States, Dec. 27, 2007, 73 F.R. 1813, provided:
+Memorandum of President of the United States, Dec. 23, 2008, 73 F.R. 79589, provided:
 
 Memorandum for the Secretary of Transportation
 
@@ -196,17 +206,19 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 2\. Approve provision by the Secretary of Transportation (Secretary) of insurance or reinsurance to U.S.-flag air carriers against loss or damage arising out of any risk from the operation of an aircraft in the manner and to the extent provided in chapter 443 of 49 U.S.C.:
 
-(a) until August 31, 2008;
+(a) Until March 31, 2009;
 
-(b) after August 31, 2008, but no later than December 31, 2008, when the Secretary determines that such insurance or reinsurance cannot be obtained on reasonable terms and conditions from any company authorized to conduct an insurance business in a State of the United States; and
+(b) After March 31, 2009, but no later than August 31, 2009, when the Secretary determines that such insurance or reinsurance cannot be obtained on reasonable terms and conditions from any company authorized to conduct an insurance business in a State of the United States.
 
-3\. Delegate to the Secretary the authority, vested in me by 49 U.S.C. 44306(c), to extend this determination for additional periods beyond August 31, 2008, but no later than December 31, 2008, when the Secretary finds that the continued operation of aircraft to be insured or reinsured is necessary in the interest of air commerce or the national security, or to carry out the foreign policy of the United States Government.
+3\. Delegate to the Secretary the authority, vested in me by 49 U.S.C. 44306(c), to extend this determination for additional periods beyond March 31, 2009, but no later than August 31, 2009, when the Secretary finds that the continued operation of aircraft to be insured or reinsured is necessary in the interest of air commerce or the national security, or to carry out the foreign policy of the United States Government.
 
 You are directed to bring this determination immediately to the attention of all air carriers within the meaning of 49 U.S.C. 40102(2), and to arrange for its publication in the Federal Register.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior Presidential documents related to provision of insurance to U.S.-flag commercial air service were contained in the following:
+
+Memorandum of President of the United States, Dec. 27, 2007, 73 F.R. 1813.
 
 Memorandum of President of the United States, Dec. 21, 2006, 71 F.R. 77243.
 

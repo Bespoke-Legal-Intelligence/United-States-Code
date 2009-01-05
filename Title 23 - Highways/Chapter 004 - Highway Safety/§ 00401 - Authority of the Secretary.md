@@ -8,7 +8,7 @@ The Secretary is authorized and directed to assist and cooperate with other Fede
 
 1987—Pub. L. 100–17 inserted reference in second sentence to Commonwealth of the Northern Mariana Islands.
 
-1984—Pub. L. 98–363 struck out “, except that all expenditures for carrying out this chapter in the Virgin Islands, Guam, and American Samoa shall be paid out of money in the Treasury not otherwise appropriated” after “and American Samoa”.
+1984—Pub. L. 98–363 struck out “, except that all expenditures for carrying out this chapter in the VirginIslands, Guam, and American Samoa shall be paid out of money in the Treasury not otherwise appropriated” after “and American Samoa”.
 
 1973—Pub. L. 93–87 inserted definition of “State” and provided that all expenditures for carrying out this chapter in the Virgin Islands, Guam, and American Samoa shall be paid out of money in the Treasury not otherwise appropriated.
 
@@ -34,7 +34,7 @@ Pub. L. 97–424, title II, §201, Jan. 6, 1983, 96 Stat. 2137, provided that: �
 
 #### Short Title of 1978 Amendment
 
-Pub. L. 95–599, title II, §201, Nov. 6, 1978, 92 Stat. 2727, provided that: “This title \[enacting section 407 of thistitle, amending sections 154 and 402 of this title, and enacting provisions set out as notes under this section and sections 130, 307, 402, and 403 of this title\] may be cited as the ‘Highway Safety Act of 1978’.”
+Pub. L. 95–599, title II, §201, Nov. 6, 1978, 92 Stat. 2727, provided that: “This title \[enacting section 407 of this title, amending sections 154 and 402 of this title, and enacting provisions set out as notes under this section and sections 130, 307, 402, and 403 of this title\] may be cited as the ‘Highway Safety Act of 1978’.”
 
 #### Short Title of 1976 Amendment
 
@@ -128,7 +128,7 @@ Training.—Based upon the manual developed under paragraph (5), the Secretary s
 
 #### Worker Injury Prevention and Free Flow of Vehicular Traffic
 
-Pub. L. 109–59, title I, §1402, Aug. 10, 2005, 119 Stat. 1227, provided that: “Not later than 1 year after the date of enactment of this Act \[Aug. 10, 2005\], the Secretary \[of Transportation\] shall issue regulations to decrease the likelihood of worker injury and maintain the free flow of vehicular traffic by requiring workers whose duties place them on or in close proximity to a Federal-aid highway (as defined in section 101 of title 23, United States Code) to wear high visibility garments. The regulations may also require such other worker-safety measures for workers with those duties as the Secretary determines to be appropriate.”
+Pub. L. 109–59, title I, §1402, Aug. 10, 2005, 119 Stat. 1227, provided that: “Not later than 1 year after the date of enactment of this Act \[Aug. 10, 2005\], the Secretary \[of Transportation\] shall issue regulations to decrease the likelihood of worker injury and maintain the free flow of vehicular traffic by requiring workers whose duties place them on or in close proximity to a Federal-aid highway (as defined in section 101 of title23, United States Code) to wear high visibility garments. The regulations may also require such other worker-safety measures for workers with those duties as the Secretary determines to be appropriate.”
 
 #### Roadway Safety Improvements for Older Drivers and Pedestrians
 
@@ -174,7 +174,7 @@ In general.—There is authorized to be appropriated from the Highway Trust Fund
 
 &emsp;“(2)
 
-Contract authority.—Funds authorized by this subsection shall be available for obligation inthe same manner as if the funds were apportioned under chapter 1 of title 23, United States Code; except that such funds shall not be transferable.”
+Contract authority.—Funds authorized by this subsection shall be available for obligation in the same manner as if the funds were apportioned under chapter 1 of title 23, United States Code; except that such funds shall not be transferable.”
 
 #### Prohibition on Other Uses
 
@@ -290,7 +290,7 @@ National Highway Safety Campaign.—Utilizing those techniques, methods, and pra
 
 “(e) Such campaign is authorized to be conducted in cooperation with interested government and nongovernment authorities, agencies, organizations, institutions, businesses, and individuals, and shall utilize to the extent possible nongovernmental professional organizations equipped and experienced to conduct such campaign.
 
-“(f) The Secretary of Transportation shall engage such private firms or organizations as he determines necessary to conduct an on-going evaluation of the national campaign authorized by subsection (d) of this section to determine ways and means for encouraging the participation and cooperation of television and radio station licensees, for measuring audience reactions to on-going highway safety programming for evaluating the effectiveness of such programs in terms of the number of lives saved and the reduction in injuries, and for the purpose of developing new programs for the promotion of highway safety. Such evaluation shall include determinations of those programs designed to encourage the voluntary use of safety belts which are most effective and shall include recommendations for new methods and approaches which will result in greater voluntary utilization of safety belts by the public.
+“(f) The Secretary of Transportation shall engage such private firms or organizations as he determines necessary to conduct an on-going evaluation of the national campaign authorized by subsection (d) of thissection to determine ways and means for encouraging the participation and cooperation of television and radio station licensees, for measuring audience reactions to on-going highway safety programming for evaluating the effectiveness of such programs in terms of the number of lives saved and the reduction in injuries, and for the purpose of developing new programs for the promotion of highway safety. Such evaluation shall include determinations of those programs designed to encourage the voluntary use of safety belts which are most effective and shall include recommendations for new methods and approaches which will result in greater voluntary utilization of safety belts by the public.
 
 “(g) The Secretary of Transportation shall submit a report to the Congress on July 1 of each year in which the campaign is in progress on the results of such evaluation and on the steps being taken by the Secretary of Transportation to implement the recommendations of such evaluation.
 
@@ -302,7 +302,7 @@ National Highway Safety Campaign.—Utilizing those techniques, methods, and pra
 
 #### Highway Safety Educational Programing and Study; Report to Congress; Series of Highway Safety Television Programs; Appropriations Authorizations
 
-Section 211 of Pub. L. 93–87 directed Secretary of Transportation, in cooperation with government and nongovernment authorities and individuals, to conduct a full and complete investigation and study of use of mass media for informing and educating the public of ways and means for reducing number and severity ofhighway accidents, to report to Congress his findings and recommendations by June 30, 1974, and to develop, in consultation with State and local highway safety officials, a series of highway safety television programs of varying lengths for use in accordance with provisions of the Communication Act of 1934 (47 U.S.C. 151 et seq.).
+Section 211 of Pub. L. 93–87 directed Secretary of Transportation, in cooperation with government and nongovernment authorities and individuals, to conduct a full and complete investigation and study of use of mass media for informing and educating the public of ways and means for reducing number and severity of highway accidents, to report to Congress his findings and recommendations by June 30, 1974, and to develop, in consultation with State and local highway safety officials, a series of highway safety television programs of varying lengths for use in accordance with provisions of the Communication Act of 1934 (47 U.S.C. 151 et seq.).
 
 #### Highway Safety Citizen Participation Study
 

@@ -78,7 +78,7 @@ If the Internal Revenue Service does not file a complaint to determine discharge
 
 If neither the debtor nor the Internal Revenue Service files a claim against the estate or a request to rule on the debtor's personal liability, any pending tax court proceeding would be stayed until the closing of the bankruptcy case, at which time the stay on the tax court would cease and the tax court case could continue for purposes of deciding the merits of the debtor's personal liability for nondischargeable taxes.
 
-Audit of trustee's returns: Under both bills, the bankruptcy court could determine the amount of any administrative period taxes. The Senate amendment, however, provided for an expedited audit procedure, which was mandatory in some cases. The House amendment (sec. 505(b)), adopts the provision of the House bill allowing the trustee discretion in all cases whether to ask the Internal Revenue Service, or State or local tax authority for a prompt audit of his returns on behalf of the estate. The House amendment, however, adopts the provision of the Senate bill permitting a prompt audit only on the basis of tax returns filed by the trustee forcompleted taxable periods. Procedures for a prompt audit set forth in the Senate bill are also adopted in modified form.
+Audit of trustee's returns: Under both bills, the bankruptcy court could determine the amount of any administrative period taxes. The Senate amendment, however, provided for an expedited audit procedure, which was mandatory in some cases. The House amendment (sec. 505(b)), adopts the provision of the House bill allowing the trustee discretion in all cases whether to ask the Internal Revenue Service, or State or local tax authority for a prompt audit of his returns on behalf of the estate. The House amendment, however, adopts the provision of the Senate bill permitting a prompt audit only on the basis of tax returns filed by the trustee for completed taxable periods. Procedures for a prompt audit set forth in the Senate bill are also adopted in modified form.
 
 Under the procedure, before the case can be closed, the trustee may request a tax audit by the local, State or Federal tax authority of all tax returns filed by the trustee. The taxing authority would have to notify the trustee and the bankruptcy court within 60 days whether it accepts returns or desires to audit the returns more fully. If an audit is conducted, the taxing authority would have to notify the trustee of tax deficiency within 180 days after the original request, subject to extensions of time if the bankruptcy court approves. If the trustee does not agree with the results of the audit, the trustee could ask the bankruptcy court to resolve the dispute. Once the trustee's tax liability for administration period taxes has thus been determined, the legal effect in a case under chapter 7 or 11 would be to discharge the trustee and any predecessor of the trustee, and also the debtor, from any further liability for these taxes.
 
@@ -110,7 +110,7 @@ Subsection (c) is new. It codifies in part the referee's decision in <i>In re St
 
 2005—Subsec. (a)(2)(C). Pub. L. 109–8, §701(b), added subpar. (C).
 
-Subsec. (b). Pub. L. 109–8, §703, added par. (1), redesignated existing provisions of subsec. (b) as par. (2) and inserted “at the address and in the manner designated in paragraph (1)” after “determination of such tax” in introductory provisions, redesignated former pars. (1) to (3) of subsec. (b) as subpars. (A) to (C), respectively, of par. (2), and redesignated former subpars (A) and (B) of par. (1) as cls. (i) and (ii), respectively, of subpar. (A).
+Subsec. (b). Pub. L. 109–8, §703, added par. (1), redesignated existing provisions of subsec. (b) as par. (2) andinserted “at the address and in the manner designated in paragraph (1)” after “determination of such tax” in introductory provisions, redesignated former pars. (1) to (3) of subsec. (b) as subpars. (A) to (C), respectively, of par. (2), and redesignated former subpars (A) and (B) of par. (1) as cls. (i) and (ii), respectively, of subpar. (A).
 
 Subsec. (b)(2). Pub. L. 109–8, §715, inserted “the estate,” after “misrepresentation,” in introductory provisions.
 
@@ -118,7 +118,7 @@ Subsec. (b)(2). Pub. L. 109–8, §715, inserted “the estate,” after “misr
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to casescommenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1984 Amendment
 

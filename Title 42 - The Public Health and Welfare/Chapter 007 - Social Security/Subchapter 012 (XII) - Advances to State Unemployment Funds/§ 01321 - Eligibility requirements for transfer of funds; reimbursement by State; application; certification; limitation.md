@@ -16,7 +16,7 @@
 
 (3) For purposes of this subsection—
 
-&emsp;(A) an application for an advance shall be made on such forms, and shall contain such information and data (fiscal and otherwise) concerning the operation and administration of the State unemployment compensation law, as the Secretary of Labor deems necessary or relevant to the performance of his duties under this subchapter,
+&emsp;(A) an application for an advance shall be made on such forms, and shall contain such information and data (fiscal and otherwise) concerning the operation and administration ofthe State unemployment compensation law, as the Secretary of Labor deems necessary or relevant to the performance of his duties under this subchapter,
 
 &emsp;(B) the amount required by any State for the payment of compensation in any month shall be determined with due allowance for contingencies and taking into account all other amounts that will be available in the State's unemployment fund for the payment of compensation in such month, and
 

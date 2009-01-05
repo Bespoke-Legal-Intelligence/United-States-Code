@@ -162,7 +162,7 @@ For purposes of this section—
 
 #### (7) Nonresident aliens
 
-&emsp;If the taxpayer is a nonresident alien individual for any portion of the taxable year, this section shall apply only if such individual is treated as a resident alien of the United States for purposes of this chapter by reason of an election under subsection (g) or (h) of section 6013.
+&emsp;If the taxpayer is a nonresident alien individual for any portion of the taxable year, this section shall apply only if such individual is treated as a resident alien of the United States for purposes of this chapter by reasonof an election under subsection (g) or (h) of section 6013.
 
 #### (h) Inflation adjustments
 
@@ -200,9 +200,9 @@ The Secretary may prescribe such regulations as may be necessary or appropriate 
 
 (Added Pub. L. 105–34, title II, §201(a), Aug. 5, 1997, 111 Stat. 799; amended Pub. L. 107–16, title IV, §401(g)(2)(A), June 7, 2001, 115 Stat. 59.)
 
-#### Inflation Adjusted Items for Taxable Years Beginning in 2008
+#### Inflation Adjusted Items for Certain Years
 
-<i>For inflation adjustment of amounts in subsection (b)(1) of this section used in determining Hope Scholarship Credit and amounts in subsection (d)(2)(A)(ii) of this section used in determining reduction in amount of credits otherwise allowable for taxable years beginning in 2008, see section 3.05 of Revenue Procedure 2007–66, set out as a note under section 1 of this title.</i>
+<i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### Amendment of Section
 

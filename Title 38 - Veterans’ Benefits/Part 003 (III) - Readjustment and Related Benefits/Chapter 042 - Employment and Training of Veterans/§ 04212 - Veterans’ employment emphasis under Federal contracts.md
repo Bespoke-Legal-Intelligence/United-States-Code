@@ -24,7 +24,7 @@
 
 &emsp;(B) The term “qualified”, with respect to an employment position, means having the ability to perform the essential functions of the position with or without reasonable accommodation for an individual with a disability.
 
-(b) If any veteran covered by the first sentence of subsection (a) believes any contractor of the United States has failed to comply or refuses to comply with the provisions of the contractor's contract relating to the employment of veterans, the veteran may file a complaint with the Secretary of Labor, who shall promptly investigate such complaint and take appropriate action in accordance with the terms of the contract and applicable laws and regulations.
+(b) If any veteran covered by the first sentence of subsection (a) believes any contractor of theUnited States has failed to comply or refuses to comply with the provisions of the contractor's contract relating to the employment of veterans, the veteran may file a complaint with the Secretary of Labor, who shall promptly investigate such complaint and take appropriate action in accordance with the terms of the contract and applicable laws and regulations.
 
 (c) The Secretary of Labor shall include as part of the annual report required by section 4107(c) of this title the number of complaints filed pursuant to subsection (b) of this section, the actions taken thereon and the resolutions thereof. Such report shall also include the number of contractors listing employment openings, the nature, types, and number of positions listed and the number of veterans receiving priority pursuant to subsection (a)(2)(B).
 
@@ -58,7 +58,7 @@ Subsec. (d)(1)(A), (B). Pub. L. 107–288, §2(b)(2)(B)(ii), amended subpars. (A
 
 “(A) the number of employees in the work force of such contractor, by job category and hiring location, who are special disabled veterans, veterans of the Vietnam era, recently separated veterans, or other veterans who served on active duty during a war or in a campaign or expedition for which a campaign badge has been authorized;
 
-“(B) the total number of new employees hired by the contractor during the period covered by the report and the number of such employees who are special disabled veterans, veterans of the Vietnam era, recently separated veterans, or other veterans who served on activeduty during a war or in a campaign or expedition for which a campaign badge has been authorized; and”.
+“(B) the total number of new employees hired by the contractor during the period covered by the report and the number of such employees who are special disabled veterans, veterans of the Vietnam era, recently separated veterans, or other veterans who served on active duty during a war or in a campaign or expedition for which a campaign badge has been authorized; and”.
 
 Subsec. (d)(2). Pub. L. 107–288, §2(b)(2)(C), struck out “of this subsection” after “paragraph (1)”.
 

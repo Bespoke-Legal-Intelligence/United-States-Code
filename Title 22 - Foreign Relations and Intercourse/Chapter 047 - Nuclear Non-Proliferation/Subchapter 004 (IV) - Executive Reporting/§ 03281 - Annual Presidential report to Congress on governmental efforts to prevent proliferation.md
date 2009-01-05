@@ -48,7 +48,7 @@ The President shall review all activities of Government departments and agencies
 
 &emsp;&emsp;&emsp;(i) a sanction has been imposed under section 6301(a) of this title or section 6303 of this title or section 2799aa–1(b)(1) of this title;
 
-&emsp;&emsp;&emsp;(ii) sales or leases have been denied under section 2753(f) of this title or transactions prohibited by reason of acts relating to proliferation of nuclear explosivedevices as described in section 2780(d) of this title;
+&emsp;&emsp;&emsp;(ii) sales or leases have been denied under section 2753(f) of this title or transactions prohibited by reason of acts relating to proliferation of nuclear explosive devices as described in section 2780(d) of this title;
 
 &emsp;&emsp;&emsp;(iii) a sanction has not been imposed by reason of section 6301(c)(2) of this title or the imposition of a sanction has been delayed under section 2799aa–1(b)(4) of this title; or
 

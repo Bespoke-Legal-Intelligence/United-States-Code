@@ -2,6 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
+| [1030\.](%C2%A7%2001030%20-%20Bonus%20to%20encourage%20Department%20of%20Defense%20personnel%20to%20refer%20persons%20for%20appointment%20as%20officers%20to%20serve%20in%20health%20professions.md) | Bonus to encourage Department of Defense personnel to refer persons for appointment as officers to serve in health professions. |
 | [1031\.](%C2%A7%2001031%20-%20Administration%20of%20oath.md) | Administration of oath. |
 | [1032\.](%C2%A7%2001032%20-%20Disability%20and%20death%20compensation%20dependents%20of%20members%20held%20as%20captives.md) | Disability and death compensation: dependents of members held as captives. |
 | [1033\.](%C2%A7%2001033%20-%20Participation%20in%20management%20of%20specified%20non-Federal%20entities%20authorized%20activities.md) | Participation in management of specified non-Federal entities: authorized activities. |
@@ -26,8 +27,8 @@
 | [1048\.](%C2%A7%2001048%20-%20Gratuity%20payment%20to%20persons%20discharged%20for%20fraudulent%20enlistment.md) | Gratuity payment to persons discharged for fraudulent enlistment. |
 | [1049\.](%C2%A7%2001049%20-%20Subsistence%20miscellaneous%20persons.md) | Subsistence: miscellaneous persons. |
 | [1050\.](%C2%A7%2001050%20-%20Latin%20American%20cooperation%20payment%20of%20personnel%20expenses.md) | Latin American cooperation: payment of personnel expenses. |
-| [1051\.](%C2%A7%2001051%20-%20Bilateral%20or%20regional%20cooperation%20programs%20payment%20of%20personnel%20expenses.md) | Bilateral or regional cooperation programs: payment of personnel expenses. |
-| [1051a.](%C2%A7%2001051a%20-%20Coalition%20liaison%20officers%20administrative%20services%20and%20support%3B%20travel%2C%20subsistence%2C%20and%20other%20personal%20expenses.md) | Coalition liaison officers: administrative services and support; travel, subsistence, and other personal expenses. |
+| [1051\.](%C2%A7%2001051%20-%20Multilateral%2C%20bilateral%2C%20or%20regional%20cooperation%20programs%20payment%20of%20personnel%20expenses.md) | Multilateral, bilateral, or regional cooperation programs: payment of personnel expenses. |
+| [1051a.](%C2%A7%2001051a%20-%20Liaison%20officers%20of%20certain%20foreign%20nations%3B%20administrative%20services%20and%20support%3B%20travel%2C%20subsistence%2C%20medical%20care%2C%20and%20other%20personal%E2%80%A6.md) | Liaison officers of certain foreign nations; administrative services and support; travel, subsistence, medical care, and other personal expenses. |
 | [1051b.](%C2%A7%2001051b%20-%20Bilateral%20or%20regional%20cooperation%20programs%20awards%20and%20mementos%20to%20recognize%20superior%20noncombat%20achievements%20or%20performance.md) | Bilateral or regional cooperation programs: awards and mementos to recognize superior noncombat achievements or performance. |
 | [1052\.](%C2%A7%2001052%20-%20Adoption%20expenses%20reimbursement.md) | Adoption expenses: reimbursement. |
 | [1053\.](%C2%A7%2001053%20-%20Financial%20institution%20charges%20incurred%20because%20of%20Government%20error%20in%20direct%20deposit%20of%20pay%20reimbursement.md) | Financial institution charges incurred because of Government error in direct deposit of pay: reimbursement. |
@@ -45,6 +46,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–417, \[div. A\], title XII, §1231(c)(2), Oct. 14, 2008, 122 Stat. 4637, added item 1051 and struck out former item 1051 “Bilateral or regional cooperation programs: payment of personnel expenses”.
+
+Pub. L. 110–181, div. A, title VI, §671(b)(2), title XII, §1203(e)(2), Jan. 28, 2008, 122 Stat. 184, 365, added items 1030 and 1051a and struck out former item 1051a “Coalition liaison officers: administrative services and support; travel, subsistence, and other personal expenses”.
 
 2006—Pub. L. 109–364, div. A, title V, §598(b)(2), Oct. 17, 2006, 120 Stat. 2237, struck out “; issuance of permanent ID card after attaining 75 years of age” after “retirees” in item 1060b.
 
@@ -175,6 +180,7 @@ Contingency Operation Defined.—In this section, the term ‘contingency operat
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
+- [&sect; 01030 - Bonus to encourage Department of Defense personnel to refer persons for appointment as officers to serve in health professions](%C2%A7%2001030%20-%20Bonus%20to%20encourage%20Department%20of%20Defense%20personnel%20to%20refer%20persons%20for%20appointment%20as%20officers%20to%20serve%20in%20health%20professions.md)
 - [&sect; 01031 - Administration of oath](%C2%A7%2001031%20-%20Administration%20of%20oath.md)
 - [&sect; 01032 - Disability and death compensation dependents of members held as captives](%C2%A7%2001032%20-%20Disability%20and%20death%20compensation%20dependents%20of%20members%20held%20as%20captives.md)
 - [&sect; 01033 - Participation in management of specified non-Federal entities authorized activities](%C2%A7%2001033%20-%20Participation%20in%20management%20of%20specified%20non-Federal%20entities%20authorized%20activities.md)
@@ -199,8 +205,8 @@ Contingency Operation Defined.—In this section, the term ‘contingency operat
 - [&sect; 01048 - Gratuity payment to persons discharged for fraudulent enlistment](%C2%A7%2001048%20-%20Gratuity%20payment%20to%20persons%20discharged%20for%20fraudulent%20enlistment.md)
 - [&sect; 01049 - Subsistence miscellaneous persons](%C2%A7%2001049%20-%20Subsistence%20miscellaneous%20persons.md)
 - [&sect; 01050 - Latin American cooperation payment of personnel expenses](%C2%A7%2001050%20-%20Latin%20American%20cooperation%20payment%20of%20personnel%20expenses.md)
-- [&sect; 01051 - Bilateral or regional cooperation programs payment of personnel expenses](%C2%A7%2001051%20-%20Bilateral%20or%20regional%20cooperation%20programs%20payment%20of%20personnel%20expenses.md)
-- [&sect; 01051a - Coalition liaison officers administrative services and support; travel, subsistence, and other personal expenses](%C2%A7%2001051a%20-%20Coalition%20liaison%20officers%20administrative%20services%20and%20support%3B%20travel%2C%20subsistence%2C%20and%20other%20personal%20expenses.md)
+- [&sect; 01051 - Multilateral, bilateral, or regional cooperation programs payment of personnel expenses](%C2%A7%2001051%20-%20Multilateral%2C%20bilateral%2C%20or%20regional%20cooperation%20programs%20payment%20of%20personnel%20expenses.md)
+- [&sect; 01051a - Liaison officers of certain foreign nations; administrative services and support; travel, subsistence, medical care, and other personal&#8230;](%C2%A7%2001051a%20-%20Liaison%20officers%20of%20certain%20foreign%20nations%3B%20administrative%20services%20and%20support%3B%20travel%2C%20subsistence%2C%20medical%20care%2C%20and%20other%20personal%E2%80%A6.md)
 - [&sect; 01051b - Bilateral or regional cooperation programs awards and mementos to recognize superior noncombat achievements or performance](%C2%A7%2001051b%20-%20Bilateral%20or%20regional%20cooperation%20programs%20awards%20and%20mementos%20to%20recognize%20superior%20noncombat%20achievements%20or%20performance.md)
 - [&sect; 01052 - Adoption expenses reimbursement](%C2%A7%2001052%20-%20Adoption%20expenses%20reimbursement.md)
 - [&sect; 01053 - Financial institution charges incurred because of Government error in direct deposit of pay reimbursement](%C2%A7%2001053%20-%20Financial%20institution%20charges%20incurred%20because%20of%20Government%20error%20in%20direct%20deposit%20of%20pay%20reimbursement.md)

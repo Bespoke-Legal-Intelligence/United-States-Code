@@ -22,7 +22,9 @@
 
 &emsp;(7) Major Presidential and Vice Presidential candidates and, within 120 days of the general Presidential election, the spouses of such candidates. As used in this paragraph, the term “major Presidential and Vice Presidential candidates” means those individuals identified as such by the Secretary of Homeland Security after consultation with an advisory committee consisting of the Speaker of the House of Representatives, the minority leader of the House of Representatives, the majority and minority leaders of the Senate, and one additional member selected by the other members of the committee. The Committee shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App. 2).
 
-> The protection authorized in paragraphs (2) through (7) may be declined.
+&emsp;(8) Former Vice Presidents, their spouses, and their children who are under 16 years of age, for a period of not more than six months after the date the former Vice President leaves office. The Secretary of Homeland Security shall have the authority to direct the Secret Service to provide temporary protection for any of these individuals at any time thereafter if the Secretary of Homeland Security or designee determines that information or conditions warrant such protection.
+
+> The protection authorized in paragraphs (2) through (8) may be declined.
 
 (b) Under the direction of the Secretary of Homeland Security, the Secret Service is authorized to detect and arrest any person who violates—
 
@@ -38,7 +40,7 @@
 
 &emsp;(B) carry firearms;
 
-&emsp;(C) make arrests without warrant for any offense against the United States committed in their presence, or for any felony cognizable under the laws of the United States if they have reasonable grounds to believe that the person to be arrested has committed or is committing such felony;
+&emsp;(C) make arrests without warrant for any offense against the United States committed in their presence, or for any felony cognizable under the laws of the United States if theyhave reasonable grounds to believe that the person to be arrested has committed or is committing such felony;
 
 &emsp;(D) offer and pay rewards for services and information leading to the apprehension of persons involved in the violation or potential violation of those provisions of law which the Secret Service is authorized to enforce;
 
@@ -62,7 +64,7 @@
 
 (g) The United States Secret Service shall be maintained as a distinct entity within the Department of Homeland Security and shall not be merged with any other Department function. No personnel and operational elements of the United States Secret Service shall report to an individual other than the Director of the United States Secret Service, who shall report directly to the Secretary of Homeland Security without being required to report through any other official of the Department.
 
-(June 25, 1948, ch. 645, 62 Stat. 818; July 16, 1951, ch. 226, §4, 65 Stat. 122; Aug. 31, 1954, ch. 1143, §2, 68 Stat. 999; Pub. L. 86–168, title I, §104(h), Aug. 18, 1959, 73 Stat. 387; Pub. L. 87–791, Oct. 10, 1962, 76 Stat. 809; Pub. L. 87–829, §3, Oct. 15, 1962, 76 Stat. 956; Pub. L. 89–186, Sept. 15, 1965, 79 Stat. 791; Pub. L. 89–218, Sept. 29, 1965, 79 Stat. 890; Pub. L. 90–608, ch. XI, §1101, Oct. 21, 1968, 82 Stat. 1198; Pub. L. 91–644, title V, §19, Jan. 2, 1971, 84 Stat. 1892; Pub. L. 91–651, §4, Jan. 5, 1971, 84 Stat. 1941; Pub. L. 93–346, §8, July 12, 1974, as added Pub. L. 93–552, title VI, §609(a), Dec. 27, 1974, 88 Stat. 1765; Pub. L. 94–408, §2, Sept. 11, 1976, 90 Stat. 1239; Pub. L. 97–297, §3, Oct. 12, 1982, 96 Stat. 1318; Pub. L. 97–308, §2, Oct. 14, 1982, 96 Stat. 1452; Pub. L. 98–151, §115(b), Nov. 14, 1983, 97 Stat. 977; Pub. L. 98–587, §1(a), Oct. 30, 1984, 98 Stat. 3110; Pub. L. 103–329, title V, §530, Sept. 30, 1994, 108 Stat. 2412; Pub. L. 104–294, title VI, §605(i), Oct. 11, 1996, 110 Stat. 3510; Pub. L. 106–544, §3, Dec. 19, 2000, 114 Stat. 2716; Pub. L. 107–56, title V, §506(b), Oct. 26, 2001, 115 Stat. 367; Pub. L. 107–296, title XVII, §1703(a)(1), Nov. 25, 2002, 116 Stat. 2313; Pub. L. 108–21, title III, §322, Apr. 30, 2003, 117 Stat. 665; Pub. L. 109–177, title VI, §§604, 607, 608(a), Mar. 9, 2006, 120 Stat. 253, 256.)
+(June 25, 1948, ch. 645, 62 Stat. 818; July 16, 1951, ch. 226, §4, 65 Stat. 122; Aug. 31, 1954, ch. 1143, §2, 68 Stat. 999; Pub. L. 86–168, title I, §104(h), Aug. 18, 1959, 73 Stat. 387; Pub. L. 87–791, Oct. 10, 1962, 76 Stat. 809; Pub. L. 87–829, §3, Oct. 15, 1962, 76 Stat. 956; Pub. L. 89–186, Sept. 15, 1965, 79 Stat. 791; Pub. L. 89–218, Sept. 29, 1965, 79 Stat. 890; Pub. L. 90–608, ch. XI, §1101, Oct. 21, 1968, 82 Stat. 1198; Pub. L. 91–644, title V, §19, Jan. 2, 1971, 84 Stat. 1892; Pub. L. 91–651, §4, Jan. 5, 1971, 84 Stat. 1941; Pub. L. 93–346, §8, July 12, 1974, as added Pub. L. 93–552, title VI, §609(a), Dec. 27, 1974, 88 Stat. 1765; Pub. L. 94–408, §2, Sept. 11, 1976, 90 Stat. 1239; Pub. L. 97–297, §3, Oct. 12, 1982, 96 Stat. 1318; Pub. L. 97–308, §2, Oct. 14, 1982, 96 Stat. 1452; Pub. L. 98–151, §115(b), Nov. 14, 1983, 97 Stat. 977; Pub. L. 98–587, §1(a), Oct. 30, 1984, 98 Stat. 3110; Pub. L. 103–329, title V, §530, Sept. 30, 1994, 108 Stat. 2412; Pub. L. 104–294, title VI, §605(i), Oct. 11, 1996, 110 Stat. 3510; Pub. L. 106–544, §3, Dec. 19, 2000, 114 Stat. 2716; Pub. L. 107–56, title V, §506(b), Oct. 26, 2001, 115 Stat. 367; Pub. L. 107–296, title XVII, §1703(a)(1), Nov. 25, 2002, 116 Stat. 2313; Pub. L. 108–21, title III, §322, Apr. 30, 2003, 117 Stat. 665; Pub. L. 109–177, title VI, §§604, 607, 608(a), Mar. 9, 2006, 120 Stat. 253, 256; Pub. L. 110–326, title I, §102, Sept. 26, 2008, 122 Stat. 3560.)
 
 #### Historical and Revision Notes
 
@@ -82,11 +84,15 @@ Changes were made in phraseology.
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (a)(7), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (a)(7), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770,as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 Section 216 of this title, referred to in subsec. (b)(1), was repealed by Pub. L. 98–473, title II, §1107(b), Oct. 12, 1984, 98 Stat. 2146.
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–326, §102(2), substituted “(8)” for “(7)” in concluding provisions.
+
+Subsec. (a)(8). Pub. L. 110–326, §102(1), added par. (8).
 
 2006—Subsec. (a)(7). Pub. L. 109–177, §608(a), which directed amendment of subsec. (a)(7) by inserting “The Committee shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App. 2).” after “other members of the Committee.”, was executed by making the insertion after “other members of the committee.”, to reflect the probable intent of Congress.
 
@@ -138,7 +144,7 @@ Pub. L. 91–644 designated existing provisions as subsec. (a) and added subsec.
 
 1965—Pub. L. 89–218 authorized the Chief, Deputy Chief, Assistant Chief, inspectors, and agents of the Secret Service to make arrests without warrant for offenses committed against the United States in their presence or for any felony cognizable under the laws of the United States if they have reasonable grounds to believe that the person to be arrested has committed or is committing the felony and substituted “508, 509, and 871” for “508 and 509”.
 
-Pub. L. 89–186 substituted provision for the protection of the person of a former President and his wife duringhis lifetime and the person of a widow and minor children of a former President for a period of four years after he leaves or dies in office, unless the protection is declined, for provision calling for the protection of a former President, at his request, for a reasonable period after he leaves office.
+Pub. L. 89–186 substituted provision for the protection of the person of a former President and his wife during his lifetime and the person of a widow and minor children of a former President for a period of four years after he leaves or dies in office, unless the protection is declined, for provision calling for the protection of a former President, at his request, for a reasonable period after he leaves office.
 
 1962—Pub. L. 87–829 authorized the protection of the Vice President, without requiring his request therefor, and any officer next in the order of succession to the office of President, the Vice-President-elect, and of a former president, at his request, for a reasonable period after he leaves office.
 
@@ -150,9 +156,13 @@ Pub. L. 87–791 required moneys expended from Secret Service appropriations for
 
 1951—Act July 16, 1951, provided basic authority for the Secret Service to perform certain functions and activities heretofore carried out by virtue of authority contained in appropriation acts.
 
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–326, title I, §103, Sept. 26, 2008, 122 Stat. 3560, provided that: “The amendments made by this Act \[probably should be “title”, meaning title I of Pub. L. 110–326, which amended this section and enacted provisions set out as a note under section 1 of this title\] shall apply with respect to any Vice President holding office on or after the date of enactment of the Act \[Sept. 26, 2008\].”
+
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–296, title XVII, §1703(b), Nov. 25, 2002, 116 Stat. 2314, provided that: “The amendments made by this section \[amending this section and former sections 202 and 208 of Title 3, The President\] shall take effect on the date of transfer of the United States Secret Service to the Department \[of Homeland Security\].”
+Pub. L. 107–296, title XVII, §1703(b), Nov. 25, 2002, 116 Stat. 2314, provided that: “The amendments made bythis section \[amending this section and former sections 202 and 208 of Title 3, The President\] shall take effect on the date of transfer of the United States Secret Service to the Department \[of Homeland Security\].”
 
 #### Effective Date of 1974 Amendment
 
@@ -288,7 +298,7 @@ Sec. 4. Expenditures by the Secret Service for maintaining a permanent guard det
 
 Sec. 5. (a) All improvements and other items acquired by the Federal Government and used for the purpose of securing any non-Governmental property in the performance of the duties of the Secret Service shall be the property of the United States.
 
-“(b) Upon termination of Secret Service protection at any non-Governmental property all such improvements and other items shall be removed from the non-Governmental property unless the Director determines that it would not be economically feasible to do so; except that such improvements and other items shall be removed and the non-Governmental property shall be restored to its original state if the owner of such property at the time of termination requests the removal of such improvements or other items. If any such improvements or other items are not removed, the owner of the non-Governmental property at the time of termination shall compensate the United States for the original cost of such improvements or other items orfor the amount by which they have increased the fair market value of the property, as determined by the Director, as of the date of termination, whichever is less.
+“(b) Upon termination of Secret Service protection at any non-Governmental property all such improvements and other items shall be removed from the non-Governmental property unless the Director determines that it would not be economically feasible to do so; except that such improvements and other items shall be removed and the non-Governmental property shall be restored to its original state if the owner of such property at the time of termination requests the removal of such improvements or other items. If any such improvements or other items are not removed, the owner of the non-Governmental property at the time of termination shall compensate the United States for the original cost of such improvements or other items or for the amount by which they have increased the fair market value of the property, as determined by the Director, as of the date of termination, whichever is less.
 
 “(c) In the event that any non-Governmental property becomes a previously designated property and Secret Service protection at that property has not been terminated, all such improvements and other items which the Director determines are not necessary to secure the previously designated property within the limitations imposed under section 4 shall be removed or compensated for in accordance with the procedures set forth under Subsection (b) of this section.
 

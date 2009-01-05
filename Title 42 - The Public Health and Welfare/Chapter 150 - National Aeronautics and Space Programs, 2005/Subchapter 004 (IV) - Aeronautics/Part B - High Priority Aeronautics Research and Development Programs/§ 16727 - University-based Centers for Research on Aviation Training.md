@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Administrator may award grants to institutions of higher education (or consortia thereof) to establish one or more Centers for Research on Aviation Training under cooperative agreements with appropriate NASA Centers.
+The Administrator shall award grants to institutions of higher education (or consortia thereof) to establish one or more Centers for Research on Aviation Training under cooperative agreements with appropriate NASA Centers.
 
 #### (b) Purpose
 
@@ -20,5 +20,9 @@ An award made by the Administrator under this section shall be for a period of 5
 
 &emsp;(2) other requirements as specified by the Administrator.
 
-(Pub. L. 109–155, title IV, §427, Dec. 30, 2005, 119 Stat. 2926.)
+(Pub. L. 109–155, title IV, §427, Dec. 30, 2005, 119 Stat. 2926; Pub. L. 110–422, title III, §308, Oct. 15, 2008, 122 Stat. 4788.)
+
+#### Amendments
+
+2008—Subsec. (a). Pub. L. 110–422 substituted “shall” for “may”.
 

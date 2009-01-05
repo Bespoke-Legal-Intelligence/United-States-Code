@@ -2,7 +2,7 @@
 
 (a)
 
-Requirements.—(1) The Secretary of Defense may not enter into a contract with an air carrier for the charter air transportation of members of the armed forces unless the air carrier—
+Requirements.—(1) The Secretary of Defense may not enter into a contract with an aircarrier for the charter air transportation of members of the armed forces unless the air carrier—
 
 &emsp;(A) meets, at a minimum, the safety standards established by the Secretary of Transportation under chapter 447 of title 49;
 
@@ -54,7 +54,7 @@ Suspension and Reinstatement.—(1) The Secretary shall establish guidelines for
 
 (2) The Commercial Airlift Review Board shall make recommendations to the Secretary on suspension and reinstatement under this subsection.
 
-(3) The Secretary shall include in each contract subject to this section the provisions onsuspension and reinstatement established under this subsection.
+(3) The Secretary shall include in each contract subject to this section the provisions on suspension and reinstatement established under this subsection.
 
 (e)
 

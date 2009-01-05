@@ -4,7 +4,7 @@ A sale, made and conducted as prescribed in this chapter to a bona fide purchase
 
 #### (1) Notice recipients
 
-&emsp;Any person to whom the notice of default and foreclosure sale was mailed as provided in this chapter, and the heir, devisee, executor,administrator, successor, or assignee claiming under any such person.
+&emsp;Any person to whom the notice of default and foreclosure sale was mailed as provided in this chapter, and the heir, devisee, executor, administrator, successor, or assignee claiming under any such person.
 
 #### (2) Subordinate claimants with knowledge
 

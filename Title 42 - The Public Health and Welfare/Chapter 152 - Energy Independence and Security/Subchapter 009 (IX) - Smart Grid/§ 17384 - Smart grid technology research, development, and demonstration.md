@@ -12,7 +12,7 @@ The Secretary, in consultation with the Federal Energy Regulatory Commission and
 
 &emsp;(4) to test new reliability technologies, including those concerning communications network capabilities, in a grid control room environment against a representative set of local outage and wide area blackout scenarios;
 
-&emsp;(5) to identify communications network capacity needed to implement advanced technologies. <sup>1</sup>
+&emsp;(5) to identify communications network capacity needed to implement advanced technologies.<sup>1</sup>
 
 &emsp;(6) to investigate the feasibility of a transition to time-of-use and real-time electricity pricing;
 
@@ -46,7 +46,7 @@ The Secretary, in consultation with the Federal Energy Regulatory Commission and
 
 #### (A) In general
 
-&emsp;&emsp;In carrying out the initiative,<sup>2</sup> the Secretary shall carry out smart grid demonstration projects in up to 5 electricity control areas, including rural areas and at least 1 area in which the majority of generation and transmission assets are controlled by a tax-exempt entity.
+&emsp;&emsp;In carrying out the initiative,<sup>2</sup> the Secretary shall carry out smart grid demonstration projects in up to 5 electricity control areas, including rural areas and at least 1 area in which the majority of generation andtransmission assets are controlled by a tax-exempt entity.
 
 #### (B) Cooperation
 

@@ -8,7 +8,7 @@ The legislature of the government of American Samoa may cause to be issued after
 
 #### (1) In general
 
-&emsp;The interest on any bond or other obligation issued by or on behalf of the Government ofAmerican Samoa shall be exempt from taxation by the Government of American Samoa and the governments of any of the several States, the District of Columbia, any territory or possession of the United States, and any subdivision thereof.
+&emsp;The interest on any bond or other obligation issued by or on behalf of the Government of American Samoa shall be exempt from taxation by the Government of American Samoa and the governments of any of the several States, the District of Columbia, any territory or possession of the United States, and any subdivision thereof.
 
 #### (2) Exemption applicable only to income taxes
 

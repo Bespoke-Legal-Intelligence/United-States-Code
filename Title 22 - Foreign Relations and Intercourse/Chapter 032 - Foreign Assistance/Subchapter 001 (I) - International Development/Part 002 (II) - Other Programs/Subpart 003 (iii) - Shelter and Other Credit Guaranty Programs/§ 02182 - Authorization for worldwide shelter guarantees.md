@@ -56,7 +56,7 @@ Subsec. (k). Pub. L. 99–83, §313(c), added subsec. (k).
 
 1979—Subsec. (a). Pub. L. 96–53 substituted “$1,555,000,000” for “$1,180,000,000”, and “through September 30, 1982” for “until September 30, 1980”.
 
-1978—Pub. L. 95–424 amended section generally to provide a new consolidated section which provides a single authorization for the worldwide housing guarantee program, a new list of the types of programs to be emphasized, increased the worldwide authorization to$1,180,000,000, and encourages officials and governments in developing countries to consider the use of solar energy in housing projects.
+1978—Pub. L. 95–424 amended section generally to provide a new consolidated section which provides a single authorization for the worldwide housing guarantee program, a new list of the types of programs to be emphasized, increased the worldwide authorization to $1,180,000,000, and encourages officials and governments in developing countries to consider the use of solar energy in housing projects.
 
 1977—Subsec. (c). Pub. L. 95–88 inserted “or under section 2181 of this title” after “Latin American housing guaranty authority repealed by the Foreign Assistance Act of 1969” and substituted “$1,030,000,000” for “$600,000,000”.
 

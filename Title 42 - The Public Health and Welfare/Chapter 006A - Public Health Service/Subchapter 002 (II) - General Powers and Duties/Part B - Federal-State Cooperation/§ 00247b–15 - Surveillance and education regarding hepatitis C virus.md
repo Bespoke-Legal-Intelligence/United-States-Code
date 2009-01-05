@@ -54,7 +54,7 @@ Demonstration Projects Regarding Training and Treatment.—
 
 &emsp;“(1)
 
-In general.—The Secretary, in consultation with the Secretary of Labor, shall make grants to qualifying local governments for the purpose of carrying out demonstration projects that (directly or through arrangements with nonprofit private entities) carry out each of the following activities:
+In general.—The Secretary, in consultation with the Secretary of Labor, shall make grants to qualifying local governments for the purpose of carrying out demonstration projects that (directly orthrough arrangements with nonprofit private entities) carry out each of the following activities:
 
 &emsp;&emsp;“(A) Training designated emergency response employees in minimizing the risk of infection with hepatitis C in performing their duties as such employees.
 
@@ -72,7 +72,7 @@ Confidentiality.—A grant may be made under paragraph (1) only if the qualifyin
 
 &emsp;“(4)
 
-Evaluations.—The Secretary shall provide for an evaluation of each demonstration project under paragraph (1) in order to determine the extent towhich the project has been effective in carry \[sic\] out the activities described in such paragraph.
+Evaluations.—The Secretary shall provide for an evaluation of each demonstration project under paragraph (1) in order to determine the extent to which the project has been effective in carry \[sic\] out the activities described in such paragraph.
 
 &emsp;“(5)
 

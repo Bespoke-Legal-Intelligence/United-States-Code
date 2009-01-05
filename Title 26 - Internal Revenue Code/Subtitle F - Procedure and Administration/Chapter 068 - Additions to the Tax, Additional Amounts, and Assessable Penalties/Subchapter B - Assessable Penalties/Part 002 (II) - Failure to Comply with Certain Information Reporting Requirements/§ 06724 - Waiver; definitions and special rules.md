@@ -78,11 +78,13 @@ For purposes of this part—
 
 &emsp;&emsp;&emsp;(xviii) subparagraph (C) of section 338(h)(10) (relating to information required to be furnished to the Secretary in case of elective recognition of gain or loss),
 
-&emsp;&emsp;&emsp;(xix) <sup>1</sup> section 264(f)(5)(A)(iv) (relating to reporting with respect to certain life insurance and annuity contracts), or
+&emsp;&emsp;&emsp;(xix) section 264(f)(5)(A)(iv) (relating to reporting with respect to certain life insurance and annuity contracts), or <sup>1</sup>
 
-&emsp;&emsp;&emsp;(xx) section 6050U (relating to charges or payments for qualified long-term care insurance contracts under combined arrangements), and
+&emsp;&emsp;&emsp;(xx) section 6050U (relating to charges or payments for qualified long-term care insurance contracts under combined arrangements), and <sup>2</sup>
 
-&emsp;&emsp;&emsp;(xix) <sup>1</sup> section 6039(a) (relating to returns required with respect to certain options), and
+&emsp;&emsp;&emsp;(xxi) section 6039(a) (relating to returns required with respect to certain options), or
+
+&emsp;&emsp;&emsp;(xxii) section 6050W (relating to returns to payments made in settlement of payment card transactions), and
 
 &emsp;&emsp;(C) any statement of the amount of payments to another person required to be made to the Secretary under—
 
@@ -106,7 +108,7 @@ For purposes of this part—
 
 &emsp;&emsp;(E) section 6042(c) (relating to returns regarding payments of dividends and corporate earnings and profits),
 
-&emsp;&emsp;(F) subsections (b) and (d) of section 6043A (relating to returns relating to taxable mergers and acquisitions).<sup>2</sup>
+&emsp;&emsp;(F) subsections (b) and (d) of section 6043A (relating to returns relating to taxable mergers and acquisitions).<sup>3</sup>
 
 &emsp;&emsp;(G) section 6044(e) (relating to returns regarding payments of patronage dividends),
 
@@ -116,7 +118,7 @@ For purposes of this part—
 
 &emsp;&emsp;(J) section 6050A(b) (relating to reporting requirements of certain fishing boat operators),
 
-&emsp;&emsp;(K) section 6050H(d) or (h)(2) relating <sup>3</sup> to returns relating to mortgage interest received in trade or business from individuals),
+&emsp;&emsp;(K) section 6050H(d) or (h)(2) relating <sup>4</sup> to returns relating to mortgage interest received in trade or business from individuals),
 
 &emsp;&emsp;(L) section 6050I(e) or paragraph (4) or (5) of section 6050I(g) (relating to cash received in trade or business, etc.),
 
@@ -150,9 +152,11 @@ For purposes of this part—
 
 &emsp;&emsp;(AA) section 264(f)(5)(A)(iv) (relating to reporting with respect to certain life insurance and annuity contracts),
 
-&emsp;&emsp;(BB) section 6050T (relating to returns relating to credit for health insurance costs of eligible individuals) <sup>4</sup>
+&emsp;&emsp;(BB) section 6050T (relating to returns relating to credit for health insurance costs of eligible individuals) <sup>5</sup>
 
-&emsp;&emsp;(CC) section 6050U (relating to charges or payments for qualified long-term care insurance contracts under combined arrangements).
+&emsp;&emsp;(CC) section 6050U (relating to charges or payments for qualified long-term care insurance contracts under combined arrangements), or
+
+&emsp;&emsp;(DD) section 6050W(c) (relating to returns relating to payments made in settlement of payment card transactions).
 
 > &emsp;Such term also includes any form, statement, or schedule required to be furnished to the recipient of any amount from which tax was required to be deducted and withheld under chapter 3 (or from which tax would be required to be so deducted and withheld but for an exemption under this title or any treaty obligation of the United States).
 
@@ -190,7 +194,25 @@ For purposes of this part—
 
 If any partnership return under section 6031(a) is required under section 6011(e) to be filed on magnetic media or in other machine-readable form, for purposes of this part, each schedule required to be included with such return with respect to each partner shall be treated as a separate information return.
 
-(Added Pub. L. 99–514, title XV, §1501(a), Oct. 22, 1986, 100 Stat. 2734; amended Pub. L. 100–418, title I, §1941(b)(2)(M), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title I, §§1006(h)(3)(A), 1015(a), title III, §3001(b)(1), (2), Nov. 10, 1988, 102 Stat. 3410, 3568, 3614; Pub. L. 101–239, title VII, §§7711(a), 7811(c)(3), 7813(a), Dec. 19, 1989, 103 Stat. 2391, 2407, 2412; Pub. L. 101–508, title XI, §§11212(e)(1), 11323(b)(2), (c)(2), Nov. 5, 1990, 104 Stat. 1388–432, 1388–465; Pub. L. 102–486, title XIX, §1933(b), Oct. 24, 1992, 106 Stat. 3031; Pub. L. 103–66, title XIII, §13252(b), Aug. 10, 1993, 107 Stat. 532; Pub. L. 103–322, title II, §20415(b)(1), (2), Sept. 13, 1994, 108 Stat. 1833; Pub. L. 104–188, title I, §§1116(b)(2)(A), (B), 1455(a), 1615(a)(2)(B), 1702(b)(1), (c)(2), 1704(j)(3), 1901(c)(1), Aug. 20, 1996, 110 Stat. 1764, 1817, 1853, 1868, 1869, 1881, 1908; Pub. L. 104–191, title III, §323(b), Aug. 21, 1996, 110 Stat. 2062; Pub. L. 105–34, title II, §201(c)(2), title XII, §§1213(b), 1223(b), title XVI, §1602(d)(2)(A), Aug. 5, 1997, 111 Stat. 805, 1001, 1019, 1094; Pub. L. 105–206, title VI, §§6004(a)(3), 6010(<i>o</i>)(4)(B), (C), 6012(b)(5), (d), July 22, 1998, 112 Stat. 792, 816, 819; Pub. L. 106–554, §1(a)(7) \[title III, §319(23)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–647; Pub. L. 107–210, div. A, title II, §202(c)(2), Aug. 6, 2002, 116 Stat. 962; Pub. L. 108–357, title VIII, §§805(b),853(d)(2)(L), (M), Oct. 22, 2004, 118 Stat. 1574, 1613; Pub. L. 109–280, title VIII, §844(d)(2), title XII, §1211(b)(1), Aug. 17, 2006, 120 Stat. 1012, 1073; Pub. L. 109–432, div. A, title IV, §403(c)(1), (2), Dec. 20, 2006, 120 Stat. 2955; Pub. L. 110–172, §11(b)(2), Dec. 29, 2007, 121 Stat. 2488.)
+(Added Pub. L. 99–514, title XV, §1501(a), Oct. 22, 1986, 100 Stat. 2734; amended Pub. L. 100–418, title I, §1941(b)(2)(M), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title I, §§1006(h)(3)(A), 1015(a), title III, §3001(b)(1), (2), Nov. 10, 1988, 102 Stat. 3410, 3568, 3614; Pub. L. 101–239, title VII, §§7711(a), 7811(c)(3), 7813(a), Dec. 19, 1989, 103 Stat. 2391, 2407, 2412; Pub. L. 101–508, title XI, §§11212(e)(1), 11323(b)(2), (c)(2), Nov. 5, 1990, 104 Stat. 1388–432, 1388–465; Pub. L. 102–486, title XIX, §1933(b), Oct. 24, 1992, 106 Stat. 3031; Pub. L. 103–66, title XIII, §13252(b), Aug. 10, 1993, 107 Stat. 532; Pub. L. 103–322, title II, §20415(b)(1), (2), Sept. 13, 1994, 108 Stat. 1833; Pub. L. 104–188, title I, §§1116(b)(2)(A), (B), 1455(a), 1615(a)(2)(B), 1702(b)(1), (c)(2), 1704(j)(3), 1901(c)(1), Aug. 20, 1996, 110 Stat. 1764, 1817, 1853, 1868, 1869, 1881, 1908; Pub. L. 104–191, title III, §323(b), Aug. 21, 1996, 110 Stat. 2062; Pub. L. 105–34, title II, §201(c)(2), title XII, §§1213(b), 1223(b), title XVI, §1602(d)(2)(A), Aug. 5, 1997, 111 Stat. 805, 1001, 1019, 1094; Pub. L. 105–206, title VI, §§6004(a)(3), 6010(<i>o</i>)(4)(B), (C), 6012(b)(5), (d), July 22, 1998, 112 Stat. 792, 816, 819; Pub. L. 106–554, §1(a)(7) \[title III, §319(23)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–647; Pub. L. 107–210, div. A, title II, §202(c)(2), Aug. 6, 2002, 116 Stat. 962; Pub. L. 108–357, title VIII, §§805(b), 853(d)(2)(L), (M), Oct. 22, 2004, 118 Stat. 1574, 1613; Pub. L. 109–280, title VIII, §844(d)(2), title XII, §1211(b)(1), Aug. 17, 2006, 120 Stat. 1012, 1073; Pub. L. 109–432, div. A, title IV, §403(c)(1), (2), Dec. 20, 2006, 120 Stat. 2955; Pub. L. 110–172, §11(b)(2), Dec. 29, 2007, 121 Stat. 2488; Pub. L. 110–289, div. C, title III, §3091(b), July 30, 2008, 122 Stat. 2910; Pub. L. 110–343, div. B, title IV, §403(c)(2), (d)(2), Oct. 3, 2008, 122 Stat. 3858, 3860.)
+
+#### Amendment of Subsection (d)
+
+<i>Pub. L. 110–343, div. B, title IV, §403(c)(2), (d)(2), (e), Oct. 3, 2008, 122 Stat. 3858, 3860, provided that, effective Jan. 1, 2011, subsection (d) of this section is amended as follows:</i>
+
+<i>(1) in subparagraph (B) of paragraph (1), by redesignating clause (iv) and each of the clauses which follow as clauses (v) through (xxiii), respectively, and by inserting after clause (iii) the following new clause:</i>
+
+&emsp;&emsp;&emsp;<i>“(iv) section 6045B(a) (relating to returns relating to actions affecting basis of specified securities),”; and</i>
+
+<i>(2) in paragraph (2):</i>
+
+<i>(A) by redesignating subparagraphs (I) through (DD) as subparagraphs (J) through (EE), respectively, and by inserting after subparagraph (H) the following new subparagraph:</i>
+
+&emsp;&emsp;<i>“(I) section 6045A (relating to information required in connection with transfers of covered securities to brokers),”; and</i>
+
+<i>(B) by further redesignating subparagraphs (J) through (EE) as subparagraphs (K) through (FF), respectively, and by inserting after subparagraph (I) the following new subparagraph:</i>
+
+&emsp;&emsp;<i>“(J) subsections (c) and (e) of section 6045B (relating to returns relating to actions affecting basis of specified securities),”.</i>
 
 #### Codification
 
@@ -199,6 +221,20 @@ Section 1211(b)(1) of Pub. L. 109–280, which directed the amendment of section
 Amendments to subsec. (d)(2) of this section by section 1901(c)(1) of Pub. L. 104–188 were executed before amendments by sections 1116(b)(2)(B) and 1455(a)(2) of Pub. L. 104–188, to reflect the probable intent of Congress.
 
 #### Amendments
+
+2008—Subsec. (d)(1)(B)(xix). Pub. L. 110–289, §3091(b)(1)(B), redesignated cl. (xix) relating to section 6039(a) as (xxi).
+
+Subsec. (d)(1)(B)(xx). Pub. L. 110–289, §3091(b)(1)(A), which directed amendment of cl. (xx) by striking “or” at end, could not be executed because “or” did not appear.
+
+Subsec. (d)(1)(B)(xxi). Pub. L. 110–289, §3091(b)(1)(B), (C), redesignated cl. (xix) as (xxi) and substituted “or” for “and” at end.
+
+Subsec. (d)(1)(B)(xxii). Pub. L. 110–289, §3091(b)(1)(D), added cl. (xxii).
+
+Subsec. (d)(2)(BB). Pub. L. 110–289, §3091(b)(2), which directed amendment of subpar. (BB) by striking “or” at end, could not be executed because “or” did not appear.
+
+Subsec. (d)(2)(CC). Pub. L. 110–289, §3091(b)(2), substituted “, or” for period at end.
+
+Subsec. (d)(2)(DD). Pub. L. 110–289, §3091(b)(2), added subpar. (DD).
 
 2007—Subsec. (d)(1)(B)(iv). Pub. L. 110–172, §11(b)(2)(A), inserted “or (h)(1)” after “section 6050H(a)”.
 
@@ -376,7 +412,7 @@ Pub. L. 104–188, §1704(j)(3), substituted “section 6109(h)” for “sectio
 
 Subsec. (d)(2)(K). Pub. L. 103–322, §20415(b)(2), amended subpar. (K) generally. Prior to amendment, subpar. (K) read as follows: “section 6050I(e) (relating to returns relating to cash received in trade or business),”.
 
-1993—Subsec. (d)(1)(B)(viii) to (xiv). Pub. L. 103–66, §13252(b)(1), which directed amendment of subsec. (d)(1)(B) by adding a new cl. (viii) after cl. (vii) and redesignating the following cls. accordingly, was executed by adding cl. (viii) and redesignating former cls. (viii), (ix), (x), (xi), (xii) (relating to section 4101(d)), and (xii) (relating to subpar. (C) of section 338(h)(10)) as (ix), (x), (xi), (xii), (xiii), and (xiv), respectively, to reflect the probable intent of Congress.
+1993—Subsec. (d)(1)(B)(viii) to (xiv). Pub. L. 103–66, §13252(b)(1), which directed amendment of subsec. (d)(1)(B) by adding a new cl. (viii) after cl. (vii) and redesignating the following cls. accordingly, was executed by adding cl. (viii) and redesignating former cls.\(viii), (ix), (x), (xi), (xii) (relating to section 4101(d)), and (xii) (relating to subpar. (C) of section 338(h)(10)) as (ix), (x), (xi), (xii), (xiii), and (xiv), respectively, to reflect the probable intent of Congress.
 
 Subsec. (d)(2)(P) to (T). Pub. L. 103–66, §13252(b)(2), added subpar. (P) and redesignated former subpars. (P) through (S) as (Q) through (T), respectively.
 
@@ -415,6 +451,12 @@ Subsec. (d)(2). Pub. L. 100–647, §3001(b)(2), which directed that “or” be
 Pub. L. 100–418, §1941(b)(2)(M)(ii), redesignated subpars. (B) to (J) as (A) to (I), respectively, and struck out former subpar. (A) which read as follows: “section 4997(a) (relating to records and information; regulations),” and redesignated subpars. (L) to (T) as (J) to (R), respectively, and struck out former subpar. (K) which read as follows: “section 6050C (relating to information regarding windfall profit tax on domestic crude oil),”.
 
 Subsec. (d)(2)(B). Pub. L. 100–647, §1015(a), substituted “6031(b) or (c)” for “6031(b)”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–343 effective Jan. 1, 2011, see section 403(e)(1) of Pub. L. 110–343, set out as a note under section 1012 of this title.
+
+Amendment by Pub. L. 110–289 applicable to returns for calendar years beginning after Dec. 31, 2010, with exception for purposes of carrying out any TIN matching program, see section 3091(e) of Pub. L. 110–289, set out as a note under section 3406 of this title.
 
 #### Effective Date of 2007 Amendment
 
@@ -534,11 +576,13 @@ Nothing in amendment by Pub. L. 107–210, other than provisions relating to COB
 
 For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
 
-<i><sup>1</sup></i><i> So in original. Two cls. (xix) have been enacted.</i>
+<i><sup>1</sup></i><i> So in original. The word “or” probably should not appear.</i>
 
-<i><sup>2</sup></i><i> So in original. The period probably should be a comma.</i>
+<i><sup>2</sup></i><i> So in original. The word “and” probably should not appear.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be preceded by an opening parenthesis.</i>
+<i><sup>3</sup></i><i> So in original. The period probably should be a comma.</i>
 
-<i><sup>4</sup></i><i> So in original. A comma and the word “or” probably should appear.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be preceded by an opening parenthesis.</i>
+
+<i><sup>5</sup></i><i> So in original. A comma probably should appear.</i>
 

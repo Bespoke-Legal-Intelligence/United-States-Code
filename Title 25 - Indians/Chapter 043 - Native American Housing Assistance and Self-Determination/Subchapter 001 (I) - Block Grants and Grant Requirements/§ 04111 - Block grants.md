@@ -2,7 +2,17 @@
 
 #### (a) Authority
 
-For each fiscal year, the Secretary shall (to the extent amounts are made available to carry out this chapter) make grants under this section on behalf of Indian tribes to carry out affordable housing activities. Under such a grant on behalf of an Indian tribe, the Secretary shall provide the grant amounts for the tribe directly to the recipient for the tribe.
+#### (1) In general
+
+&emsp;For each fiscal year, the Secretary shall (to the extent amounts are made available to carry out this chapter) make grants under this section on behalf of Indian tribes—
+
+&emsp;&emsp;(A) to carry out affordable housing activities under part A of subchapter II; and
+
+&emsp;&emsp;(B) to carry out self-determined housing activities for tribal communities programs under part B of that subchapter.
+
+#### (2) Provision of amounts
+
+&emsp;Under such a grant on behalf of an Indian tribe, the Secretary shall provide the grant amounts for the tribe directly to the recipient for the tribe.
 
 #### (b) Plan requirement
 
@@ -44,13 +54,13 @@ Notwithstanding subsection (d) of this section, a grant recipient that does not 
 
 Except as otherwise provided under this chapter, the amount of a grant under this section to a recipient for a fiscal year shall be—
 
-&emsp;(1) in the case of a recipient whose grant beneficiary is a single Indian tribe, theamount of the allocation under section 4151 of this title for the Indian tribe; and
+&emsp;(1) in the case of a recipient whose grant beneficiary is a single Indian tribe, the amount of the allocation under section 4151 of this title for the Indian tribe; and
 
 &emsp;(2) in the case of a recipient whose grant beneficiary is more than 1 Indian tribe, the sum of the amounts of the allocations under section 4151 of this title for each such Indian tribe.
 
 #### (g) Use for affordable housing activities under plan
 
-Except as provided in subsection (h) of this section, amounts provided under a grant under this section may be used only for affordable housing activities under subchapter II of this chapter that are consistent with an Indian housing plan approved under section 4113 of this title.
+Except as provided in subsection (h) of this section and part B of subchapter II, amounts provided under a grant under this section may be used only for affordable housing activities under subchapter II of this chapter that are consistent with an Indian housing plan approved under section 4113 of this title.
 
 #### (h) Administrative and planning expenses
 
@@ -60,15 +70,33 @@ The Secretary shall, by regulation, authorize each recipient to use a percentage
 
 Each recipient shall make all reasonable efforts, consistent with the purposes of this chapter, to maximize participation by the private sector, including nonprofit organizations and for-profit entities, in implementing the approved Indian housing plan.
 
-(Pub. L. 104–330, title I, §101, Oct. 26, 1996, 110 Stat. 4022; Pub. L. 105–276, title V, §595(e)(3), (4), Oct. 21, 1998, 112 Stat. 2656, 2657; Pub. L. 106–568, title X, §1003(a), Dec. 27, 2000, 114 Stat. 2925; Pub. L. 106–569, title V, §503(a), Dec. 27, 2000, 114 Stat. 2961; Pub. L. 107–292, §4, Nov. 13, 2002, 116 Stat. 2054.)
+#### (j) Federal supply sources
+
+For purposes of section 501 of title 40, on election by the applicable Indian tribe—
+
+&emsp;(1) each Indian tribe or tribally designated housing entity shall be considered to be an Executive agency in carrying out any program, service, or other activity under this chapter; and
+
+&emsp;(2) each Indian tribe or tribally designated housing entity and each employee of the Indian tribe or tribally designated housing entity shall have access to sources of supply on the same basis as employees of an Executive agency.
+
+#### (k) Tribal preference in employment and contracting
+
+Notwithstanding any other provision of law, with respect to any grant (or portion of a grant) made on behalf of an Indian tribe under this chapter that is intended to benefit 1 Indian tribe, the tribal employment and contract preference laws (including regulations and tribal ordinances) adopted by the Indian tribe that receives the benefit shall apply with respect to the administration of the grant (or portion of a grant).
+
+(Pub. L. 104–330, title I, §101, Oct. 26, 1996, 110 Stat. 4022; Pub. L. 105–276, title V, §595(e)(3), (4), Oct. 21, 1998, 112 Stat. 2656, 2657; Pub. L. 106–568, title X, §1003(a), Dec. 27, 2000, 114 Stat. 2925; Pub. L. 106–569, title V, §503(a), Dec. 27, 2000, 114 Stat. 2961; Pub. L. 107–292, §4, Nov. 13, 2002, 116 Stat. 2054; Pub. L. 110–411, title I, §101, Oct. 14, 2008, 122 Stat. 4320.)
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, as amended, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
 The United States Housing Act of 1937, referred to in subsec. (d), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–411, §101(1), designated first sentence as par. (1) and inserted heading, substituted “tribes—” for “tribes to carry out affordable housing activities.”, added subpars. (A) and (B), and designated second sentence as par. (2) and inserted heading.
+
+Subsec. (g). Pub. L. 110–411, §101(2), inserted “of this section and part B of subchapter II” after “subsection (h)”.
+
+Subsecs. (j), (k). Pub. L. 110–411, §101(3), added subsecs. (j) and (k).
 
 2002—Subsec. (h). Pub. L. 107–292 inserted “and planning” after “Administrative” in heading and “for comprehensive housing and community development planning activities and” after “received under this chapter” in text.
 

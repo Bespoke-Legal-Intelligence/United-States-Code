@@ -16,7 +16,7 @@ This Act, referred to in subsec. (a), is Pub. L. 101–625, Nov. 28, 1990, 104 S
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–550 struck out “, and” after “responsibilities” and substituted for period atend “and the ability to respond to areas identified as ‘material weaknesses’ by the Office of the Inspector General in financial audits or other reports.”
+1992—Subsec. (a). Pub. L. 102–550 struck out “, and” after “responsibilities” and substituted for period at end “and the ability to respond to areas identified as ‘material weaknesses’ by the Office of the Inspector General in financial audits or other reports.”
 
 #### Change of Name
 

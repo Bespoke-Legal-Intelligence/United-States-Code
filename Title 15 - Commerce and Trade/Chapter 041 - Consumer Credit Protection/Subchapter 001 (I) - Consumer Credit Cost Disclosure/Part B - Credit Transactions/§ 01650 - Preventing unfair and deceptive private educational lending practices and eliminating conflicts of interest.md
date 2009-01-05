@@ -1,0 +1,104 @@
+### §1650. Preventing unfair and deceptive private educational lending practices and eliminating conflicts of interest
+
+#### (a) Definitions
+
+As used in this section—
+
+&emsp;(1) the term “covered educational institution”—
+
+&emsp;&emsp;(A) means any educational institution that offers a postsecondary educational degree, certificate, or program of study (including any institution of higher education); and
+
+&emsp;&emsp;(B) includes an agent, officer, or employee of the educational institution;
+
+&emsp;(2) the term “gift”—
+
+&emsp;&emsp;(A)(i) means any gratuity, favor, discount, entertainment, hospitality, loan, or other item having more than a de minimis monetary value, including services, transportation, lodging, or meals, whether provided in kind, by purchase of a ticket, payment in advance, or reimbursement after the expense has been incurred; and
+
+&emsp;&emsp;(ii) includes an item described in clause (i) provided to a family member of an officer, employee, or agent of a covered educational institution, or to any other individual based on that individual's relationship with the officer, employee, or agent, if—
+
+&emsp;&emsp;&emsp;(I) the item is provided with the knowledge and acquiescence of the officer, employee, or agent; and
+
+&emsp;&emsp;&emsp;(II) the officer, employee, or agent has reason to believe the item was provided because of the official position of the officer, employee, or agent; and
+
+&emsp;&emsp;(B) does not include—
+
+&emsp;&emsp;&emsp;(i) standard informational material related to a loan, default aversion, default prevention, or financial literacy;
+
+&emsp;&emsp;&emsp;(ii) food, refreshments, training, or informational material furnished to an officer, employee, or agent of a covered educational institution, as an integral part of a training session or through participation in an advisory council that is designed to improve the service of the private educational lender to the covered educational institution, if such training or participation contributes to the professional development of the officer, employee, or agent of the covered educational institution;
+
+&emsp;&emsp;&emsp;(iii) favorable terms, conditions, and borrower benefits on a private education loan provided to a student employed by the covered educational institution, if such terms, conditions, or benefits are not provided because of the student's employment with the covered educational institution;
+
+&emsp;&emsp;&emsp;(iv) the provision of financial literacy counseling or services, including counseling or services provided in coordination with a covered educational institution, to the extent that such counseling or services are not undertaken to secure—
+
+&emsp;&emsp;&emsp;&emsp;(I) applications for private education loans or private education loan volume;
+
+&emsp;&emsp;&emsp;&emsp;(II) applications or loan volume for any loan made, insured, or guaranteed under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.) \[and 42 U.S.C. 2751 et seq.\]; or
+
+&emsp;&emsp;&emsp;&emsp;(III) the purchase of a product or service of a specific private educational lender;
+
+&emsp;&emsp;&emsp;(v) philanthropic contributions to a covered educational institution from a private educational lender that are unrelated to private education loans and are not made in exchange for any advantage related to private education loans; or
+
+&emsp;&emsp;&emsp;(vi) State education grants, scholarships, or financial aid funds administered by or on behalf of a State;
+
+&emsp;(3) the term “institution of higher education” has the same meaning as in section 102 of the Higher Education Act of 1965 (20 U.S.C. 1002);
+
+&emsp;(4) the term “postsecondary educational expenses” means any of the expenses that are included as part of the cost of attendance of a student, as defined under section 472 of the Higher Education Act of 1965 (20 U.S.C. 1087<i>ll</i>);
+
+&emsp;(5) the term “preferred lender arrangement” has the same meaning as in section 151 of the Higher Education Act of 1965 \[20 U.S.C. 1019\];
+
+&emsp;(6) the term “private educational lender” means—
+
+&emsp;&emsp;(A) a financial institution, as defined in section 1813 of title 12 that solicits, makes, or extends private education loans;
+
+&emsp;&emsp;(B) a Federal credit union, as defined in section 1752 of title 12 that solicits, makes, or extends private education loans; and
+
+&emsp;&emsp;(C) any other person engaged in the business of soliciting, making, or extending private education loans;
+
+&emsp;(7) the term “private education loan”—
+
+&emsp;&emsp;(A) means a loan provided by a private educational lender that—
+
+&emsp;&emsp;&emsp;(i) is not made, insured, or guaranteed under of <sup>1</sup> title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.) \[and 42 U.S.C. 2751 et seq.\]; and
+
+&emsp;&emsp;&emsp;(ii) is issued expressly for postsecondary educational expenses to a borrower, regardless of whether the loan is provided through the educational institution that the subject student attends or directly to the borrower from the private educational lender; and
+
+&emsp;&emsp;(B) does not include an extension of credit under an open end consumer credit plan, a reverse mortgage transaction, a residential mortgage transaction, or any other loan that is secured by real property or a dwelling; and
+
+&emsp;(8) the term “revenue sharing” means an arrangement between a covered educational institution and a private educational lender under which—
+
+&emsp;&emsp;(A) a private educational lender provides or issues private education loans with respect to students attending the covered educational institution;
+
+&emsp;&emsp;(B) the covered educational institution recommends to students or others the private educational lender or the private education loans of the private educational lender; and
+
+&emsp;&emsp;(C) the private educational lender pays a fee or provides other material benefits, including profit sharing, to the covered educational institution in connection with the private education loans provided to students attending the covered educational institution or a borrower acting on behalf of a student.
+
+#### (b) Prohibition on certain gifts and arrangements
+
+A private educational lender may not, directly or indirectly—
+
+&emsp;(1) offer or provide any gift to a covered educational institution in exchange for any advantage or consideration provided to such private educational lender related to its private education loan activities; or
+
+&emsp;(2) engage in revenue sharing with a covered educational institution.
+
+#### (c) Prohibition on co-branding
+
+A private educational lender may not use the name, emblem, mascot, or logo of the covered educational institution, or other words, pictures, or symbols readily identified with the covered educational institution, in the marketing of private education loans in any way that implies that the covered educational institution endorses the private education loans offered by the private educational lender.
+
+#### (d) Advisory Board compensation
+
+Any person who is employed in the financial aid office of a covered educational institution, or who otherwise has responsibilities with respect to private education loans or other financial aid of the institution, and who serves on an advisory board, commission, or group established by a private educational lender or group of such lenders shall be prohibited from receiving anything of value from the private educational lender or group of lenders. Nothing in this subsection prohibits the reimbursement of reasonable expenses incurred by an employee of a covered educational institution as part of their service on an advisory board, commission, or group described in this subsection.
+
+#### (e) Prohibition on prepayment or repayment fees or penalty
+
+It shall be unlawful for any private educational lender to impose a fee or penalty on a borrower for early repayment or prepayment of any private education loan.
+
+(Pub. L. 90–321, title I, §140, as added Pub. L. 110–315, title X, §1011(a), Aug. 14, 2008, 122 Stat. 3479.)
+
+#### References in Text
+
+The Higher Education Act of 1965, referred to in subsec. (a)(2)(B)(iv)(II), (7)(A)(i), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+
+#### Effective Date
+
+Subsec. (c) of this section effective on the earlier of the date on which regulations issued under section 1002 of Pub. L. 110–315 (set out as a note under section 1638 of this title) become effective or 18 months after Aug. 14, 2008, see section 1003 of Pub. L. 110–315, set out as an Effective Date of 2008 Amendment note under section 1638 of this title.
+

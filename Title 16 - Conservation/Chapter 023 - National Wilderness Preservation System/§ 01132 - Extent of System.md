@@ -4,7 +4,7 @@
 
 All areas within the national forests classified at least 30 days before September 3, 1964 by the Secretary of Agriculture or the Chief of the Forest Service as “wilderness”, “wild”, or “canoe” are hereby designated as wilderness areas. The Secretary of Agriculture shall—
 
-&emsp;(1) Within one year after September 3, 1964, file a map and legal description of each wilderness area with the Interior and Insular Affairs Committees of the United States Senate and the House of Representatives, and such descriptions shall have the same force and effectas if included in this chapter: <i>Provided, however</i>, That correction of clerical and typographical errors in such legal descriptions and maps may be made.
+&emsp;(1) Within one year after September 3, 1964, file a map and legal description of each wilderness area with the Interior and Insular Affairs Committees of the United States Senate and the House of Representatives, and such descriptions shall have the same force and effect as if included in this chapter: <i>Provided, however</i>, That correction of clerical and typographical errors in such legal descriptions and maps may be made.
 
 &emsp;(2) Maintain, available to the public, records pertaining to said wilderness areas, including maps and legal descriptions, copies of regulations governing them, copies of public notices of, and reports submitted to Congress regarding pending additions, eliminations, or modifications. Maps, legal descriptions, and regulations pertaining to wilderness areas within their respective jurisdictions also shall be available to the public in the offices of regional foresters, national forest supervisors, and forest rangers.
 
@@ -24,7 +24,7 @@ Within ten years after September 3, 1964 the Secretary of the Interior shall rev
 
 &emsp;(B) hold a public hearing or hearings at a location or locations convenient to the area affected. The hearings shall be announced through such means as the respective Secretaries involved deem appropriate, including notices in the Federal Register and in newspapers of general circulation in the area: <i>Provided</i>, That if the lands involved are located in more than one State, at least one hearing shall be held in each State in which a portion of the land lies;
 
-&emsp;(C) at least thirty days before the date of a hearing advise the Governor of each State andthe governing board of each county, or in Alaska the borough, in which the lands are located, and Federal departments and agencies concerned, and invite such officials and Federal agencies to submit their views on the proposed action at the hearing or by no later than thirty days following the date of the hearing.
+&emsp;(C) at least thirty days before the date of a hearing advise the Governor of each State and the governing board of each county, or in Alaska the borough, in which the lands are located, and Federal departments and agencies concerned, and invite such officials and Federal agencies to submit their views on the proposed action at the hearing or by no later than thirty days following the date of the hearing.
 
 (2) Any views submitted to the appropriate Secretary under the provisions of (1) of this subsection with respect to any area shall be included with any recommendations to the President and to Congress with respect to such area.
 
@@ -366,7 +366,7 @@ Delamar Mountains Wilderness, of Bureau of Land Management, Nevada.–Pub. L. 10
 
 Delirium Wilderness, Hiawatha National Forest, Michigan.—Pub. L. 100–184, §3(j), Dec. 8, 1987, 101 Stat. 1275.
 
-Denali Wilderness, Denali National Park and Preserve, Alaska.—Pub. L. 96–487, title VII, §701(1), Dec. 2, 1980, 94 Stat. 2417.
+Denali Wilderness, Denali National Park and Preserve, Alaska.—Pub. L. 96–487, title VII, §701(1), Dec. 2, 1980, 94 Stat. 2417; Pub. L. 110–229, title III, §351, May 8, 2008, 122 Stat. 800.
 
 Deseret Peak Wilderness, Wasatch National Forest, Utah.—Pub. L. 98–428, title I, §102(a)(12), Sept. 28, 1984, 98 Stat. 1658.
 
@@ -1425,6 +1425,8 @@ Wichita Mountains Wilderness, Wichita Mountains National Wildlife Refuge, Oklaho
 Wild River Wilderness, White Mountain National Forest, New Hampshire.—Pub. L. 109–382, title I, §102(1), Dec. 1, 2006, 120 Stat. 2673.
 
 Wild Rogue Wilderness, Siskiyou National Forest, Oregon.—Pub. L. 95–237, §3(b), Feb. 24, 1978, 92 Stat. 43.
+
+Wild Sky Wilderness, Washington.—Pub. L. 110–229, title I, §101(a), May 8, 2008, 122 Stat. 757.
 
 William O. Douglas Wilderness, Wenatchee and Gifford Pinchot National Forests, Washington.—Pub. L. 98–339, §3(21), July 3, 1984, 98 Stat. 302.
 

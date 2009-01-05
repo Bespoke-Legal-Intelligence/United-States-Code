@@ -14,7 +14,7 @@
 - [&sect; 00222 - Administration, concessions, and privileges; contracts for sale of water](%C2%A7%2000222%20-%20Administration%2C%20concessions%2C%20and%20privileges%3B%20contracts%20for%20sale%20of%20water.md)
 - [&sect; 00223 - Repealed. Pub. L. 93&#8211;620, &sect;10(f), Jan. 3, 1975, 88 Stat. 2093](%C2%A7%2000223%20-%20Repealed.%20Pub.%20L.%2093%E2%80%93620%2C%20%C2%A710%28f%29%2C%20Jan.%203%2C%201975%2C%2088%20Stat.%202093.md)
 - [&sect; 00224 - Entries under land laws; toll road](%C2%A7%2000224%20-%20Entries%20under%20land%20laws%3B%20toll%20road.md)
-- [&sect; 00225 - Laws applicable; easements and rights-of-ways](%C2%A7%2000225%20-%20Laws%20applicable%3B%20easements%20and%20rights-of-ways.md)
+- [&sect; 00225 - Laws applicable; easements and rights-of-way](%C2%A7%2000225%20-%20Laws%20applicable%3B%20easements%20and%20rights-of-way.md)
 - [&sect; 00226 - Omitted](%C2%A7%2000226%20-%20Omitted.md)
 - [&sect; 00227 - Utilization of areas for Government reclamation projects](%C2%A7%2000227%20-%20Utilization%20of%20areas%20for%20Government%20reclamation%20projects.md)
 - [&sect; 00228 - Buildings on privately owned lands](%C2%A7%2000228%20-%20Buildings%20on%20privately%20owned%20lands.md)

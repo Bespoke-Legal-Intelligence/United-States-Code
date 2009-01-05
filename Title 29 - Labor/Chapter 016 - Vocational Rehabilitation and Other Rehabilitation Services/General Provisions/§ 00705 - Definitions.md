@@ -128,7 +128,7 @@ For the purposes of this chapter:
 
 #### (B) Cost of construction
 
-&emsp;&emsp;The term “cost of construction” includes architects’ fees and the cost of acquisition ofland in connection with construction but does not include the cost of offsite improvements.
+&emsp;&emsp;The term “cost of construction” includes architects’ fees and the cost of acquisition of land in connection with construction but does not include the cost of offsite improvements.
 
 #### (7) Repealed. Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(c)(1)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–415
 
@@ -152,7 +152,7 @@ For the purposes of this chapter:
 
 &emsp;&emsp;(A) except as otherwise provided in subparagraph (B), a physical or mental impairment that constitutes or results in a substantial impediment to employment; or
 
-&emsp;&emsp;(B) for purposes of sections 701, 711, and 712 of this title, and subchapters II, IV, V, and VII of this chapter, a physical or mental impairment that substantially limits one or more major life activities.
+&emsp;&emsp;(B) for purposes of sections 701, 711, and 712 of this title, and subchapters II, IV, V, and VII of this chapter, the meaning given it in section 12102 of title 42.
 
 #### (10) Drug and illegal use of drugs
 
@@ -310,13 +310,7 @@ For the purposes of this chapter:
 
 #### (B) Certain programs; limitations on major life activities
 
-&emsp;&emsp;Subject to subparagraphs (C), (D), (E), and (F), the term “individual with a disability”means, for purposes of sections 701, 711, and 712 of this title, and subchapters II, IV, V, and VII of this chapter, any person who—
-
-&emsp;&emsp;&emsp;(i) has a physical or mental impairment which substantially limits one or more of such person's major life activities;
-
-&emsp;&emsp;&emsp;(ii) has a record of such an impairment; or
-
-&emsp;&emsp;&emsp;(iii) is regarded as having such an impairment.
+&emsp;&emsp;Subject to subparagraphs (C), (D), (E), and (F), the term “individual with a disability” means, for purposes of sections 701, 711, and 712 of this title, and subchapters II, IV, V, and VII of this chapter, any person who has a disability as defined in section 12102 of title 42.
 
 #### (C) Rights and advocacy provisions
 
@@ -328,7 +322,7 @@ For the purposes of this chapter:
 
 &emsp;&emsp;&emsp;Nothing in clause (i) shall be construed to exclude as an individual with a disability an individual who—
 
-&emsp;&emsp;&emsp;&emsp;(I) has successfully completed a supervised drug rehabilitation program and is no longer engaging in the illegal use of drugs, or has otherwise been rehabilitated successfully and is no longer engaging in such use;
+&emsp;&emsp;&emsp;&emsp;(I) has successfully completed a supervised drug rehabilitation program and is no longer engaging in the illegal use ofdrugs, or has otherwise been rehabilitated successfully and is no longer engaging in such use;
 
 &emsp;&emsp;&emsp;&emsp;(II) is participating in a supervised rehabilitation program and is no longer engaging in such use; or
 
@@ -380,7 +374,7 @@ For the purposes of this chapter:
 
 &emsp;&emsp;Except as provided in subparagraph (B) or (C), the term “individual with a significant disability” means an individual with a disability—
 
-&emsp;&emsp;&emsp;(i) who has a severe physical or mental impairment which seriously limits one ormore functional capacities (such as mobility, communication, self-care, self-direction, interpersonal skills, work tolerance, or work skills) in terms of an employment outcome;
+&emsp;&emsp;&emsp;(i) who has a severe physical or mental impairment which seriously limits one or more functional capacities (such as mobility, communication, self-care, self-direction, interpersonal skills, work tolerance, or work skills) in terms of an employment outcome;
 
 &emsp;&emsp;&emsp;(ii) whose vocational rehabilitation can be expected to require multiple vocational rehabilitation services over an extended period of time; and
 
@@ -462,7 +456,7 @@ For the purposes of this chapter:
 
 #### (28) Personal assistance services
 
-&emsp;The term “personal assistance services” means a range of services, provided by one or more persons, designed to assist an individual with a disability to perform daily living activities on or off the job that the individual would typically perform if the individual did not have a disability. Such services shall be designed to increase the individual's control in life and ability to perform everyday activities on or off the job.
+&emsp;The term “personal assistance services” means a range of services, provided by one or more persons, designed to assist an individual with a disability to perform daily living activities on or off the job that the individualwould typically perform if the individual did not have a disability. Such services shall be designed to increase the individual's control in life and ability to perform everyday activities on or off the job.
 
 #### (29) Public or nonprofit
 
@@ -516,7 +510,7 @@ For the purposes of this chapter:
 
 #### (37) Transition services
 
-&emsp;The term “transition services” means a coordinated set of activities for a student, designed within an outcome-oriented process, that promotes movement from school to post school activities, including postsecondary education, vocational training, integrated employment (including supported employment), continuing and adult education, adult services, independent living, or community participation. The coordinated set of activities shall be based upon the individual student's needs, taking into account the student's preferences and interests, and shall include instruction, community experiences, the development of employment and other post schooladult living objectives, and, when appropriate, acquisition of daily living skills and functional vocational evaluation.
+&emsp;The term “transition services” means a coordinated set of activities for a student, designed within an outcome-oriented process, that promotes movement from school to post school activities, including postsecondary education, vocational training, integrated employment (including supported employment), continuing and adult education, adult services, independent living, or community participation. The coordinated set of activities shall be based upon the individual student's needs, taking into account the student's preferences and interests, and shall include instruction, community experiences, the development of employment and other post school adult living objectives, and, when appropriate, acquisition of daily living skills and functional vocational evaluation.
 
 #### (38) Vocational rehabilitation services
 
@@ -526,7 +520,7 @@ For the purposes of this chapter:
 
 &emsp;The term “workforce investment activities” means workforce investment activities, as defined in section 101 of the Workforce Investment Act of 1998 \[29 U.S.C. 2801\], that are carried out under that Act.
 
-(Pub. L. 93–112, §7, formerly §6, as added Pub. L. 105–220, title IV, §403, Aug. 7, 1998, 112 Stat. 1097; amended Pub. L. 105–244, title I, §102(a)(9)(A), Oct. 7, 1998, 112 Stat. 1619; renumbered §7 and amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(a)(1), (b)(3), (c)(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412, 2681–413, 2681–415; Pub. L. 105–394, title IV, §402(a), Nov. 13, 1998, 112 Stat. 3661.)
+(Pub. L. 93–112, §7, formerly §6, as added Pub. L. 105–220, title IV, §403, Aug. 7, 1998, 112 Stat. 1097; amended Pub. L. 105–244, title I, §102(a)(9)(A), Oct. 7, 1998, 112 Stat. 1619; renumbered §7 and amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(a)(1), (b)(3), (c)(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412, 2681–413, 2681–415; Pub. L. 105–394, title IV, §402(a), Nov. 13, 1998, 112 Stat. 3661; Pub. L. 110–325, §7, Sept. 25, 2008, 122 Stat. 3558.)
 
 #### References in Text
 
@@ -548,6 +542,16 @@ Another prior section 7 of Pub. L. 93–112 was classified to section 706 of thi
 
 #### Amendments
 
+2008—Par. (9)(B). Pub. L. 110–325, §7(1), substituted “the meaning given it in section 12102 of title 42” for “a physical or mental impairment that substantially limits one or more major life activities”.
+
+Par. (20)(B). Pub. L. 110–325, §7(2), substituted “any person who has a disability as defined in section 12102 of title 42.” for “any person who—
+
+&emsp;“(i) has a physical or mental impairment which substantially limits one or more of such person's major life activities;
+
+&emsp;“(ii) has a record of such an impairment; or
+
+&emsp;“(iii) is regarded as having such an impairment.”
+
 1998—Pub. L. 105–277, §101(f) \[title VIII, §402(b)(3)\], made technical amendment to section designation and catchline in the original and inserted par. (1) heading.
 
 Par. (2)(B). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(1)(A)\], substituted “nature” for “objectives, nature,”.
@@ -563,6 +567,10 @@ Par. (16)(A)(iii). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(1)(C)\], s
 Par. (23). Pub. L. 105–244 substituted “section 1001 of title 20” for “section 1141(a) of title 20”.
 
 Par. (36)(C). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(1)(D)\], substituted “employment outcome” for “rehabilitation objectives”.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–325, §8, Sept. 25, 2008, 122 Stat. 3559, provided that: “This Act \[enacting sections 12103 and 12205a of Title 42, The Public Health and Welfare, amending this section, former section 706 of this title, and sections 12101, 12102, 12111 to 12114, 12201, and 12206 to 12213 of Title 42, and enacting provisions set out as notes under section 12101 of Title 42\] and the amendments made by this Act shall become effective on January 1, 2009.”
 
 #### Effective Date of 1998 Amendment
 

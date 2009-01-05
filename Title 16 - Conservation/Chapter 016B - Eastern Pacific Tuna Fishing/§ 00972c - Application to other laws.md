@@ -8,7 +8,7 @@
 
 #### References in Text
 
-The Fishermen's Protective Act of 1967, referred to in subsec. (a), is act Aug. 27, 1954, ch. 1018, 68 Stat. 883, as amended, which is classified generally to chapter 25 (§1971 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 1971 of Title 22 and Tables.
+The Fishermen's Protective Act of 1967, referred to in subsec. (a), is act Aug. 27, 1954, ch. 1018, 68 Stat. 883, as amended, which is classified generally to chapter 25\(§1971 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 1971 of Title 22 and Tables.
 
 #### Amendments
 

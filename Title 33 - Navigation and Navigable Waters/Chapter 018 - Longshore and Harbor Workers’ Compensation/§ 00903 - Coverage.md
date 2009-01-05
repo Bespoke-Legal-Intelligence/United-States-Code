@@ -36,7 +36,7 @@ Notwithstanding any other provision of law, any amounts paid to an employee for 
 
 #### Codification
 
-In subsec. (e), “section 30104 of title 46” substituted for “section 20 of the Act of March 4, 1915 (38 Stat. 1185,chapter 153; 46 U.S.C. 688) (relating to recovery for injury to or death of seamen)” on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 30104 of Title 46, Shipping.
+In subsec. (e), “section 30104 of title 46” substituted for “section 20 of the Act of March 4, 1915 (38 Stat. 1185, chapter 153; 46 U.S.C. 688) (relating to recovery for injury to or death of seamen)” on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 30104 of Title 46, Shipping.
 
 #### Amendments
 

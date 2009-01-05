@@ -58,7 +58,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) include strategies for meeting the educational needs of historically underserved populations;
 
-&emsp;&emsp;&emsp;(iii)(I) include strategies to address the needs of all children in the school, but particularly the needs of low-achieving children and those at risk of not meeting the State student academic achievement standards who are members of the target population of any program that is included in the schoolwide program, which may include—
+&emsp;&emsp;&emsp;(iii)(I) include strategies to address the needs of all children in the school, but particularly the needs of low-achieving children and those at risk of not meeting the State student academic achievementstandards who are members of the target population of any program that is included in the schoolwide program, which may include—
 
 &emsp;&emsp;&emsp;&emsp;(aa) counseling, pupil services, and mentoring services;
 
@@ -116,7 +116,7 @@
 
 &emsp;&emsp;&emsp;(iv) available to the local educational agency, parents, and the public, and the information contained in such plan shall be in an understandable and uniform format and, to the extent practicable, provided in a language that the parents can understand; and
 
-&emsp;&emsp;&emsp;(v) if appropriate, developed in coordination with programs under Reading First, Early Reading First, Even Start, the Carl D. Perkins Career and Technical Education Act of 2006 \[20 U.S.C. 2301 et seq.\], and the Head Start Act \[42 U.S.C. 9831 et seq.\].
+&emsp;&emsp;&emsp;(v) if appropriate, developed in coordination with programs under Reading First, Early Reading First, Even Start, the CarlD. Perkins Career and Technical Education Act of 2006 \[20 U.S.C. 2301 et seq.\], and the Head Start Act \[42 U.S.C. 9831 et seq.\].
 
 #### (c) Prekindergarten program
 

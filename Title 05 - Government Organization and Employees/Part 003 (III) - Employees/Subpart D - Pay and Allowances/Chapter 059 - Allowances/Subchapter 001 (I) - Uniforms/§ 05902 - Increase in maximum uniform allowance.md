@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 July 18, 1966, Pub. L. 89–504, §407(b), 80 Stat. 299.
 
-The words “any other provision of” following “Notwithstanding” are omitted as unnecessary. The words “section 5901 of this title” are substituted for “this title” in three places to reflect the codification of that title in title 5, United States Code.
+The words “any other provision of” following “Notwithstanding” are omitted as unnecessary. The words“section 5901 of this title” are substituted for “this title” in three places to reflect the codification of that title in title 5, United States Code.
 
 #### Amendments
 

@@ -4,6 +4,8 @@ Part A—Renewable Fuel Standard
 
 <i><sup>2</sup></i><i> So in original. Probably should be “points”.</i>
 
+<i><sup>3</sup></i><i> So in original. Probably should be “of such”.</i>
+
 
 ---
 

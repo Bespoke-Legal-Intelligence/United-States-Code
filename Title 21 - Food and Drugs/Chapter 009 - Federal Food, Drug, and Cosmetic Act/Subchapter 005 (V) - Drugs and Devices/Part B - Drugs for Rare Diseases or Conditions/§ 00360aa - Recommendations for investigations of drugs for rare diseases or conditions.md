@@ -2,7 +2,7 @@
 
 #### (a) Request by sponsor; response by Secretary
 
-The sponsor of a drug for a disease or condition which is rare in the States may request the Secretary to provide written recommendations for the non-clinical and clinical investigations which must be conducted with the drug before—
+The sponsor of a drug for a disease or condition which is rare in the States may request theSecretary to provide written recommendations for the non-clinical and clinical investigations which must be conducted with the drug before—
 
 &emsp;(1) it may be approved for such disease or condition under section 355 of this title, or
 
@@ -18,7 +18,7 @@ The Secretary shall by regulation promulgate procedures for the implementation o
 
 #### Amendments
 
-1997—Subsec. (a). Pub. L. 105–115, §125(b)(2)(G), struck out “, certification of such drug for such disease orcondition under section 357 of this title,” before “or licensing of such drug” in closing provisions.
+1997—Subsec. (a). Pub. L. 105–115, §125(b)(2)(G), struck out “, certification of such drug for such disease or condition under section 357 of this title,” before “or licensing of such drug” in closing provisions.
 
 Subsec. (a)(1) to (3). Pub. L. 105–115, §125(b)(2)(F), inserted “or” at end of par. (1), redesignated par. (3) as (2), and struck out former par. (2), which read as follows: “if the drug is an antibiotic, it may be certified for such disease or condition under section 357 of this title, or”.
 

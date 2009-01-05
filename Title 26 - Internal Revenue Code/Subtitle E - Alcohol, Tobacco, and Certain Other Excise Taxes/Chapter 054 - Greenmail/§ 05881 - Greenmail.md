@@ -60,7 +60,7 @@ Subsec. (e). Pub. L. 100–647, §2004(<i>o</i>)(2), added subsec. (e).
 
 Amendment by section 2004(<i>o</i>)(1)(A), (C), (2) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provisions of the Revenue Act of 1987, Pub. L. 100–203, title X, to which such amendment relates, see section 2004(u) of Pub. L. 100–647, set out as a note under section 56 of this title.
 
-Section 2004(<i>o</i>)(1)(B)(ii) of Pub. L. 100–647 provided that: “The amendment made by clause (i) \[amendingthis section\] shall apply to transactions occurring on or after March 31, 1988.”
+Section 2004(<i>o</i>)(1)(B)(ii) of Pub. L. 100–647 provided that: “The amendment made by clause (i) \[amending this section\] shall apply to transactions occurring on or after March 31, 1988.”
 
 #### Effective Date
 

@@ -16,23 +16,21 @@ Integration Council.—(1) The Under Secretary of Defense for Intelligence shall
 
 &emsp;(C) the directors of the intelligence agencies of the Department of Defense.
 
-(3) The Under Secretary of Defense for Intelligence shall invite the participation of the Director of Central Intelligence (or that Director's representative) in the proceedings of the Council.
+(3) The Under Secretary of Defense for Intelligence shall invite the participation of the Director of National Intelligence (or that Director's representative) in the proceedings of the Council.
 
 (b) ISR
 
 Integration Roadmap.—(1) The Under Secretary of Defense for Intelligence shall develop a comprehensive plan, to be known as the “Defense Intelligence, Surveillance, and Reconnaissance Integration Roadmap”, to guide the development and integration of the Department of Defense intelligence, surveillance, and reconnaissance capabilities for the 15-year period of fiscal years 2004 through 2018.
 
-(2) The Under Secretary shall develop the Defense Intelligence, Surveillance, and Reconnaissance Integration Roadmap in consultation with the Intelligence, Surveillance, and Reconnaissance Integration Council and the Director of Central Intelligence.
+(2) The Under Secretary shall develop the Defense Intelligence, Surveillance, and Reconnaissance Integration Roadmap in consultation with the Intelligence, Surveillance, and Reconnaissance Integration Council and the Director of National Intelligence.
 
-(Added Pub. L. 108–136, div. A, title IX, §923(c)(1), Nov. 24, 2003, 117 Stat. 1575; amended Pub. L. 109–364, div. A, title X, §1071(a)(3), Oct. 17, 2006, 120 Stat. 2398.)
+(Added Pub. L. 108–136, div. A, title IX, §923(c)(1), Nov. 24, 2003, 117 Stat. 1575; amended Pub. L. 109–364, div. A, title X, §1071(a)(3), Oct. 17, 2006, 120 Stat. 2398; Pub. L. 110–181, div. A, title IX, §931(a)(7), (8), Jan. 28, 2008, 122 Stat. 285.)
 
 #### Amendments
 
+2008—Subsecs. (a)(3), (b)(2). Pub. L. 110–181 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+
 2006—Subsec. (a)(1)(B). Pub. L. 109–364 substituted “coordination” for “coordiation”.
-
-#### Change of Name
-
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
 
 #### Integration of Defense Intelligence, Surveillance, and Reconnaissance Capabilities
 

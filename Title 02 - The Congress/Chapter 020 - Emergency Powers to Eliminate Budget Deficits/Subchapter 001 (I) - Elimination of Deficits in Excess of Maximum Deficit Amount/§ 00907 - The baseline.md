@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For any budget year, the baseline refers to a projection of current-year levels of new budgetauthority, outlays, revenues, and the surplus or deficit into the budget year and the outyears based on laws enacted through the applicable date.
+For any budget year, the baseline refers to a projection of current-year levels of new budget authority, outlays, revenues, and the surplus or deficit into the budget year and the outyears based on laws enacted through the applicable date.
 
 #### (b) Direct spending and receipts
 
@@ -144,7 +144,7 @@ Pars. (13), (14). Pub. L. 100–119, §102(b)(8), added pars. (13) and (14).
 
 #### Definition of Terms Used in Balanced Budget and Emergency Deficit Control Act of 1985
 
-Pub. L. 101–163, title III, §315, Nov. 21, 1989, 103 Stat. 1066, provided that: “Effective in the case of this Act and any subsequent Act making appropriations for the Legislative Branch, for purposes of the Balanced Budget and Emergency Deficit Control Act of 1985 (Public Law 99–177), as amended \[see Short Title note set out under section 900 of this title\], or any other Act which requires a uniform percentage reduction in accounts in this Act and any subsequent Act making appropriations for the Legislative Branch, the accounts under the general heading ‘Senate’, and the accounts under the general heading ‘House of Representatives’, shall each be considered to be one appropriation account and one ‘program, project, and activity’.”
+Pub. L. 101–163, title III, §315, Nov. 21, 1989, 103 Stat. 1066, provided that: “Effective in the case of this Act and any subsequent Act making appropriations for the Legislative Branch, for purposes of the Balanced Budget and Emergency Deficit Control Act of 1985 (Public Law 99–177), as amended \[see Short Title note set out under section 900 of this title\], or any other Act which requires a uniform percentage reduction in accounts in this Act and any subsequent Act making appropriations for the Legislative Branch, the accounts under the general heading ‘Senate’, and the accounts under the general heading ‘House of Representatives’, shalleach be considered to be one appropriation account and one ‘program, project, and activity’.”
 
 Pub. L. 100–202, §101(i) \[title III, §306\], Dec. 22, 1987, 101 Stat. 1329–290, 1329–309, provided that: “Hereafter, for purposes of the Balanced Budget and Emergency Deficit Control Act of 1985 (Public Law 99–177), as amended \[see Short Title note set out under section 900 of this title\], the term ‘program, project, and activity’ shall be synonymous with each appropriation account in this Act \[see Tables for classification\], except that the accounts under the general heading ‘House of Representatives’ shall be considered one appropriation account and one ‘program, project, and activity’, and the accounts under the general heading ‘Senate’ shall be considered one appropriation account and one ‘program, project, and activity’.”
 

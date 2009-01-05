@@ -6,11 +6,11 @@ Any vessel not documented under the laws of the United States, acquired by or ma
 
 #### (b) Waiver of compliance
 
-The President may, notwithstanding any other provisions of law, by rules and regulations or orders, waive compliance with any provision of law relating to masters, officers, members of the crew, or crew accommodations on any vessel documented under authority of this section to such extent and upon such terms as he finds necessary because of the lack of physical facilities on such vessels, and because of the need to employ aliens for their operation. No vessel shall cease to enjoy the benefits and privileges of a vessel of the United States by reason of the employment of any person in accordance with the provisions of this subsection.
+The President may, notwithstanding any other provisions of law, by rules and regulationsor orders, waive compliance with any provision of law relating to masters, officers, members of the crew, or crew accommodations on any vessel documented under authority of this section to such extent and upon such terms as he finds necessary because of the lack of physical facilities on such vessels, and because of the need to employ aliens for their operation. No vessel shall cease to enjoy the benefits and privileges of a vessel of the United States by reason of the employment of any person in accordance with the provisions of this subsection.
 
 #### (c) Coastwise trade; inspection
 
-Any vessel while documented under the provisions of this section, when chartered under sections 196 to 198 of this title by the Secretary ofTransportation to Government agencies or departments or to private operators, may engage in the coastwise trade under permits issued by the Secretary of Transportation, who is authorized to issue permits for such purpose pursuant to such rules and regulations as he may prescribe. The Secretary of Transportation is authorized to prescribe such rules and regulations as he may deem necessary or appropriate to carry out the purposes and provisions of this section. Section 57109 of title 46 shall not apply with respect to vessels chartered to Government agencies or departments or to private operators or otherwise used or disposed of under sections 196 to 198 of this title. Existing laws covering the inspection of steam vessels are made applicable to vessels documented under this section only to such extent and upon such conditions as may be required by regulations of the Secretary of the department in which the Coast Guard is operating: <i>Provided</i>, That in determining to what extent those laws should be made applicable, due consideration shall be given to the primary purpose of transporting commodities essential to the national defense.
+Any vessel while documented under the provisions of this section, when chartered under sections 196 to 198 of this title by the Secretary of Transportation to Government agencies or departments or to private operators, may engage in the coastwise trade under permits issued by the Secretary of Transportation, who is authorized to issue permits for such purpose pursuant to such rules and regulations as he may prescribe. The Secretary of Transportation is authorized to prescribe such rules and regulations as he may deem necessary or appropriate to carry out the purposes and provisions of this section. Section 57109 of title 46 shall not apply with respect to vessels chartered to Government agencies or departments or to private operators or otherwise used or disposed of under sections 196 to 198 of this title. Existing laws covering the inspection of steam vessels are made applicable to vessels documented under this section only to such extent and upon such conditions as may be required by regulations of the Secretary of the department in which the Coast Guard is operating: <i>Provided</i>, That in determining to what extent those laws should be made applicable, due consideration shall be given to the primary purpose of transporting commodities essential to the national defense.
 
 #### (d) Reconditioning of vessels
 
@@ -32,7 +32,7 @@ When used in sections 196 to 198 of this title, the term “documented” means 
 
 #### Amendments
 
-1981—Subsecs. (a), (c), (d). Pub. L. 97–31 substituted references to Secretary of Transportation for references to Secretary of Commerce wherever appearing.
+<b>1981</b>—Subsecs. (a), (c), (d). Pub. L. 97–31 substituted references to Secretary of Transportation for references to Secretary of Commerce wherever appearing.
 
 #### Transfer of Functions
 

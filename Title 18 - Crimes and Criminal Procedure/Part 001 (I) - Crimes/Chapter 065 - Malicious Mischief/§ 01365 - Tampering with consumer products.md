@@ -10,7 +10,7 @@
 
 &emsp;(4) in any other case, be fined under this title or imprisoned not more than ten years, or both.
 
-(b) Whoever, with intent to cause serious injury to the business of any person, taints any consumer product or renders materially false or misleading the labeling of, or container for, a consumer product, if such consumer product affects interstate or foreign commerce, shall be fined under this title or imprisoned not more than three years, or both.
+(b) Whoever, with intent to cause serious injury to the business of any person, taints anyconsumer product or renders materially false or misleading the labeling of, or container for, a consumer product, if such consumer product affects interstate or foreign commerce, shall be fined under this title or imprisoned not more than three years, or both.
 
 (c)(1) Whoever knowingly communicates false information that a consumer product has been tainted, if such product or the results of such communication affect interstate or foreign commerce, and if such tainting, had it occurred, would create a risk of death or bodily injury to another person, shall be fined under this title or imprisoned not more than five years, or both.
 

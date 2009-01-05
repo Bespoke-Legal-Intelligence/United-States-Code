@@ -142,7 +142,7 @@
 
 #### (3) Waiver
 
-&emsp;If the Secretary determines that the recipient has demonstrated substantial compliance with the requirements of paragraph (2), the Secretary may waive the imposition of sanctions authorized by this section upon such recipient. The Secretary is authorized to impose any sanction consistent with the provisions ofthis chapter and any applicable Federal or State law directly against any subgrantee or contractor for violation of this chapter, including regulations issued under this chapter.
+&emsp;If the Secretary determines that the recipient has demonstrated substantial compliance with the requirements of paragraph (2), the Secretary may waive the imposition of sanctions authorized by this section upon such recipient. The Secretary is authorized to impose any sanction consistent with the provisions of this chapter and any applicable Federal or State law directly against any subgrantee or contractor for violation of this chapter, including regulations issued under this chapter.
 
 #### (e) Immediate termination or suspension of assistance in emergency situations
 

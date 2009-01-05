@@ -22,7 +22,7 @@ Review and Effective Date.—Unless rejected under subsection (b), an agreement 
 
 (d)
 
-Request for Additional Information.—Before the expiration of the period specified insubsection (c)(1), the Commission may request from the person filing the agreement any additional information and documents the Commission considers necessary to make the determinations required by this section.
+Request for Additional Information.—Before the expiration of the period specified in subsection (c)(1), the Commission may request from the person filing the agreement any additional information and documents the Commission considers necessary to make the determinations required by this section.
 
 (e)
 

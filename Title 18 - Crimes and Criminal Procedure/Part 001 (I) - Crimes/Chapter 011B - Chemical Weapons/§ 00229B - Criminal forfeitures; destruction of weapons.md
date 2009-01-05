@@ -10,7 +10,7 @@ Property Subject to Criminal Forfeiture.—Any person convicted under section 22
 
 &emsp;(3) any of the property used in any manner or part, to commit, or to facilitate the commission of, such violation.
 
-> The court, in imposing sentence on such person, shall order, in addition to any other sentence imposed pursuant to section 229A(a), that the person forfeit to the United States all property described in this subsection. In lieu of a fineotherwise authorized by section 229A(a), a defendant who derived profits or other proceeds from an offense may be fined not more than twice the gross profits or other proceeds.
+> The court, in imposing sentence on such person, shall order, in addition to any other sentence imposed pursuant to section 229A(a), that the person forfeit to the United States all property described in this subsection. In lieu of a fine otherwise authorized by section 229A(a), a defendant who derived profits or other proceeds from an offense may be fined not more than twice the gross profits or other proceeds.
 
 (b)
 
@@ -58,7 +58,7 @@ Assistance.—The Attorney General may request the head of any agency of the Uni
 
 (f)
 
-Owner Liability.—The owner or possessor of any property seized under this section shall be liable to the United States for any expenses incurred incident to the seizure, including any expenses relating to the handling, storage, transportation, and destruction or other disposition of the seized property.
+Owner Liability.—The owner or possessor of any property seized under this section shall be liable to the United States for any expensesincurred incident to the seizure, including any expenses relating to the handling, storage, transportation, and destruction or other disposition of the seized property.
 
 (Added Pub. L. 105–277, div. I, title II, §201(a), Oct. 21, 1998, 112 Stat. 2681–868.)
 

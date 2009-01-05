@@ -20,7 +20,7 @@ All of the expenses of the Commissioners, including all necessary expenses for t
 
 #### (d) Authorization of appropriations
 
-There are authorized to be appropriated such sums as are necessary to carry out this chapter for each of fiscal years 1995 through 2005.
+There are authorized to be appropriated such sums as are necessary to carry out this chapter for each of the fiscal years 2008 through 2013.
 
 #### (e) Relation to other law, departments, or agencies
 
@@ -60,9 +60,15 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 Consistent with its responsibilities under section 22 of this title, the Commission is directed to facilitate the development and operation of computerized trading as an adjunct to the open outcry auction system. The Commission is further directed to cooperate with the Office of the United States Trade Representative, the Department of the Treasury, the Department of Commerce, and the Department of State in order to remove any trade barriers that may be imposed by a foreign nation on the international use of electronic trading systems.
 
-(Sept. 21, 1922, ch. 369, §12, 42 Stat. 1003; Pub. L. 93–463, title I, §101(b), Oct. 23, 1974, 88 Stat. 1391; Pub. L. 95–405, §20, Sept. 30, 1978, 92 Stat. 875; Pub. L. 97–444, title II, §§228, 229, Jan. 11, 1983, 96 Stat. 2318; Pub. L. 99–641, title I, §106, Nov. 10, 1986, 100 Stat. 3558; Pub. L. 102–546, title II, §§216, 220(a), title III, §§302, 303, title IV, §401, title V, §502(c), Oct. 28, 1992, 106 Stat. 3611, 3614, 3622, 3624, 3631; Pub. L. 104–9, §2, Apr. 21, 1995, 109 Stat. 154; Pub. L. 106–554, §1(a)(5) \[title I, §§116, 117\], Dec. 21, 2000, 114 Stat. 2763, 2763A–402.)
+(Sept. 21, 1922, ch. 369, §12, 42 Stat. 1003; Pub. L. 93–463, title I, §101(b), Oct. 23, 1974, 88 Stat. 1391; Pub. L. 95–405, §20, Sept. 30, 1978, 92 Stat. 875; Pub. L. 97–444, title II, §§228, 229, Jan. 11, 1983, 96 Stat. 2318; Pub. L. 99–641, title I, §106, Nov. 10, 1986, 100 Stat. 3558; Pub. L. 102–546, title II, §§216, 220(a), title III, §§302, 303, title IV, §401, title V, §502(c), Oct. 28, 1992, 106 Stat. 3611, 3614, 3622, 3624, 3631; Pub. L. 104–9, §2, Apr. 21, 1995, 109 Stat. 154; Pub. L. 106–554, §1(a)(5) \[title I, §§116, 117\], Dec. 21, 2000, 114 Stat. 2763, 2763A–402; Pub. L. 110–234, title XIII, §13104, May 22, 2008, 122 Stat. 1434; Pub. L. 110–246, §4(a), title XIII, §13104, June 18, 2008, 122 Stat. 1664, 2196.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2008—Subsec. (d). Pub. L. 110–246, §13104, amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “There are authorized to be appropriated such sums as are necessary to carry out this chapter for each of fiscal years 1995 through 2005.”
 
 2000—Subsec. (d). Pub. L. 106–554, §1(a)(5) \[title I, §116\], substituted “2005” for “2000”.
 
@@ -96,6 +102,10 @@ Subsec. (e). Pub. L. 97–444, §229, added subsec. (e).
 
 1974—Pub. L. 93–463 designated existing unlettered provisions as subsecs. (a) to (d), substituted “Commission” for “Secretary of Agriculture”, inserted provisions authorizing the expenditure of funds for expenses upon the presentation of itemized vouchers therefor approved by the Commission, substituted provisions authorizing appropriations specifically for fiscal years ending June 30, 1975, 1976, 1977, and 1978, for provisions making a general authorization of appropriations without a fiscal year limitation, and inserted authorization to enter into contracts and compensate experts and consultants in accordance with section 3109 of title 5 at rates not in excess of the maximum daily rate prescribed for GS–18 under section 5332 of title 5.
 
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+
 #### Effective Date of 1983 Amendment
 
 Amendment by Pub. L. 97–444 effective Jan. 11, 1983, see section 239 of Pub. L. 97–444, set out as a note under section 2 of this title.
@@ -110,5 +120,5 @@ For effective date of amendment by Pub. L. 93–463, see section 418 of Pub. L. 
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 

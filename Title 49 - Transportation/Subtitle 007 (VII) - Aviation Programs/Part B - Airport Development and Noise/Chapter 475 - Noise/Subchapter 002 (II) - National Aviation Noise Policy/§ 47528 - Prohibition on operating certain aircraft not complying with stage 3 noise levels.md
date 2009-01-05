@@ -150,7 +150,7 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 #### Regulations
 
-Pub. L. 106–181, title VII, §721(c)(2), Apr. 5, 2000, 114 Stat. 165, provided that: “Regulations contained in title 14, Code of Federal Regulations, that implement section 47528 of title 49, United States Code, and related provisions shall be deemed to incorporate the amendment made by paragraph (1) \[amending this section\] on the date of the enactment of this Act \[Apr. 5, 2000\].”
+Pub. L. 106–181, title VII, §721(c)(2), Apr. 5, 2000, 114 Stat. 165, provided that: “Regulations contained intitle 14, Code of Federal Regulations, that implement section 47528 of title 49, United States Code, and related provisions shall be deemed to incorporate the amendment made by paragraph (1) \[amending this section\] on the date of the enactment of this Act \[Apr. 5, 2000\].”
 
 #### Construction of 2000 Amendment
 

@@ -16,7 +16,7 @@ Subsec. (b). Pub. L. 109–364, §2851(b)(3)(D)(ii), struck out “cost effectiv
 
 Subsec. (c). Pub. L. 109–364, §2851(b)(3)(D)(iii), struck out subsec. (c) which read as follows:
 
-“(c)(1) For the purposes of this section, an energy system using solar energy or other renewable forms of energy shall be considered to be cost effective if the difference between (A) the original investment cost of the energy system using such a form of energy, and (B) the original investment cost of the energy system not using such a form of energy can be recovered over the expected life of the system.
+“(c)(1) For the purposes of this section, an energy system using solar energy or other renewable forms of energy shall be considered to be cost effective if the difference between (A) the original investment cost of theenergy system using such a form of energy, and (B) the original investment cost of the energy system not using such a form of energy can be recovered over the expected life of the system.
 
 “(2) A determination under paragraph (1) concerning whether a cost-differential can be recovered over the expected life of a system shall be made using the life-cycle cost methods and procedures established pursuant to section 544(a) of the National Energy Conservation Policy Act (42 U.S.C. 8254(a)).”
 
@@ -34,7 +34,7 @@ Subsec. (c)(2), (3). Pub. L. 101–510, §2852(a), added par. (2) and struck out
 
 &emsp;“(C) the use of a discount rate of 7 percent per year for all expenses of the energy system.
 
-“(3) For the purpose of any life-cycle cost analysis under this subsection, the original investment cost ofthe energy system using solar energy or other renewable forms of energy shall be reduced by 10 percent to reflect an allowance for an investment cost credit.”
+“(3) For the purpose of any life-cycle cost analysis under this subsection, the original investment cost of the energy system using solar energy or other renewable forms of energy shall be reduced by 10 percent to reflect an allowance for an investment cost credit.”
 
 1984—Pub. L. 98–525 substituted “using” for “powered by” in section catchline.
 

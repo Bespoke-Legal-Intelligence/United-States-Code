@@ -1,10 +1,18 @@
 ### §5550b. Compensatory time off for travel
 
-(a) Notwithstanding section 5542(b)(2), each hour spent by an employee in travel status away from the official duty station of the employee, that is not otherwise compensable, shall be treated as an hour of work or employment for purposes of calculating compensatory time off.
+(a) Notwithstanding any provision of section 5542(b)(2) or 5544(a), each hour spent by an employee in travel status away from the official duty station of the employee, that is not otherwise compensable, shall be treated as an hour of work or employment for purposes of calculating compensatory time off.
 
 (b) An employee who has any hours treated as hours of work or employment for purposes of calculating compensatory time under subsection (a), shall not be entitled to payment for any such hours that are unused as compensatory time.
 
-(Added Pub. L. 108–411, title II, §203(a), Oct. 30, 2004, 118 Stat. 2313.)
+(Added Pub. L. 108–411, title II, §203(a), Oct. 30, 2004, 118 Stat. 2313; amended Pub. L. 110–181, div. A, title XI, §1111(a), Jan. 28, 2008, 122 Stat. 360.)
+
+#### Amendments
+
+2008—Subsec. (a). Pub. L. 110–181 substituted “any provision of section 5542(b)(2) or 5544(a),” for “section 5542(b)(2),”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–181 effective on the earlier of the effective date of any regulations prescribed to carry out amendments by section 1111 of Pub. L. 110–181 or the 90th day after Jan. 28, 2008, see section 1111(c) of Pub. L. 110–181, set out as a note under section 5541 of this title.
 
 #### Effective Date
 

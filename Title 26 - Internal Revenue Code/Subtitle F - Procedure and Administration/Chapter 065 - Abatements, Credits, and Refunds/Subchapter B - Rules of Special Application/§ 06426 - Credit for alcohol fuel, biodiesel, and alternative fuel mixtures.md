@@ -22,11 +22,19 @@ There shall be allowed as a credit—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the applicable amount is 51 cents.
+&emsp;&emsp;Except as provided in subparagraphs (B) and (C), the applicable amount is—
+
+&emsp;&emsp;&emsp;(i) in the case of calendar years beginning before 2009, 51 cents, and
+
+&emsp;&emsp;&emsp;(ii) in the case of calendar years beginning after 2008, 45 cents..<sup>1</sup>
 
 #### (B) Mixtures not containing ethanol
 
 &emsp;&emsp;In the case of an alcohol fuel mixture in which none of the alcohol consists of ethanol, the applicable amount is 60 cents.
+
+#### (C) Reduction delayed until annual production or importation of 7,500,000,000 gallons
+
+&emsp;&emsp;In the case of any calendar year beginning after 2008, if the Secretary makes a determination described in section 40(h)(3)(B) with respect to all preceding calendar years beginning after 2007, subparagraph (A)(ii) shall be applied by substituting “51 cents” for “45 cents”.
 
 #### (3) Alcohol fuel mixture
 
@@ -56,7 +64,11 @@ There shall be allowed as a credit—
 
 &emsp;&emsp;The term “taxable fuel” has the meaning given such term by section 4083(a)(1).
 
-#### (5) Termination
+#### (5) Volume of alcohol
+
+&emsp;For purposes of determining under subsection (a) the number of gallons of alcohol with respect to which a credit is allowable under subsection (a), the volume of alcohol shall include the volume of any denaturant (including gasoline) which is added under any formulas approved by the Secretary to the extent that such denaturants do not exceed 2 percent of the volume of such alcohol (including denaturants).
+
+#### (6) Termination
 
 &emsp;This subsection shall not apply to any sale, use, or removal for any period after December 31, 2010.
 
@@ -64,19 +76,11 @@ There shall be allowed as a credit—
 
 #### (1) In general
 
-&emsp;For purposes of this section, the biodiesel mixture credit is the product of the applicable amount and the number of gallons of biodiesel used by the taxpayer in producing any biodiesel mixture for sale or use in a trade or business of the taxpayer.
+&emsp;For purposes of this section, the biodiesel mixture credit is the product of the applicableamount and the number of gallons of biodiesel used by the taxpayer in producing any biodiesel mixture for sale or use in a trade or business of the taxpayer.
 
 #### (2) Applicable amount
 
-&emsp;For purposes of this subsection—
-
-#### (A) In general
-
-&emsp;&emsp;Except as provided in subparagraph (B), the applicable amount is 50 cents.
-
-#### (B) Amount for agri-biodiesel
-
-&emsp;&emsp;In the case of any biodiesel which is agri-biodiesel, the applicable amount is $1.00.
+&emsp;For purposes of this subsection, the applicable amount is $1.00.
 
 #### (3) Biodiesel mixture
 
@@ -96,13 +100,13 @@ There shall be allowed as a credit—
 
 #### (6) Termination
 
-&emsp;This subsection shall not apply to any sale, use, or removal for any period after December 31, 2008.
+&emsp;This subsection shall not apply to any sale, use, or removal for any period after December 31, 2009.
 
 #### (d) Alternative fuel credit
 
 #### (1) In general
 
-&emsp;For purposes of this section, the alternative fuel credit is the product of 50 cents and the number of gallons of an alternative fuel or gasoline gallon equivalents of a nonliquid alternative fuel sold by the taxpayer for use as a fuel in a motor vehicle or motorboat, or so used by the taxpayer.
+&emsp;For purposes of this section, the alternative fuel credit is the product of 50 cents and the number of gallons of an alternative fuel or gasoline gallon equivalents of a nonliquid alternative fuel sold by the taxpayer for use as a fuel in a motor vehicle or motorboat, sold by the taxpayer for use as a fuel in aviation, or so used by the taxpayer.
 
 #### (2) Alternative fuel
 
@@ -116,9 +120,11 @@ There shall be allowed as a credit—
 
 &emsp;&emsp;(D) liquefied hydrogen,
 
-&emsp;&emsp;(E) any liquid fuel derived from coal (including peat) through the Fischer-Tropsch process, and
+&emsp;&emsp;(E) any liquid fuel which meets the requirements of paragraph (4) and which is derived from coal (including peat) through the Fischer-Tropsch process,
 
-&emsp;&emsp;(F) liquid fuel derived from biomass (as defined in section 45K(c)(3)).
+&emsp;&emsp;(F) compressed or liquefied gas derived from biomass (as defined in section 45K(c)(3)), and
+
+&emsp;&emsp;(G) liquid fuel derived from biomass (as defined in section 45K(c)(3)).
 
 > &emsp;Such term does not include ethanol, methanol, or biodiesel.
 
@@ -126,9 +132,23 @@ There shall be allowed as a credit—
 
 &emsp;For purposes of this subsection, the term “gasoline gallon equivalent” means, with respect to any nonliquid alternative fuel, the amount of such fuel having a Btu content of 124,800 (higher heating value).
 
-#### (4) Termination
+#### (4) Carbon capture requirement
 
-&emsp;This subsection shall not apply to any sale or use for any period after September 30, 2009 (September 30, 2014, in the case of any sale or use involving liquefied hydrogen).
+#### (A) In general
+
+&emsp;&emsp;The requirements of this paragraph are met if the fuel is certified, under such procedures as required by the Secretary, as having been derived from coal produced at a gasification facility which separates and sequesters not less than the applicable percentage of such facility's total carbon dioxide emissions.
+
+#### (B) Applicable percentage
+
+&emsp;&emsp;For purposes of subparagraph (A), the applicable percentage is—
+
+&emsp;&emsp;&emsp;(i) 50 percent in the case of fuel produced after September 30, 2009, and on or before December 30, 2009, and
+
+&emsp;&emsp;&emsp;(ii) 75 percent in the case of fuel produced after December 30, 2009.
+
+#### (5) Termination
+
+&emsp;This subsection shall not apply to any sale or use for any period after December 31, 2009 (September 30, 2014, in the case of any sale or use involving liquefied hydrogen).
 
 #### (e) Alternative fuel mixture credit
 
@@ -146,7 +166,7 @@ There shall be allowed as a credit—
 
 #### (3) Termination
 
-&emsp;This subsection shall not apply to any sale or use for any period after September 30, 2009 (September 30, 2014, in the case of any sale or use involving liquefied hydrogen).
+&emsp;This subsection shall not apply to any sale or use for any period after December 31, 2009 (September 30, 2014, in the case of any sale or use involving liquefied hydrogen).
 
 #### (f) Mixture not used as a fuel, etc.
 
@@ -176,13 +196,65 @@ Rules similar to the rules under section 40(c) shall apply for purposes of this 
 
 No credit shall be determined under subsection (d) or (e) with respect to any fuel with respect to which credit may be determined under subsection (b) or (c) or under section 40 or 40A.
 
-(Added Pub. L. 108–357, title III, §301(a), Oct. 22, 2004, 118 Stat. 1459; amended Pub. L. 109–58, title XIII, §1344(a), Aug. 8, 2005, 119 Stat. 1052; Pub. L. 109–59, title XI, §§11113(b)(1)–(3)(A), 11151(e)(2), Aug. 10, 2005, 119 Stat. 1947, 1948, 1969; Pub. L. 110–172, §5(a)(2), (3), Dec. 29, 2007, 121 Stat. 2479.)
+#### (i) Limitation to fuels with connection to the United States
+
+#### (1) Alcohol
+
+&emsp;No credit shall be determined under this section with respect to any alcohol which is produced outside the United States for use as a fuel outside the United States.
+
+#### (2) Biodiesel and alternative fuels
+
+&emsp;No credit shall be determined under this section with respect to any biodiesel or alternative fuel which is produced outside the United States for use as a fuel outside the United States.
+
+> For purposes of this subsection, the term “United States” includes any possession of the United States.
+
+(Added Pub. L. 108–357, title III, §301(a), Oct. 22, 2004, 118 Stat. 1459; amended Pub. L. 109–58, title XIII, §1344(a), Aug. 8, 2005, 119 Stat. 1052; Pub. L. 109–59, title XI, §§11113(b)(1)–(3)(A), 11151(e)(2), Aug. 10, 2005, 119 Stat. 1947, 1948, 1969; Pub. L. 110–172, §5(a)(2), (3), Dec. 29, 2007, 121 Stat. 2479; Pub. L. 110–234, title XV, §§15331(b), 15332(b), May 22, 2008, 122 Stat. 1516; Pub. L. 110–246, §4(a), title XV, §§15331(b), 15332(b), June 18, 2008, 122 Stat. 1664, 2278; Pub. L. 110–343, div. B, title II, §§202(a), (b)(2), 203(c)(1), 204(a)(1), (2), (b), (c), Oct. 3, 2008, 122 Stat. 3832, 3834.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 
 A prior section 6426, added Pub. L. 91–258, title II, §206(c), May 21, 1970, 84 Stat. 245; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, provided for a refund of aircraft use tax where plane transports for hire in foreign air commerce, prior to repeal by Pub. L. 97–248, title II, §280(c)(2)(G), (d), Sept. 3, 1982, 96 Stat. 564, 565, applicable with respect to transportation beginning after Aug. 31, 1982.
 
 #### Amendments
+
+2008—Subsec. (b)(2)(A). Pub. L. 110–246, §15331(b)(3), substituted “subparagraphs (B) and (C)” for “subparagraph (B)” in introductory provisions.
+
+Pub. L. 110–246, §15331(b)(1), substituted “the applicable amount is—” for “the applicable amount is 51 cents” and added cls. (i) and (ii).
+
+Subsec. (b)(2)(C). Pub. L. 110–246, §15331(b)(2), added subpar. (C).
+
+Subsec. (b)(5), (6). Pub. L. 110–246, §15332(b), added par. (5) and redesignated former par. (5) as (6).
+
+Subsec. (c)(2). Pub. L. 110–343, §202(b)(2), amended par. (2) generally. Prior to amendment, text read as follows: “For purposes of this subsection—
+
+&emsp;“(A)
+
+In general.—Except as provided in subparagraph (B), the applicable amount is 50 cents.
+
+&emsp;“(B)
+
+Amount for agri-biodiesel.—In the case of any biodiesel which is agri-biodiesel, the applicable amount is $1.00.”
+
+Subsec. (c)(6). Pub. L. 110–343, §202(a), substituted “December 31, 2009” for “December 31, 2008”.
+
+Subsec. (d)(1). Pub. L. 110–343, §204(b)(2), inserted “sold by the taxpayer for use as a fuel in aviation,” after “motorboat,”.
+
+Subsec. (d)(2)(E). Pub. L. 110–343, §204(c)(2), inserted “which meets the requirements of paragraph (4) and which is” after “any liquid fuel”.
+
+Subsec. (d)(2)(F), (G). Pub. L. 110–343, §204(b)(1), added subpar. (F) and redesignated former subpar. (F) as (G).
+
+Subsec. (d)(4). Pub. L. 110–343, §204(c)(1), added par. (4). Former par. (4) redesignated (5).
+
+Pub. L. 110–343, §204(a)(1), substituted “December 31, 2009” for “September 30, 2009”.
+
+Subsec. (d)(5). Pub. L. 110–343, §204(c)(1), redesignated par. (4) as (5).
+
+Subsec. (e)(3). Pub. L. 110–343, §204(a)(2), substituted “December 31, 2009” for “September 30, 2009”.
+
+Subsec. (i). Pub. L. 110–343, §203(c)(1), added subsec. (i).
 
 2007—Subsec. (d)(2)(F). Pub. L. 110–172, §5(a)(2), substituted “fuel” for “hydrocarbons”.
 
@@ -204,6 +276,20 @@ Subsec. (d)(2)(F). Pub. L. 109–59, §11151(e)(2), substituted “section 45K(c
 
 Subsecs. (e) to (g). Pub. L. 109–59, §11113(b)(2), added subsec. (e) and redesignated former subsecs. (d) and (e) as (f) and (g), respectively.
 
+#### Effective Date of 2008 Amendment
+
+Amendment by section 202(a), (b)(2) of Pub. L. 110–343 applicable to fuel produced, and sold or used, after Dec. 31, 2008, see section 202(g)(1) of Pub. L. 110–343, set out as a note under section 40A of this title.
+
+Amendment by section 203(c)(1) of Pub. L. 110–343 applicable to claims for credit or payment made on or after May 15, 2008, see section 203(d) of Pub. L. 110–343, set out as a note under section 40 of this title.
+
+Pub. L. 110–343, div. B, title II, §204(d), Oct. 3, 2008, 122 Stat. 3835, provided that: “The amendments made by this section \[amending this section and section 6427 of this title\] shall apply to fuel sold or used after the date of the enactment of this Act \[Oct. 3, 2008\].”
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+Amendment by section 15331(b) of Pub. L. 110–246 effective June 18, 2008, see section 15331(c) of Pub. L. 110–246, set out as a note under section 40 of this title.
+
+Amendment by section 15332(b) of Pub. L. 110–246 applicable to fuel sold or used after Dec. 31, 2008, see section 15332(c) of Pub. L. 110–246, set out as a note under section 40 of this title.
+
 #### Effective Date of 2007 Amendment
 
 Pub. L. 110–172, §5(b), Dec. 29, 2007, 121 Stat. 2479, provided that: “The amendments made by this section \[amending this section and section 6427 of this title\] shall take effect as if included in the provisions of the SAFETEA–LU \[Pub. L. 109–59\] to which they relate.”
@@ -217,4 +303,6 @@ Amendment by section 11151(e)(2) of Pub. L. 109–59 effective as if included in
 #### Effective Date
 
 Section applicable to fuel sold or used after Dec. 31, 2004, see section 301(d)(1) of Pub. L. 108–357, set out as an Effective Date of 2004 Amendment note under section 40 of this title.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

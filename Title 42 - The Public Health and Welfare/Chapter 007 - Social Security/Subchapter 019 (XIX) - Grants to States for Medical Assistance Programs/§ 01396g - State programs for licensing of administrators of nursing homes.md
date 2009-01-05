@@ -64,7 +64,7 @@ Subsec. (f). Pub. L. 93–233 repealed subsec. (f) providing for creation of Nat
 
 Subsec. (g). Pub. L. 93–233, redesignated subsec. (g) as (e).
 
-1972—Subsec. (d). Pub. L. 92–603, §§269, 274(b), inserted references to the grant of waivers to individuals who, during all of the three calendar years immediately preceding the calendar year in which the requirements prescribed in section 1396a(a)(29) of this title are first met by the State, have served as nursing home administrators and substituted “subsection (c)(1)” for “subsection (b)(1)”.
+1972—Subsec. (d). Pub. L. 92–603, §§269, 274(b), inserted references to the grant of waivers to individuals who, during all of the three calendar years immediately preceding the calendar year in which the requirements prescribed in section 1396a(a)(29) of this title are firstmet by the State, have served as nursing home administrators and substituted “subsection (c)(1)” for “subsection (b)(1)”.
 
 Subsec. (g)(1). Pub. L. 92–603, §268(b), inserted “, but does not include a Christian Science sanatorium operated, or listed and certified, by the First Church of Christ, Scientist, Boston, Massachusetts” after “Secretary”.
 

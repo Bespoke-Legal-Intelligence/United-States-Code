@@ -1,12 +1,12 @@
 ### §16133. Time limitation for use of entitlement
 
-(a) Except as provided in subsection (b), the period during which a person entitled to educational assistance under this chapter may use such person's entitlement expires (1) at the end of the 14-year period beginning on the date on which such person becomes entitled to such assistance, or (2) on the date the person is separated from the Selected Reserve, whichever occurs first.
+(a) Except as provided in subsection (b), the period during which a person entitled to educational assistance under this chapter may use such person's entitlement expires on the date the person is separated from the Selected Reserve.
 
 (b)(1) In the case of a person—
 
 &emsp;(A) who is separated from the Selected Reserve because of a disability which was not the result of the individual's own willful misconduct incurred on or after the date on which such person became entitled to educational assistance under this chapter; or
 
-&emsp;(B) who, on or after the date on which such person became entitled to educational assistance under this chapter ceases to be a member of the Selected Reserve during the period beginning on October 1, 1991, and ending on December 31, 2001, by reason of the inactivation of the person's unit of assignment or by reason of involuntarily ceasing to be designated as a member of the Selected Reserve pursuant to section 10143(a) of this title,
+&emsp;(B) who, on or after the date on which such person became entitled to educational assistance under this chapter ceases to be a member of the Selected Reserve during the period beginning on October 1, 1991, and ending on December 31, 2001, or the period beginning on October 1, 2007, and ending on September 30, 2014, by reason of the inactivation of the person's unit of assignment or by reason of involuntarily ceasing to be designated as a member of the Selected Reserve pursuant to section 10143(a) of this title,
 
 > the period for using entitlement prescribed by subsection (a) shall be determined without regard to clause (2) of such subsection.
 
@@ -20,9 +20,13 @@
 
 &emsp;(B) the member may not be considered to have been separated from the Selected Reserve for the purposes of clause (2) of such subsection by reason of the commencement of such active duty service.
 
-(Added Pub. L. 95–79, title IV, §402(a), July 30, 1977, 91 Stat. 329, §2133; amended Pub. L. 96–107, title IV, §402(b), Nov. 9, 1979, 93 Stat. 808; Pub. L. 96–513, title V, §511(70), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 98–525, title VII, §705(a)(1), Oct. 19, 1984, 98 Stat. 2566; Pub. L. 100–456, div. A, title XII, §1233(g)(2), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 100–689, title I, §111(b)(5), Nov. 18, 1988, 102 Stat. 4173; Pub. L. 102–127, §3, Oct. 10, 1991, 105 Stat. 622; Pub. L. 102–484, div. D, title XLIV, §4419(a), Oct. 23, 1992, 106 Stat. 2717; Pub. L. 102–568, title III, §320(a)(2), Oct. 29, 1992, 106 Stat. 4335; Pub. L. 103–160, div. A, title V, §561(m), Nov. 30, 1993, 107 Stat. 1668; renumbered §16133 and amended Pub. L. 103–337, div. A, title XVI, §1663(b)(2), (5), Oct. 5, 1994, 108 Stat. 3006, 3007; Pub. L. 105–85, div. A, title V, §553(b), Nov. 18, 1997, 111 Stat. 1748; Pub. L. 105–261, div. A, title V, §561(q), Oct. 17, 1998, 112 Stat. 2027; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(p)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–135; Pub. L. 107–314, div. A, title VI, §641(a), Dec. 2, 2002, 116 Stat. 2576.)
+(Added Pub. L. 95–79, title IV, §402(a), July 30, 1977, 91 Stat. 329, §2133; amended Pub. L. 96–107, title IV, §402(b), Nov. 9, 1979, 93 Stat. 808; Pub. L. 96–513, title V, §511(70), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 98–525, title VII, §705(a)(1), Oct. 19, 1984, 98 Stat. 2566; Pub. L. 100–456, div. A, title XII, §1233(g)(2), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 100–689, title I, §111(b)(5), Nov. 18, 1988, 102 Stat. 4173; Pub. L. 102–127, §3, Oct. 10, 1991, 105 Stat. 622; Pub. L. 102–484, div. D, title XLIV, §4419(a), Oct. 23, 1992, 106 Stat. 2717; Pub. L. 102–568, title III, §320(a)(2), Oct. 29, 1992, 106 Stat. 4335; Pub. L. 103–160, div. A, title V, §561(m), Nov. 30, 1993, 107 Stat. 1668; renumbered §16133 and amended Pub. L. 103–337, div. A, title XVI, §1663(b)(2), (5), Oct. 5, 1994, 108 Stat. 3006, 3007; Pub. L. 105–85, div. A, title V, §553(b), Nov. 18, 1997, 111 Stat. 1748; Pub. L. 105–261, div. A, title V, §561(q), Oct. 17, 1998, 112 Stat. 2027; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(p)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–135; Pub. L. 107–314, div. A, title VI, §641(a), Dec. 2, 2002, 116 Stat. 2576; Pub. L. 110–181, div. A, title V, §529, Jan. 28, 2008, 122Stat. 110; Pub. L. 110–252, title V, §5006(d), June 30, 2008, 122 Stat. 2386.)
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–252 substituted “on the date the person is separated from the Selected Reserve.” for “(1) at the end of the 14-year period beginning on the date on which such person becomes entitled to such assistance, or (2) on the date the person is separated from the Selected Reserve, whichever occurs first.”
+
+Subsec. (b)(1)(B). Pub. L. 110–181 inserted “or the period beginning on October 1, 2007, and ending on September 30, 2014,” after “December 31, 2001,”.
 
 2002—Subsec. (a)(1). Pub. L. 107–314 substituted “14-year” for “10-year”.
 
@@ -42,7 +46,7 @@ Subsec. (b)(4)(A). Pub. L. 103–337, §1663(b)(5)(B), substituted “12301(a), 
 
 1992—Subsec. (b)(1). Pub. L. 102–484 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In the case of a person separated from the Selected Reserve because of a disability which was not the result of the individual's own willful misconduct incurred on or after the date on which such person became entitled to educational assistance under this chapter, the period for using entitlement prescribed by subsection (a) shall be determined without regard to clause (2) of such subsection.”
 
-Subsec. (b)(2), (3). Pub. L. 102–568 substituted “section 3031(f) of title 38” for “section 1431(f) of title 38” in par.\(2) and “section 3031(d) of title 38” for “section 1431(d) of title 38” in par. (3).
+Subsec. (b)(2), (3). Pub. L. 102–568 substituted “section 3031(f) of title 38” for “section 1431(f) of title 38” in par. (2) and “section 3031(d) of title 38” for “section 1431(d) of title 38” in par. (3).
 
 1991—Subsec. (b)(4). Pub. L. 102–127 added par. (4).
 

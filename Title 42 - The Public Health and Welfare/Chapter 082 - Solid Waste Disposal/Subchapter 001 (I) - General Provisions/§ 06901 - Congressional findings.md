@@ -8,7 +8,7 @@ The Congress finds with respect to solid waste—
 
 &emsp;(2) that the economic and population growth of our Nation, and the improvements in the standard of living enjoyed by our population, have required increased industrial production to meet our needs, and have made necessary the demolition of old buildings, the construction of new buildings, and the provision of highways and other avenues of transportation, which, together with related industrial, commercial, and agricultural operations, have resulted in a rising tide of scrap, discarded, and waste materials;
 
-&emsp;(3) that the continuing concentration of our population in expanding metropolitan and other urban areas has presented these communities with serious financial, management, intergovernmental, and technical problems in the disposal of solid wastes resulting from the industrial, commercial, domestic, and other activities carried on in such areas;
+&emsp;(3) that the continuing concentration of our population in expanding metropolitan and other urban areas has presented these communities with serious financial, management, intergovernmental, and technical problems in the disposal of solid wastes resulting from theindustrial, commercial, domestic, and other activities carried on in such areas;
 
 &emsp;(4) that while the collection and disposal of solid wastes should continue to be primarily the function of State, regional, and local agencies, the problems of waste disposal as set forth above have become a matter national in scope and in concern and necessitate Federal action through financial and technical assistance and leadership in the development, demonstration, and application of new and improved methods and processes to reduce the amount of waste and unsalvageable materials and to provide for proper and economical solid waste disposal practices.
 
@@ -94,7 +94,7 @@ Pub. L. 100–582, §1, Nov. 1, 1988, 102 Stat. 2950, provided that: “This Act
 
 #### Short Title of 1984 Amendment
 
-Section 1 of Pub. L. 98–616 provided that: “This Act \[enacting sections 6917, 6936 to 6939a, 6949a, 6979a, 6979b,and 6991 to 6991i of this title, amending this section and sections 6902, 6905, 6912, 6915, 6916, 6921 to 6933, 6935, 6941 to 6945, 6948, 6956, 6962, 6972, 6973, 6976, 6982 and 6984 of this title and enacting provisions set out as notes under sections 6905, 6921 and 6926 of this title\] may be cited as ‘The Hazardous and Solid Waste Amendments of 1984’.”
+Section 1 of Pub. L. 98–616 provided that: “This Act \[enacting sections 6917, 6936 to 6939a, 6949a, 6979a, 6979b, and 6991 to 6991i of this title, amending this section and sections 6902, 6905, 6912, 6915, 6916, 6921 to 6933, 6935, 6941 to 6945, 6948, 6956, 6962, 6972, 6973, 6976, 6982 and 6984 of this title and enacting provisions set out as notes under sections 6905, 6921 and 6926 of this title\] may be cited as ‘The Hazardous and Solid Waste Amendments of 1984’.”
 
 #### Short Title of 1980 Amendments
 

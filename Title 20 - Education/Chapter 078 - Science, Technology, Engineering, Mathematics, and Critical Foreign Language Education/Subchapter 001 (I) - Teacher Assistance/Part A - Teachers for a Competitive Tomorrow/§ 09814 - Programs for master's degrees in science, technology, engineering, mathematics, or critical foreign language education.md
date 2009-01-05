@@ -40,7 +40,7 @@ Each eligible recipient desiring a grant under this section shall submit an appl
 
 #### (c) Authorized activities
 
-Each eligible recipient receiving a grant under this section shall use the grant funds to developand implement a 2- or 3-year part-time master's degree program in science, technology, engineering, mathematics, or critical foreign language education for teachers in order to enhance the teachers’ content knowledge and teaching skills, or programs for professionals in science, technology, engineering, mathematics, or a critical foreign language that lead to a 1-year master's degree in teaching that results in teacher certification. The program shall—
+Each eligible recipient receiving a grant under this section shall use the grant funds to develop and implement a 2- or 3-year part-time master's degree program in science, technology, engineering, mathematics, or critical foreign language education for teachers in order to enhance the teachers’ content knowledge and teaching skills, or programs for professionals in science, technology, engineering, mathematics, or a critical foreign language that lead to a 1-year master's degree in teaching that results in teacher certification. The program shall—
 
 &emsp;(1) promote effective teaching skills so that program participants become more effective science, technology, engineering, mathematics, or critical foreign language teachers;
 

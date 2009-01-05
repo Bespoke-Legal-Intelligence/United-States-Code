@@ -26,7 +26,7 @@ Training programs conducted with amounts received under this subchapter shall me
 
 #### (2) Limitation
 
-&emsp;In the case of an award to an entity of a grant, cooperative agreement, or contract under this subchapter, paragraph (1) shallapply only to the extent not inconsistent with any other provision of this subchapter that relates to the period during which payments may be made under the award.
+&emsp;In the case of an award to an entity of a grant, cooperative agreement, or contract under this subchapter, paragraph (1) shall apply only to the extent not inconsistent with any other provision of this subchapter that relates to the period during which payments may be made under the award.
 
 #### (e) Peer review regarding certain programs
 

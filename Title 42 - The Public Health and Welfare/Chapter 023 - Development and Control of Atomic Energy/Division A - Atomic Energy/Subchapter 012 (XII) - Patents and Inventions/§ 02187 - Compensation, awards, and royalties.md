@@ -20,7 +20,7 @@ The Commission shall designate a Patent Compensation Board to consider applicati
 
 #### (d) Limitations
 
-Every application under this section shall be barred unless filed within six years after thedate on which first accrues the right to such reasonable royalty fee, just compensation, or award for which such application is filed.
+Every application under this section shall be barred unless filed within six years after the date on which first accrues the right to such reasonable royalty fee, just compensation, or award for which such application is filed.
 
 (Aug. 1, 1946, ch. 724, title I, §157, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 947; amended Pub. L. 87–206, §11, Sept. 6, 1961, 75 Stat. 478; Pub. L. 93–276, title II, §201, May 10, 1974, 88 Stat. 119; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 

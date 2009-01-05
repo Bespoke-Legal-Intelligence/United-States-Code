@@ -4,11 +4,11 @@
 
 In General.—An obligation guaranteed under this chapter must—
 
-&emsp;(1) provide for payments by the obligor satisfactory to the Secretary;
+&emsp;(1) provide for payments by the obligor satisfactory to the Secretary or Administrator;
 
-&emsp;(2) provide for interest (exclusive of guarantee fees and other fees) at a rate not more than the annual rate on the unpaid principal that the Secretary determines is reasonable,considering the range of interest rates prevailing in the private market for similar loans and the risks assumed by the Secretary;
+&emsp;(2) provide for interest (exclusive of guarantee fees and other fees) at a rate not more than the annual rate on the unpaid principal that the Secretary or Administrator determines is reasonable, considering the range of interest rates prevailing in the private market for similar loans and the risks assumed by the Secretary or Administrator;
 
-&emsp;(3) have a maturity date satisfactory to the Secretary, but—
+&emsp;(3) have a maturity date satisfactory to the Secretary or Administrator, but—
 
 &emsp;&emsp;(A) not more than 25 years after the date of delivery of the vessel used as security for the guarantee; or
 
@@ -16,11 +16,11 @@ In General.—An obligation guaranteed under this chapter must—
 
 &emsp;&emsp;&emsp;(i) 25 years after the date of delivery of the vessel; or
 
-&emsp;&emsp;&emsp;(ii) the remaining years of useful life of the vessel as determined by the Secretary; and
+&emsp;&emsp;&emsp;(ii) the remaining years of useful life of the vessel as determined by the Secretary or Administrator; and
 
 &emsp;(4) provide, or a related agreement must provide, that if the vessel used as security for the guarantee is a delivered vessel, the vessel shall be—
 
-&emsp;&emsp;(A) in class A–1, American Bureau of Shipping, or meet other standards acceptable to the Secretary, with all required certificates, including marine inspection certificates of the Coast Guard or, in the case of an eligible export vessel, of the appropriate foreign authorities under a treaty, convention, or other international agreement to which the United States is a party, and with all outstanding requirements and recommendations necessary for class retention accomplished, unless the Secretary permits a deferment of repairs necessary to meet these requirements; and
+&emsp;&emsp;(A) in class A–1, American Bureau of Shipping, or meet other standards acceptable to the Secretary or Administrator, with all required certificates, including marine inspection certificates of the Coast Guard or, in the case of an eligible export vessel, of the appropriate foreign authorities under a treaty, convention, or other international agreement to which the United States is a party, and with all outstanding requirements and recommendations necessary for class retention accomplished, unless the Secretary or Administrator permits a deferment of repairs necessary to meet these requirements; and
 
 &emsp;&emsp;(B) well equipped, in good repair, and in every respect seaworthy and fit for service.
 
@@ -30,7 +30,7 @@ Provisions for Certain Passenger Vessels.—
 
 &emsp;(1)
 
-In general.—With the Secretary's approval, if the vessel used as security for the guarantee is a passenger vessel having the tonnage, speed, passenger accommodations, and other characteristics described in section 503 of the Merchant Marine Act, 1936, an obligation guaranteed under this chapter or a related agreement may provide that—
+In general.—With the Administrator's approval, if the vessel used as security for the guarantee is a passenger vessel having the tonnage, speed, passenger accommodations, and other characteristics described in section 503 of the Merchant Marine Act, 1936, an obligation guaranteed under this chapter or a related agreement may provide that—
 
 &emsp;&emsp;(A) the only recourse by the United States Government against the obligor for payments under the guarantee will be repossession of the vessel and assignment of insurance claims; and
 
@@ -44,7 +44,7 @@ Surrender of vessel.—
 
 In general.—On surrender, the vessel must be—
 
-&emsp;&emsp;&emsp;(i) free and clear of all liens and encumbrances except the security interest conveyed to the Secretary under this chapter;
+&emsp;&emsp;&emsp;(i) free and clear of all liens and encumbrances except the security interest conveyed to the Administrator under this chapter;
 
 &emsp;&emsp;&emsp;(ii) in class; and
 
@@ -56,17 +56,9 @@ Covering deficiencies by insurance.—To the extent covered by insurance, a defi
 
 (c)
 
-Other Provisions To Protect Security Interests.—An obligation guaranteed under this chapter and any related agreement must contain other provisions for the protection of the security interests of the Government (including acceleration, assumption, and subrogation provisions and the issuance of notes by the obligor to the Secretary), liens and releases of liens, payment of taxes, and other matters that the Secretary may prescribe.
+Other Provisions To Protect Security Interests.—An obligation guaranteed under this chapter and any related agreement must contain other provisions for the protection of the security interests of the Government (including acceleration, assumption, and subrogation provisions and the issuance of notes by the obligor to the Secretary or Administrator), liens and releases of liens, payment of taxes, and other matters that the Secretary or Administrator may prescribe.
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1610; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(D), (2)(C), Jan. 6, 2006, 119 Stat. 3555.)
-
-#### Amendments Not Shown in Text
-
-<i>Subsecs. (a) and (c) of this section were derived from subsecs. (b)(3) to (6) and (h), respectively, of section 1274 of the former Appendix to this title, which were amended by Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(D), Jan. 6, 2006, 119 Stat. 3555, by striking “Secretary” each place it appears and inserting “Secretary or Administrator”.</i>
-
-<i>Subsec. (b) of this section was derived from section 1274(b)(7) of the former Appendix to this title, which was amended by Pub. L. 109–163, div. C, title XXXV, §3507(a)(2)(C), Jan. 6, 2006, 119 Stat. 3555, by striking “Secretary” each place it appears and inserting “Administrator”.</i>
-
-<i>For applicability of those amendments to this section, see section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.</i>
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1610; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(D), (2)(C), Jan. 6, 2006, 119 Stat. 3555; Pub. L. 110–181, div. C, title XXXV, §3522(a)(5), (9)(A), (10)(B), (b), Jan. 28, 2008, 122 Stat. 598.)
 
 Historical and Revision Notes
 
@@ -104,7 +96,7 @@ June 29, 1936, ch. 858, title XI, §1104A(b)(3)–(7), (h) \[§1104A formerly §
 
 46 App.:1274(h).
 
-During review of this bill, the American Bureau of Shipping, through counsel, explained that it disagrees with an existing interpretation by the Maritime Administration of language restated in subsection (a)(4)(A) of this section, and requested the Committeeto clarify that this codification should not be construed as a ratification of that regulatory interpretation. The Committee therefore states that this codification should not be construed as an expression of any opinion whatsoever concerning any such administrative interpretation.
+During review of this bill, the American Bureau of Shipping, through counsel, explained that it disagrees with an existing interpretation by the Maritime Administration of language restated in subsection (a)(4)(A) of this section, and requested the Committee to clarify that this codification should not be construed as a ratification of that regulatory interpretation. The Committee therefore states that this codification should not be construed as an expression of any opinion whatsoever concerning any such administrative interpretation.
 
 In subsection (a)(3), the words “subject to the provisions of paragraph (2) of subsection (c) of this section” are omitted as unnecessary.
 
@@ -115,4 +107,16 @@ In subsection (b)(1), the reference to section 503 of the Merchant Marine Act, 1
 #### References in Text
 
 Section 503 of the Merchant Marine Act, 1936, referred to in subsec. (b)(1), is section 503 of act June 29, 1936, ch. 858, 49 Stat. 1985, which is set out as a note under section 53101 of this title.
+
+#### Amendments
+
+2008—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(D), (2)(C). See 2006 Amendment note below.
+
+Subsec. (a). Pub. L. 110–181, §3522(a)(10)(B), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(1)(D), into this section by inserting “or Administrator” after “Secretary” wherever appearing. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+
+Subsec. (b). Pub. L. 110–181, §3522(a)(5), (9)(A), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(2)(C), into this section by substituting “Administrator's” for “Secretary's” in introductory provisions of par. (1) and “Administrator” for “Secretary” in par. (2)(A)(i). See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+
+Subsec. (c). Pub. L. 110–181, §3522(a)(10)(B), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(1)(D), into this section by inserting “or Administrator” after “Secretary” in two places. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+
+2006—Pub. L. 109–163, §3507(a)(1)(D), (2)(C), which directed the amendment of section 1274(b)(3)–(7), (h) of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment notes for subsecs. (a), (b), and (c) and Historical and Revision notes above.
 

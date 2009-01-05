@@ -36,7 +36,15 @@
 
 (h) Each financial statement prepared by an executive agency for a fiscal year after fiscal year 1991 shall be audited in accordance with this section and the plan required by section 3512(a)(3)(B)(viii) of this title.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 961; Pub. L. 101–576, title III, §304(a), Nov. 15, 1990, 104 Stat. 2852; Pub. L. 103–356, title IV, §405(b), Oct. 13, 1994, 108 Stat. 3416; Pub. L. 104–208, div. A, title I, §101(f) \[title VIII, §805(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–392; Pub. L. 106–531, §4(b), Nov. 22, 2000, 114 Stat. 2539.)
+(i)(1) If the Government Accountability Office audits any financial statement or related schedule which is prepared under section 3515 by an executive agency (or component thereof) for a fiscal year beginning on or after October 1, 2009, such executive agency (or component) shall reimburse the Government Accountability Office for the cost of such audit, if the Government Accountability Office audited the statement or schedule of such executive agency (or component) for fiscal year 2007.
+
+(2) Any executive agency (or component thereof) that prepares a financial statement under section 3515 for a fiscal year beginning on or after October 1, 2009, and that requests, with the concurrence of the Inspector General of such agency, the Government Accountability Office to conduct the audit of such statement or any related schedule required by section 3521 may reimburse the Government Accountability Office for the cost of such audit.
+
+(3) For the audits conducted under paragraphs (1) and (2), the Government Accountability Office shall consult prior to the initiation of the audit with the relevant executive agency (or component) and the Inspector General of such agency on the scope, terms, and cost of such audit.
+
+(4) Any reimbursement under paragraph (1) or (2) shall be deposited to a special account in the Treasury and shall be available to the Government Accountability Office for such purposes and in such amounts as are specified in annual appropriations Acts.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 961; Pub. L. 101–576, title III, §304(a), Nov. 15, 1990, 104 Stat. 2852; Pub. L. 103–356, title IV, §405(b), Oct. 13, 1994, 108 Stat. 3416; Pub. L. 104–208, div. A, title I, §101(f) \[title VIII, §805(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–392; Pub. L. 106–531, §4(b), Nov. 22, 2000, 114 Stat. 2539; Pub. L. 110–323, §6(a), Sept. 22, 2008, 122 Stat. 3547.)
 
 Historical and Revision Notes
 
@@ -98,7 +106,9 @@ The Inspector General Act of 1978, referred to in subsec. (e)(1), is Pub. L. 95�
 
 #### Amendments
 
-2000—Subsec. (f). Pub. L. 106–531 struck out “(1)” before “For each audited”, substituted “subsection (a)” for “subsections (a) and (f)”, and struck out par. (2) which read as follows: “Not later than June 30 following the fiscal year for which a financial statement is submitted under subsection (g) of section 3515 of thistitle, the person who audits the statement for purpose of subsection (e) of this section shall submit a report on the audit to the head of the agency. A report under this subsection shall be prepared in accordance with generally accepted government auditing standards.”
+2008—Subsec. (i). Pub. L. 110–323 added subsec. (i).
+
+2000—Subsec. (f). Pub. L. 106–531 struck out “(1)” before “For each audited”, substituted “subsection (a)” for “subsections (a) and (f)”, and struck out par. (2) which read as follows: “Not later than June 30 following the fiscal year for which a financial statement is submitted under subsection (g) of section 3515 of this title, the person who audits the statement for purpose of subsection (e) of this section shall submit a report on the audit to the head of the agency. A report under this subsection shall be prepared in accordance with generally accepted government auditing standards.”
 
 1996—Subsec. (f)(1). Pub. L. 104–208 inserted “and the Controller of the Office of Federal Financial Management” before period at end of first sentence.
 

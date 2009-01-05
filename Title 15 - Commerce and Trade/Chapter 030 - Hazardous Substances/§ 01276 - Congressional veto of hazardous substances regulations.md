@@ -2,7 +2,7 @@
 
 #### (a) Transmission to Congress
 
-The Consumer Product Safety Commission shall transmit to the Secretary of the Senate and the Clerk of the House of Representatives a copy of any regulation promulgated by the Commission under section 1261(q)(1) of this title or subsection (e) of section 1262 of this title.
+The Commission shall transmit to the Secretary of the Senate and the Clerk of the House of Representatives a copy of any regulation promulgated by the Commission under section 1261(q)(1) of this title or subsection (e) of section 1262 of this title.
 
 #### (b) Disapproval by concurrent resolution
 
@@ -24,11 +24,15 @@ For purposes of this section—
 
 &emsp;(2) the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded in the computation of the periods of continuous session of the Congress specified in subsection (b) of this section.
 
-(Pub. L. 86–613, §21, as added Pub. L. 97–35, title XII, §1207(c), Aug. 13, 1981, 95 Stat. 718.)
+(Pub. L. 86–613, §21, as added Pub. L. 97–35, title XII, §1207(c), Aug. 13, 1981, 95 Stat. 718; amended Pub. L. 110–314, title II, §204(b)(4)(H), Aug. 14, 2008, 122 Stat. 3042.)
 
 #### References in Text
 
 The Federal Hazardous Substances Act, referred to in subsec. (b), is Pub. L. 86–613, July 12, 1960, 74 Stat. 372, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1261 of this title and Tables.
+
+#### Amendments
+
+2008—Pub. L. 110–314, which directed the substitution of “Commission” for “Consumer Product Safety Commission” in this section, was executed by making the substitution in subsec. (a), before “shall transmit”, but not in subsec. (b)(1), to reflect the probable intent of Congress.
 
 #### Effective Date
 

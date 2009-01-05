@@ -12,3 +12,51 @@ Based on 44 U.S. Code, 1964 ed., §393(e) (June 30, 1949, ch. 288, title V, §50
 
 Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
+#### Advisory Committee on Founding Fathers Editorial Projects
+
+Pub. L. 110–404, §5, Oct. 13, 2008, 122 Stat. 4283, provided that:
+
+“(a)
+
+Establishment.—The Archivist of the United States may establish an advisory committee to—
+
+&emsp;“(1) review the progress of the Founding Fathers editorial projects funded by the National Historical Publications and Records Commission;
+
+&emsp;“(2) develop, in consultation with the various Founding Fathers editorial projects, appropriate completion goals for the projects described in paragraph (1);
+
+&emsp;“(3) annually review such goals and report to the Archivist on the progress of the various projects in meeting the goals; and
+
+&emsp;“(4) recommend to the Archivist measures that would aid or encourage the projects in meeting such goals.
+
+“(b)
+
+Reports to the Advisory Committee.—Each of the projects described in subsection (a)(1) shall provide annually to the advisory committee established under subsection (a) a report on the progress of the project toward accomplishing the completion goals and any assistance needed to achieve such goals, including the following:
+
+&emsp;“(1) The proportion of total project funding for the funding year in which the report is submitted from—
+
+&emsp;&emsp;“(A) Federal, State, and local government sources;
+
+&emsp;&emsp;“(B) the host institution for the project;
+
+&emsp;&emsp;“(C) private or public foundations; and
+
+&emsp;&emsp;“(D) individuals.
+
+&emsp;“(2) Information on all activities carried out using nongovernmental funding.
+
+&emsp;“(3) Any and all information related to performance goals for the funding year in which the report is submitted.
+
+“(c)
+
+Composition; Meetings; Report; Sunset; Action.—The advisory committee established under subsection (a) shall—
+
+&emsp;“(1) be comprised of 3 nationally recognized historians appointed for not more than 2 consecutive 4-year terms;
+
+&emsp;“(2) meet not less frequently than once a year;
+
+&emsp;“(3) provide a report on the information obtained under subsection (b) to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives not later than 1 year after the date of enactment of this Act \[Oct. 13, 2008\] and annually thereafter;
+
+&emsp;“(4) terminate on the date that is 8 years after the date of enactment of this Act; and
+
+&emsp;“(5) recommend legislative or executive action that would facilitate completion of the performance goals for the Founding Fathers editorial projects.”
+

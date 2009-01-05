@@ -42,7 +42,7 @@ The maximum amount of the deduction allowed by subsection (a) for any taxpayer f
 
 #### (2) Benefit payments taken into account
 
-&emsp;In determining the amounts described in subsection (b), only those black lung benefit claims the payment of which is expected to bemade from the trust shall be taken into account.
+&emsp;In determining the amounts described in subsection (b), only those black lung benefit claims the payment of which is expected to be made from the trust shall be taken into account.
 
 #### (3) Time when contributions deemed made
 

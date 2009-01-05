@@ -46,7 +46,7 @@
 
 &emsp;&emsp;In the case of kerosene which is removed from any refinery or terminal directly into the fuel tank of an aircraft for use in aviation, the rate of tax under subparagraph (A)(iii) shall be—
 
-&emsp;&emsp;&emsp;(i) in the case of use for commercial aviation by a person registered for suchuse under section 4101, 4.3 cents per gallon, and
+&emsp;&emsp;&emsp;(i) in the case of use for commercial aviation by a person registered for such use under section 4101, 4.3 cents per gallon, and
 
 &emsp;&emsp;&emsp;(ii) in the case of use for aviation not described in clause (i), 21.8 cents per gallon.
 
@@ -70,7 +70,7 @@
 
 #### (B) Requirements
 
-&emsp;&emsp;A refueler truck, tanker, or tank wagon meets the requirements of this subparagraph with respect to a terminal if such truck, tanker, or wagon—
+&emsp;&emsp;A refueler truck, tanker, or tank wagon meets the requirements of this subparagraphwith respect to a terminal if such truck, tanker, or wagon—
 
 &emsp;&emsp;&emsp;(i) has storage tanks, hose, and coupling equipment designed and used for the purposes of fueling aircraft,
 
@@ -134,17 +134,17 @@ If any person separates the taxable fuel from a diesel-water fuel emulsion on wh
 
 &emsp;&emsp;(A) after December 31, 1996, and before the date which is 7 days after the date of the enactment of the Airport and Airway Trust Fund Tax Reinstatement Act of 1997, and
 
-&emsp;&emsp;(B) after February 29, 2008.
+&emsp;&emsp;(B) after March 31, 2009.
 
 #### (3) Leaking Underground Storage Tank Trust Fund financing rate
 
-&emsp;The Leaking Underground Storage Tank Trust Fund financing rate under subsection\(a)(2) shall apply after September 30, 1997, and before October 1, 2011.
+&emsp;The Leaking Underground Storage Tank Trust Fund financing rate under subsection (a)(2) shall apply after September 30, 1997, and before October 1, 2011.
 
 #### (e) Refunds in certain cases
 
 Under regulations prescribed by the Secretary, if any person who paid the tax imposed by this section with respect to any taxable fuel establishes to the satisfaction of the Secretary that a prior tax was paid (and not credited or refunded) with respect to such taxable fuel, then an amount equal to the tax paid by such person shall be allowed as a refund (without interest) to such person in the same manner as if it were an overpayment of tax imposed by this section.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 483; Mar. 30, 1955, ch. 18, §3(a)(3), 69 Stat. 14; Mar. 29, 1956, ch. 115, §3(a)(3), 70 Stat. 66; June 29, 1956, ch. 462, title II, §205, 70 Stat. 389; Pub. L. 86–342, title II, §201(a), Sept. 21, 1959, 73 Stat. 613; Pub. L. 87–61, title II, §201(b)–(d), June 29, 1961, 75 Stat. 123, 124; Pub. L. 91–605, title III, §303(a)(6), Dec. 31, 1970, 84 Stat. 1744; Pub. L. 94–280, title III, §303(a)(6), May 5, 1976, 90 Stat. 456; Pub. L. 95–599, title V, §502(a)(5), Nov. 6, 1978, 92 Stat. 2756; Pub. L. 95–618, title II, §221(a)(1), Nov. 9, 1978, 92 Stat. 3185; Pub. L. 96–223, title II, §232(a)(1), (b)(3)(A), (d)(3), Apr. 2, 1980, 94 Stat. 273, 276, 277; Pub. L. 97–424, title V, §§511(a)(1), (d)(1), 516(a)(3), Jan. 6, 1983, 96 Stat. 2169, 2171, 2182; Pub. L. 98–369, div. A, title VII, §732(a)(1), (2), title IX, §912(b), (f), July 18, 1984, 98 Stat. 976, 977, 1007; Pub. L. 99–499, title V, §521(a)(1), Oct. 17, 1986, 100 Stat. 1774; Pub. L. 99–514, title XVII, §1703(a), Oct. 22, 1986, 100 Stat. 2774; Pub. L. 100–17, title V, §502(a)(4), (c)(2), Apr. 2, 1987, 101 Stat. 256, 257; Pub. L. 100–203, title X, §10502(d)(2), Dec. 22, 1987, 101 Stat. 1330–444; Pub. L. 100–647, title I, §1017(c)(1), (14), title II, §2001(d)(5), title VI, §6104(a), Nov. 10, 1988, 102 Stat. 3575, 3577, 3595, 3711; Pub. L. 101–508, title XI, §§11211(a)(1)–(3), (5)(A)–(C), (c)(3), (e)(3), 11212(a), (d)(1), (e)(2), 11215(a), Nov. 5, 1990, 104 Stat. 1388–423, 1388–424, 1388–426, 1388–427, 1388–430, 1388–432, 1388–436; Pub. L. 102–240, title VIII, §8002(a)(3), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 102–486, title XIX, §1920(a), (b), Oct. 24, 1992, 106 Stat. 3026; Pub. L. 103–66, title XIII, §§13241(a), 13242(a), Aug. 10, 1993, 107 Stat. 510, 514; Pub. L. 104–188, title I, §1609(a)(2), (g)(1), (2), (4)(B), Aug. 20, 1996, 110 Stat. 1841–1843; Pub. L. 105–2, §2(a)(2), Feb. 28, 1997, 111 Stat. 4; Pub. L. 105–34, title X, §§1031(a)(2), 1032(b), 1033, Aug. 5, 1997, 111 Stat. 929, 933, 937; Pub. L. 105–178, title IX, §§9002(a)(1)(F), 9003(a)(1)(C), (b)(2)(B), (C), June 9, 1998, 112 Stat. 499, 502, 503; Pub. L. 108–357, title III, §301(c)(7), title VIII, §§853(a)(1)–(3)(A), (4), 860(a), Oct. 22, 2004, 118 Stat. 1461, 1609–1611, 1618; Pub. L. 109–6, §1(a), Mar. 31, 2005, 119 Stat. 20; Pub. L. 109–58, title XIII, §§1343(a), (b)(2), 1362(a), Aug. 8, 2005, 119 Stat. 1051, 1052, 1059; Pub. L. 109–59, title XI, §§11101(a)(1)(F), 11151(b)(1), (2), 11161(a)(1)–(4)(D), 11166(b)(1), Aug. 10, 2005, 119 Stat. 1944, 1968–1970, 1976; Pub. L. 110–161, div. K, title I, §116(a), Dec. 26, 2007, 121 Stat. 2381.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 483; Mar. 30, 1955, ch. 18, §3(a)(3), 69 Stat. 14; Mar. 29, 1956, ch. 115, §3(a)(3), 70 Stat. 66; June 29, 1956, ch. 462, title II, §205, 70 Stat. 389; Pub. L. 86–342, title II, §201(a), Sept. 21, 1959, 73 Stat. 613; Pub. L. 87–61, title II, §201(b)–(d), June 29, 1961, 75 Stat. 123, 124; Pub. L. 91–605, title III, §303(a)(6), Dec. 31, 1970, 84 Stat. 1744; Pub. L. 94–280, title III, §303(a)(6), May 5, 1976, 90 Stat. 456; Pub. L. 95–599, title V, §502(a)(5), Nov. 6, 1978, 92 Stat. 2756; Pub. L. 95–618, title II, §221(a)(1), Nov. 9, 1978, 92 Stat. 3185; Pub. L. 96–223, title II, §232(a)(1), (b)(3)(A), (d)(3), Apr. 2, 1980, 94 Stat. 273, 276, 277; Pub. L. 97–424, title V, §§511(a)(1), (d)(1), 516(a)(3), Jan. 6, 1983, 96 Stat. 2169, 2171, 2182; Pub. L. 98–369, div. A, title VII, §732(a)(1), (2), title IX, §912(b), (f), July 18, 1984, 98 Stat. 976, 977, 1007; Pub. L. 99–499, title V, §521(a)(1), Oct. 17, 1986, 100 Stat. 1774; Pub. L. 99–514, title XVII, §1703(a), Oct. 22, 1986, 100 Stat. 2774; Pub. L. 100–17, title V, §502(a)(4), (c)(2), Apr. 2, 1987, 101 Stat. 256, 257; Pub. L. 100–203, title X, §10502(d)(2), Dec. 22, 1987, 101 Stat. 1330–444; Pub. L. 100–647, title I, §1017(c)(1), (14), title II, §2001(d)(5), title VI, §6104(a), Nov. 10, 1988, 102 Stat. 3575, 3577, 3595, 3711; Pub. L. 101–508, title XI, §§11211(a)(1)–(3), (5)(A)–(C), (c)(3), (e)(3), 11212(a), (d)(1), (e)(2), 11215(a), Nov. 5, 1990, 104 Stat. 1388–423, 1388–424, 1388–426,1388–427, 1388–430, 1388–432, 1388–436; Pub. L. 102–240, title VIII, §8002(a)(3), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 102–486, title XIX, §1920(a), (b), Oct. 24, 1992, 106 Stat. 3026; Pub. L. 103–66, title XIII, §§13241(a), 13242(a), Aug. 10, 1993, 107 Stat. 510, 514; Pub. L. 104–188, title I, §1609(a)(2), (g)(1), (2), (4)(B), Aug. 20, 1996, 110 Stat. 1841–1843; Pub. L. 105–2, §2(a)(2), Feb. 28, 1997, 111 Stat. 4; Pub. L. 105–34, title X, §§1031(a)(2), 1032(b), 1033, Aug. 5, 1997, 111 Stat. 929, 933, 937; Pub. L. 105–178, title IX, §§9002(a)(1)(F), 9003(a)(1)(C), (b)(2)(B), (C), June 9, 1998, 112 Stat. 499, 502, 503; Pub. L. 108–357, title III, §301(c)(7), title VIII, §§853(a)(1)–(3)(A), (4), 860(a), Oct. 22, 2004, 118 Stat. 1461, 1609–1611, 1618; Pub. L. 109–6, §1(a), Mar. 31, 2005, 119 Stat. 20; Pub. L. 109–58, title XIII, §§1343(a), (b)(2), 1362(a), Aug. 8, 2005, 119 Stat. 1051, 1052, 1059; Pub. L. 109–59, title XI, §§11101(a)(1)(F), 11151(b)(1), (2), 11161(a)(1)–(4)(D), 11166(b)(1), Aug. 10, 2005, 119 Stat. 1944, 1968–1970, 1976; Pub. L. 110–161, div. K, title I, §116(a), Dec. 26, 2007, 121 Stat. 2381; Pub. L. 110–190, §2(a), Feb. 28, 2008, 122 Stat. 643; Pub. L. 110–253, §2(a), June 30, 2008, 122 Stat. 2417; Pub. L. 110–330, §2(a), Sept. 30, 2008, 122 Stat. 3717.)
 
 #### References in Text
 
@@ -153,6 +153,12 @@ Section 211 of the Clean Air Act, referred to in subsec. (a)(2)(D), is classifie
 The date of the enactment of the Airport and Airway Trust Fund Tax Reinstatement Act of 1997, referred to in subsec. (d)(2)(A), is the date of enactment of Pub. L. 105–2, which was approved Feb. 28, 1997.
 
 #### Amendments
+
+2008—Subsec. (d)(2)(B). Pub. L. 110–330 substituted “March 31, 2009” for “September 30, 2008”.
+
+Pub. L. 110–253 substituted “September 30, 2008” for “June 30, 2008”.
+
+Pub. L. 110–190 substituted “June 30, 2008” for “February 29, 2008”.
 
 2007—Subsec. (d)(2)(B). Pub. L. 110–161 substituted “February 29, 2008” for “September 30, 2007”.
 
@@ -290,7 +296,7 @@ In general.—The Leaking Underground Storage Tank Trust Fund financing rate und
 
 “(B)
 
-Termination month.—For purposes of subparagraph (A), the termination month is the 1st month as of the close of which the Secretary estimates that thenet revenues are at least $500,000,000 from taxes imposed by section 4041(d) and taxes attributable to Leaking Underground Storage Tank Trust Fund financing rate imposed under this section and sections 4042 and 4091.
+Termination month.—For purposes of subparagraph (A), the termination month is the 1st month as of the close of which the Secretary estimates that the net revenues are at least $500,000,000 from taxes imposed by section 4041(d) and taxes attributable to Leaking Underground Storage Tank Trust Fund financing rate imposed under this section and sections 4042 and 4091.
 
 “(C)
 
@@ -399,6 +405,14 @@ Subsec. (a). Act June 29, 1956, redesignated first sentence as subsec. (a) and i
 Subsec. (b). Act June 29, 1956, redesignated second sentence as subsec. (b) and substituted “July 1, 1972” for “April 1, 1956”.
 
 1955—Act Mar. 30, 1955, substituted “April 1, 1956” for “April 1, 1955”.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–330, §2(c), Sept. 30, 2008, 122 Stat. 3717, provided that: “The amendments made by this section \[amending this section and sections 4261 and 4271 of this title\] shall take effect on October 1, 2008.”
+
+Pub. L. 110–253, §2(c), June 30, 2008, 122 Stat. 2417, provided that: “The amendments made by this section \[amending this section and sections 4261 and 4271 of this title\] shall take effect on July 1, 2008.”
+
+Pub. L. 110–190, §2(c), Feb. 28, 2008, 122 Stat. 643, provided that: “The amendments made by this section \[amending this section and sections 4261 and 4271 of this title\] shall take effect on March 1, 2008.”
 
 #### Effective Date of 2007 Amendment
 
@@ -604,7 +618,7 @@ Consultation.—Upon request of the Commission, representatives of the Departmen
 
 “(f)
 
-Obtaining Data.—The Commission may secure directly from any department or agency of the United States, information (other than information required by any law to be kept confidential by such department or agency) necessary for the Commission to carry out its duties under this section. Upon request of the Commission, the head of that department or agency shall furnish such nonconfidential information to the Commission. The Commission shall also gather evidencethrough such means as it may deem appropriate, including through holding hearings and soliciting comments by means of Federal Register notices.
+Obtaining Data.—The Commission may secure directly from any department or agency of the United States, information (other than information required by any law to be kept confidential by such department or agency) necessary for the Commission to carry out its duties under this section. Upon request of the Commission, the head of that department or agency shall furnish such nonconfidential information to the Commission. The Commission shall also gather evidence through such means as it may deem appropriate, including through holding hearings and soliciting comments by means of Federal Register notices.
 
 “(g)
 
@@ -618,7 +632,7 @@ Pub. L. 108–357, title VIII, §853(f), Oct. 22, 2004, 118 Stat. 1614, provided
 
 In general.—There is hereby imposed on aviation-grade kerosene held on January 1, 2005, by any person a tax equal to—
 
-&emsp;“(A) the tax which would have been imposed before such date on such kerosene had the amendments made by this section \[amending this section and sections 4041, 4082, 4083, 4101, 4103, 4221, 6206, 6416, 6427, 6724, 9502, and 9508 of this title, redesignating subpart C of part III of subchapter A of chapter 32 of this title as subpart B of part III of subchapter A of chapter 32 of this title, and repealing former subpart B of part III of subchapter A of chapter 32 of this title\] been in effect at all times before such date, reduced by
+&emsp;“(A) the tax which would have been imposed before such date on such kerosene had the amendments made by this section \[amending this section and sections 4041, 4082, 4083, 4101, 4103, 4221, 6206, 6416, 6427, 6724, 9502, and 9508 of this title, redesignating subpart C of part III of subchapter A of chapter 32 of this title as subpart B of part III of subchapter A of chapter 32 of this title, and repealing former subpart B of partIII of subchapter A of chapter 32 of this title\] been in effect at all times before such date, reduced by
 
 &emsp;“(B) the sum of—
 

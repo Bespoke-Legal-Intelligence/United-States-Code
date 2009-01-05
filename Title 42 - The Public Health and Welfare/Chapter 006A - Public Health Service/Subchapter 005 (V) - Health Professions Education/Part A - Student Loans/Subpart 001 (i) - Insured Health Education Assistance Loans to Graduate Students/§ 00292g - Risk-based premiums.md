@@ -38,7 +38,7 @@ Except as provided in subsection (d)(2) of this section, the risk-based premium 
 
 #### (B) Default management plan
 
-&emsp;&emsp;An institution of the type described in subparagraph (A) shall prepare and submit to the Secretary for approval a plan that meets the requirements of paragraph (2)(B).
+&emsp;&emsp;An institution of the type described in subparagraph (A) shall prepare and submit tothe Secretary for approval a plan that meets the requirements of paragraph (2)(B).
 
 #### (4) Ineligibility
 

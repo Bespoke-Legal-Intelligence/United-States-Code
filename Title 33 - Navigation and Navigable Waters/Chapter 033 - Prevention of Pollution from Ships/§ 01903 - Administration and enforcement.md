@@ -4,11 +4,25 @@
 
 Unless otherwise specified in this chapter, the Secretary shall administer and enforce theMARPOL Protocol, Annex IV to the Antarctic Protocol, and this chapter. In the administration and enforcement of the MARPOL Protocol and this chapter, Annexes I and II of the Convention apply only to seagoing ships.
 
-#### (b) Regulations; refuse record books; waste management plans; notification of crew and passengers
+#### (b) Duty of the Administrator
+
+In addition to other duties specified in this chapter, the Administrator and the Secretary, respectively, shall have the following duties and authorities:
+
+&emsp;(1) The Administrator shall, and no other person may, issue Engine International Air Pollution Prevention certificates in accordance with Annex VI and the International Maritime Organization's Technical Code on Control of Emissions of Nitrogen Oxides from Marine Diesel Engines, on behalf of the United States for a vessel of the United States as that term is defined in section 116 of title 46. The issuance of Engine International Air Pollution Prevention certificates shall be consistent with any applicable requirements of the Clean Air Act \[42 U.S.C. 7401 et seq.\] or regulations prescribed under that Act.
+
+&emsp;(2) The Administrator shall have authority to administer regulations 12, 13, 14, 15, 16, 17, 18, and 19 of Annex VI to the Convention.
+
+&emsp;(3) The Administrator shall, only as specified in section 1907(f) of this title, have authority to enforce Annex VI of the Convention.
+
+#### (c) Regulations; refuse record books; waste management plans; notification of crew and passengers
 
 (1) The Secretary shall prescribe any necessary or desired regulations to carry out the provisions of the MARPOL Protocol, Annex IV to the Antarctic Protocol, or this chapter.
 
-(2) The Secretary of the department in which the Coast Guard is operating shall—
+(2) In addition to the authority the Secretary has to prescribe regulations under this chapter, the Administrator shall also prescribe any necessary or desired regulations to carry out the provisions of regulations 12, 13, 14, 15, 16, 17, 18, and 19 of Annex VI to the Convention.
+
+(3) In prescribing any regulations under this section, the Secretary and the Administrator shall consult with each other, and with respect to regulation 19, with the Secretary of the Interior.
+
+(4) The Secretary of the department in which the Coast Guard is operating shall—
 
 &emsp;(A) prescribe regulations which—
 
@@ -24,17 +38,27 @@ Unless otherwise specified in this chapter, the Secretary shall administer and e
 
 &emsp;&emsp;(ii) if the Secretary has not obtained agreements pursuant to subparagraph (B) regarding the desirability of applying the requirements described in subparagraph (A)(i) to all vessels described in section 1902(a) of this title which call at United States ports.
 
-#### (c) Utilization of personnel, facilities, or equipment of other Federal departments and agencies
+(5) No standard issued by any person or Federal authority, with respect to emissions from tank vessels subject to regulation 15 of Annex VI to the Convention, shall be effective until 6 months after the required notification to the International Maritime Organization by the Secretary.
+
+#### (d) Utilization of personnel, facilities, or equipment of other Federal departments and agencies
 
 The Secretary may utilize by agreement, with or without reimbursement, personnel, facilities, or equipment of other Federal departments and agencies in administering the MARPOL Protocol, this chapter, or the regulations thereunder.
 
-(Pub. L. 96–478, §4, Oct. 21, 1980, 94 Stat. 2298; Pub. L. 100–220, title II, §2107, Dec. 29, 1987, 101 Stat. 1464; Pub. L. 104–227, title II, §201(c), Oct. 2, 1996, 110 Stat. 3042.)
+(Pub. L. 96–478, §4, Oct. 21, 1980, 94 Stat. 2298; Pub. L. 100–220, title II, §2107, Dec. 29, 1987, 101 Stat. 1464; Pub. L. 104–227, title II, §201(c), Oct. 2, 1996, 110 Stat. 3042; Pub. L. 110–280, §5, July 21, 2008, 122 Stat. 2613.)
 
 #### References in Text
 
-The effective date of this paragraph, referred to in subsec. (b)(2)(C), is Dec. 31, 1988, the effective date of section 2107(b) of Pub. L. 100–220 which added par. (2) to subsec. (b). See Effective Date of 1987 Amendment note below.
+The Clean Air Act, referred to in subsec. (b)(1), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+
+The effective date of this paragraph, referred to in subsec. (c)(4)(C), is Dec. 31, 1988, the effective date of section 2107(b) of Pub. L. 100–220. See Effective Date of 1987 Amendment note below.
 
 #### Amendments
+
+2008—Subsec. (b). Pub. L. 110–280, §5(1), added subsec. (b). Former subsec. (b) redesignated (c).
+
+Subsec. (c). Pub. L. 110–280 redesignated subsec. (b) as (c), added pars. (2), (3), and (5), and redesignated former par. (2) as (4). Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 110–280, §5(1), redesignated subsec. (c) as (d).
 
 1996—Subsec. (a). Pub. L. 104–227, §201(c)(1), inserted “, Annex IV to the Antarctic Protocol,” after “the MARPOL Protocol” in first sentence.
 

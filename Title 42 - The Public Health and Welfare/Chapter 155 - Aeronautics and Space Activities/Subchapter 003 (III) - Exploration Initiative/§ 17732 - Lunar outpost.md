@@ -1,0 +1,16 @@
+### §17732. Lunar outpost
+
+#### (a) Establishment
+
+As NASA works toward the establishment of a lunar outpost, NASA shall make no plans that would require a lunar outpost to be occupied to maintain its viability. Any such outpost shall beoperable as a human-tended facility capable of remote or autonomous operation for extended periods.
+
+#### (b) Designation
+
+The United States portion of the first human-tended outpost established on the surface of the Moon shall be designated the “Neil A. Armstrong Lunar Outpost”.
+
+#### (c) Sense of Congress
+
+It is the sense of Congress that NASA should make use of commercial services to the maximum extent practicable in support of its lunar outpost activities.
+
+(Pub. L. 110–422, title IV, §404, Oct. 15, 2008, 122 Stat. 4789.)
+

@@ -26,7 +26,7 @@ Subsec. (a)(1). Pub. L. 102–568, §401(a)(1), substituted “after January 31,
 
 Subsec. (a)(2). Pub. L. 102–568, §401(a)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For purposes of this section:
 
-&emsp;“(A) The term ‘qualified veteran’ means a veteran who has a service-connected disability, or service-connected disabilities, not rated as total but who has been awarded a rating of total disability by reason ofinability to secure or follow a substantially gainful occupation as a result of such disability or disabilities.
+&emsp;“(A) The term ‘qualified veteran’ means a veteran who has a service-connected disability, or service-connected disabilities, not rated as total but who has been awarded a rating of total disability by reason of inability to secure or follow a substantially gainful occupation as a result of such disability or disabilities.
 
 &emsp;“(B) The term ‘program period’ means the period beginning on February 1, 1985, and ending on December 31, 1992.”
 

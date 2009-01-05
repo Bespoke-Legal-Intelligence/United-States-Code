@@ -9,18 +9,20 @@
 | \[4307, 4308. Repealed.\] |  |
 | [4309\.](%C2%A7%2004309%20-%20Rifle%20ranges%20availability%20for%20use%20by%20members%20and%20civilians.md) | Rifle ranges: availability for use by members and civilians. |
 | \[4310 to 4313. Repealed.\] |  |
-| [4314\.](%C2%A7%2004314%20-%20United%20States%20Army%20Command%20and%20General%20Staff%20College%20degree.md) | United States Army Command and General Staff College degree. |
+| [4314\.](%C2%A7%2004314%20-%20Degree%20granting%20authority%20for%20United%20States%20Army%20Command%20and%20General%20Staff%20College.md) | Degree granting authority for United States Army Command and General Staff College. |
 | [4315\.](%C2%A7%2004315%20-%20The%20Judge%20Advocate%20General%27s%20School%20master%20of%20laws%20in%20military%20law.md) | The Judge Advocate General's School: master of laws in military law. |
 | [4316\.](%C2%A7%2004316%20-%20Reporting%20requirements.md) | Reporting requirements. |
 | [4317\.](%C2%A7%2004317%20-%20Military%20history%20fellowships.md) | Military history fellowships. |
 | [4318\.](%C2%A7%2004318%20-%20Drill%20sergeant%20trainees%20human%20relations%20training.md) | Drill sergeant trainees: human relations training. |
 | [4319\.](%C2%A7%2004319%20-%20Recruit%20basic%20training%20separate%20housing%20for%20male%20and%20female%20recruits.md) | Recruit basic training: separate housing for male and female recruits. |
 | [4320\.](%C2%A7%2004320%20-%20Recruit%20basic%20training%20privacy.md) | Recruit basic training: privacy. |
-| [4321\.](%C2%A7%2004321%20-%20United%20States%20Army%20War%20College%20master%20of%20strategic%20studies%20degree.md) | United States Army War College: master of strategic studies degree. |
+| [4321\.](%C2%A7%2004321%20-%20Degree%20granting%20authority%20for%20United%20States%20Army%20War%20College.md) | Degree granting authority for United States Army War College. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–417, \[div. A\], title V, §543(c)(2), (d)(2), Oct. 14, 2008, 122 Stat. 4459, 4460, added items 4314 and 4321 and struck out former items 4314 “United States Army Command and General Staff College degree” and 4321 “United States Army War College: master of strategic studies degree”.
 
 1999—Pub. L. 106–65, div. A, title V, §542(b), Oct. 5, 1999, 113 Stat. 607, added item 4321.
 
@@ -57,11 +59,11 @@ Pub. L. 102–484, div. A, title III, §380(c)(2), Oct. 23, 1992, 106 Stat. 2391
 - [&sect; 04309 - Rifle ranges availability for use by members and civilians](%C2%A7%2004309%20-%20Rifle%20ranges%20availability%20for%20use%20by%20members%20and%20civilians.md)
 - [&sect; 04310, 4311 - Repealed. Pub. L. 104&#8211;106, div. A, title XVI, &sect;1624(a)(1), Feb. 10, 1996, 110 Stat. 522](%C2%A7%2004310%2C%204311%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20A%2C%20title%20XVI%2C%20%C2%A71624%28a%29%281%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20522.md)
 - [&sect; 04312, 4313 - Repealed. Pub. L. 105&#8211;225, &sect;6(b), Aug. 12, 1998, 112 Stat. 1499](%C2%A7%2004312%2C%204313%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93225%2C%20%C2%A76%28b%29%2C%20Aug.%2012%2C%201998%2C%20112%20Stat.%201499.md)
-- [&sect; 04314 - United States Army Command and General Staff College degree](%C2%A7%2004314%20-%20United%20States%20Army%20Command%20and%20General%20Staff%20College%20degree.md)
+- [&sect; 04314 - Degree granting authority for United States Army Command and General Staff College](%C2%A7%2004314%20-%20Degree%20granting%20authority%20for%20United%20States%20Army%20Command%20and%20General%20Staff%20College.md)
 - [&sect; 04315 - The Judge Advocate General's School master of laws in military law](%C2%A7%2004315%20-%20The%20Judge%20Advocate%20General%27s%20School%20master%20of%20laws%20in%20military%20law.md)
 - [&sect; 04316 - Reporting requirements](%C2%A7%2004316%20-%20Reporting%20requirements.md)
 - [&sect; 04317 - Military history fellowships](%C2%A7%2004317%20-%20Military%20history%20fellowships.md)
 - [&sect; 04318 - Drill sergeant trainees human relations training](%C2%A7%2004318%20-%20Drill%20sergeant%20trainees%20human%20relations%20training.md)
 - [&sect; 04319 - Recruit basic training separate housing for male and female recruits](%C2%A7%2004319%20-%20Recruit%20basic%20training%20separate%20housing%20for%20male%20and%20female%20recruits.md)
 - [&sect; 04320 - Recruit basic training privacy](%C2%A7%2004320%20-%20Recruit%20basic%20training%20privacy.md)
-- [&sect; 04321 - United States Army War College master of strategic studies degree](%C2%A7%2004321%20-%20United%20States%20Army%20War%20College%20master%20of%20strategic%20studies%20degree.md)
+- [&sect; 04321 - Degree granting authority for United States Army War College](%C2%A7%2004321%20-%20Degree%20granting%20authority%20for%20United%20States%20Army%20War%20College.md)

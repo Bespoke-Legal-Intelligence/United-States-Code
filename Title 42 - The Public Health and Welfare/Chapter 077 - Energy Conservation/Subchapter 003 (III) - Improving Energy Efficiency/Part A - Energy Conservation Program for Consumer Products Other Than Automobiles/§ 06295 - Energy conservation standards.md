@@ -82,7 +82,7 @@ Amended standards.—The final rule shall contain any amended standards.
 | With Reverse Cycle and With Louvered Sides | 8\.5 |
 | With Reverse Cycle, Without Louvered Sides | 8\.0 |
 
-(2)(A) The Secretary shall publish a final rule no later than January 1, 1992, to determine if the standards established under paragraph (1) should be amended. Such rule shall contain suchamendment, if any, and provide that the amendment shall apply to products manufactured on or after January 1, 1995.
+(2)(A) The Secretary shall publish a final rule no later than January 1, 1992, to determine if the standards established under paragraph (1) should be amended. Such rule shall contain such amendment, if any, and provide that the amendment shall apply to products manufactured on or after January 1, 1995.
 
 (B) After January 1, 1992, the Secretary shall publish a final rule no later than five years after the date of publication of a previous final rule. The Secretary shall determine in such rule whether to amend the standards in effect for room air conditioners.
 
@@ -166,7 +166,7 @@ Amended standards.—The final rule shall contain any amended standards.
 
 &emsp;(B) the Secretary shall prescribe a final rule not later than January 1, 1989, establishing an energy conservation standard—
 
-&emsp;&emsp;(i) which is for furnaces (other than furnaces designed solely for installation in mobile homes) having an input of less than45,000 Btu per hour and manufactured on or after January 1, 1992;
+&emsp;&emsp;(i) which is for furnaces (other than furnaces designed solely for installation in mobile homes) having an input of less than 45,000 Btu per hour and manufactured on or after January 1, 1992;
 
 &emsp;&emsp;(ii) which provides that the annual fuel utilization efficiency of such furnaces shall be a specific percent which is not less than 71 percent and not more than 78 percent; and
 
@@ -448,7 +448,7 @@ Lamps between 2.25–2.75 inches in diameter.—The standards specified in subpa
 
 (2) Notwithstanding section 6302(a)(5) of this title and section 6302(b) of this title, it shall not be unlawful for a manufacturer to sell a lamp which is in compliance with the law at the time such lamp was manufactured.
 
-(3) Not less than 36 months after October 24, 1992, the Secretary shall initiate a rulemaking procedure and shall publish a final rule not later than the end of the 54-month period beginning on October 24, 1992, to determine if the standards established under paragraph (1) should be amended. Such rule shall contain such amendment, if any, and provide that the amendment shall apply to products manufactured on or afterthe 36-month period beginning on the date such final rule is published.
+(3) Not less than 36 months after October 24, 1992, the Secretary shall initiate a rulemaking procedure and shall publish a final rule not later than the end of the 54-month period beginning on October 24, 1992, to determine if the standards established under paragraph (1) should be amended. Such rule shall contain such amendment, if any, and provide that the amendment shall apply to products manufactured on or after the 36-month period beginning on the date such final rule is published.
 
 (4) Not less than eight years after October 24, 1992, the Secretary shall initiate a rulemaking procedure and shall publish a final rule not later than nine years and six months after October 24, 1992, to determine if the standards in effect for fluorescent lamps and incandescent lamps should be amended. Such rule shall contain such amendment, if any, and provide that the amendment shall apply to products manufactured on or after the 36-month period beginning on the date such final rule is published.
 
@@ -532,7 +532,7 @@ Phased-in effective dates.—The Secretary shall consider phased-in effective da
 
 &emsp;&emsp;&emsp;(II) the time needed to work with retailers and lighting designers to revise sales and marketing strategies.
 
-(7)(A) With respect to any lamp to which standards are applicable under this subsection or any lamp specified in section 6317 of this title, the Secretary shall inform any Federal entity proposing actions which would adversely impact the energy consumption or energy efficiency of such lamp of the energy conservationconsequences of such action. It shall be the responsibility of such Federal entity to carefully consider the Secretary's comments.
+(7)(A) With respect to any lamp to which standards are applicable under this subsection or any lamp specified in section 6317 of this title, the Secretary shall inform any Federal entity proposing actions which would adversely impact the energy consumption or energy efficiency of such lamp of the energy conservation consequences of such action. It shall be the responsibility of such Federal entity to carefully consider the Secretary's comments.
 
 (B) Notwithstanding subsection (n)(1) of this section, the Secretary shall not be prohibited from amending any standard, by rule, to permit increased energy use or to decrease the minimum required energy efficiency of any lamp to which standards are applicable under this subsection if such action is warranted as a result of other Federal action (including restrictions on materials or processes) which would have the effect of either increasing the energy use or decreasing the energy efficiency of such product.
 
@@ -576,7 +576,7 @@ Phased-in effective dates.—The Secretary shall consider phased-in effective da
 
 &emsp;(II) is applicable to any sale or installation of all products in such type or class of showerhead or faucet.
 
-(C) If, after any period of five consecutive years, the maximum flow rate requirements of the ASME/ANSI standard for showerheads are not amended to improve the efficiency of water use of such products, or after any such period such requirements for faucets are not amended to improve the efficiency of water use of such products, the Secretary shall, not later than six months after the end of such five-year period, publish a final rule waiving the provisions of section 6297(c) of this title with respect to any State regulation concerning the water use or water efficiency of such type or class of showerhead or faucet if such State regulation—
+(C) If, after any period of five consecutive years, the maximum flow rate requirements ofthe ASME/ANSI standard for showerheads are not amended to improve the efficiency of water use of such products, or after any such period such requirements for faucets are not amended to improve the efficiency of water use of such products, the Secretary shall, not later than six months after the end of such five-year period, publish a final rule waiving the provisions of section 6297(c) of this title with respect to any State regulation concerning the water use or water efficiency of such type or class of showerhead or faucet if such State regulation—
 
 &emsp;(i) is more stringent than the standards in effect for such type of class of showerhead or faucet; and
 
@@ -758,7 +758,7 @@ Backstop requirement.—If the Secretary fails to complete an accelerated rulema
 
 &emsp;(G) 2,601–3,300
 
-lumen general service incandescent lamps.—Effective beginning with the first year that the reported annual sales ratedemonstrates actual unit sales of 2,601–3,300 lumen general service incandescent lamps in the lumen range of 2,601 through 3,300 lumens (or, in the case of a modified spectrum, in the lumen range of 1,951 through 2,475 lumens) that achieve levels that are at least 100 percent higher than modeled unit sales for that same year, the Secretary shall impose—
+lumen general service incandescent lamps.—Effective beginning with the first year that the reported annual sales rate demonstrates actual unit sales of 2,601–3,300 lumen general service incandescent lamps in the lumen range of 2,601 through 3,300 lumens (or, in the case of a modified spectrum, in the lumen range of 1,951 through 2,475 lumens) that achieve levels that are at least 100 percent higher than modeled unit sales for that same year, the Secretary shall impose—
 
 &emsp;&emsp;(i) a maximum 95-watt limitation on general service incandescent lamps in the lumen range of 2,601 through 3,300 lumens; and
 
@@ -830,7 +830,7 @@ Backstop requirement.—If the Secretary imposes a backstop requirement as a res
 
 &emsp;&emsp;Except as provided in subparagraph (B), an amendment prescribed under this subsection shall apply to—
 
-&emsp;&emsp;&emsp;(i) with respect to refrigerators, refrigerator-freezers, freezers, room air conditioners, dishwashers, clothes washers, clothes dryers, fluorescent lamp ballasts, and kitchen ranges and ovens, such a product that is manufactured after the date that is 3 years after publication of the final rule establishing an applicable standard; and
+&emsp;&emsp;&emsp;(i) with respect to refrigerators, refrigerator-freezers, freezers, room air conditioners, dishwashers, clothes washers,clothes dryers, fluorescent lamp ballasts, and kitchen ranges and ovens, such a product that is manufactured after the date that is 3 years after publication of the final rule establishing an applicable standard; and
 
 &emsp;&emsp;&emsp;(ii) with respect to central air conditioners, heat pumps, water heaters, pool heaters, direct heating equipment, and furnaces, such a product that is manufactured after the date that is 5 years after publication of the final rule establishing an applicable standard.
 
@@ -842,7 +842,7 @@ Backstop requirement.—If the Secretary imposes a backstop requirement as a res
 
 &emsp;The Secretary shall promptly submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate—
 
-&emsp;&emsp;(A) a progress report every 180 days on compliance with this section, including aspecific plan to remedy any failures to comply with deadlines for action established under this section; and
+&emsp;&emsp;(A) a progress report every 180 days on compliance with this section, including a specific plan to remedy any failures to comply with deadlines for action established under this section; and
 
 &emsp;&emsp;(B) all required reports to the Court or to any party to the Consent Decree in State of New York v Bodman, Consolidated Civil Actions No. 05 Civ. 7807 and No. 05 Civ. 7808.
 
@@ -896,7 +896,7 @@ Backstop requirement.—If the Secretary imposes a backstop requirement as a res
 
 &emsp;(A) for products other than dishwashers, clothes washers, clothes dryers, and kitchen ranges and ovens, a test procedure has not been prescribed pursuant to section 6293 of this title with respect to that type (or class) of product; or
 
-&emsp;(B) the Secretary determines, by rule, that the establishment of such standard will not result in significant conservation of energy or,in the case of showerheads, faucets, water closets, or urinals, water, or that the establishment of such standard is not technologically feasible or economically justified.
+&emsp;(B) the Secretary determines, by rule, that the establishment of such standard will not result in significant conservation of energy or, in the case of showerheads, faucets, water closets, or urinals, water, or that the establishment of such standard is not technologically feasible or economically justified.
 
 > For purposes of section 6297 of this title, a determination under subparagraph (B) with respect to any type (or class) of covered products shall have the same effect as would a standard prescribed for such type (or class).
 
@@ -982,7 +982,7 @@ In general.—In any subsequent rulemaking for any product for which a regional 
 
 &emsp;&emsp;(ii)
 
-Regional standard no longer appropriate.—Except as provided in clause (iii), if the Secretary determines that regional standards are no longer appropriate for a product, beginning on the effective date of the amended standard for the product—
+Regional standard no longer appropriate.—Except as provided in clause (iii), if the Secretary determines that regional standards are no longer appropriate for aproduct, beginning on the effective date of the amended standard for the product—
 
 &emsp;&emsp;&emsp;(I) there shall be 1 base national standard for the product with Federal enforcement; and
 
@@ -1088,7 +1088,7 @@ Any new or amended energy conservation standard shall be prescribed in accordanc
 
 &emsp;&emsp;(D) whether such rule should prescribe a level of energy use or efficiency which is higher or lower than that which would otherwise apply in the case of any group of products within the type (or class) that will be subject to such standard.
 
-&emsp;(3) A final rule prescribing an amended or new energy conservation standard or prescribing no amended or new standard for a type (orclass) of covered products shall be published as soon as is practicable, but not less than 90 days, after publication of the proposed rule in the Federal Register.
+&emsp;(3) A final rule prescribing an amended or new energy conservation standard or prescribing no amended or new standard for a type (or class) of covered products shall be published as soon as is practicable, but not less than 90 days, after publication of the proposed rule in the Federal Register.
 
 &emsp;(4)
 
@@ -1250,7 +1250,7 @@ Final rule by july 1, 2011.—
 
 &emsp;&emsp;&emsp;(I)
 
-In general.—Not later than July 1, 2011, the Secretary shall publish a finalrule to determine whether the standards established under subparagraph (A) should be amended.
+In general.—Not later than July 1, 2011, the Secretary shall publish a final rule to determine whether the standards established under subparagraph (A) should be amended.
 
 &emsp;&emsp;&emsp;(II)
 
@@ -1497,7 +1497,7 @@ Mercury vapor lamp ballasts (other than specialty application mercury vapor lamp
 
 &emsp;&emsp;&emsp;&emsp;(II) offers 1 or more of the following user-oriented or protective functions:
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) To facilitate the activation or deactivation of other functions (including active mode) by remote switch\(including remote control), internal sensor, or timer.
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) To facilitate the activation or deactivation of other functions (including active mode) by remote switch (including remote control), internal sensor, or timer.
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) Continuous functions, including information or status displays (including clocks) or sensor-based functions.
 

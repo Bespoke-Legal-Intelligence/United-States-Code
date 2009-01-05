@@ -14,7 +14,7 @@ Except as otherwise provided in this subsection, the Equal Employment Opportunit
 
 &emsp;(3) provide for the acceptance and processing of complaints of discrimination in Federal employment on account of age.
 
-> The head of each such department, agency, or unit shall comply with such rules, regulations, orders, and instructions of the Equal Employment Opportunity Commission which shall include a provision that an employee or applicant for employment shall be notified of any final action taken on any complaint of discrimination filed by him thereunder. Reasonable exemptions to the provisions of this section may be established by the Commission but only when the Commission has established a maximum age requirement on the basis of a determination that age is a bona fide occupational qualification necessary to the performance of the duties of the position. With respect to employment in the Library of Congress, authorities granted in this subsection to the Equal Employment Opportunity Commission shall be exercised by the Librarian of Congress.
+> The head of each such department, agency, or unit shall comply with such rules, regulations, orders, and instructions of the Equal Employment Opportunity Commission which shall include a provision that an employee or applicant for employment shall be notified of any final action taken on any complaint of discrimination filed by him thereunder. Reasonable exemptions to the provisions of this section may be established by the Commission but only when the Commission has established a maximum age requirement on the basis of a determination that age is a bona fide occupational qualification necessary to the performance of the duties of the position. With respect to employment in the Library of Congress, authorities granted in thissubsection to the Equal Employment Opportunity Commission shall be exercised by the Librarian of Congress.
 
 #### (c) Civil actions; jurisdiction; relief
 
@@ -76,5 +76,5 @@ Section effective May 1, 1974, see section 29(a) of Pub. L. 93–259, set out as
 
 #### Transfer of Functions
 
-“Equal Employment Opportunity Commission” substituted for “Civil Service Commission” in subsecs. (b) and (g) pursuant to Reorg. Plan No. 1 of 1978, §2, 43 F.R.19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, which transferred all functions vested by this section in Civil Service Commission to Equal Employment Opportunity Commission, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
+“Equal Employment Opportunity Commission” substituted for “Civil Service Commission” in subsecs. (b) and (g) pursuant to Reorg. Plan No. 1 of 1978, §2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, which transferred all functions vested by this section in Civil Service Commission to Equal Employment Opportunity Commission, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
 

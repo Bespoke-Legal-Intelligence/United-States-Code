@@ -6,7 +6,7 @@ Civil Actions.—
 
 &emsp;(1)
 
-Civil actions to enforce this chapter.—At the request of the Secretary of Transportation, the Attorney General may bring a civil action in an appropriate district court of the United States to enforce this chapter, including section 60112, or a regulation prescribed or order issued under this chapter. The court may award appropriate relief, including a temporary or permanent injunction, punitivedamages, and assessment of civil penalties, considering the same factors as prescribed for the Secretary in an administrative case under section 60122.
+Civil actions to enforce this chapter.—At the request of the Secretary of Transportation, the Attorney General may bring a civil action in an appropriate district court of the United States to enforce this chapter, including section 60112, or a regulation prescribed or order issued under this chapter. The court may award appropriate relief, including a temporary or permanent injunction, punitive damages, and assessment of civil penalties, considering the same factors as prescribed for the Secretary in an administrative case under section 60122.
 
 &emsp;(2)
 
